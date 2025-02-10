@@ -1,0 +1,1882 @@
+[
+  {
+    "Type": -1,
+    "CodeSeason": 1,
+    "KnownSeason": "1 Alpha",
+    "PrizeCar": "-",
+    "MilestoneCar": "-",
+    "PrestigeCar": "-"
+  },
+  {
+    "Type": -1,
+    "CodeSeason": 2,
+    "KnownSeason": "2 Alpha",
+    "PrizeCar": "-",
+    "MilestoneCar": "-",
+    "PrestigeCar": "-"
+  },
+  {
+    "Type": -1,
+    "CodeSeason": 3,
+    "KnownSeason": "3 Alpha",
+    "PrizeCar": "-",
+    "MilestoneCar": "-",
+    "PrestigeCar": "-"
+  },
+  {
+    "Type": -1,
+    "CodeSeason": 4,
+    "KnownSeason": "4 Alpha",
+    "PrizeCar": "-",
+    "MilestoneCar": "-",
+    "PrestigeCar": "-"
+  },
+  {
+    "Type": -1,
+    "CodeSeason": 5,
+    "KnownSeason": "5 Alpha",
+    "PrizeCar": "MercedesBenz_A45AMG_2014",
+    "MilestoneCar": "-",
+    "PrestigeCar": "?"
+  },
+  {
+    "Type": 0,
+    "CodeSeason": 6,
+    "KnownSeason": "1 Beta",
+    "PrizeCar": "Bentley_ContinentalGT3RReward_2015",
+    "MilestoneCar": "-",
+    "PrestigeCar": "?"
+  },
+  {
+    "Type": 0,
+    "CodeSeason": 7,
+    "KnownSeason": "2 Beta",
+    "PrizeCar": "Chevrolet_CorvetteC7REditionReward_2015",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Volkswagen_SciroccoR_2015"
+  },
+  {
+    "Type": 0,
+    "CodeSeason": 8,
+    "KnownSeason": "3 Beta",
+    "PrizeCar": "Ferrari_California30Reward_2012",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Jaguar_FTypeRCoupe_2016"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 9,
+    "KnownSeason": 1,
+    "PrizeCar": "Dodge_ChallengerSRTHellcatReward_2015",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Ford_FocusRS_2017"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 10,
+    "KnownSeason": 2,
+    "PrizeCar": "WMotors_LykanHyperSportReward_2015",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Audi_R8V10PlusCoupe_2014"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 11,
+    "KnownSeason": 3,
+    "PrizeCar": "Lamborghini_HuracanLP6104Reward_2014",
+    "MilestoneCar": "-",
+    "PrestigeCar": "BMW_M4Coupe_2014"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 12,
+    "KnownSeason": 4,
+    "PrizeCar": "Dodge_ViperACRReward_2016",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Lotus_ExigeS_2014"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 13,
+    "KnownSeason": 5,
+    "PrizeCar": "Bugatti_ChironReward_2016",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Chevrolet_CorvetteStingray_2015"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 14,
+    "KnownSeason": 6,
+    "PrizeCar": "Nissan_GTRReward_2015",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Audi_TTRSPlusCoupe_2014"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 15,
+    "KnownSeason": 7,
+    "PrizeCar": "Ferrari_F40Reward_1987",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Chevrolet_CamaroSS_2016"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 16,
+    "KnownSeason": 8,
+    "PrizeCar": "Koenigsegg_RegeraReward_2016",
+    "MilestoneCar": "-",
+    "PrestigeCar": "AlfaRomeo_4CSpider_2016"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 17,
+    "KnownSeason": 9,
+    "PrizeCar": "BMW_M3E92CoupeGTSReward_2011",
+    "MilestoneCar": "-",
+    "PrestigeCar": "MercedesBenz_C63AMGEdition507_2014"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 18,
+    "KnownSeason": 10,
+    "PrizeCar": "McLaren_675LTSpiderReward_2016",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Chevrolet_CamaroZ28_2015"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 19,
+    "KnownSeason": 11,
+    "PrizeCar": "Ford_GTReward_2017",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Bentley_ContinentalGTSpeed_2016"
+  },
+  {
+    "Type": 1,
+    "CodeSeason": 20,
+    "KnownSeason": 12,
+    "PrizeCar": "Ferrari_599GTOReward_2010",
+    "MilestoneCar": "-",
+    "PrestigeCar": "Lamborghini_AventadorLP7504Superveloce_2015"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 21,
+    "KnownSeason": 13,
+    "PrizeCar": "Ferrari_FXXKReward_2014",
+    "MilestoneCar": "Ferrari_FXXKRewardRecycled_2014",
+    "PrestigeCar": "Ferrari_California30RewardRecycled_2012"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 22,
+    "KnownSeason": 14,
+    "PrizeCar": "McLaren_P1GTRReward_2015",
+    "MilestoneCar": "McLaren_P1GTRRewardRecycled_2015",
+    "PrestigeCar": "McLaren_650S_2015"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 23,
+    "KnownSeason": 15,
+    "PrizeCar": "Hennessey_VenomGTSpyderReward_2016",
+    "MilestoneCar": "Hennessey_VenomGTSpyderRewardRecycled_2016",
+    "PrestigeCar": "Chevrolet_CorvetteC7REditionRewardRecycled_2015"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 24,
+    "KnownSeason": 16,
+    "PrizeCar": "Porsche_911TurboSReward_2016",
+    "MilestoneCar": "Porsche_911TurboSRewardRecycled_2016",
+    "PrestigeCar": "Porsche_718BoxsterS_2017"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 25,
+    "KnownSeason": 17,
+    "PrizeCar": "Porsche_918SpyderReward_2015",
+    "MilestoneCar": "Porsche_918SpyderRewardRecycled_2015",
+    "PrestigeCar": "Lamborghini_AventadorLP7004_2011"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 26,
+    "KnownSeason": 18,
+    "PrizeCar": "McLaren_LB650SReward_2015",
+    "MilestoneCar": "McLaren_LB650SRewardRecycled_2015",
+    "PrestigeCar": "WMotors_LykanHyperSportRewardRecycled_2015"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 27,
+    "KnownSeason": 19,
+    "PrizeCar": "Pagani_HuayraBCReward_2016",
+    "MilestoneCar": "Pagani_HuayraBCRewardRecycled_2016",
+    "PrestigeCar": "Nissan_GTRRewardRecycled_2015"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 28,
+    "KnownSeason": 20,
+    "PrizeCar": "McLaren_P14CoupeReward_2017",
+    "MilestoneCar": "McLaren_P14CoupeRewardRecycled_2017",
+    "PrestigeCar": "Dodge_ViperACRRewardRecycled_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 29,
+    "KnownSeason": 21,
+    "PrizeCar": "Ferrari_F12tdfReward_2016",
+    "MilestoneCar": "Ferrari_F12tdfRewardRecycled_2016",
+    "PrestigeCar": "McLaren_675LTSpiderRewardRecycled_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 30,
+    "KnownSeason": 22,
+    "PrizeCar": "Honda_NSXReward_2017",
+    "MilestoneCar": "Honda_NSXRewardRecycled_2017",
+    "PrestigeCar": "Ford_ShelbyGT350R_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 31,
+    "KnownSeason": 23,
+    "PrizeCar": "Pagani_HuayraRoadsterReward_2017",
+    "MilestoneCar": "Pagani_HuayraRoadsterRewardRecycled_2017",
+    "PrestigeCar": "BMW_M3E92CoupeGTSRewardRecycled_2011"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 32,
+    "KnownSeason": 24,
+    "PrizeCar": "AstonMartin_DB11Reward_2017",
+    "MilestoneCar": "AstonMartin_DB11RewardRecycled_2017",
+    "PrestigeCar": "MercedesBenz_SLSAMGBlackSeries_2013"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 33,
+    "KnownSeason": 25,
+    "PrizeCar": "Ferrari_812SuperfastReward_2018",
+    "MilestoneCar": "Ferrari_812SuperfastRewardRecycled_2018",
+    "PrestigeCar": "Dodge_ChallengerSRTHellcatRewardRecycled_2015"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 34,
+    "KnownSeason": 26,
+    "PrizeCar": "McLaren_Vorsteiner570VXReward_2016",
+    "MilestoneCar": "McLaren_Vorsteiner570VXRewardRecycled_2016",
+    "PrestigeCar": "Audi_LBRS5Coupe_2014"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 35,
+    "KnownSeason": 27,
+    "PrizeCar": "Porsche_911RReward_2017",
+    "MilestoneCar": "Porsche_911RRewardRecycled_2017",
+    "PrestigeCar": "Ford_GTRewardRecycled_2017"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 36,
+    "KnownSeason": 28,
+    "PrizeCar": "Audi_R8V10PlusCoupeReward_2016",
+    "MilestoneCar": "Audi_R8V10PlusCoupeRewardRecycled_2016",
+    "PrestigeCar": "Chevrolet_CamaroZ28_2015"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 37,
+    "KnownSeason": 29,
+    "PrizeCar": "Lamborghini_HuracanPerformanteReward_2018",
+    "MilestoneCar": "Lamborghini_HuracanPerformanteRewardRecycled_2018",
+    "PrestigeCar": "Ford_F150SVTRaptor_2014"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 38,
+    "KnownSeason": 30,
+    "PrizeCar": "Chevrolet_CamaroZL11LEReward_2018",
+    "MilestoneCar": "Chevrolet_CamaroZL11LERewardRecycled_2018",
+    "PrestigeCar": "Porsche_CaymanGT4_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 39,
+    "KnownSeason": 31,
+    "PrizeCar": "MercedesAMG_GTRReward_2017",
+    "MilestoneCar": "MercedesAMG_GTRRewardRecycled_2017",
+    "PrestigeCar": "Honda_NSXRewardRecycled_2017"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 40,
+    "KnownSeason": 32,
+    "PrizeCar": "Chevrolet_HSCustomsCamaroReward_2016",
+    "MilestoneCar": "Chevrolet_HSCustomsCamaroRewardRecycled_2016",
+    "PrestigeCar": "MercedesBenz_C63AMGCoupeBlackSeries_2014"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 41,
+    "KnownSeason": 33,
+    "PrizeCar": "Porsche_911GT3Reward_2018",
+    "MilestoneCar": "Porsche_911GT3RewardRecycled_2018",
+    "PrestigeCar": "Dodge_ViperACRExtremeAeroPackage_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 42,
+    "KnownSeason": 34,
+    "PrizeCar": "AstonMartin_VulcanReward_2016",
+    "MilestoneCar": "AstonMartin_VulcanRewardRecycled_2016",
+    "PrestigeCar": "Maserati_GhibliSQ4_2014"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 43,
+    "KnownSeason": 35,
+    "PrizeCar": "Mazda_RX7Reward_1993",
+    "MilestoneCar": "Mazda_RX7RewardRecycled_1993",
+    "PrestigeCar": "BMW_M4GTS_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 44,
+    "KnownSeason": 36,
+    "PrizeCar": "Chevrolet_C10Reward_2016",
+    "MilestoneCar": "Chevrolet_C10RewardRecycled_2016",
+    "PrestigeCar": "Nissan_SilviaS15RocketBunny_1999"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 45,
+    "KnownSeason": 37,
+    "PrizeCar": "AstonMartin_One77Reward_2010",
+    "MilestoneCar": "AstonMartin_One77RewardRecycled_2010",
+    "PrestigeCar": "Audi_R8V10PlusCoupeRewardRecycled_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 46,
+    "KnownSeason": 38,
+    "PrizeCar": "BAC_MonoReward_2017",
+    "MilestoneCar": "BAC_MonoRewardRecycled_2017",
+    "PrestigeCar": "BMW_ACSchnitzerM2Coupe_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 47,
+    "KnownSeason": 39,
+    "PrizeCar": "Lamborghini_LBAventadorLP7004Reward_2011",
+    "MilestoneCar": "Lamborghini_LBAventadorLP7004RewardRecycled_2011",
+    "PrestigeCar": "Chevrolet_CorvetteC7REditionRewardRecycled_2015"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 48,
+    "KnownSeason": 40,
+    "PrizeCar": "Plymouth_WeaverCustomsCudaTorcReward_2016",
+    "MilestoneCar": "Plymouth_WeaverCustomsCudaTorcRewardRecycled_2016",
+    "PrestigeCar": "McLaren_Vorsteiner570VXRewardRecycled_2016"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 49,
+    "KnownSeason": 41,
+    "PrizeCar": "BMW_i8Reward_2017",
+    "MilestoneCar": "BMW_i8RewardRecycled_2017",
+    "PrestigeCar": "Nissan_GTR_2017"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 50,
+    "KnownSeason": 42,
+    "PrizeCar": "Chevrolet_CorvetteZR1Reward_2018",
+    "MilestoneCar": "Chevrolet_CorvetteZR1RewardRecycled_2018",
+    "PrestigeCar": "Honda_CivicTypeR_2017"
+  },
+  {
+    "Type": 2,
+    "CodeSeason": 51,
+    "KnownSeason": 43,
+    "PrizeCar": "Jaguar_CX75PrototypeReward_2013",
+    "MilestoneCar": "Jaguar_CX75PrototypeRewardRecycled_2013",
+    "PrestigeCar": "Chevrolet_CamaroZL11LERewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 52,
+    "KnownSeason": 44,
+    "PrizeCar": "Honda_LBNSXReward_2017",
+    "MilestoneCar": "Honda_LBNSXRewardRecycled_2017",
+    "PrestigeCar": "Jeep_GrandCherokeeTrackhawk_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 53,
+    "KnownSeason": 45,
+    "PrizeCar": "WMotors_FenyrSupersportReward_2016",
+    "MilestoneCar": "WMotors_FenyrSupersportRewardRecycled_2016",
+    "PrestigeCar": "MercedesAMG_GTRRewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 54,
+    "KnownSeason": 46,
+    "PrizeCar": "Lamborghini_UrusReward_2018",
+    "MilestoneCar": "Lamborghini_UrusRewardRecycled_2018",
+    "PrestigeCar": "Ford_ShelbyGT350R_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 55,
+    "KnownSeason": 47,
+    "PrizeCar": "Audi_LBR8V10PlusCoupeReward_2014",
+    "MilestoneCar": "Audi_LBR8V10PlusCoupeRewardRecycled_2014",
+    "PrestigeCar": "Bentley_ContinentalGT3RRewardRecycled_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 56,
+    "KnownSeason": 48,
+    "PrizeCar": "AstonMartin_VantageV8Reward_2018",
+    "MilestoneCar": "AstonMartin_VantageV8RewardRecycled_2018",
+    "PrestigeCar": "BAC_MonoRewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 57,
+    "KnownSeason": 49,
+    "PrizeCar": "Koenigsegg_AgeraRSReward_2017",
+    "MilestoneCar": "Koenigsegg_AgeraRSRewardRecycled_2017",
+    "PrestigeCar": "BMW_M2Competition_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 58,
+    "KnownSeason": 50,
+    "PrizeCar": "Lamborghini_MurcielagoSVReward_2009",
+    "MilestoneCar": "Lamborghini_MurcielagoSVRewardRecycled_2009",
+    "PrestigeCar": "Ford_GTRewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 59,
+    "KnownSeason": 51,
+    "PrizeCar": "Porsche_911GT3RSReward_2018",
+    "MilestoneCar": "Porsche_911GT3RSRewardRecycled_2018",
+    "PrestigeCar": "Porsche_CaymanGT4_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 60,
+    "KnownSeason": 52,
+    "PrizeCar": "Ferrari_PortofinoReward_2018",
+    "MilestoneCar": "Ferrari_PortofinoRewardRecycled_2018",
+    "PrestigeCar": "Subaru_BRZRocketBunny_2013"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 61,
+    "KnownSeason": 53,
+    "PrizeCar": "Bentley_ContinentalGTReward_2018",
+    "MilestoneCar": "Bentley_ContinentalGTRewardRecycled_2018",
+    "PrestigeCar": "Ford_MustangGTHPE750Silver_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 62,
+    "KnownSeason": 54,
+    "PrizeCar": "KTM_XBowRReward_2011",
+    "MilestoneCar": "KTM_XBowRRewardRecycled_2011",
+    "PrestigeCar": "BMW_i8RewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 63,
+    "KnownSeason": 55,
+    "PrizeCar": "Lamborghini_HuracanLP6104Reward_2014",
+    "MilestoneCar": "Lamborghini_HuracanLP6104RewardRecycled_2014",
+    "PrestigeCar": "MercedesBenz_SLSAMGBlackSeries_2013"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 64,
+    "KnownSeason": 56,
+    "PrizeCar": "Jaguar_FTypeSVRCoupeReward_2019",
+    "MilestoneCar": "Jaguar_FTypeSVRCoupeRewardRecycled_2019",
+    "PrestigeCar": "Mazda_RX7RewardRecycled_1993"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 65,
+    "KnownSeason": 57,
+    "PrizeCar": "Zenvo_TS1GTReward_2018",
+    "MilestoneCar": "Zenvo_TS1GTRewardRecycled_2018",
+    "PrestigeCar": "Dodge_ChallengerSRTHellcatRewardRecycled_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 66,
+    "KnownSeason": 58,
+    "PrizeCar": "Ferrari_488PistaReward_2019",
+    "MilestoneCar": "Ferrari_488PistaRewardRecycled_2019",
+    "PrestigeCar": "MercedesBenz_LBC63AMGCoupeBlackSeries_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 67,
+    "KnownSeason": 59,
+    "PrizeCar": "Lamborghini_AventadorSVJReward_2019",
+    "MilestoneCar": "Lamborghini_AventadorSVJRewardRecycled_2019",
+    "PrestigeCar": "Nissan_GTRRewardRecycled_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 68,
+    "KnownSeason": 60,
+    "PrizeCar": "McLaren_Vorsteiner720SReward_2018",
+    "MilestoneCar": "McLaren_Vorsteiner720SRewardRecycled_2018",
+    "PrestigeCar": "Ferrari_599GTORewardRecycled_2010"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 69,
+    "KnownSeason": 61,
+    "PrizeCar": "Saleen_S1Reward_2018",
+    "MilestoneCar": "Saleen_S1RewardRecycled_2018",
+    "PrestigeCar": "Chevrolet_CamaroZ28ASC_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 70,
+    "KnownSeason": 62,
+    "PrizeCar": "Hennessey_CamaroExorcistReward_2017",
+    "MilestoneCar": "Hennessey_CamaroExorcistRewardRecycled_2017",
+    "PrestigeCar": "Honda_LBNSXRewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 71,
+    "KnownSeason": 63,
+    "PrizeCar": "Dodge_ChallengerSRTDemonReward_2018",
+    "MilestoneCar": "Dodge_ChallengerSRTDemonRewardRecycled_2018",
+    "PrestigeCar": "LocalMotor_RallyFighter_2013"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 72,
+    "KnownSeason": 64,
+    "PrizeCar": "Chevrolet_QuintinBrotherCamaroReward_1968",
+    "MilestoneCar": "Chevrolet_QuintinBrotherCamaroRewardRecycled_1968",
+    "PrestigeCar": "Volkswagen_RocketBunnyGolfGTI_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 73,
+    "KnownSeason": 65,
+    "PrizeCar": "Ferrari_GTC4LussoReward_2016",
+    "MilestoneCar": "Ferrari_GTC4LussoRewardRecycled_2016",
+    "PrestigeCar": "Audi_LBR8V10PlusCoupeRewardRecycled_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 74,
+    "KnownSeason": 66,
+    "PrizeCar": "Bentley_BentaygaReward_2018",
+    "MilestoneCar": "Bentley_BentaygaRewardRecycled_2018",
+    "PrestigeCar": "Lotus_ExigeLF1_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 75,
+    "KnownSeason": 67,
+    "PrizeCar": "McLaren_600LTReward_2019",
+    "MilestoneCar": "McLaren_600LTRewardRecycled_2019",
+    "PrestigeCar": "Nissan_SilviaS15RocketBunny_1999"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 76,
+    "KnownSeason": 68,
+    "PrizeCar": "AstonMartin_DBSSuperleggeraReward_2019",
+    "MilestoneCar": "AstonMartin_DBSSuperleggeraRewardRecycled_2019",
+    "PrestigeCar": "Maserati_GhibliSQ4_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 77,
+    "KnownSeason": 69,
+    "PrizeCar": "Nissan_GTRNismoNReward_2017",
+    "MilestoneCar": "Nissan_GTRNismoNRewardRecycled_2017",
+    "PrestigeCar": "BMW_M3E92CoupeGTSRewardRecycled_2011"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 78,
+    "KnownSeason": 70,
+    "PrizeCar": "Donkervoort_D8GTOReward_2015",
+    "MilestoneCar": "Donkervoort_D8GTORewardRecycled_2015",
+    "PrestigeCar": "MercedesBenz_LBC63AMGCoupeBlackSeries_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 79,
+    "KnownSeason": 71,
+    "PrizeCar": "Ferrari_488PistaSpiderReward_2019",
+    "MilestoneCar": "Ferrari_488PistaSpiderRewardRecycled_2019",
+    "PrestigeCar": "Audi_LBRS5Coupe_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 80,
+    "KnownSeason": 72,
+    "PrizeCar": "SCG_SCG004CReward_2019",
+    "MilestoneCar": "SCG_SCG004CRewardRecycled_2019",
+    "PrestigeCar": "Ferrari_California30RewardRecycled_2012"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 81,
+    "KnownSeason": 73,
+    "PrizeCar": "Porsche_911Carrera4SCabrioletReward_2020",
+    "MilestoneCar": "Porsche_911Carrera4SCabrioletRewardRecycled_2020",
+    "PrestigeCar": "Honda_CivicTypeRVaris_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 82,
+    "KnownSeason": 74,
+    "PrizeCar": "Ford_MustangShelbyGT500Reward_2019",
+    "MilestoneCar": "Ford_MustangShelbyGT500RewardRecycled_2019",
+    "PrestigeCar": "AlfaRomeo_GiuliaQuadrifoglio_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 83,
+    "KnownSeason": 75,
+    "PrizeCar": "BMW_M5CompetitionReward_2019",
+    "MilestoneCar": "BMW_M5CompetitionRewardRecycled_2019",
+    "PrestigeCar": "Porsche_VorsteinerGT4VCS_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 84,
+    "KnownSeason": 76,
+    "PrizeCar": "Porsche_RWB993Reward_1993",
+    "MilestoneCar": "Porsche_RWB993RewardRecycled_1993",
+    "PrestigeCar": "Audi_R8V10PlusCoupeRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 85,
+    "KnownSeason": 77,
+    "PrizeCar": "Maserati_GranTurismoMCReward_2018",
+    "MilestoneCar": "Maserati_GranTurismoMCRewardRecycled_2018",
+    "PrestigeCar": "BMW_ACSchnitzerM2Coupe_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 86,
+    "KnownSeason": 78,
+    "PrizeCar": "Spyker_C8PreliatorReward_2017",
+    "MilestoneCar": "Spyker_C8PreliatorRewardRecycled_2017",
+    "PrestigeCar": "Lamborghini_UrusRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 87,
+    "KnownSeason": 79,
+    "PrizeCar": "Cadillac_CTSVReward_2017",
+    "MilestoneCar": "Cadillac_CTSVRewardRecycled_2017",
+    "PrestigeCar": "Jeep_GrandCherokeeTrackhawk_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 88,
+    "KnownSeason": 80,
+    "PrizeCar": "Shelby_SuperSnakeReward_2019",
+    "MilestoneCar": "Shelby_SuperSnakeRewardRecycled_2019",
+    "PrestigeCar": "Alpine_A110_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 89,
+    "KnownSeason": 81,
+    "PrizeCar": "Chevrolet_COPOCamaroReward_2019",
+    "MilestoneCar": "Chevrolet_COPOCamaroRewardRecycled_2019",
+    "PrestigeCar": "Saleen_S1RewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 90,
+    "KnownSeason": 82,
+    "PrizeCar": "Ferrari_F12tdfReward_2016",
+    "MilestoneCar": "Ferrari_F12tdfRewardRecycled_2016",
+    "PrestigeCar": "Hyundai_VelosterTurboRSpecARK_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 91,
+    "KnownSeason": 83,
+    "PrizeCar": "AstonMartin_VanquishZagatoReward_2017",
+    "MilestoneCar": "AstonMartin_VanquishZagatoRewardRecycled_2017",
+    "PrestigeCar": "BMW_Z4_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 92,
+    "KnownSeason": 84,
+    "PrizeCar": "Porsche_911SpeedsterReward_2020",
+    "MilestoneCar": "Porsche_911SpeedsterRewardRecycled_2020",
+    "PrestigeCar": "KTM_XBowRRewardRecycled_2011"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 93,
+    "KnownSeason": 85,
+    "PrizeCar": "Porsche_918SpyderReward_2015",
+    "MilestoneCar": "Porsche_918SpyderRewardRecycled_2015",
+    "PrestigeCar": "Lamborghini_MurcielagoSVRewardRecycled_2009"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 94,
+    "KnownSeason": 86,
+    "PrizeCar": "Ferrari_F8TributoReward_2020",
+    "MilestoneCar": "Ferrari_F8TributoRewardRecycled_2020",
+    "PrestigeCar": "Ford_ROUSHStage3Mustang_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 95,
+    "KnownSeason": 87,
+    "PrizeCar": "ATSAutomobili_GTReward_2018",
+    "MilestoneCar": "ATSAutomobili_GTRewardRecycled_2018",
+    "PrestigeCar": "Donkervoort_D8GTORewardRecycled_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 96,
+    "KnownSeason": 88,
+    "PrizeCar": "Jaguar_XESVProject8Reward_2018",
+    "MilestoneCar": "Jaguar_XESVProject8RewardRecycled_2018",
+    "PrestigeCar": "Bentley_BentaygaRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 97,
+    "KnownSeason": 89,
+    "PrizeCar": "BMW_M8Reward_2020",
+    "MilestoneCar": "BMW_M8RewardRecycled_2020",
+    "PrestigeCar": "Porsche_718BoxsterSpyder_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 98,
+    "KnownSeason": 90,
+    "PrizeCar": "McLaren_720SSpiderReward_2019",
+    "MilestoneCar": "McLaren_720SSpiderRewardRecycled_2019",
+    "PrestigeCar": "Jaguar_FTypeSVRCoupeRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 99,
+    "KnownSeason": 91,
+    "PrizeCar": "Lotus_EvoraGT430Reward_2018",
+    "MilestoneCar": "Lotus_EvoraGT430RewardRecycled_2018",
+    "PrestigeCar": "Cadillac_CTSVRewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 100,
+    "KnownSeason": 92,
+    "PrizeCar": "Chevrolet_CorvetteC8Reward_2020",
+    "MilestoneCar": "Chevrolet_CorvetteC8RewardRecycled_2020",
+    "PrestigeCar": "AstonMartin_VantageV8RewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 101,
+    "KnownSeason": 93,
+    "PrizeCar": "VUHL_05RRReward_2019",
+    "MilestoneCar": "VUHL_05RRRewardRecycled_2019",
+    "PrestigeCar": "Ferrari_PortofinoRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 102,
+    "KnownSeason": 94,
+    "PrizeCar": "Bentley_ContinentalGTConvertibleReward_2019",
+    "MilestoneCar": "Bentley_ContinentalGTConvertibleRewardRecycled_2019",
+    "PrestigeCar": "Porsche_911Carrera4SCabrioletRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 103,
+    "KnownSeason": 95,
+    "PrizeCar": "Nissan_JukeR20ConceptReward_2015",
+    "MilestoneCar": "Nissan_JukeR20ConceptRewardRecycled_2015",
+    "PrestigeCar": "BMW_M5CompetitionRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 104,
+    "KnownSeason": 96,
+    "PrizeCar": "BMW_LBi8Reward_2017",
+    "MilestoneCar": "BMW_LBi8RewardRecycled_2017",
+    "PrestigeCar": "Maserati_GranTurismoMCRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 105,
+    "KnownSeason": 97,
+    "PrizeCar": "Infiniti_Q60ProjectBlackSReward_2018",
+    "MilestoneCar": "Infiniti_Q60ProjectBlackSRewardRecycled_2018",
+    "PrestigeCar": "Honda_CivicTypeRVaris_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 106,
+    "KnownSeason": 98,
+    "PrizeCar": "Lamborghini_HuracanEvoSpyderReward_2019",
+    "MilestoneCar": "Lamborghini_HuracanEvoSpyderRewardRecycled_2019",
+    "PrestigeCar": "Nissan_GTRNismoNRewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 107,
+    "KnownSeason": 99,
+    "PrizeCar": "Honda_AIMGAINGTNSXReward_2017",
+    "MilestoneCar": "Honda_AIMGAINGTNSXRewardRecycled_2017",
+    "PrestigeCar": "Mini_CooperJCWGP_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 108,
+    "KnownSeason": 100,
+    "PrizeCar": "Ferrari_MonzaReward_2019",
+    "MilestoneCar": "Ferrari_MonzaRewardRecycled_2019",
+    "PrestigeCar": "Kia_StingerGTS_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 109,
+    "KnownSeason": 101,
+    "PrizeCar": "TVR_GriffithReward_2019",
+    "MilestoneCar": "TVR_GriffithRewardRecycled_2019",
+    "PrestigeCar": "Toyota_GRSupra_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 110,
+    "KnownSeason": 102,
+    "PrizeCar": "Lamborghini_LBSilhouetteHuracanReward_2014",
+    "MilestoneCar": "Lamborghini_LBSilhouetteHuracanRewardRecycled_2014",
+    "PrestigeCar": "Bentley_ContinentalGTRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 111,
+    "KnownSeason": 103,
+    "PrizeCar": "AstonMartin_DBXReward_2019",
+    "MilestoneCar": "AstonMartin_DBXRewardRecycled_2019",
+    "PrestigeCar": "Maserati_LBGranTurismoS_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 112,
+    "KnownSeason": 104,
+    "PrizeCar": "McLaren_600LTSpiderReward_2020",
+    "MilestoneCar": "McLaren_600LTSpiderRewardRecycled_2020",
+    "PrestigeCar": "BMW_i8RewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 113,
+    "KnownSeason": 105,
+    "PrizeCar": "BMW_VarisM4GTSReward_2016",
+    "MilestoneCar": "BMW_VarisM4GTSRewardRecycled_2016",
+    "PrestigeCar": "Lotus_EvoraGT430RewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 114,
+    "KnownSeason": 106,
+    "PrizeCar": "Audi_RS6AvantReward_2020",
+    "MilestoneCar": "Audi_RS6AvantRewardRecycled_2020",
+    "PrestigeCar": "Mazda_PandeMMX5_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 115,
+    "KnownSeason": 107,
+    "PrizeCar": "McLaren_GTReward_2020",
+    "MilestoneCar": "McLaren_GTRewardRecycled_2020",
+    "PrestigeCar": "Nissan_JukeR20ConceptRewardRecycled_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 116,
+    "KnownSeason": 108,
+    "PrizeCar": "AlfaRomeo_8CSpiderReward_2009",
+    "MilestoneCar": "AlfaRomeo_8CSpiderRewardRecycled_2009",
+    "PrestigeCar": "Chevrolet_CamaroZ28_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 117,
+    "KnownSeason": 109,
+    "PrizeCar": "Nissan_GTR50Reward_2020",
+    "MilestoneCar": "Nissan_GTR50RewardRecycled_2020",
+    "PrestigeCar": "Jaguar_XESVProject8RewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 118,
+    "KnownSeason": 110,
+    "PrizeCar": "Porsche_911TurboSReward_2021",
+    "MilestoneCar": "Porsche_911TurboSRewardRecycled_2021",
+    "PrestigeCar": "BMW_ACSchnitzerZ4_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 119,
+    "KnownSeason": 111,
+    "PrizeCar": "Lamborghini_LBMurcielagoSVReward_2009",
+    "MilestoneCar": "Lamborghini_LBMurcielagoSVRewardRecycled_2009",
+    "PrestigeCar": "Porsche_718BoxsterSpyder_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 120,
+    "KnownSeason": 112,
+    "PrizeCar": "MercedesAMG_GTBlackSeriesReward_2020",
+    "MilestoneCar": "MercedesAMG_GTBlackSeriesRewardRecycled_2020",
+    "PrestigeCar": "Infiniti_Q60ProjectBlackSRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 121,
+    "KnownSeason": 113,
+    "PrizeCar": "Bentley_MullinerBacalarReward_2021",
+    "MilestoneCar": "Bentley_MullinerBacalarRewardRecycled_2021",
+    "PrestigeCar": "Audi_LBR8V10PlusCoupeRewardRecycled_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 122,
+    "KnownSeason": 114,
+    "PrizeCar": "AstonMartin_VantageRoadsterReward_2021",
+    "MilestoneCar": "AstonMartin_VantageRoadsterRewardRecycled_2021",
+    "PrestigeCar": "Ford_MustangMach1_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 123,
+    "KnownSeason": 115,
+    "PrizeCar": "Italdesign_ZerounoReward_2017",
+    "MilestoneCar": "Italdesign_ZerounoRewardRecycled_2017",
+    "PrestigeCar": "BMW_M3E92CoupeGTSRewardRecycled_2011"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 124,
+    "KnownSeason": 116,
+    "PrizeCar": "Lamborghini_AventadorSVJRoadsterReward_2020",
+    "MilestoneCar": "Lamborghini_AventadorSVJRoadsterRewardRecycled_2020",
+    "PrestigeCar": "TVR_GriffithRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 125,
+    "KnownSeason": 117,
+    "PrizeCar": "Audi_NEWINGR8RSRReward_2016",
+    "MilestoneCar": "Audi_NEWINGR8RSRRewardRecycled_2016",
+    "PrestigeCar": "Bentley_ContinentalGTConvertibleRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 126,
+    "KnownSeason": 118,
+    "PrizeCar": "BMW_M4CoupeReward_2021",
+    "MilestoneCar": "BMW_M4CoupeRewardRecycled_2021",
+    "PrestigeCar": "Alpine_A110_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 127,
+    "KnownSeason": 119,
+    "PrizeCar": "Ferrari_F8SpiderReward_2020",
+    "MilestoneCar": "Ferrari_F8SpiderRewardRecycled_2020",
+    "PrestigeCar": "AstonMartin_DBXRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 128,
+    "KnownSeason": 120,
+    "PrizeCar": "Ultima_EVOCoupeReward_2016",
+    "MilestoneCar": "Ultima_EVOCoupeRewardRecycled_2016",
+    "PrestigeCar": "Porsche_718CaymanGT4_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 129,
+    "KnownSeason": 121,
+    "PrizeCar": "AlfaRomeo_GiuliaGTAmReward_2021",
+    "MilestoneCar": "AlfaRomeo_GiuliaGTAmRewardRecycled_2021",
+    "PrestigeCar": "BMW_VarisM4GTSRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 130,
+    "KnownSeason": 122,
+    "PrizeCar": "TVR_SagarisReward_2006",
+    "MilestoneCar": "TVR_SagarisRewardRecycled_2006",
+    "PrestigeCar": "Porsche_911GT3RSRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 131,
+    "KnownSeason": 123,
+    "PrizeCar": "Brabham_BT62RReward_2020",
+    "MilestoneCar": "Brabham_BT62RRewardRecycled_2020",
+    "PrestigeCar": "Audi_RS6AvantRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 132,
+    "KnownSeason": 124,
+    "PrizeCar": "Noble_M600Reward_2017",
+    "MilestoneCar": "Noble_M600RewardRecycled_2017",
+    "PrestigeCar": "AlfaRomeo_8CSpiderRewardRecycled_2009"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 133,
+    "KnownSeason": 125,
+    "PrizeCar": "Shelby_SuperSnakeReward_2019",
+    "MilestoneCar": "Shelby_SuperSnakeRewardRecycled_2019",
+    "PrestigeCar": "AstonMartin_VantageRoadsterRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 134,
+    "KnownSeason": 126,
+    "PrizeCar": "Pagani_HuayraRoadsterReward_2017",
+    "MilestoneCar": "Pagani_HuayraRoadsterRewardRecycled_2017",
+    "PrestigeCar": "McLaren_GTRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 135,
+    "KnownSeason": 127,
+    "PrizeCar": "Chevrolet_RBCorvetteC8StingrayReward_2020",
+    "MilestoneCar": "Chevrolet_RBCorvetteC8StingrayRewardRecycled_2020",
+    "PrestigeCar": "Nissan_ProtoZ_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 136,
+    "KnownSeason": 128,
+    "PrizeCar": "Porsche_911Targa4SReward_2021",
+    "MilestoneCar": "Porsche_911Targa4SRewardRecycled_2021",
+    "PrestigeCar": "BMW_M4CoupeRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 137,
+    "KnownSeason": 129,
+    "PrizeCar": "Arrinera_HussaryaReward_2020",
+    "MilestoneCar": "Arrinera_HussaryaRewardRecycled_2020",
+    "PrestigeCar": "Ford_MustangGTHPE750Silver_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 138,
+    "KnownSeason": 130,
+    "PrizeCar": "Porsche_PanameraSportTurismoReward_2021",
+    "MilestoneCar": "Porsche_PanameraSportTurismoRewardRecycled_2021",
+    "PrestigeCar": "AlfaRomeo_GiuliaGTAmRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 139,
+    "KnownSeason": 131,
+    "PrizeCar": "Ferrari_RomaReward_2020",
+    "MilestoneCar": "Ferrari_RomaRewardRecycled_2020",
+    "PrestigeCar": "Ford_GT_2005"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 140,
+    "KnownSeason": 132,
+    "PrizeCar": "Toyota_LBGRSupraReward_2020",
+    "MilestoneCar": "Toyota_LBGRSupraRewardRecycled_2020",
+    "PrestigeCar": "BMW_LBi8RewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 141,
+    "KnownSeason": 133,
+    "PrizeCar": "McLaren_ArturaReward_2022",
+    "MilestoneCar": "McLaren_ArturaRewardRecycled_2022",
+    "PrestigeCar": "Porsche_911TurboSRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 142,
+    "KnownSeason": 134,
+    "PrizeCar": "MercedesAMG_S63CoupeReward_2020",
+    "MilestoneCar": "MercedesAMG_S63CoupeRewardRecycled_2020",
+    "PrestigeCar": "AstonMartin_One77RewardRecycled_2010"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 143,
+    "KnownSeason": 135,
+    "PrizeCar": "Audi_ABTRS6RReward_2020",
+    "MilestoneCar": "Audi_ABTRS6RRewardRecycled_2020",
+    "PrestigeCar": "Dodge_ViperACRRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 144,
+    "KnownSeason": 136,
+    "PrizeCar": "Lotus_Type131Reward_2022",
+    "MilestoneCar": "Lotus_Type131RewardRecycled_2022",
+    "PrestigeCar": "BMW_ACSchnitzerZ4_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 145,
+    "KnownSeason": 137,
+    "PrizeCar": "Lamborghini_AventadorSJReward_2021",
+    "MilestoneCar": "Lamborghini_AventadorSJRewardRecycled_2021",
+    "PrestigeCar": "McLaren_P14CoupeRewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 146,
+    "KnownSeason": 138,
+    "PrizeCar": "Audi_R8SpyderReward_2020",
+    "MilestoneCar": "Audi_R8SpyderRewardRecycled_2020",
+    "PrestigeCar": "TVR_SagarisRewardRecycled_2006"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 147,
+    "KnownSeason": 139,
+    "PrizeCar": "MercedesAMG_G63SUVReward_2020",
+    "MilestoneCar": "MercedesAMG_G63SUVRewardRecycled_2020",
+    "PrestigeCar": "BMW_M4GTS_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 148,
+    "KnownSeason": 140,
+    "PrizeCar": "Audi_RS5CoupeReward_2020",
+    "MilestoneCar": "Audi_RS5CoupeRewardRecycled_2020",
+    "PrestigeCar": "Ford_MustangMach1_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 149,
+    "KnownSeason": 141,
+    "PrizeCar": "McLaren_765LTSpiderReward_2021",
+    "MilestoneCar": "McLaren_765LTSpiderRewardRecycled_2021",
+    "PrestigeCar": "Audi_NEWINGR8RSRRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 150,
+    "KnownSeason": 142,
+    "PrizeCar": "BMW_M5CSReward_2022",
+    "MilestoneCar": "BMW_M5CSRewardRecycled_2022",
+    "PrestigeCar": "Nissan_SkylineR33NismoSTune_1995"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 151,
+    "KnownSeason": 143,
+    "PrizeCar": "Dodge_ChargerHellcatRedeyeReward_2021",
+    "MilestoneCar": "Dodge_ChargerHellcatRedeyeRewardRecycled_2021",
+    "PrestigeCar": "BMW_M8RewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 152,
+    "KnownSeason": 144,
+    "PrizeCar": "Lamborghini_HuracanEvoReward_2019",
+    "MilestoneCar": "Lamborghini_HuracanEvoRewardRecycled_2019",
+    "PrestigeCar": "Chevrolet_RBCorvetteC8StingrayRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 153,
+    "KnownSeason": 145,
+    "PrizeCar": "AstonMartin_DBSVolanteReward_2020",
+    "MilestoneCar": "AstonMartin_DBSVolanteRewardRecycled_2020",
+    "PrestigeCar": "McLaren_ArturaRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 154,
+    "KnownSeason": 146,
+    "PrizeCar": "Jaguar_FTYPERConvertibleReward_2021",
+    "MilestoneCar": "Jaguar_FTYPERConvertibleRewardRecycled_2021",
+    "PrestigeCar": "Lotus_Type131RewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 155,
+    "KnownSeason": 147,
+    "PrizeCar": "Audi_RS7SportbackReward_2020",
+    "MilestoneCar": "Audi_RS7SportbackRewardRecycled_2020",
+    "PrestigeCar": "Porsche_911Targa4SRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 156,
+    "KnownSeason": 148,
+    "PrizeCar": "Porsche_TaycanTurboSReward_2021",
+    "MilestoneCar": "Porsche_TaycanTurboSRewardRecycled_2021",
+    "PrestigeCar": "Ferrari_RomaRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 157,
+    "KnownSeason": 149,
+    "PrizeCar": "Dodge_ChallengerSRTSuperStockReward_2021",
+    "MilestoneCar": "Dodge_ChallengerSRTSuperStockRewardRecycled_2021",
+    "PrestigeCar": "VUHL_05RRRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 158,
+    "KnownSeason": 150,
+    "PrizeCar": "Ferrari_812GTSReward_2020",
+    "MilestoneCar": "Ferrari_812GTSRewardRecycled_2020",
+    "PrestigeCar": "MercedesAMG_S63CoupeRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 159,
+    "KnownSeason": 151,
+    "PrizeCar": "Bentley_ContinentalGTSpeedReward_2021",
+    "MilestoneCar": "Bentley_ContinentalGTSpeedRewardRecycled_2021",
+    "PrestigeCar": "TVR_SagarisRewardRecycled_2006"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 160,
+    "KnownSeason": 152,
+    "PrizeCar": "Pagani_ZondaCinqueRoadsterReward_2010",
+    "MilestoneCar": "Pagani_ZondaCinqueRoadsterRewardRecycled_2010",
+    "PrestigeCar": "McLaren_Vorsteiner570VXRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 161,
+    "KnownSeason": 153,
+    "PrizeCar": "Porsche_DD911GTRSRReward_2017",
+    "MilestoneCar": "Porsche_DD911GTRSRRewardRecycled_2017",
+    "PrestigeCar": "MercedesAMG_G63SUVRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 162,
+    "KnownSeason": 154,
+    "PrizeCar": "Ferrari_SF90SpiderReward_2021",
+    "MilestoneCar": "Ferrari_SF90SpiderRewardRecycled_2021",
+    "PrestigeCar": "KTM_XBowRRewardRecycled_2011"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 163,
+    "KnownSeason": 155,
+    "PrizeCar": "Chevrolet_CorvetteZ06Reward_2023",
+    "MilestoneCar": "Chevrolet_CorvetteZ06RewardRecycled_2023",
+    "PrestigeCar": "WMotors_FenyrSupersportRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 164,
+    "KnownSeason": 156,
+    "PrizeCar": "Porsche_CayenneTurboGTReward_2022",
+    "MilestoneCar": "Porsche_CayenneTurboGTRewardRecycled_2022",
+    "PrestigeCar": "Nissan_JukeR20ConceptRewardRecycled_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 165,
+    "KnownSeason": 157,
+    "PrizeCar": "McLaren_SLR722EditionReward_2006",
+    "MilestoneCar": "McLaren_SLR722EditionRewardRecycled_2006",
+    "PrestigeCar": "Audi_R8SpyderRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 166,
+    "KnownSeason": 158,
+    "PrizeCar": "Nissan_240SXRocketBunnyBossReward_1995",
+    "MilestoneCar": "Nissan_240SXRocketBunnyBossRewardRecycled_1995",
+    "PrestigeCar": "Dodge_ChargerHellcatRedeyeRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 167,
+    "KnownSeason": 159,
+    "PrizeCar": "BMW_M8ConvertibleReward_2021",
+    "MilestoneCar": "BMW_M8ConvertibleRewardRecycled_2021",
+    "PrestigeCar": "Porsche_911SpeedsterRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 168,
+    "KnownSeason": 160,
+    "PrizeCar": "Audi_ABTRS7RReward_2020",
+    "MilestoneCar": "Audi_ABTRS7RRewardRecycled_2020",
+    "PrestigeCar": "BMW_M5CSRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 169,
+    "KnownSeason": 161,
+    "PrizeCar": "Lamborghini_HuracanTecnicaReward_2023",
+    "MilestoneCar": "Lamborghini_HuracanTecnicaRewardRecycled_2023",
+    "PrestigeCar": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 170,
+    "KnownSeason": 162,
+    "PrizeCar": "Cadillac_CT5VBlackwingReward_2022",
+    "MilestoneCar": "Cadillac_CT5VBlackwingRewardRecycled_2022",
+    "PrestigeCar": "BMW_i8RewardSilver_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 171,
+    "KnownSeason": 163,
+    "PrizeCar": "Honda_NSXLBWorksReward_1992",
+    "MilestoneCar": "Honda_NSXLBWorksRewardRecycled_1992",
+    "PrestigeCar": "MercedesBenz_LBC63AMGCoupeBlackSeries_2014"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 172,
+    "KnownSeason": 164,
+    "PrizeCar": "BMW_M3TouringReward_2022",
+    "MilestoneCar": "BMW_M3TouringRewardRecycled_2022",
+    "PrestigeCar": "Audi_RS5CoupeRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 173,
+    "KnownSeason": 165,
+    "PrizeCar": "Porsche_911RWBReward_1972",
+    "MilestoneCar": "Porsche_911RWBRewardRecycled_1972",
+    "PrestigeCar": "Nissan_GTRNismoNRewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 174,
+    "KnownSeason": 166,
+    "PrizeCar": "Audi_RSetronGTReward_2022",
+    "MilestoneCar": "Audi_RSetronGTRewardRecycled_2022",
+    "PrestigeCar": "McLaren_720SSpiderRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 175,
+    "KnownSeason": 167,
+    "PrizeCar": "BMW_M2CoupeG87Reward_2023",
+    "MilestoneCar": "BMW_M2CoupeG87RewardRecycled_2023",
+    "PrestigeCar": "Kia_StingerGTS_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 176,
+    "KnownSeason": 168,
+    "PrizeCar": "Noble_M600SpeedsterReward_2018",
+    "MilestoneCar": "Noble_M600SpeedsterRewardRecycled_2018",
+    "PrestigeCar": "Lamborghini_HuracanEvoRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 177,
+    "KnownSeason": 169,
+    "PrizeCar": "Mazda_KRCJapanRX8Reward_2004",
+    "MilestoneCar": "Mazda_KRCJapanRX8RewardRecycled_2004",
+    "PrestigeCar": "Audi_RS7SportbackRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 178,
+    "KnownSeason": 170,
+    "PrizeCar": "Lamborghini_CountachLPI8004Reward_2022",
+    "MilestoneCar": "Lamborghini_CountachLPI8004RewardRecycled_2022",
+    "PrestigeCar": "AstonMartin_DBSVolanteRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 179,
+    "KnownSeason": 171,
+    "PrizeCar": "Acura_NSXTypeSReward_2022",
+    "MilestoneCar": "Acura_NSXTypeSRewardRecycled_2022",
+    "PrestigeCar": "Porsche_CayenneTurboGTRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 180,
+    "KnownSeason": 172,
+    "PrizeCar": "Chevrolet_QuintinBrotherCamaroReward_1968",
+    "MilestoneCar": "Chevrolet_QuintinBrotherCamaroRewardRecycled_1968",
+    "PrestigeCar": "Cadillac_CT5VBlackwingRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 181,
+    "KnownSeason": 173,
+    "PrizeCar": "Mazda_KRCJapanRX8Reward_2004",
+    "MilestoneCar": "Mazda_KRCJapanRX8RewardRecycled_2004",
+    "PrestigeCar": "Audi_ABTRS6RRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 182,
+    "KnownSeason": 174,
+    "PrizeCar": "Pagani_ZondaCinqueCoupeReward_2009",
+    "MilestoneCar": "Pagani_ZondaCinqueCoupeRewardRecycled_2009",
+    "PrestigeCar": "Lamborghini_HuracanPerformanteSpyder_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 183,
+    "KnownSeason": 175,
+    "PrizeCar": "BMW_M4CSLReward_2022",
+    "MilestoneCar": "BMW_M4CSLRewardRecycled_2022",
+    "PrestigeCar": "Chevrolet_CorvetteC7REditionRewardRecycled_2015"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 184,
+    "KnownSeason": 176,
+    "PrizeCar": "Porsche_911GT3TouringReward_2022",
+    "MilestoneCar": "Porsche_911GT3TouringRewardRecycled_2022",
+    "PrestigeCar": "Honda_NSXLBWorksRewardRecycled_1992"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 185,
+    "KnownSeason": 177,
+    "PrizeCar": "Ford_MustangMachEGTReward_2021",
+    "MilestoneCar": "Ford_MustangMachEGTRewardRecycled_2021",
+    "PrestigeCar": "BMW_M3TouringRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 186,
+    "KnownSeason": 178,
+    "PrizeCar": "Nissan_PandeMGTRR33Reward_1995",
+    "MilestoneCar": "Nissan_PandeMGTRR33RewardRecycled_1995",
+    "PrestigeCar": "Porsche_911RWBRewardRecycled_1972"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 187,
+    "KnownSeason": 179,
+    "PrizeCar": "Jeep_GladiatorReward_2019",
+    "MilestoneCar": "Jeep_GladiatorRewardRecycled_2019",
+    "PrestigeCar": "MercedesBenz_SLSAMGBlackSeries_2013"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 188,
+    "KnownSeason": 180,
+    "PrizeCar": "Chevrolet_COPOCamaroReward_2019",
+    "MilestoneCar": "Chevrolet_COPOCamaroRewardRecycled_2019",
+    "PrestigeCar": "Noble_M600SpeedsterRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 189,
+    "KnownSeason": 181,
+    "PrizeCar": "Bentley_ContinentalGTCSpeedReward_2022",
+    "MilestoneCar": "Bentley_ContinentalGTCSpeedRewardRecycled_2022",
+    "PrestigeCar": "Audi_NEWINGR8RSRRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 190,
+    "KnownSeason": 182,
+    "PrizeCar": "Hyundai_ElantraNReward_2022",
+    "MilestoneCar": "Hyundai_ElantraNRewardRecycled_2022",
+    "PrestigeCar": "BMW_ACSchnitzerZ4_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 191,
+    "KnownSeason": 183,
+    "PrizeCar": "Ferrari_812CompetizioneReward_2021",
+    "MilestoneCar": "Ferrari_812CompetizioneRewardRecycled_2021",
+    "PrestigeCar": "Hennessey_VenomGTSpyderRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 192,
+    "KnownSeason": 184,
+    "PrizeCar": "Nissan_KRCJapanGTRR35Reward_2017",
+    "MilestoneCar": "Nissan_KRCJapanGTRR35RewardRecycled_2017",
+    "PrestigeCar": "Nissan_240SXRocketBunnyBossRewardRecycled_1995"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 193,
+    "KnownSeason": 185,
+    "PrizeCar": "Chevrolet_CorvetteZ06C8CReward_2023",
+    "MilestoneCar": "Chevrolet_CorvetteZ06C8CRewardRecycled_2023",
+    "PrestigeCar": "Dodge_ChallengerSRTSuperStockRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 194,
+    "KnownSeason": 186,
+    "PrizeCar": "AstonMartin_DBX707Reward_2023",
+    "MilestoneCar": "AstonMartin_DBX707RewardRecycled_2023",
+    "PrestigeCar": "Ford_MustangMachEGTRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 195,
+    "KnownSeason": 187,
+    "PrizeCar": "BMW_RBM3E92Reward_2011",
+    "MilestoneCar": "BMW_RBM3E92RewardRecycled_2011",
+    "PrestigeCar": "Audi_RS5CoupeRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 196,
+    "KnownSeason": 188,
+    "PrizeCar": "Hennessey_VenomF5RoadsterReward_2023",
+    "MilestoneCar": "Hennessey_VenomF5RoadsterRewardRecycled_2023",
+    "PrestigeCar": "Porsche_911GT3TouringRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 197,
+    "KnownSeason": 189,
+    "PrizeCar": "Hyundai_Ioniq5NReward_2023",
+    "MilestoneCar": "Hyundai_Ioniq5NRewardRecycled_2023",
+    "PrestigeCar": "BMW_M4CSLRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 198,
+    "KnownSeason": 190,
+    "PrizeCar": "Lamborghini_UrusPerformanteReward_2023",
+    "MilestoneCar": "Lamborghini_UrusPerformanteRewardRecycled_2023",
+    "PrestigeCar": "Jeep_GladiatorRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 199,
+    "KnownSeason": 191,
+    "PrizeCar": "Nissan_GTRNISMOReward_2024",
+    "MilestoneCar": "Nissan_GTRNISMORewardRecycled_2024",
+    "PrestigeCar": "McLaren_600LTRewardRecycled_2019"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 200,
+    "KnownSeason": 192,
+    "PrizeCar": "Ferrari_296GTSReward_2023",
+    "MilestoneCar": "Ferrari_296GTSRewardRecycled_2023",
+    "PrestigeCar": "Acura_NSXTypeSRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 201,
+    "KnownSeason": 193,
+    "PrizeCar": "Lamborghini_IVReward_2024",
+    "MilestoneCar": "Lamborghini_IVRewardRecycled_2024",
+    "PrestigeCar": "Porsche_PanameraSportTurismoRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 202,
+    "KnownSeason": 194,
+    "PrizeCar": "Porsche_718SpyderRSReward_2024",
+    "MilestoneCar": "Porsche_718SpyderRSRewardRecycled_2024",
+    "PrestigeCar": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 203,
+    "KnownSeason": 195,
+    "PrizeCar": "Lamborghini_RevueltoReward_2024",
+    "MilestoneCar": "Lamborghini_RevueltoRewardRecycled_2024",
+    "PrestigeCar": "Audi_RSetronGTRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 204,
+    "KnownSeason": 196,
+    "PrizeCar": "Pininfarina_BattistaReward_2022",
+    "MilestoneCar": "Pininfarina_BattistaRewardRecycled_2022",
+    "PrestigeCar": "McLaren_ArturaRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 205,
+    "KnownSeason": 197,
+    "PrizeCar": "Ferrari_PurosangueReward_2023",
+    "MilestoneCar": "Ferrari_PurosangueRewardRecycled_2023",
+    "PrestigeCar": "MercedesAMG_G63SUVRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 206,
+    "KnownSeason": 198,
+    "PrizeCar": "Maserati_MC20CieloReward_2023",
+    "MilestoneCar": "Maserati_MC20CieloRewardRecycled_2023",
+    "PrestigeCar": "Porsche_911SpeedsterRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 207,
+    "KnownSeason": 199,
+    "PrizeCar": "Lotus_EvijaReward_2020",
+    "MilestoneCar": "Lotus_EvijaRewardRecycled_2020",
+    "PrestigeCar": "Hennessey_VenomF5RoadsterRewardRecycled_2023"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 208,
+    "KnownSeason": 200,
+    "PrizeCar": "Audi_RS3SedanReward_2023",
+    "MilestoneCar": "Audi_RS3SedanRewardRecycled_2023",
+    "PrestigeCar": "Hyundai_ElantraNRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 209,
+    "KnownSeason": 201,
+    "PrizeCar": "Rimac_NeveraReward_2022",
+    "MilestoneCar": "Rimac_NeveraRewardrecycled_2022",
+    "PrestigeCar": "Jaguar_CX75PrototypeRewardRecycled_2013"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 210,
+    "KnownSeason": 202,
+    "PrizeCar": "Mitsubishi_VoltexEvoIXReward_2005",
+    "MilestoneCar": "Mitsubishi_VoltexEvoIXRewardRecycled_2005",
+    "PrestigeCar": "Cadillac_CT5VBlackwingRewardRecycled_2022"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 211,
+    "KnownSeason": 203,
+    "PrizeCar": "Audi_R8V10GTReward_2023",
+    "MilestoneCar": "Audi_R8V10GTRewardRecycled_2023",
+    "PrestigeCar": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 212,
+    "KnownSeason": 204,
+    "PrizeCar": "Pagani_C10Reward_2023",
+    "MilestoneCar": "Pagani_C10RewardRecycled_2023",
+    "PrestigeCar": "Chevrolet_CorvetteZ06C8CRewardRecycled_2023"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 213,
+    "KnownSeason": 205,
+    "PrizeCar": "Bentley_MullinerBaturReward_2023",
+    "MilestoneCar": "Bentley_MullinerBaturRewardRecycled_2023",
+    "PrestigeCar": "Lamborghini_UrusPerformanteRewardRecycled_2023"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 214,
+    "KnownSeason": 206,
+    "PrizeCar": "Nissan_ZNISMOReward_2024",
+    "MilestoneCar": "Nissan_ZNISMORewardRecycled_2024",
+    "PrestigeCar": "Infiniti_Q60ProjectBlackSRewardRecycled_2018"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 215,
+    "KnownSeason": 207,
+    "PrizeCar": "Bugatti_AtlanticConceptReward_2015",
+    "MilestoneCar": "Bugatti_AtlanticConceptRewardRecycled_2015",
+    "PrestigeCar": "Nissan_GTRNISMORewardRecycled_2024"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 216,
+    "KnownSeason": 208,
+    "PrizeCar": "Honda_CivicTypeRReward_2023",
+    "MilestoneCar": "Honda_CivicTypeRRewardRecycled_2023",
+    "PrestigeCar": "Audi_RS5CoupeRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 217,
+    "KnownSeason": 209,
+    "PrizeCar": "AstonMartin_DBS770UltimateReward_2023",
+    "MilestoneCar": "AstonMartin_DBS770UltimateRewardRecycled_2023",
+    "PrestigeCar": "Ultima_EVOCoupeRewardRecycled_2016"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 218,
+    "KnownSeason": 210,
+    "PrizeCar": "Lamborghini_UrusPHEVReward_2024",
+    "MilestoneCar": "Lamborghini_UrusPHEVRewardRecycled_2024",
+    "PrestigeCar": "Nissan_PandeMGTRR33RewardRecycled_1995"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 219,
+    "KnownSeason": 211,
+    "PrizeCar": "BMW_M5SedanReward_2024",
+    "MilestoneCar": "BMW_M5SedanRewardRecycled_2024",
+    "PrestigeCar": "MercedesAMG_S63CoupeRewardRecycled_2020"
+  },
+  {
+    "Type": 3,
+    "CodeSeason": 220,
+    "KnownSeason": 212,
+    "PrizeCar": "AstonMartin_DB12VolanteReward_2024",
+    "MilestoneCar": "AstonMartin_DB12VolanteRewardRecycled_2024",
+    "PrestigeCar": "Porsche_911GT3TouringRewardRecycled_2022"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 221,
+    "KnownSeason": 213,
+    "PrizeCar": "Porsche_TaycanTurboGTReward_2025",
+    "MilestoneCar": "Porsche_TaycanTurboGTRewardRecycled_2025",
+    "PrestigeCar": "BMW_M8ConvertibleRewardRecycled_2021"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 222,
+    "KnownSeason": 214,
+    "PrizeCar": "Zenvo_AuroraTurReward_2024",
+    "MilestoneCar": "Zenvo_AuroraTurRewardRecycled_2024",
+    "PrestigeCar": "Spyker_C8PreliatorRewardRecycled_2017"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 223,
+    "KnownSeason": 215,
+    "PrizeCar": "McLaren_ArturaSpiderReward_2024",
+    "MilestoneCar": "McLaren_ArturaSpiderRewardRecycled_2024",
+    "PrestigeCar": "Pagani_HuayraRoadsterRewardRecycled_2017"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 224,
+    "KnownSeason": 216,
+    "PrizeCar": "Lamborghini_LBCountachLPReward_1988",
+    "MilestoneCar": "Lamborghini_LBCountachLPRewardRecycled_1988",
+    "PrestigeCar": "Mitsubishi_VoltexEvoIXRewardRecycled_2005"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 225,
+    "KnownSeason": 217,
+    "PrizeCar": "Dodge_SRTDemon170Reward_2023",
+    "MilestoneCar": "Dodge_SRTDemon170RewardRecycled_2023",
+    "PrestigeCar": "Bentley_ContinentalGTSpeedRewardRecycled_2021"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 226,
+    "KnownSeason": 218,
+    "PrizeCar": "McLaren_ElvaWindscreenReward_2021",
+    "MilestoneCar": "McLaren_ElvaWindscreenRewardRecycled_2021",
+    "PrestigeCar": "Porsche_718SpyderRSRewardRecycled_2024"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 227,
+    "KnownSeason": 219,
+    "PrizeCar": "Lamborghini_HuracanSterratoReward_2021",
+    "MilestoneCar": "Lamborghini_HuracanSterratoRewardRecycled_2021",
+    "PrestigeCar": "BMW_M5SedanRewardRecycled_2024"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 228,
+    "KnownSeason": 220,
+    "PrizeCar": "Porsche_911DakarReward_2023",
+    "MilestoneCar": "Porsche_911DakarRewardRecycled_2023",
+    "PrestigeCar": "Lamborghini_UrusPHEVRewardRecycled_2024"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 229,
+    "KnownSeason": 221,
+    "PrizeCar": "Ferrari_12CilindriReward_2024",
+    "MilestoneCar": "Ferrari_12CilindriRewardRecycled_2024",
+    "PrestigeCar": "AstonMartin_DB12VolanteRewardRecycled_2024"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 230,
+    "KnownSeason": 222,
+    "PrizeCar": "AstonMartin_ValourReward_2024",
+    "MilestoneCar": "AstonMartin_ValourRewardRecycled_2024",
+    "PrestigeCar": "Lamborghini_HuracanTecnicaRewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 231,
+    "KnownSeason": 223,
+    "PrizeCar": "Radford_Type62Reward_2021",
+    "MilestoneCar": "Radford_Type62RewardRecycled_2021",
+    "PrestigeCar": "Honda_CivicTypeRRewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 232,
+    "KnownSeason": 224,
+    "PrizeCar": "Audi_RS6AvantGTReward_2024",
+    "MilestoneCar": "Audi_RS6AvantGTRewardRecycled_2024",
+    "PrestigeCar": "Lamborghini_LBCountachLPRewardRecycled_1988"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 233,
+    "KnownSeason": 225,
+    "PrizeCar": "Zenvo_TSRGTReward_2023",
+    "MilestoneCar": "Zenvo_TSRGTRewardRecycled_2023",
+    "PrestigeCar": "Bentley_MullinerBaturRewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 234,
+    "KnownSeason": 226,
+    "PrizeCar": "Porsche_RWB964Reward_1991",
+    "MilestoneCar": "Porsche_RWB964RewardRecycled_1991",
+    "PrestigeCar": "Maserati_LBGranTurismoS_2018"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 235,
+    "KnownSeason": 227,
+    "PrizeCar": "McLaren_750SReward_2023",
+    "MilestoneCar": "McLaren_750SRewardRecycled_2023",
+    "PrestigeCar": "AstonMartin_DBX707RewardRecycled_2023"
+  }
+]
