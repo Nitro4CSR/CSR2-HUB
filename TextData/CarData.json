@@ -1,6 +1,23 @@
 [
   {
-    "DBName": "#N/A",
+    "DBName": "Ford_GT40MkII_1966",
+    "Vision": "",
+    "SHIFT": "",
+    "Tier": "",
+    "WRAddon": "",
+    "WRDriver": "",
+    "WRBest": "",
+    "WRdyno": "",
+    "WRpp": "",
+    "WRevo": "",
+    "WRFD": "",
+    "WRNITRO": "",
+    "WRTIRE": "",
+    "Star": "",
+    "isEV": ""
+  },
+  {
+    "DBName": "Ford_GT40MkII_1966_EC",
     "Vision": "",
     "SHIFT": "",
     "Tier": "",
