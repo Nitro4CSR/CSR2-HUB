@@ -13,7 +13,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -30,7 +30,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -47,7 +47,7 @@
     "WRFD": "3.25",
     "WRNITRO": "193/4.3",
     "WRTIRE": "36/64",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -64,7 +64,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -81,7 +81,7 @@
     "WRFD": "3.05",
     "WRNITRO": "204/3.9",
     "WRTIRE": "20/80",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -98,7 +98,7 @@
     "WRFD": "2.84",
     "WRNITRO": "169/4.5",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -115,7 +115,7 @@
     "WRFD": "2.87",
     "WRNITRO": "176/4.2",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -132,7 +132,7 @@
     "WRFD": "4.34",
     "WRNITRO": "188/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -149,7 +149,7 @@
     "WRFD": "4.02",
     "WRNITRO": "220/3.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -166,7 +166,7 @@
     "WRFD": "4.80",
     "WRNITRO": "205/4.3",
     "WRTIRE": "55/45",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -183,7 +183,7 @@
     "WRFD": "3.77",
     "WRNITRO": "235/3.3",
     "WRTIRE": "55/45",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -200,7 +200,7 @@
     "WRFD": "4.13",
     "WRNITRO": "210/3.7",
     "WRTIRE": "26/74",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -217,7 +217,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -234,7 +234,7 @@
     "WRFD": "2.02",
     "WRNITRO": "212/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P",
     "isEV": ""
   },
   {
@@ -251,7 +251,7 @@
     "WRFD": "4.65",
     "WRNITRO": "209/3.7",
     "WRTIRE": "55/45",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -268,7 +268,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -285,7 +285,7 @@
     "WRFD": "3.00",
     "WRNITRO": "133/5.5",
     "WRTIRE": "55/45",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -302,7 +302,7 @@
     "WRFD": "4.10",
     "WRNITRO": "205/3.9",
     "WRTIRE": "50/50",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -319,7 +319,7 @@
     "WRFD": "3.15",
     "WRNITRO": "205/3.9",
     "WRTIRE": "21/79",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -336,7 +336,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -353,7 +353,7 @@
     "WRFD": "4.72",
     "WRNITRO": "228/3.5",
     "WRTIRE": "25/75",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -370,7 +370,7 @@
     "WRFD": "5.00",
     "WRNITRO": "245/3.0",
     "WRTIRE": "24/76",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -387,7 +387,7 @@
     "WRFD": "2.10",
     "WRNITRO": "353/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -404,7 +404,7 @@
     "WRFD": "2.01",
     "WRNITRO": "371/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -421,7 +421,7 @@
     "WRFD": "2.16",
     "WRNITRO": "303/6.7",
     "WRTIRE": "54/46",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -438,7 +438,7 @@
     "WRFD": "3.02",
     "WRNITRO": "363/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -455,7 +455,7 @@
     "WRFD": "4.54",
     "WRNITRO": "283/6.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -472,7 +472,7 @@
     "WRFD": "3.87",
     "WRNITRO": "347/5.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -489,7 +489,7 @@
     "WRFD": "4.83",
     "WRNITRO": "321/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -506,7 +506,7 @@
     "WRFD": "3.08",
     "WRNITRO": "276/6.4",
     "WRTIRE": "10/90",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -523,7 +523,7 @@
     "WRFD": "5.00",
     "WRNITRO": "190/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -540,7 +540,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -557,7 +557,7 @@
     "WRFD": "4.72",
     "WRNITRO": "230/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -574,7 +574,7 @@
     "WRFD": "4.47",
     "WRNITRO": "242/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -591,7 +591,7 @@
     "WRFD": "5.00",
     "WRNITRO": "332/6.4",
     "WRTIRE": "8/92",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -608,7 +608,7 @@
     "WRFD": "4.71",
     "WRNITRO": "353/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -625,7 +625,7 @@
     "WRFD": "3.16",
     "WRNITRO": "337/5.2",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -642,7 +642,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -659,7 +659,7 @@
     "WRFD": "2.60",
     "WRNITRO": "341/6.0",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -676,7 +676,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -693,7 +693,7 @@
     "WRFD": "4.70",
     "WRNITRO": "344/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -710,7 +710,7 @@
     "WRFD": "2.27",
     "WRNITRO": "339/6.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -727,7 +727,7 @@
     "WRFD": "2.27",
     "WRNITRO": "358/6.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -744,7 +744,7 @@
     "WRFD": "4.68",
     "WRNITRO": "334/6.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -761,7 +761,7 @@
     "WRFD": "5.00",
     "WRNITRO": "364/6.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -778,7 +778,7 @@
     "WRFD": "5.00",
     "WRNITRO": "336/6.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -795,7 +795,7 @@
     "WRFD": "3.40",
     "WRNITRO": "321/5.9",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -812,7 +812,7 @@
     "WRFD": "2.40",
     "WRNITRO": "185/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -829,7 +829,7 @@
     "WRFD": "4.58",
     "WRNITRO": "336/6.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -846,7 +846,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -863,7 +863,7 @@
     "WRFD": "2.00",
     "WRNITRO": "279/5.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -880,7 +880,7 @@
     "WRFD": "2.00",
     "WRNITRO": "335/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -897,7 +897,7 @@
     "WRFD": "3.87",
     "WRNITRO": "333/5.1",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -914,7 +914,7 @@
     "WRFD": "5.00",
     "WRNITRO": "266/6.2",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -931,7 +931,7 @@
     "WRFD": "5.00",
     "WRNITRO": "317/6.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -948,7 +948,7 @@
     "WRFD": "3.95",
     "WRNITRO": "238/4.2",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -965,7 +965,7 @@
     "WRFD": "2.28",
     "WRNITRO": "332/6.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -982,7 +982,7 @@
     "WRFD": "4.01",
     "WRNITRO": "324/5.8",
     "WRTIRE": "19/81",
-    "Star": "",
+    "Star": "G",
     "isEV": ""
   },
   {
@@ -999,7 +999,7 @@
     "WRFD": "3.94",
     "WRNITRO": "303/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1016,7 +1016,7 @@
     "WRFD": "3.36",
     "WRNITRO": "411/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1033,7 +1033,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1050,7 +1050,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1067,7 +1067,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1084,7 +1084,7 @@
     "WRFD": "2.00",
     "WRNITRO": "50/6.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1101,7 +1101,7 @@
     "WRFD": "2.00",
     "WRNITRO": "50/6.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1118,7 +1118,7 @@
     "WRFD": "3.45",
     "WRNITRO": "371/5.3",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -1135,7 +1135,7 @@
     "WRFD": "2.91",
     "WRNITRO": "419/5.6",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1152,7 +1152,7 @@
     "WRFD": "3.57",
     "WRNITRO": "423/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1169,7 +1169,7 @@
     "WRFD": "2.82",
     "WRNITRO": "185/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1186,7 +1186,7 @@
     "WRFD": "3.57",
     "WRNITRO": "395/5.9",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1203,7 +1203,7 @@
     "WRFD": "3.55",
     "WRNITRO": "417/5.9",
     "WRTIRE": "12/88",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1220,7 +1220,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1237,7 +1237,7 @@
     "WRFD": "3.82",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -1254,7 +1254,7 @@
     "WRFD": "3.78",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -1271,7 +1271,7 @@
     "WRFD": "3.29",
     "WRNITRO": "404/5.6",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1288,7 +1288,7 @@
     "WRFD": "3.31",
     "WRNITRO": "417/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1305,7 +1305,7 @@
     "WRFD": "4.99",
     "WRNITRO": "371/5.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -1322,7 +1322,7 @@
     "WRFD": "3.82",
     "WRNITRO": "366/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1339,7 +1339,7 @@
     "WRFD": "4.68",
     "WRNITRO": "404/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1356,7 +1356,7 @@
     "WRFD": "2.54",
     "WRNITRO": "338/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1373,7 +1373,7 @@
     "WRFD": "2.54",
     "WRNITRO": "354/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1390,7 +1390,7 @@
     "WRFD": "2.00",
     "WRNITRO": "186/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1407,7 +1407,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/5.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1424,7 +1424,7 @@
     "WRFD": "2.00",
     "WRNITRO": "210/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1441,7 +1441,7 @@
     "WRFD": "2.00",
     "WRNITRO": "150/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1458,7 +1458,7 @@
     "WRFD": "2.54",
     "WRNITRO": "338/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1475,7 +1475,7 @@
     "WRFD": "2.54",
     "WRNITRO": "354/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1492,7 +1492,7 @@
     "WRFD": "3.40",
     "WRNITRO": "371/5.3",
     "WRTIRE": "35/65",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -1509,7 +1509,7 @@
     "WRFD": "3.23",
     "WRNITRO": "413/5.7",
     "WRTIRE": "13/87",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1526,7 +1526,7 @@
     "WRFD": "2.59",
     "WRNITRO": "279/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -1543,7 +1543,7 @@
     "WRFD": "2.30",
     "WRNITRO": "305/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1560,7 +1560,7 @@
     "WRFD": "4.73",
     "WRNITRO": "384/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1577,7 +1577,7 @@
     "WRFD": "3.71",
     "WRNITRO": "361/5.7",
     "WRTIRE": "4/96",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -1594,7 +1594,7 @@
     "WRFD": "5.00",
     "WRNITRO": "411/5.6",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1611,7 +1611,7 @@
     "WRFD": "5.00",
     "WRNITRO": "426/5.6",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1628,7 +1628,7 @@
     "WRFD": "2.03",
     "WRNITRO": "404/5.6",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1645,7 +1645,7 @@
     "WRFD": "2.03",
     "WRNITRO": "426/5.6",
     "WRTIRE": "65/35",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1662,7 +1662,7 @@
     "WRFD": "2.13",
     "WRNITRO": "371/5.3",
     "WRTIRE": "45/55",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -1679,7 +1679,7 @@
     "WRFD": "2.00",
     "WRNITRO": "408/5.9",
     "WRTIRE": "23/77",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1696,7 +1696,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1713,7 +1713,7 @@
     "WRFD": "5.00",
     "WRNITRO": "404/5.6",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1730,7 +1730,7 @@
     "WRFD": "5.00",
     "WRNITRO": "426/5.6",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1747,7 +1747,7 @@
     "WRFD": "4.75",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -1764,7 +1764,7 @@
     "WRFD": "2.39",
     "WRNITRO": "368/5.4",
     "WRTIRE": "67/33",
-    "Star": "",
+    "Star": "G.G",
     "isEV": ""
   },
   {
@@ -1781,7 +1781,7 @@
     "WRFD": "2.42",
     "WRNITRO": "386/5.5",
     "WRTIRE": "21/79",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1798,7 +1798,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1815,7 +1815,7 @@
     "WRFD": "2.00",
     "WRNITRO": "218/4.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1832,7 +1832,7 @@
     "WRFD": "3.15",
     "WRNITRO": "329/5.6",
     "WRTIRE": "7/93",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1849,7 +1849,7 @@
     "WRFD": "3.12",
     "WRNITRO": "329/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1866,7 +1866,7 @@
     "WRFD": "2.08",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1883,7 +1883,7 @@
     "WRFD": "2.08",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -1900,7 +1900,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1917,7 +1917,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -1934,7 +1934,7 @@
     "WRFD": "5.00",
     "WRNITRO": "379/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -1951,7 +1951,7 @@
     "WRFD": "3.37",
     "WRNITRO": "404/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1968,7 +1968,7 @@
     "WRFD": "3.02",
     "WRNITRO": "404/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -1985,7 +1985,7 @@
     "WRFD": "3.02",
     "WRNITRO": "426/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -2002,7 +2002,7 @@
     "WRFD": "4.32",
     "WRNITRO": "404/5.6",
     "WRTIRE": "60/40",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -2019,7 +2019,7 @@
     "WRFD": "4.08",
     "WRNITRO": "404/5.6",
     "WRTIRE": "6/94",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -2036,7 +2036,7 @@
     "WRFD": "3.10",
     "WRNITRO": "294/4.1",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -2053,7 +2053,7 @@
     "WRFD": "3.32",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2070,7 +2070,7 @@
     "WRFD": "3.65",
     "WRNITRO": "404/5.6",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -2087,7 +2087,7 @@
     "WRFD": "3.64",
     "WRNITRO": "426/5.6",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -2104,7 +2104,7 @@
     "WRFD": "2.41",
     "WRNITRO": "203/4.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "WRFD": "2.10",
     "WRNITRO": "209/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -2138,7 +2138,7 @@
     "WRFD": "4.34",
     "WRNITRO": "404/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -2155,7 +2155,7 @@
     "WRFD": "4.75",
     "WRNITRO": "235/3.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -2172,7 +2172,7 @@
     "WRFD": "3.29",
     "WRNITRO": "411/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -2189,7 +2189,7 @@
     "WRFD": "2.25",
     "WRNITRO": "188/4.0",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -2206,7 +2206,7 @@
     "WRFD": "3.04",
     "WRNITRO": "254/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -2223,7 +2223,7 @@
     "WRFD": "3.56",
     "WRNITRO": "299/6.4",
     "WRTIRE": "8/92",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -2240,7 +2240,7 @@
     "WRFD": "3.13",
     "WRNITRO": "378/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -2257,7 +2257,7 @@
     "WRFD": "2.56",
     "WRNITRO": "417/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -2274,7 +2274,7 @@
     "WRFD": "2.60",
     "WRNITRO": "401/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -2291,7 +2291,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -2308,7 +2308,7 @@
     "WRFD": "4.59",
     "WRNITRO": "404/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -2325,7 +2325,7 @@
     "WRFD": "2.91",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2342,7 +2342,7 @@
     "WRFD": "2.76",
     "WRNITRO": "221/5.6",
     "WRTIRE": "50/50",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2359,7 +2359,7 @@
     "WRFD": "2.85",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2376,7 +2376,7 @@
     "WRFD": "2.84",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2393,7 +2393,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2410,7 +2410,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2427,7 +2427,7 @@
     "WRFD": "3.10",
     "WRNITRO": "212/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2444,7 +2444,7 @@
     "WRFD": "3.08",
     "WRNITRO": "221/5.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2461,7 +2461,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "59/41",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2478,7 +2478,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "59/41",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2495,7 +2495,7 @@
     "WRFD": "4.27",
     "WRNITRO": "213/5.5",
     "WRTIRE": "13/87",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -2512,7 +2512,7 @@
     "WRFD": "2.01",
     "WRNITRO": "211/4.6",
     "WRTIRE": "10/90",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -2529,7 +2529,7 @@
     "WRFD": "2.00",
     "WRNITRO": "221/4.2",
     "WRTIRE": "9/91",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2546,7 +2546,7 @@
     "WRFD": "2.00",
     "WRNITRO": "209/4.7",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -2563,7 +2563,7 @@
     "WRFD": "2.00",
     "WRNITRO": "294/4.8",
     "WRTIRE": "22/78",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2580,7 +2580,7 @@
     "WRFD": "2.00",
     "WRNITRO": "321/5.0",
     "WRTIRE": "21/79",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2597,7 +2597,7 @@
     "WRFD": "4.38",
     "WRNITRO": "222/4.0",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2614,7 +2614,7 @@
     "WRFD": "4.37",
     "WRNITRO": "222/4.0",
     "WRTIRE": "6/94",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2631,7 +2631,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2648,7 +2648,7 @@
     "WRFD": "4.21",
     "WRNITRO": "226/4.8",
     "WRTIRE": "18/82",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -2665,7 +2665,7 @@
     "WRFD": "2.69",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2682,7 +2682,7 @@
     "WRFD": "2.70",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2699,7 +2699,7 @@
     "WRFD": "2.61",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2716,7 +2716,7 @@
     "WRFD": "2.62",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2733,7 +2733,7 @@
     "WRFD": "2.67",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2750,7 +2750,7 @@
     "WRFD": "2.68",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2767,7 +2767,7 @@
     "WRFD": "2.73",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2784,7 +2784,7 @@
     "WRFD": "2.72",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2801,7 +2801,7 @@
     "WRFD": "2.69",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2818,7 +2818,7 @@
     "WRFD": "2.69",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2835,7 +2835,7 @@
     "WRFD": "2.18",
     "WRNITRO": "214/5.3",
     "WRTIRE": "21/79",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -2852,7 +2852,7 @@
     "WRFD": "2.17",
     "WRNITRO": "218/5.3",
     "WRTIRE": "21/79",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -2869,7 +2869,7 @@
     "WRFD": "2.95",
     "WRNITRO": "432/5.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2886,7 +2886,7 @@
     "WRFD": "3.59",
     "WRNITRO": "320/5.1",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2903,7 +2903,7 @@
     "WRFD": "3.56",
     "WRNITRO": "352/5.5",
     "WRTIRE": "4/96",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2920,7 +2920,7 @@
     "WRFD": "3.37",
     "WRNITRO": "328/6.2",
     "WRTIRE": "10/90",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2937,7 +2937,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2954,7 +2954,7 @@
     "WRFD": "2.55",
     "WRNITRO": "315/5.5",
     "WRTIRE": "4/96",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -2971,7 +2971,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -2988,7 +2988,7 @@
     "WRFD": "4.18",
     "WRNITRO": "237/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3005,7 +3005,7 @@
     "WRFD": "4.17",
     "WRNITRO": "188/4.0",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3022,7 +3022,7 @@
     "WRFD": "3.50",
     "WRNITRO": "179/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3039,7 +3039,7 @@
     "WRFD": "4.16",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3056,7 +3056,7 @@
     "WRFD": "3.84",
     "WRNITRO": "225/4.9",
     "WRTIRE": "28/72",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3073,7 +3073,7 @@
     "WRFD": "3.84",
     "WRNITRO": "232/4.9",
     "WRTIRE": "28/72",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3090,7 +3090,7 @@
     "WRFD": "3.53",
     "WRNITRO": "222/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3107,7 +3107,7 @@
     "WRFD": "3.50",
     "WRNITRO": "222/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3124,7 +3124,7 @@
     "WRFD": "3.37",
     "WRNITRO": "252/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3141,7 +3141,7 @@
     "WRFD": "3.18",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3158,7 +3158,7 @@
     "WRFD": "3.15",
     "WRNITRO": "188/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3175,7 +3175,7 @@
     "WRFD": "3.15",
     "WRNITRO": "188/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3192,7 +3192,7 @@
     "WRFD": "2.99",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3209,7 +3209,7 @@
     "WRFD": "2.99",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3226,7 +3226,7 @@
     "WRFD": "3.52",
     "WRNITRO": "245/4.5",
     "WRTIRE": "23/77",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3243,7 +3243,7 @@
     "WRFD": "3.20",
     "WRNITRO": "252/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3260,7 +3260,7 @@
     "WRFD": "3.49",
     "WRNITRO": "254/4.5",
     "WRTIRE": "23/77",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3277,7 +3277,7 @@
     "WRFD": "5.00",
     "WRNITRO": "222/4.0",
     "WRTIRE": "8/92",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -3294,7 +3294,7 @@
     "WRFD": "5.00",
     "WRNITRO": "222/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3311,7 +3311,7 @@
     "WRFD": "5.00",
     "WRNITRO": "222/4.0",
     "WRTIRE": "6/94",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -3328,7 +3328,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3345,7 +3345,7 @@
     "WRFD": "4.65",
     "WRNITRO": "252/4.2",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3362,7 +3362,7 @@
     "WRFD": "3.48",
     "WRNITRO": "245/4.5",
     "WRTIRE": "27/73",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3379,7 +3379,7 @@
     "WRFD": "3.91",
     "WRNITRO": "252/4.2",
     "WRTIRE": "20/80",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -3396,7 +3396,7 @@
     "WRFD": "3.96",
     "WRNITRO": "260/4.3",
     "WRTIRE": "18/82",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3413,7 +3413,7 @@
     "WRFD": "3.49",
     "WRNITRO": "252/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -3430,7 +3430,7 @@
     "WRFD": "3.49",
     "WRNITRO": "261/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -3447,7 +3447,7 @@
     "WRFD": "5.00",
     "WRNITRO": "222/4.0",
     "WRTIRE": "8/92",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3464,7 +3464,7 @@
     "WRFD": "5.00",
     "WRNITRO": "222/4.0",
     "WRTIRE": "6/94",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3481,7 +3481,7 @@
     "WRFD": "2.53",
     "WRNITRO": "290/5.0",
     "WRTIRE": "30/70",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3498,7 +3498,7 @@
     "WRFD": "3.27",
     "WRNITRO": "188/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3515,7 +3515,7 @@
     "WRFD": "3.44",
     "WRNITRO": "442/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3532,7 +3532,7 @@
     "WRFD": "3.43",
     "WRNITRO": "442/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3549,7 +3549,7 @@
     "WRFD": "2.85",
     "WRNITRO": "252/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3566,7 +3566,7 @@
     "WRFD": "2.84",
     "WRNITRO": "261/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3583,7 +3583,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3600,7 +3600,7 @@
     "WRFD": "4.65",
     "WRNITRO": "228/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -3617,7 +3617,7 @@
     "WRFD": "3.83",
     "WRNITRO": "249/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3634,7 +3634,7 @@
     "WRFD": "2.37",
     "WRNITRO": "258/4.4",
     "WRTIRE": "23/77",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3651,7 +3651,7 @@
     "WRFD": "3.32",
     "WRNITRO": "248/4.9",
     "WRTIRE": "19/81",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3668,7 +3668,7 @@
     "WRFD": "2.00",
     "WRNITRO": "244/4.6",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3685,7 +3685,7 @@
     "WRFD": "2.00",
     "WRNITRO": "253/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3702,7 +3702,7 @@
     "WRFD": "2.47",
     "WRNITRO": "252/4.2",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -3719,7 +3719,7 @@
     "WRFD": "2.46",
     "WRNITRO": "261/4.2",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3736,7 +3736,7 @@
     "WRFD": "2.42",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3753,7 +3753,7 @@
     "WRFD": "2.49",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3770,7 +3770,7 @@
     "WRFD": "2.01",
     "WRNITRO": "186/4.1",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -3787,7 +3787,7 @@
     "WRFD": "2.00",
     "WRNITRO": "181/4.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3804,7 +3804,7 @@
     "WRFD": "2.00",
     "WRNITRO": "261/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3821,7 +3821,7 @@
     "WRFD": "2.76",
     "WRNITRO": "188/7.2",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3838,7 +3838,7 @@
     "WRFD": "2.71",
     "WRNITRO": "188/5.8",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3855,7 +3855,7 @@
     "WRFD": "2.42",
     "WRNITRO": "188/4.1",
     "WRTIRE": "54/46",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3872,7 +3872,7 @@
     "WRFD": "2.31",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3889,7 +3889,7 @@
     "WRFD": "2.01",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3906,7 +3906,7 @@
     "WRFD": "3.73",
     "WRNITRO": "219/5.3",
     "WRTIRE": "20/80",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -3923,7 +3923,7 @@
     "WRFD": "3.73",
     "WRNITRO": "210/5.3",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -3940,7 +3940,7 @@
     "WRFD": "4.12",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3957,7 +3957,7 @@
     "WRFD": "3.80",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -3974,7 +3974,7 @@
     "WRFD": "3.73",
     "WRNITRO": "230/5.3",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -3991,7 +3991,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -4008,7 +4008,7 @@
     "WRFD": "3.11",
     "WRNITRO": "185/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4025,7 +4025,7 @@
     "WRFD": "3.09",
     "WRNITRO": "183/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4042,7 +4042,7 @@
     "WRFD": "2.84",
     "WRNITRO": "210/4.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4059,7 +4059,7 @@
     "WRFD": "2.92",
     "WRNITRO": "229/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4076,7 +4076,7 @@
     "WRFD": "2.73",
     "WRNITRO": "229/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4093,7 +4093,7 @@
     "WRFD": "3.02",
     "WRNITRO": "230/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4110,7 +4110,7 @@
     "WRFD": "2.70",
     "WRNITRO": "188/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4127,7 +4127,7 @@
     "WRFD": "2.69",
     "WRNITRO": "188/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4144,7 +4144,7 @@
     "WRFD": "3.08",
     "WRNITRO": "494/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -4161,7 +4161,7 @@
     "WRFD": "2.95",
     "WRNITRO": "494/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4178,7 +4178,7 @@
     "WRFD": "3.08",
     "WRNITRO": "517/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -4195,7 +4195,7 @@
     "WRFD": "2.54",
     "WRNITRO": "188/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -4212,7 +4212,7 @@
     "WRFD": "2.22",
     "WRNITRO": "188/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4229,7 +4229,7 @@
     "WRFD": "2.71",
     "WRNITRO": "188/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4246,7 +4246,7 @@
     "WRFD": "2.28",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4263,7 +4263,7 @@
     "WRFD": "2.26",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4280,7 +4280,7 @@
     "WRFD": "2.37",
     "WRNITRO": "214/5.3",
     "WRTIRE": "8/92",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4297,7 +4297,7 @@
     "WRFD": "2.37",
     "WRNITRO": "220/5.2",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4314,7 +4314,7 @@
     "WRFD": "2.35",
     "WRNITRO": "248/5.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4331,7 +4331,7 @@
     "WRFD": "3.40",
     "WRNITRO": "224/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -4348,7 +4348,7 @@
     "WRFD": "3.61",
     "WRNITRO": "261/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4365,7 +4365,7 @@
     "WRFD": "3.61",
     "WRNITRO": "252/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4382,7 +4382,7 @@
     "WRFD": "3.61",
     "WRNITRO": "261/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4399,7 +4399,7 @@
     "WRFD": "3.47",
     "WRNITRO": "184/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4416,7 +4416,7 @@
     "WRFD": "3.45",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4433,7 +4433,7 @@
     "WRFD": "3.45",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4450,7 +4450,7 @@
     "WRFD": "4.00",
     "WRNITRO": "204/5.0",
     "WRTIRE": "9/91",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -4467,7 +4467,7 @@
     "WRFD": "3.70",
     "WRNITRO": "222/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -4484,7 +4484,7 @@
     "WRFD": "3.70",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -4501,7 +4501,7 @@
     "WRFD": "2.47",
     "WRNITRO": "63/12.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -4518,7 +4518,7 @@
     "WRFD": "2.41",
     "WRNITRO": "63/12.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4535,7 +4535,7 @@
     "WRFD": "2.38",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4552,7 +4552,7 @@
     "WRFD": "2.37",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4569,7 +4569,7 @@
     "WRFD": "4.42",
     "WRNITRO": "238/4.6",
     "WRTIRE": "16/84",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -4586,7 +4586,7 @@
     "WRFD": "4.41",
     "WRNITRO": "247/4.5",
     "WRTIRE": "14/86",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -4603,7 +4603,7 @@
     "WRFD": "3.33",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4620,7 +4620,7 @@
     "WRFD": "3.24",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4637,7 +4637,7 @@
     "WRFD": "3.78",
     "WRNITRO": "250/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -4654,7 +4654,7 @@
     "WRFD": "3.76",
     "WRNITRO": "252/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -4671,7 +4671,7 @@
     "WRFD": "3.62",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -4688,7 +4688,7 @@
     "WRFD": "2.82",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4705,7 +4705,7 @@
     "WRFD": "2.24",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4722,7 +4722,7 @@
     "WRFD": "2.22",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4739,7 +4739,7 @@
     "WRFD": "2.80",
     "WRNITRO": "226/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4756,7 +4756,7 @@
     "WRFD": "2.80",
     "WRNITRO": "234/4.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4773,7 +4773,7 @@
     "WRFD": "2.00",
     "WRNITRO": "251/5.5",
     "WRTIRE": "47/53",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -4790,7 +4790,7 @@
     "WRFD": "3.48",
     "WRNITRO": "180/4.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -4807,7 +4807,7 @@
     "WRFD": "3.47",
     "WRNITRO": "183/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -4824,7 +4824,7 @@
     "WRFD": "3.35",
     "WRNITRO": "221/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4841,7 +4841,7 @@
     "WRFD": "2.51",
     "WRNITRO": "185/4.2",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4858,7 +4858,7 @@
     "WRFD": "2.51",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4875,7 +4875,7 @@
     "WRFD": "2.50",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4892,7 +4892,7 @@
     "WRFD": "2.00",
     "WRNITRO": "355/5.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4909,7 +4909,7 @@
     "WRFD": "2.00",
     "WRNITRO": "367/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -4926,7 +4926,7 @@
     "WRFD": "2.00",
     "WRNITRO": "365/5.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4943,7 +4943,7 @@
     "WRFD": "3.66",
     "WRNITRO": "363/5.2",
     "WRTIRE": "6/94",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4960,7 +4960,7 @@
     "WRFD": "2.39",
     "WRNITRO": "222/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4977,7 +4977,7 @@
     "WRFD": "2.50",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -4994,7 +4994,7 @@
     "WRFD": "2.01",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5011,7 +5011,7 @@
     "WRFD": "2.01",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5028,7 +5028,7 @@
     "WRFD": "2.64",
     "WRNITRO": "226/4.8",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -5045,7 +5045,7 @@
     "WRFD": "4.31",
     "WRNITRO": "232/5.6",
     "WRTIRE": "31/69",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5062,7 +5062,7 @@
     "WRFD": "3.49",
     "WRNITRO": "221/5.3",
     "WRTIRE": "16/84",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -5079,7 +5079,7 @@
     "WRFD": "2.00",
     "WRNITRO": "198/5.8",
     "WRTIRE": "15/85",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5096,7 +5096,7 @@
     "WRFD": "4.48",
     "WRNITRO": "230/5.3",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -5113,7 +5113,7 @@
     "WRFD": "2.67",
     "WRNITRO": "206/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5130,7 +5130,7 @@
     "WRFD": "3.08",
     "WRNITRO": "248/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5147,7 +5147,7 @@
     "WRFD": "2.17",
     "WRNITRO": "261/4.2",
     "WRTIRE": "19/81",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5164,7 +5164,7 @@
     "WRFD": "3.86",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -5181,7 +5181,7 @@
     "WRFD": "2.82",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5198,7 +5198,7 @@
     "WRFD": "2.82",
     "WRNITRO": "210/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5215,7 +5215,7 @@
     "WRFD": "2.67",
     "WRNITRO": "206/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5232,7 +5232,7 @@
     "WRFD": "3.91",
     "WRNITRO": "239/4.2",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -5249,7 +5249,7 @@
     "WRFD": "2.47",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5266,7 +5266,7 @@
     "WRFD": "3.01",
     "WRNITRO": "264/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -5283,7 +5283,7 @@
     "WRFD": "3.41",
     "WRNITRO": "230/5.3",
     "WRTIRE": "18/82",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -5300,7 +5300,7 @@
     "WRFD": "3.40",
     "WRNITRO": "248/4.9",
     "WRTIRE": "18/82",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5317,7 +5317,7 @@
     "WRFD": "3.03",
     "WRNITRO": "222/4.2",
     "WRTIRE": "18/82",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5334,7 +5334,7 @@
     "WRFD": "3.02",
     "WRNITRO": "239/4.2",
     "WRTIRE": "16/84",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5351,7 +5351,7 @@
     "WRFD": "3.24",
     "WRNITRO": "220/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5368,7 +5368,7 @@
     "WRFD": "3.21",
     "WRNITRO": "225/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5385,7 +5385,7 @@
     "WRFD": "2.15",
     "WRNITRO": "237/4.9",
     "WRTIRE": "30/70",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -5402,7 +5402,7 @@
     "WRFD": "2.15",
     "WRNITRO": "246/5.0",
     "WRTIRE": "30/70",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -5419,7 +5419,7 @@
     "WRFD": "2.15",
     "WRNITRO": "185/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5436,7 +5436,7 @@
     "WRFD": "2.13",
     "WRNITRO": "183/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5453,7 +5453,7 @@
     "WRFD": "2.38",
     "WRNITRO": "179/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5470,7 +5470,7 @@
     "WRFD": "2.37",
     "WRNITRO": "184/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5487,7 +5487,7 @@
     "WRFD": "2.37",
     "WRNITRO": "178/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5504,7 +5504,7 @@
     "WRFD": "2.56",
     "WRNITRO": "230/5.3",
     "WRTIRE": "22/78",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5521,7 +5521,7 @@
     "WRFD": "2.42",
     "WRNITRO": "235/5.0",
     "WRTIRE": "23/77",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5538,7 +5538,7 @@
     "WRFD": "3.68",
     "WRNITRO": "231/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5555,7 +5555,7 @@
     "WRFD": "2.15",
     "WRNITRO": "185/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5572,7 +5572,7 @@
     "WRFD": "2.20",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5589,7 +5589,7 @@
     "WRFD": "2.46",
     "WRNITRO": "248/4.9",
     "WRTIRE": "13/87",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5606,7 +5606,7 @@
     "WRFD": "2.46",
     "WRNITRO": "248/4.9",
     "WRTIRE": "13/87",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5623,7 +5623,7 @@
     "WRFD": "2.86",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5640,7 +5640,7 @@
     "WRFD": "2.85",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5657,7 +5657,7 @@
     "WRFD": "2.28",
     "WRNITRO": "188/4.0",
     "WRTIRE": "17/83",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -5674,7 +5674,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5691,7 +5691,7 @@
     "WRFD": "3.14",
     "WRNITRO": "256/4.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5708,7 +5708,7 @@
     "WRFD": "3.51",
     "WRNITRO": "222/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5725,7 +5725,7 @@
     "WRFD": "3.46",
     "WRNITRO": "222/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5742,7 +5742,7 @@
     "WRFD": "3.51",
     "WRNITRO": "222/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5759,7 +5759,7 @@
     "WRFD": "3.45",
     "WRNITRO": "222/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5776,7 +5776,7 @@
     "WRFD": "2.63",
     "WRNITRO": "188/4.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5793,7 +5793,7 @@
     "WRFD": "2.34",
     "WRNITRO": "176/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5810,7 +5810,7 @@
     "WRFD": "2.33",
     "WRNITRO": "178/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5827,7 +5827,7 @@
     "WRFD": "2.07",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5844,7 +5844,7 @@
     "WRFD": "2.04",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5861,7 +5861,7 @@
     "WRFD": "2.59",
     "WRNITRO": "252/4.2",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -5878,7 +5878,7 @@
     "WRFD": "2.57",
     "WRNITRO": "260/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5895,7 +5895,7 @@
     "WRFD": "2.35",
     "WRNITRO": "518/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -5912,7 +5912,7 @@
     "WRFD": "2.25",
     "WRNITRO": "63/15.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5929,7 +5929,7 @@
     "WRFD": "2.59",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5946,7 +5946,7 @@
     "WRFD": "2.36",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5963,7 +5963,7 @@
     "WRFD": "3.31",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -5980,7 +5980,7 @@
     "WRFD": "2.67",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -5997,7 +5997,7 @@
     "WRFD": "3.30",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6014,7 +6014,7 @@
     "WRFD": "3.22",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6031,7 +6031,7 @@
     "WRFD": "2.10",
     "WRNITRO": "211/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6048,7 +6048,7 @@
     "WRFD": "2.56",
     "WRNITRO": "239/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6065,7 +6065,7 @@
     "WRFD": "2.55",
     "WRNITRO": "239/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6082,7 +6082,7 @@
     "WRFD": "2.00",
     "WRNITRO": "210/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6099,7 +6099,7 @@
     "WRFD": "2.11",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6116,7 +6116,7 @@
     "WRFD": "2.09",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6133,7 +6133,7 @@
     "WRFD": "2.00",
     "WRNITRO": "347/4.0",
     "WRTIRE": "6/94",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6150,7 +6150,7 @@
     "WRFD": "2.24",
     "WRNITRO": "278/4.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6167,7 +6167,7 @@
     "WRFD": "2.87",
     "WRNITRO": "347/4.0",
     "WRTIRE": "6/94",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6184,7 +6184,7 @@
     "WRFD": "2.86",
     "WRNITRO": "347/4.0",
     "WRTIRE": "10/90",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6201,7 +6201,7 @@
     "WRFD": "2.00",
     "WRNITRO": "185/4.2",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6218,7 +6218,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6235,7 +6235,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6252,7 +6252,7 @@
     "WRFD": "2.88",
     "WRNITRO": "522/5.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -6269,7 +6269,7 @@
     "WRFD": "2.84",
     "WRNITRO": "540/5.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -6286,7 +6286,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6303,7 +6303,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6320,7 +6320,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6337,7 +6337,7 @@
     "WRFD": "2.03",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6354,7 +6354,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6371,7 +6371,7 @@
     "WRFD": "2.07",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6388,7 +6388,7 @@
     "WRFD": "2.70",
     "WRNITRO": "395/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -6405,7 +6405,7 @@
     "WRFD": "2.69",
     "WRNITRO": "473/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -6422,7 +6422,7 @@
     "WRFD": "2.70",
     "WRNITRO": "395/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6439,7 +6439,7 @@
     "WRFD": "2.67",
     "WRNITRO": "473/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6456,7 +6456,7 @@
     "WRFD": "2.10",
     "WRNITRO": "654/7.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6473,7 +6473,7 @@
     "WRFD": "2.08",
     "WRNITRO": "683/7.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6490,7 +6490,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6507,7 +6507,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6524,7 +6524,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6541,7 +6541,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6558,7 +6558,7 @@
     "WRFD": "2.00",
     "WRNITRO": "251/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6575,7 +6575,7 @@
     "WRFD": "2.67",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6592,7 +6592,7 @@
     "WRFD": "2.75",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6609,7 +6609,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6626,7 +6626,7 @@
     "WRFD": "2.65",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6643,7 +6643,7 @@
     "WRFD": "2.65",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6660,7 +6660,7 @@
     "WRFD": "2.67",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6677,7 +6677,7 @@
     "WRFD": "2.67",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6694,7 +6694,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6711,7 +6711,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6728,7 +6728,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6745,7 +6745,7 @@
     "WRFD": "2.38",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6762,7 +6762,7 @@
     "WRFD": "2.05",
     "WRNITRO": "377/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6779,7 +6779,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6796,7 +6796,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6813,7 +6813,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6830,7 +6830,7 @@
     "WRFD": "2.00",
     "WRNITRO": "755/7.8",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6847,7 +6847,7 @@
     "WRFD": "2.00",
     "WRNITRO": "785/8.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6864,7 +6864,7 @@
     "WRFD": "2.19",
     "WRNITRO": "785/8.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6881,7 +6881,7 @@
     "WRFD": "2.39",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6898,7 +6898,7 @@
     "WRFD": "2.40",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6915,7 +6915,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6932,7 +6932,7 @@
     "WRFD": "3.19",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -6949,7 +6949,7 @@
     "WRFD": "2.64",
     "WRNITRO": "298/6.3",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -6966,7 +6966,7 @@
     "WRFD": "2.65",
     "WRNITRO": "314/6.5",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -6983,7 +6983,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7000,7 +7000,7 @@
     "WRFD": "2.55",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7017,7 +7017,7 @@
     "WRFD": "2.55",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7034,7 +7034,7 @@
     "WRFD": "2.91",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7051,7 +7051,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "67/33",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7068,7 +7068,7 @@
     "WRFD": "2.64",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7085,7 +7085,7 @@
     "WRFD": "3.08",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7102,7 +7102,7 @@
     "WRFD": "2.91",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7119,7 +7119,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7136,7 +7136,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7153,7 +7153,7 @@
     "WRFD": "2.37",
     "WRNITRO": "188/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7170,7 +7170,7 @@
     "WRFD": "2.64",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7187,7 +7187,7 @@
     "WRFD": "3.08",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7204,7 +7204,7 @@
     "WRFD": "2.10",
     "WRNITRO": "486/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7221,7 +7221,7 @@
     "WRFD": "2.08",
     "WRNITRO": "505/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7238,7 +7238,7 @@
     "WRFD": "2.88",
     "WRNITRO": "185/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7255,7 +7255,7 @@
     "WRFD": "2.86",
     "WRNITRO": "185/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7272,7 +7272,7 @@
     "WRFD": "3.19",
     "WRNITRO": "439/5.7",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -7289,7 +7289,7 @@
     "WRFD": "3.12",
     "WRNITRO": "403/5.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -7306,7 +7306,7 @@
     "WRFD": "2.78",
     "WRNITRO": "207/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7323,7 +7323,7 @@
     "WRFD": "2.78",
     "WRNITRO": "211/5.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7340,7 +7340,7 @@
     "WRFD": "3.15",
     "WRNITRO": "464/5.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -7357,7 +7357,7 @@
     "WRFD": "2.99",
     "WRNITRO": "185/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7374,7 +7374,7 @@
     "WRFD": "2.98",
     "WRNITRO": "185/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7391,7 +7391,7 @@
     "WRFD": "2.00",
     "WRNITRO": "173/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7408,7 +7408,7 @@
     "WRFD": "2.00",
     "WRNITRO": "175/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7425,7 +7425,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7442,7 +7442,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7459,7 +7459,7 @@
     "WRFD": "2.23",
     "WRNITRO": "439/5.7",
     "WRTIRE": "17/83",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -7476,7 +7476,7 @@
     "WRFD": "2.21",
     "WRNITRO": "470/5.6",
     "WRTIRE": "17/83",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -7493,7 +7493,7 @@
     "WRFD": "2.92",
     "WRNITRO": "235/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7510,7 +7510,7 @@
     "WRFD": "2.87",
     "WRNITRO": "242/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7527,7 +7527,7 @@
     "WRFD": "2.54",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7544,7 +7544,7 @@
     "WRFD": "2.53",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7561,7 +7561,7 @@
     "WRFD": "2.65",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7578,7 +7578,7 @@
     "WRFD": "2.52",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7595,7 +7595,7 @@
     "WRFD": "2.53",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7612,7 +7612,7 @@
     "WRFD": "2.53",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7629,7 +7629,7 @@
     "WRFD": "2.05",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7646,7 +7646,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7663,7 +7663,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7680,7 +7680,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -7697,7 +7697,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7714,7 +7714,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7731,7 +7731,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "34/66",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7748,7 +7748,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "34/66",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7765,7 +7765,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7782,7 +7782,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "34/66",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7799,7 +7799,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7816,7 +7816,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7833,7 +7833,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7850,7 +7850,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7867,7 +7867,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7884,7 +7884,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7901,7 +7901,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7918,7 +7918,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7935,7 +7935,7 @@
     "WRFD": "2.00",
     "WRNITRO": "406/5.5",
     "WRTIRE": "41/59",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -7952,7 +7952,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.6",
     "WRTIRE": "17/83",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7969,7 +7969,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -7986,7 +7986,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/4.0",
     "WRTIRE": "14/86",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8003,7 +8003,7 @@
     "WRFD": "2.00",
     "WRNITRO": "416/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8020,7 +8020,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8037,7 +8037,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8054,7 +8054,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8071,7 +8071,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/5.6",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8088,7 +8088,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8105,7 +8105,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.0",
     "WRTIRE": "38/62",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8122,7 +8122,7 @@
     "WRFD": "2.00",
     "WRNITRO": "236/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8139,7 +8139,7 @@
     "WRFD": "2.00",
     "WRNITRO": "236/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8156,7 +8156,7 @@
     "WRFD": "2.00",
     "WRNITRO": "266/4.0",
     "WRTIRE": "24/76",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8173,7 +8173,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8190,7 +8190,7 @@
     "WRFD": "2.00",
     "WRNITRO": "266/4.0",
     "WRTIRE": "21/79",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8207,7 +8207,7 @@
     "WRFD": "2.17",
     "WRNITRO": "374/5.8",
     "WRTIRE": "16/84",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -8224,7 +8224,7 @@
     "WRFD": "2.00",
     "WRNITRO": "464/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8241,7 +8241,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8258,7 +8258,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8275,7 +8275,7 @@
     "WRFD": "2.88",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8292,7 +8292,7 @@
     "WRFD": "2.88",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8309,7 +8309,7 @@
     "WRFD": "2.86",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8326,7 +8326,7 @@
     "WRFD": "2.88",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8343,7 +8343,7 @@
     "WRFD": "2.63",
     "WRNITRO": "448/5.5",
     "WRTIRE": "55/45",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8360,7 +8360,7 @@
     "WRFD": "2.00",
     "WRNITRO": "422/4.0",
     "WRTIRE": "16/84",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8377,7 +8377,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8394,7 +8394,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8411,7 +8411,7 @@
     "WRFD": "2.09",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -8428,7 +8428,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8445,7 +8445,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8462,7 +8462,7 @@
     "WRFD": "4.99",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8479,7 +8479,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8496,7 +8496,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8513,7 +8513,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8530,7 +8530,7 @@
     "WRFD": "2.15",
     "WRNITRO": "610/7.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8547,7 +8547,7 @@
     "WRFD": "2.11",
     "WRNITRO": "629/8.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8564,7 +8564,7 @@
     "WRFD": "2.13",
     "WRNITRO": "629/8.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8581,7 +8581,7 @@
     "WRFD": "2.11",
     "WRNITRO": "629/8.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8598,7 +8598,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8615,7 +8615,7 @@
     "WRFD": "3.49",
     "WRNITRO": "430/4.5",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -8632,7 +8632,7 @@
     "WRFD": "3.28",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -8649,7 +8649,7 @@
     "WRFD": "2.00",
     "WRNITRO": "278/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8666,7 +8666,7 @@
     "WRFD": "2.18",
     "WRNITRO": "448/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8683,7 +8683,7 @@
     "WRFD": "2.20",
     "WRNITRO": "199/11.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8700,7 +8700,7 @@
     "WRFD": "2.15",
     "WRNITRO": "473/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8717,7 +8717,7 @@
     "WRFD": "2.00",
     "WRNITRO": "200/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8734,7 +8734,7 @@
     "WRFD": "2.00",
     "WRNITRO": "200/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8751,7 +8751,7 @@
     "WRFD": "2.88",
     "WRNITRO": "402/4.0",
     "WRTIRE": "51/49",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8768,7 +8768,7 @@
     "WRFD": "2.88",
     "WRNITRO": "419/4.0",
     "WRTIRE": "51/49",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8785,7 +8785,7 @@
     "WRFD": "2.88",
     "WRNITRO": "419/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8802,7 +8802,7 @@
     "WRFD": "2.04",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8819,7 +8819,7 @@
     "WRFD": "2.23",
     "WRNITRO": "188/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8836,7 +8836,7 @@
     "WRFD": "2.23",
     "WRNITRO": "188/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8853,7 +8853,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8870,7 +8870,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8887,7 +8887,7 @@
     "WRFD": "2.00",
     "WRNITRO": "278/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8904,7 +8904,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8921,7 +8921,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8938,7 +8938,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8955,7 +8955,7 @@
     "WRFD": "2.18",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -8972,7 +8972,7 @@
     "WRFD": "2.00",
     "WRNITRO": "653/7.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -8989,7 +8989,7 @@
     "WRFD": "2.00",
     "WRNITRO": "677/7.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9006,7 +9006,7 @@
     "WRFD": "2.00",
     "WRNITRO": "183/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9023,7 +9023,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9040,7 +9040,7 @@
     "WRFD": "2.26",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9057,7 +9057,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9074,7 +9074,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9091,7 +9091,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9108,7 +9108,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9125,7 +9125,7 @@
     "WRFD": "2.18",
     "WRNITRO": "406/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9142,7 +9142,7 @@
     "WRFD": "2.08",
     "WRNITRO": "414/4.3",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9159,7 +9159,7 @@
     "WRFD": "2.00",
     "WRNITRO": "314/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9176,7 +9176,7 @@
     "WRFD": "2.00",
     "WRNITRO": "314/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9193,7 +9193,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9210,7 +9210,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9227,7 +9227,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9244,7 +9244,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9261,7 +9261,7 @@
     "WRFD": "2.00",
     "WRNITRO": "338/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9278,7 +9278,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9295,7 +9295,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9312,7 +9312,7 @@
     "WRFD": "2.48",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9329,7 +9329,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9346,7 +9346,7 @@
     "WRFD": "3.80",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9363,7 +9363,7 @@
     "WRFD": "2.01",
     "WRNITRO": "310/6.6",
     "WRTIRE": "6/94",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9380,7 +9380,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9397,7 +9397,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9414,7 +9414,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9431,7 +9431,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9448,7 +9448,7 @@
     "WRFD": "2.00",
     "WRNITRO": "249/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9465,7 +9465,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9482,7 +9482,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9499,7 +9499,7 @@
     "WRFD": "2.01",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9516,7 +9516,7 @@
     "WRFD": "2.02",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9533,7 +9533,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -9550,7 +9550,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -9567,7 +9567,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9584,7 +9584,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9601,7 +9601,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9618,7 +9618,7 @@
     "WRFD": "2.59",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9635,7 +9635,7 @@
     "WRFD": "2.23",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -9652,7 +9652,7 @@
     "WRFD": "2.24",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -9669,7 +9669,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9686,7 +9686,7 @@
     "WRFD": "2.00",
     "WRNITRO": "467/6.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9703,7 +9703,7 @@
     "WRFD": "2.20",
     "WRNITRO": "482/6.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9720,7 +9720,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9737,7 +9737,7 @@
     "WRFD": "2.34",
     "WRNITRO": "185/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9754,7 +9754,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "60/40",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9771,7 +9771,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9788,7 +9788,7 @@
     "WRFD": "2.42",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -9805,7 +9805,7 @@
     "WRFD": "3.50",
     "WRNITRO": "185/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9822,7 +9822,7 @@
     "WRFD": "2.20",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9839,7 +9839,7 @@
     "WRFD": "2.29",
     "WRNITRO": "485/5.5",
     "WRTIRE": "20/80",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9856,7 +9856,7 @@
     "WRFD": "2.27",
     "WRNITRO": "511/5.6",
     "WRTIRE": "20/80",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9873,7 +9873,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9890,7 +9890,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9907,7 +9907,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9924,7 +9924,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -9941,7 +9941,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9958,7 +9958,7 @@
     "WRFD": "3.20",
     "WRNITRO": "177/16.5",
     "WRTIRE": "46/54",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -9975,7 +9975,7 @@
     "WRFD": "2.04",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -9992,7 +9992,7 @@
     "WRFD": "3.13",
     "WRNITRO": "532/6.4",
     "WRTIRE": "8/92",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10009,7 +10009,7 @@
     "WRFD": "2.25",
     "WRNITRO": "230/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -10026,7 +10026,7 @@
     "WRFD": "2.46",
     "WRNITRO": "332/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -10043,7 +10043,7 @@
     "WRFD": "2.32",
     "WRNITRO": "198/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -10060,7 +10060,7 @@
     "WRFD": "2.19",
     "WRNITRO": "200/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10077,7 +10077,7 @@
     "WRFD": "2.46",
     "WRNITRO": "368/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -10094,7 +10094,7 @@
     "WRFD": "4.05",
     "WRNITRO": "406/5.3",
     "WRTIRE": "4/96",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -10111,7 +10111,7 @@
     "WRFD": "3.19",
     "WRNITRO": "482/6.4",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10128,7 +10128,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10145,7 +10145,7 @@
     "WRFD": "2.91",
     "WRNITRO": "448/5.5",
     "WRTIRE": "33/67",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -10162,7 +10162,7 @@
     "WRFD": "2.92",
     "WRNITRO": "473/5.6",
     "WRTIRE": "32/68",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -10179,7 +10179,7 @@
     "WRFD": "2.41",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10196,7 +10196,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10213,7 +10213,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10230,7 +10230,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10247,7 +10247,7 @@
     "WRFD": "2.45",
     "WRNITRO": "447/6.5",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10264,7 +10264,7 @@
     "WRFD": "2.48",
     "WRNITRO": "467/6.7",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10281,7 +10281,7 @@
     "WRFD": "2.51",
     "WRNITRO": "447/6.5",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10298,7 +10298,7 @@
     "WRFD": "2.51",
     "WRNITRO": "467/6.7",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10315,7 +10315,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10332,7 +10332,7 @@
     "WRFD": "2.12",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10349,7 +10349,7 @@
     "WRFD": "2.23",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10366,7 +10366,7 @@
     "WRFD": "2.51",
     "WRNITRO": "398/5.6",
     "WRTIRE": "23/77",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -10383,7 +10383,7 @@
     "WRFD": "2.37",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10400,7 +10400,7 @@
     "WRFD": "2.08",
     "WRNITRO": "500/7.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10417,7 +10417,7 @@
     "WRFD": "2.29",
     "WRNITRO": "527/7.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10434,7 +10434,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10451,7 +10451,7 @@
     "WRFD": "2.01",
     "WRNITRO": "188/4.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10468,7 +10468,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10485,7 +10485,7 @@
     "WRFD": "2.30",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10502,7 +10502,7 @@
     "WRFD": "2.30",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10519,7 +10519,7 @@
     "WRFD": "2.41",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10536,7 +10536,7 @@
     "WRFD": "2.00",
     "WRNITRO": "406/5.5",
     "WRTIRE": "15/85",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10553,7 +10553,7 @@
     "WRFD": "2.00",
     "WRNITRO": "425/5.6",
     "WRTIRE": "5/95",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10570,7 +10570,7 @@
     "WRFD": "2.14",
     "WRNITRO": "400/4.2",
     "WRTIRE": "12/88",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10587,7 +10587,7 @@
     "WRFD": "2.03",
     "WRNITRO": "380/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -10604,7 +10604,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/4.0",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -10621,7 +10621,7 @@
     "WRFD": "2.25",
     "WRNITRO": "566/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10638,7 +10638,7 @@
     "WRFD": "2.34",
     "WRNITRO": "608/7.8",
     "WRTIRE": "2/98",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10655,7 +10655,7 @@
     "WRFD": "2.53",
     "WRNITRO": "561/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10672,7 +10672,7 @@
     "WRFD": "2.51",
     "WRNITRO": "568/4.6",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10689,7 +10689,7 @@
     "WRFD": "2.70",
     "WRNITRO": "373/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10706,7 +10706,7 @@
     "WRFD": "2.73",
     "WRNITRO": "359/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10723,7 +10723,7 @@
     "WRFD": "3.06",
     "WRNITRO": "225/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -10740,7 +10740,7 @@
     "WRFD": "3.04",
     "WRNITRO": "224/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -10757,7 +10757,7 @@
     "WRFD": "2.00",
     "WRNITRO": "150/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10774,7 +10774,7 @@
     "WRFD": "2.00",
     "WRNITRO": "150/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10791,7 +10791,7 @@
     "WRFD": "2.01",
     "WRNITRO": "278/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10808,7 +10808,7 @@
     "WRFD": "2.01",
     "WRNITRO": "281/7.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10825,7 +10825,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -10842,7 +10842,7 @@
     "WRFD": "2.00",
     "WRNITRO": "281/7.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10859,7 +10859,7 @@
     "WRFD": "2.00",
     "WRNITRO": "281/7.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10876,7 +10876,7 @@
     "WRFD": "2.00",
     "WRNITRO": "281/7.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10893,7 +10893,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10910,7 +10910,7 @@
     "WRFD": "2.21",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10927,7 +10927,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10944,7 +10944,7 @@
     "WRFD": "2.59",
     "WRNITRO": "448/5.5",
     "WRTIRE": "25/75",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -10961,7 +10961,7 @@
     "WRFD": "2.54",
     "WRNITRO": "473/5.6",
     "WRTIRE": "26/74",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -10978,7 +10978,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -10995,7 +10995,7 @@
     "WRFD": "2.57",
     "WRNITRO": "448/5.5",
     "WRTIRE": "11/89",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -11012,7 +11012,7 @@
     "WRFD": "2.92",
     "WRNITRO": "590/6.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11029,7 +11029,7 @@
     "WRFD": "2.92",
     "WRNITRO": "590/6.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11046,7 +11046,7 @@
     "WRFD": "2.60",
     "WRNITRO": "442/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -11063,7 +11063,7 @@
     "WRFD": "2.31",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11080,7 +11080,7 @@
     "WRFD": "2.11",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11097,7 +11097,7 @@
     "WRFD": "2.33",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11114,7 +11114,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11131,7 +11131,7 @@
     "WRFD": "2.25",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11148,7 +11148,7 @@
     "WRFD": "2.00",
     "WRNITRO": "332/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11165,7 +11165,7 @@
     "WRFD": "2.00",
     "WRNITRO": "406/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -11182,7 +11182,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11199,7 +11199,7 @@
     "WRFD": "2.00",
     "WRNITRO": "93/16.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11216,7 +11216,7 @@
     "WRFD": "2.23",
     "WRNITRO": "265/5.2",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -11233,7 +11233,7 @@
     "WRFD": "2.00",
     "WRNITRO": "286/5.5",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11250,7 +11250,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11267,7 +11267,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11284,7 +11284,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11301,7 +11301,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11318,7 +11318,7 @@
     "WRFD": "2.68",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -11335,7 +11335,7 @@
     "WRFD": "2.58",
     "WRNITRO": "230/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -11352,7 +11352,7 @@
     "WRFD": "2.32",
     "WRNITRO": "236/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11369,7 +11369,7 @@
     "WRFD": "2.14",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11386,7 +11386,7 @@
     "WRFD": "2.08",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11403,7 +11403,7 @@
     "WRFD": "2.68",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -11420,7 +11420,7 @@
     "WRFD": "2.26",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11437,7 +11437,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11454,7 +11454,7 @@
     "WRFD": "2.16",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11471,7 +11471,7 @@
     "WRFD": "2.09",
     "WRNITRO": "188/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11488,7 +11488,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11505,7 +11505,7 @@
     "WRFD": "2.91",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11522,7 +11522,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/8.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11539,7 +11539,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/8.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11556,7 +11556,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11573,7 +11573,7 @@
     "WRFD": "2.05",
     "WRNITRO": "223/4.3",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -11590,7 +11590,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11607,7 +11607,7 @@
     "WRFD": "2.79",
     "WRNITRO": "442/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -11624,7 +11624,7 @@
     "WRFD": "3.02",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11641,7 +11641,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11658,7 +11658,7 @@
     "WRFD": "2.00",
     "WRNITRO": "230/4.0",
     "WRTIRE": "19/81",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -11675,7 +11675,7 @@
     "WRFD": "2.00",
     "WRNITRO": "236/4.0",
     "WRTIRE": "19/81",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11692,7 +11692,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11709,7 +11709,7 @@
     "WRFD": "2.17",
     "WRNITRO": "235/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -11726,7 +11726,7 @@
     "WRFD": "2.55",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11743,7 +11743,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -11760,7 +11760,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11777,7 +11777,7 @@
     "WRFD": "2.10",
     "WRNITRO": "560/7.8",
     "WRTIRE": "28/72",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -11794,7 +11794,7 @@
     "WRFD": "2.38",
     "WRNITRO": "596/7.8",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -11811,7 +11811,7 @@
     "WRFD": "2.37",
     "WRNITRO": "584/8.0",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11828,7 +11828,7 @@
     "WRFD": "2.27",
     "WRNITRO": "584/8.0",
     "WRTIRE": "10/90",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11845,7 +11845,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11862,7 +11862,7 @@
     "WRFD": "2.21",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -11879,7 +11879,7 @@
     "WRFD": "2.10",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11896,7 +11896,7 @@
     "WRFD": "2.40",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -11913,7 +11913,7 @@
     "WRFD": "2.02",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11930,7 +11930,7 @@
     "WRFD": "2.46",
     "WRNITRO": "314/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11947,7 +11947,7 @@
     "WRFD": "2.15",
     "WRNITRO": "371/6.1",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11964,7 +11964,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11981,7 +11981,7 @@
     "WRFD": "2.67",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -11998,7 +11998,7 @@
     "WRFD": "2.00",
     "WRNITRO": "293/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12015,7 +12015,7 @@
     "WRFD": "2.00",
     "WRNITRO": "305/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12032,7 +12032,7 @@
     "WRFD": "2.00",
     "WRNITRO": "305/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12049,7 +12049,7 @@
     "WRFD": "2.99",
     "WRNITRO": "493/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12066,7 +12066,7 @@
     "WRFD": "2.96",
     "WRNITRO": "521/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12083,7 +12083,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12100,7 +12100,7 @@
     "WRFD": "2.09",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -12117,7 +12117,7 @@
     "WRFD": "2.07",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -12134,7 +12134,7 @@
     "WRFD": "2.71",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -12151,7 +12151,7 @@
     "WRFD": "2.67",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -12168,7 +12168,7 @@
     "WRFD": "2.67",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12185,7 +12185,7 @@
     "WRFD": "5.00",
     "WRNITRO": "278/2.2",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12202,7 +12202,7 @@
     "WRFD": "2.00",
     "WRNITRO": "266/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -12219,7 +12219,7 @@
     "WRFD": "2.00",
     "WRNITRO": "305/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12236,7 +12236,7 @@
     "WRFD": "2.05",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12253,7 +12253,7 @@
     "WRFD": "2.05",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12270,7 +12270,7 @@
     "WRFD": "2.60",
     "WRNITRO": "498/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12287,7 +12287,7 @@
     "WRFD": "2.60",
     "WRNITRO": "537/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12304,7 +12304,7 @@
     "WRFD": "3.64",
     "WRNITRO": "387/5.3",
     "WRTIRE": "29/71",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12321,7 +12321,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "54/46",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12338,7 +12338,7 @@
     "WRFD": "2.00",
     "WRNITRO": "78/15.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12355,7 +12355,7 @@
     "WRFD": "2.00",
     "WRNITRO": "81/14.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12372,7 +12372,7 @@
     "WRFD": "2.14",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12389,7 +12389,7 @@
     "WRFD": "2.14",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12406,7 +12406,7 @@
     "WRFD": "3.08",
     "WRNITRO": "200/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12423,7 +12423,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12440,7 +12440,7 @@
     "WRFD": "3.13",
     "WRNITRO": "451/5.5",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12457,7 +12457,7 @@
     "WRFD": "2.34",
     "WRNITRO": "256/4.5",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12474,7 +12474,7 @@
     "WRFD": "2.18",
     "WRNITRO": "266/4.5",
     "WRTIRE": "70/30",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12491,7 +12491,7 @@
     "WRFD": "2.11",
     "WRNITRO": "63/13.5",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12508,7 +12508,7 @@
     "WRFD": "2.17",
     "WRNITRO": "266/4.5",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12525,7 +12525,7 @@
     "WRFD": "2.14",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12542,7 +12542,7 @@
     "WRFD": "2.36",
     "WRNITRO": "331/7.6",
     "WRTIRE": "14/86",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -12559,7 +12559,7 @@
     "WRFD": "2.37",
     "WRNITRO": "350/7.5",
     "WRTIRE": "12/88",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -12576,7 +12576,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12593,7 +12593,7 @@
     "WRFD": "2.69",
     "WRNITRO": "403/5.4",
     "WRTIRE": "21/79",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -12610,7 +12610,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12627,7 +12627,7 @@
     "WRFD": "2.15",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12644,7 +12644,7 @@
     "WRFD": "2.29",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -12661,7 +12661,7 @@
     "WRFD": "2.06",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12678,7 +12678,7 @@
     "WRFD": "2.90",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -12695,7 +12695,7 @@
     "WRFD": "2.19",
     "WRNITRO": "380/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12712,7 +12712,7 @@
     "WRFD": "2.17",
     "WRNITRO": "395/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12729,7 +12729,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12746,7 +12746,7 @@
     "WRFD": "2.00",
     "WRNITRO": "198/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12763,7 +12763,7 @@
     "WRFD": "2.00",
     "WRNITRO": "200/6.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12780,7 +12780,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12797,7 +12797,7 @@
     "WRFD": "2.14",
     "WRNITRO": "169/5.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12814,7 +12814,7 @@
     "WRFD": "2.14",
     "WRNITRO": "169/5.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12831,7 +12831,7 @@
     "WRFD": "2.23",
     "WRNITRO": "330/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12848,7 +12848,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -12865,7 +12865,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12882,7 +12882,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12899,7 +12899,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12916,7 +12916,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12933,7 +12933,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12950,7 +12950,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -12967,7 +12967,7 @@
     "WRFD": "3.57",
     "WRNITRO": "479/5.6",
     "WRTIRE": "34/66",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -12984,7 +12984,7 @@
     "WRFD": "3.37",
     "WRNITRO": "545/5.6",
     "WRTIRE": "38/62",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13001,7 +13001,7 @@
     "WRFD": "2.10",
     "WRNITRO": "380/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13018,7 +13018,7 @@
     "WRFD": "2.10",
     "WRNITRO": "236/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13035,7 +13035,7 @@
     "WRFD": "2.10",
     "WRNITRO": "380/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13052,7 +13052,7 @@
     "WRFD": "2.10",
     "WRNITRO": "395/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13069,7 +13069,7 @@
     "WRFD": "2.00",
     "WRNITRO": "281/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13086,7 +13086,7 @@
     "WRFD": "2.04",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13103,7 +13103,7 @@
     "WRFD": "2.70",
     "WRNITRO": "448/5.5",
     "WRTIRE": "14/86",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13120,7 +13120,7 @@
     "WRFD": "2.69",
     "WRNITRO": "473/5.6",
     "WRTIRE": "14/86",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13137,7 +13137,7 @@
     "WRFD": "2.39",
     "WRNITRO": "448/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13154,7 +13154,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13171,7 +13171,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13188,7 +13188,7 @@
     "WRFD": "2.00",
     "WRNITRO": "298/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13205,7 +13205,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13222,7 +13222,7 @@
     "WRFD": "2.23",
     "WRNITRO": "63/12.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13239,7 +13239,7 @@
     "WRFD": "2.25",
     "WRNITRO": "63/12.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13256,7 +13256,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13273,7 +13273,7 @@
     "WRFD": "2.00",
     "WRNITRO": "467/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13290,7 +13290,7 @@
     "WRFD": "2.00",
     "WRNITRO": "472/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13307,7 +13307,7 @@
     "WRFD": "2.00",
     "WRNITRO": "467/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13324,7 +13324,7 @@
     "WRFD": "2.00",
     "WRNITRO": "467/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13341,7 +13341,7 @@
     "WRFD": "3.46",
     "WRNITRO": "551/5.5",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13358,7 +13358,7 @@
     "WRFD": "3.43",
     "WRNITRO": "579/5.6",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13375,7 +13375,7 @@
     "WRFD": "2.00",
     "WRNITRO": "266/7.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13392,7 +13392,7 @@
     "WRFD": "2.00",
     "WRNITRO": "278/8.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13409,7 +13409,7 @@
     "WRFD": "2.59",
     "WRNITRO": "196/5.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13426,7 +13426,7 @@
     "WRFD": "2.14",
     "WRNITRO": "207/4.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13443,7 +13443,7 @@
     "WRFD": "2.62",
     "WRNITRO": "210/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13460,7 +13460,7 @@
     "WRFD": "2.31",
     "WRNITRO": "473/6.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13477,7 +13477,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13494,7 +13494,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13511,7 +13511,7 @@
     "WRFD": "2.00",
     "WRNITRO": "380/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -13528,7 +13528,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -13545,7 +13545,7 @@
     "WRFD": "2.26",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13562,7 +13562,7 @@
     "WRFD": "2.26",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13579,7 +13579,7 @@
     "WRFD": "2.12",
     "WRNITRO": "75/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13596,7 +13596,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13613,7 +13613,7 @@
     "WRFD": "2.09",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13630,7 +13630,7 @@
     "WRFD": "2.00",
     "WRNITRO": "380/4.0",
     "WRTIRE": "54/46",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -13647,7 +13647,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/4.0",
     "WRTIRE": "54/46",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13664,7 +13664,7 @@
     "WRFD": "2.00",
     "WRNITRO": "158/16.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13681,7 +13681,7 @@
     "WRFD": "2.00",
     "WRNITRO": "158/16.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13698,7 +13698,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13715,7 +13715,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13732,7 +13732,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13749,7 +13749,7 @@
     "WRFD": "2.14",
     "WRNITRO": "338/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13766,7 +13766,7 @@
     "WRFD": "2.36",
     "WRNITRO": "340/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13783,7 +13783,7 @@
     "WRFD": "2.14",
     "WRNITRO": "338/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13800,7 +13800,7 @@
     "WRFD": "2.00",
     "WRNITRO": "340/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13817,7 +13817,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13834,7 +13834,7 @@
     "WRFD": "2.26",
     "WRNITRO": "235/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13851,7 +13851,7 @@
     "WRFD": "2.22",
     "WRNITRO": "242/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13868,7 +13868,7 @@
     "WRFD": "2.22",
     "WRNITRO": "242/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13885,7 +13885,7 @@
     "WRFD": "2.00",
     "WRNITRO": "150/3.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -13902,7 +13902,7 @@
     "WRFD": "2.00",
     "WRNITRO": "150/3.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13919,7 +13919,7 @@
     "WRFD": "2.00",
     "WRNITRO": "50/9.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13936,7 +13936,7 @@
     "WRFD": "2.20",
     "WRNITRO": "242/6.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13953,7 +13953,7 @@
     "WRFD": "2.43",
     "WRNITRO": "395/4.0",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13970,7 +13970,7 @@
     "WRFD": "2.43",
     "WRNITRO": "395/4.0",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -13987,7 +13987,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14004,7 +14004,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14021,7 +14021,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14038,7 +14038,7 @@
     "WRFD": "5.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14055,7 +14055,7 @@
     "WRFD": "2.00",
     "WRNITRO": "263/4.0",
     "WRTIRE": "51/49",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14072,7 +14072,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/4.0",
     "WRTIRE": "30/70",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14089,7 +14089,7 @@
     "WRFD": "2.76",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -14106,7 +14106,7 @@
     "WRFD": "2.21",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14123,7 +14123,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/4.0",
     "WRTIRE": "31/69",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14140,7 +14140,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/4.0",
     "WRTIRE": "31/69",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14157,7 +14157,7 @@
     "WRFD": "2.00",
     "WRNITRO": "235/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14174,7 +14174,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/5.6",
     "WRTIRE": "51/49",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14191,7 +14191,7 @@
     "WRFD": "3.06",
     "WRNITRO": "406/5.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -14208,7 +14208,7 @@
     "WRFD": "2.81",
     "WRNITRO": "406/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14225,7 +14225,7 @@
     "WRFD": "2.79",
     "WRNITRO": "425/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14242,7 +14242,7 @@
     "WRFD": "2.35",
     "WRNITRO": "285/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14259,7 +14259,7 @@
     "WRFD": "2.34",
     "WRNITRO": "305/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14276,7 +14276,7 @@
     "WRFD": "3.63",
     "WRNITRO": "395/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G",
     "isEV": ""
   },
   {
@@ -14293,7 +14293,7 @@
     "WRFD": "3.43",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -14310,7 +14310,7 @@
     "WRFD": "3.39",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -14327,7 +14327,7 @@
     "WRFD": "2.70",
     "WRNITRO": "635/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14344,7 +14344,7 @@
     "WRFD": "2.63",
     "WRNITRO": "663/6.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14361,7 +14361,7 @@
     "WRFD": "2.87",
     "WRNITRO": "663/6.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14378,7 +14378,7 @@
     "WRFD": "2.66",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -14395,7 +14395,7 @@
     "WRFD": "2.29",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14412,7 +14412,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14429,7 +14429,7 @@
     "WRFD": "2.33",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14446,7 +14446,7 @@
     "WRFD": "2.43",
     "WRNITRO": "432/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14463,7 +14463,7 @@
     "WRFD": "2.39",
     "WRNITRO": "440/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14480,7 +14480,7 @@
     "WRFD": "2.48",
     "WRNITRO": "406/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14497,7 +14497,7 @@
     "WRFD": "2.43",
     "WRNITRO": "413/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14514,7 +14514,7 @@
     "WRFD": "2.57",
     "WRNITRO": "323/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14531,7 +14531,7 @@
     "WRFD": "2.57",
     "WRNITRO": "323/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14548,7 +14548,7 @@
     "WRFD": "2.55",
     "WRNITRO": "323/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14565,7 +14565,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14582,7 +14582,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14599,7 +14599,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14616,7 +14616,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14633,7 +14633,7 @@
     "WRFD": "2.58",
     "WRNITRO": "323/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14650,7 +14650,7 @@
     "WRFD": "2.56",
     "WRNITRO": "323/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14667,7 +14667,7 @@
     "WRFD": "2.56",
     "WRNITRO": "323/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14684,7 +14684,7 @@
     "WRFD": "2.56",
     "WRNITRO": "323/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14701,7 +14701,7 @@
     "WRFD": "2.56",
     "WRNITRO": "323/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14718,7 +14718,7 @@
     "WRFD": "2.56",
     "WRNITRO": "323/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14735,7 +14735,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14752,7 +14752,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14769,7 +14769,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14786,7 +14786,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14803,7 +14803,7 @@
     "WRFD": "2.61",
     "WRNITRO": "235/6.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14820,7 +14820,7 @@
     "WRFD": "2.66",
     "WRNITRO": "242/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14837,7 +14837,7 @@
     "WRFD": "3.03",
     "WRNITRO": "478/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14854,7 +14854,7 @@
     "WRFD": "2.97",
     "WRNITRO": "521/6.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14871,7 +14871,7 @@
     "WRFD": "3.23",
     "WRNITRO": "521/6.7",
     "WRTIRE": "20/80",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14888,7 +14888,7 @@
     "WRFD": "3.19",
     "WRNITRO": "590/26.5",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14905,7 +14905,7 @@
     "WRFD": "3.21",
     "WRNITRO": "483/6.2",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -14922,7 +14922,7 @@
     "WRFD": "3.15",
     "WRNITRO": "615/28.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14939,7 +14939,7 @@
     "WRFD": "3.28",
     "WRNITRO": "558/5.1",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14956,7 +14956,7 @@
     "WRFD": "2.42",
     "WRNITRO": "253/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14973,7 +14973,7 @@
     "WRFD": "2.48",
     "WRNITRO": "253/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -14990,7 +14990,7 @@
     "WRFD": "2.48",
     "WRNITRO": "253/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15007,7 +15007,7 @@
     "WRFD": "2.29",
     "WRNITRO": "237/5.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15024,7 +15024,7 @@
     "WRFD": "2.48",
     "WRNITRO": "253/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15041,7 +15041,7 @@
     "WRFD": "2.43",
     "WRNITRO": "253/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15058,7 +15058,7 @@
     "WRFD": "2.43",
     "WRNITRO": "253/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15075,7 +15075,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15092,7 +15092,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15109,7 +15109,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -15126,7 +15126,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15143,7 +15143,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15160,7 +15160,7 @@
     "WRFD": "2.30",
     "WRNITRO": "424/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15177,7 +15177,7 @@
     "WRFD": "2.29",
     "WRNITRO": "421/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15194,7 +15194,7 @@
     "WRFD": "2.64",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P",
     "isEV": ""
   },
   {
@@ -15211,7 +15211,7 @@
     "WRFD": "2.19",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15228,7 +15228,7 @@
     "WRFD": "2.97",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -15245,7 +15245,7 @@
     "WRFD": "2.93",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -15262,7 +15262,7 @@
     "WRFD": "2.86",
     "WRNITRO": "256/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15279,7 +15279,7 @@
     "WRFD": "2.87",
     "WRNITRO": "266/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15296,7 +15296,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15313,7 +15313,7 @@
     "WRFD": "2.00",
     "WRNITRO": "181/5.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15330,7 +15330,7 @@
     "WRFD": "2.00",
     "WRNITRO": "181/5.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15347,7 +15347,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15364,7 +15364,7 @@
     "WRFD": "2.00",
     "WRNITRO": "266/7.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15381,7 +15381,7 @@
     "WRFD": "2.00",
     "WRNITRO": "278/8.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15398,7 +15398,7 @@
     "WRFD": "2.49",
     "WRNITRO": "436/5.9",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -15415,7 +15415,7 @@
     "WRFD": "2.50",
     "WRNITRO": "457/6.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -15432,7 +15432,7 @@
     "WRFD": "2.28",
     "WRNITRO": "448/5.5",
     "WRTIRE": "24/76",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -15449,7 +15449,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15466,7 +15466,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15483,7 +15483,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15500,7 +15500,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15517,7 +15517,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15534,7 +15534,7 @@
     "WRFD": "2.47",
     "WRNITRO": "221/5.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -15551,7 +15551,7 @@
     "WRFD": "2.00",
     "WRNITRO": "221/6.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15568,7 +15568,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15585,7 +15585,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15602,7 +15602,7 @@
     "WRFD": "2.00",
     "WRNITRO": "242/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15619,7 +15619,7 @@
     "WRFD": "2.33",
     "WRNITRO": "384/6.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15636,7 +15636,7 @@
     "WRFD": "2.02",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15653,7 +15653,7 @@
     "WRFD": "2.00",
     "WRNITRO": "200/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15670,7 +15670,7 @@
     "WRFD": "2.00",
     "WRNITRO": "198/6.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15687,7 +15687,7 @@
     "WRFD": "2.00",
     "WRNITRO": "200/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15704,7 +15704,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15721,7 +15721,7 @@
     "WRFD": "2.00",
     "WRNITRO": "161/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15738,7 +15738,7 @@
     "WRFD": "2.00",
     "WRNITRO": "158/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15755,7 +15755,7 @@
     "WRFD": "2.00",
     "WRNITRO": "183/4.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15772,7 +15772,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15789,7 +15789,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15806,7 +15806,7 @@
     "WRFD": "2.31",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -15823,7 +15823,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15840,7 +15840,7 @@
     "WRFD": "2.00",
     "WRNITRO": "77/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15857,7 +15857,7 @@
     "WRFD": "2.36",
     "WRNITRO": "457/6.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15874,7 +15874,7 @@
     "WRFD": "2.57",
     "WRNITRO": "270/5.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -15891,7 +15891,7 @@
     "WRFD": "2.00",
     "WRNITRO": "314/5.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15908,7 +15908,7 @@
     "WRFD": "2.51",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -15925,7 +15925,7 @@
     "WRFD": "2.20",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15942,7 +15942,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15959,7 +15959,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -15976,7 +15976,7 @@
     "WRFD": "2.00",
     "WRNITRO": "186/4.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -15993,7 +15993,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16010,7 +16010,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16027,7 +16027,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16044,7 +16044,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16061,7 +16061,7 @@
     "WRFD": "2.83",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -16078,7 +16078,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16095,7 +16095,7 @@
     "WRFD": "2.07",
     "WRNITRO": "493/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16112,7 +16112,7 @@
     "WRFD": "2.02",
     "WRNITRO": "521/6.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16129,7 +16129,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16146,7 +16146,7 @@
     "WRFD": "2.00",
     "WRNITRO": "185/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16163,7 +16163,7 @@
     "WRFD": "2.45",
     "WRNITRO": "493/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16180,7 +16180,7 @@
     "WRFD": "2.41",
     "WRNITRO": "521/6.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16197,7 +16197,7 @@
     "WRFD": "2.34",
     "WRNITRO": "380/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16214,7 +16214,7 @@
     "WRFD": "2.00",
     "WRNITRO": "395/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16231,7 +16231,7 @@
     "WRFD": "2.37",
     "WRNITRO": "395/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16248,7 +16248,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16265,7 +16265,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16282,7 +16282,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16299,7 +16299,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16316,7 +16316,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16333,7 +16333,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16350,7 +16350,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16367,7 +16367,7 @@
     "WRFD": "2.55",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16384,7 +16384,7 @@
     "WRFD": "2.54",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16401,7 +16401,7 @@
     "WRFD": "2.55",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16418,7 +16418,7 @@
     "WRFD": "2.55",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16435,7 +16435,7 @@
     "WRFD": "2.55",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16452,7 +16452,7 @@
     "WRFD": "2.55",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16469,7 +16469,7 @@
     "WRFD": "2.00",
     "WRNITRO": "337/5.8",
     "WRTIRE": "12/88",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16486,7 +16486,7 @@
     "WRFD": "2.45",
     "WRNITRO": "347/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16503,7 +16503,7 @@
     "WRFD": "2.45",
     "WRNITRO": "347/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16520,7 +16520,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16537,7 +16537,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16554,7 +16554,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16571,7 +16571,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16588,7 +16588,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16605,7 +16605,7 @@
     "WRFD": "2.23",
     "WRNITRO": "479/5.0",
     "WRTIRE": "40/60",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16622,7 +16622,7 @@
     "WRFD": "2.18",
     "WRNITRO": "430/5.0",
     "WRTIRE": "29/71",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16639,7 +16639,7 @@
     "WRFD": "2.17",
     "WRNITRO": "421/5.0",
     "WRTIRE": "33/67",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16656,7 +16656,7 @@
     "WRFD": "2.18",
     "WRNITRO": "235/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16673,7 +16673,7 @@
     "WRFD": "",
     "WRNITRO": "",
     "WRTIRE": "",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16690,7 +16690,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16707,7 +16707,7 @@
     "WRFD": "2.00",
     "WRNITRO": "692/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16724,7 +16724,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16741,7 +16741,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16758,7 +16758,7 @@
     "WRFD": "2.27",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16775,7 +16775,7 @@
     "WRFD": "2.23",
     "WRNITRO": "188/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16792,7 +16792,7 @@
     "WRFD": "2.00",
     "WRNITRO": "413/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16809,7 +16809,7 @@
     "WRFD": "2.00",
     "WRNITRO": "263/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16826,7 +16826,7 @@
     "WRFD": "2.00",
     "WRNITRO": "263/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16843,7 +16843,7 @@
     "WRFD": "2.25",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16860,7 +16860,7 @@
     "WRFD": "2.21",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16877,7 +16877,7 @@
     "WRFD": "2.00",
     "WRNITRO": "548/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16894,7 +16894,7 @@
     "WRFD": "2.00",
     "WRNITRO": "548/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16911,7 +16911,7 @@
     "WRFD": "2.09",
     "WRNITRO": "263/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16928,7 +16928,7 @@
     "WRFD": "2.00",
     "WRNITRO": "263/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -16945,7 +16945,7 @@
     "WRFD": "2.19",
     "WRNITRO": "406/7.0",
     "WRTIRE": "47/53",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -16962,7 +16962,7 @@
     "WRFD": "2.16",
     "WRNITRO": "432/7.1",
     "WRTIRE": "47/53",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -16979,7 +16979,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -16996,7 +16996,7 @@
     "WRFD": "2.36",
     "WRNITRO": "436/5.9",
     "WRTIRE": "10/90",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -17013,7 +17013,7 @@
     "WRFD": "2.29",
     "WRNITRO": "445/6.6",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17030,7 +17030,7 @@
     "WRFD": "2.02",
     "WRNITRO": "326/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -17047,7 +17047,7 @@
     "WRFD": "2.00",
     "WRNITRO": "345/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -17064,7 +17064,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17081,7 +17081,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17098,7 +17098,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17115,7 +17115,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17132,7 +17132,7 @@
     "WRFD": "2.75",
     "WRNITRO": "298/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -17149,7 +17149,7 @@
     "WRFD": "2.27",
     "WRNITRO": "298/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17166,7 +17166,7 @@
     "WRFD": "2.69",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -17183,7 +17183,7 @@
     "WRFD": "2.00",
     "WRNITRO": "150/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17200,7 +17200,7 @@
     "WRFD": "2.00",
     "WRNITRO": "150/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17217,7 +17217,7 @@
     "WRFD": "2.00",
     "WRNITRO": "338/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17234,7 +17234,7 @@
     "WRFD": "2.00",
     "WRNITRO": "347/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17251,7 +17251,7 @@
     "WRFD": "2.00",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17268,7 +17268,7 @@
     "WRFD": "2.30",
     "WRNITRO": "188/4.0",
     "WRTIRE": "13/87",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17285,7 +17285,7 @@
     "WRFD": "2.28",
     "WRNITRO": "188/4.0",
     "WRTIRE": "10/90",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17302,7 +17302,7 @@
     "WRFD": "2.19",
     "WRNITRO": "235/6.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -17319,7 +17319,7 @@
     "WRFD": "2.13",
     "WRNITRO": "242/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -17336,7 +17336,7 @@
     "WRFD": "2.78",
     "WRNITRO": "197/6.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -17353,7 +17353,7 @@
     "WRFD": "2.76",
     "WRNITRO": "204/6.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -17370,7 +17370,7 @@
     "WRFD": "2.42",
     "WRNITRO": "159/19.5",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17387,7 +17387,7 @@
     "WRFD": "2.00",
     "WRNITRO": "470/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17404,7 +17404,7 @@
     "WRFD": "2.43",
     "WRNITRO": "91/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17421,7 +17421,7 @@
     "WRFD": "2.34",
     "WRNITRO": "165/20.1",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17438,7 +17438,7 @@
     "WRFD": "2.03",
     "WRNITRO": "242/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17455,7 +17455,7 @@
     "WRFD": "2.05",
     "WRNITRO": "242/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17472,7 +17472,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17489,7 +17489,7 @@
     "WRFD": "2.09",
     "WRNITRO": "473/4.6",
     "WRTIRE": "50/50",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17506,7 +17506,7 @@
     "WRFD": "3.40",
     "WRNITRO": "218/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -17523,7 +17523,7 @@
     "WRFD": "2.63",
     "WRNITRO": "222/4.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17540,7 +17540,7 @@
     "WRFD": "2.00",
     "WRNITRO": "413/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17557,7 +17557,7 @@
     "WRFD": "2.00",
     "WRNITRO": "548/4.0",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17574,7 +17574,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17591,7 +17591,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17608,7 +17608,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17625,7 +17625,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17642,7 +17642,7 @@
     "WRFD": "2.00",
     "WRNITRO": "425/5.6",
     "WRTIRE": "15/85",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17659,7 +17659,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17676,7 +17676,7 @@
     "WRFD": "2.00",
     "WRNITRO": "132/3.9",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17693,7 +17693,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17710,7 +17710,7 @@
     "WRFD": "2.00",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17727,7 +17727,7 @@
     "WRFD": "2.00",
     "WRNITRO": "132/3.9",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17744,7 +17744,7 @@
     "WRFD": "2.00",
     "WRNITRO": "132/3.9",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17761,7 +17761,7 @@
     "WRFD": "2.00",
     "WRNITRO": "132/3.9",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17778,7 +17778,7 @@
     "WRFD": "2.53",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17795,7 +17795,7 @@
     "WRFD": "2.51",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17812,7 +17812,7 @@
     "WRFD": "2.51",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17829,7 +17829,7 @@
     "WRFD": "2.01",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17846,7 +17846,7 @@
     "WRFD": "2.01",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17863,7 +17863,7 @@
     "WRFD": "2.01",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17880,7 +17880,7 @@
     "WRFD": "2.04",
     "WRNITRO": "409/6.9",
     "WRTIRE": "20/80",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -17897,7 +17897,7 @@
     "WRFD": "2.01",
     "WRNITRO": "435/6.9",
     "WRTIRE": "21/79",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -17914,7 +17914,7 @@
     "WRFD": "2.31",
     "WRNITRO": "195/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -17931,7 +17931,7 @@
     "WRFD": "2.26",
     "WRNITRO": "204/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17948,7 +17948,7 @@
     "WRFD": "2.17",
     "WRNITRO": "395/5.6",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17965,7 +17965,7 @@
     "WRFD": "2.19",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -17982,7 +17982,7 @@
     "WRFD": "2.13",
     "WRNITRO": "113/16.5",
     "WRTIRE": "50/50",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -17999,7 +17999,7 @@
     "WRFD": "2.13",
     "WRNITRO": "116/16.8",
     "WRTIRE": "50/50",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18016,7 +18016,7 @@
     "WRFD": "2.08",
     "WRNITRO": "467/4.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18033,7 +18033,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18050,7 +18050,7 @@
     "WRFD": "2.31",
     "WRNITRO": "448/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18067,7 +18067,7 @@
     "WRFD": "2.24",
     "WRNITRO": "449/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18084,7 +18084,7 @@
     "WRFD": "2.30",
     "WRNITRO": "473/5.6",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18101,7 +18101,7 @@
     "WRFD": "2.13",
     "WRNITRO": "230/4.0",
     "WRTIRE": "1/99",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18118,7 +18118,7 @@
     "WRFD": "2.11",
     "WRNITRO": "236/4.0",
     "WRTIRE": "3/97",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18135,7 +18135,7 @@
     "WRFD": "2.10",
     "WRNITRO": "236/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18152,7 +18152,7 @@
     "WRFD": "2.61",
     "WRNITRO": "263/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18169,7 +18169,7 @@
     "WRFD": "2.62",
     "WRNITRO": "263/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18186,7 +18186,7 @@
     "WRFD": "2.54",
     "WRNITRO": "263/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18203,7 +18203,7 @@
     "WRFD": "3.16",
     "WRNITRO": "263/4.0",
     "WRTIRE": "53/47",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18220,7 +18220,7 @@
     "WRFD": "2.43",
     "WRNITRO": "263/4.0",
     "WRTIRE": "100/0",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18237,7 +18237,7 @@
     "WRFD": "3.36",
     "WRNITRO": "174/5.1",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -18254,7 +18254,7 @@
     "WRFD": "2.92",
     "WRNITRO": "183/4.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18271,7 +18271,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18288,7 +18288,7 @@
     "WRFD": "2.00",
     "WRNITRO": "557/4.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18305,7 +18305,7 @@
     "WRFD": "2.48",
     "WRNITRO": "190/5.2",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -18322,7 +18322,7 @@
     "WRFD": "2.00",
     "WRNITRO": "195/5.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18339,7 +18339,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18356,7 +18356,7 @@
     "WRFD": "2.00",
     "WRNITRO": "198/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18373,7 +18373,7 @@
     "WRFD": "2.00",
     "WRNITRO": "200/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18390,7 +18390,7 @@
     "WRFD": "2.00",
     "WRNITRO": "63/12.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18407,7 +18407,7 @@
     "WRFD": "2.00",
     "WRNITRO": "200/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18424,7 +18424,7 @@
     "WRFD": "2.00",
     "WRNITRO": "200/5.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18441,7 +18441,7 @@
     "WRFD": "2.14",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "0",
     "isEV": ""
   },
   {
@@ -18458,7 +18458,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18475,7 +18475,7 @@
     "WRFD": "2.00",
     "WRNITRO": "236/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18492,7 +18492,7 @@
     "WRFD": "2.00",
     "WRNITRO": "467/5.8",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18509,7 +18509,7 @@
     "WRFD": "2.41",
     "WRNITRO": "230/3.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18526,7 +18526,7 @@
     "WRFD": "2.43",
     "WRNITRO": "236/3.4",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18543,7 +18543,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/3.3",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18560,7 +18560,7 @@
     "WRFD": "2.18",
     "WRNITRO": "380/5.5",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18577,7 +18577,7 @@
     "WRFD": "2.06",
     "WRNITRO": "470/5.7",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18594,7 +18594,7 @@
     "WRFD": "2.29",
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18611,7 +18611,7 @@
     "WRFD": "2.37",
     "WRNITRO": "230/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18628,7 +18628,7 @@
     "WRFD": "2.33",
     "WRNITRO": "236/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18645,7 +18645,7 @@
     "WRFD": "2.00",
     "WRNITRO": "425/5.5",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18662,7 +18662,7 @@
     "WRFD": "2.00",
     "WRNITRO": "443/5.6",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18679,7 +18679,7 @@
     "WRFD": "2.16",
     "WRNITRO": "448/5.5",
     "WRTIRE": "12/88",
-    "Star": "",
+    "Star": "G.G.G.G",
     "isEV": ""
   },
   {
@@ -18696,7 +18696,7 @@
     "WRFD": "2.12",
     "WRNITRO": "473/5.6",
     "WRTIRE": "12/88",
-    "Star": "",
+    "Star": "P.P.P.P",
     "isEV": ""
   },
   {
@@ -18713,7 +18713,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18730,7 +18730,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18747,7 +18747,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18764,7 +18764,7 @@
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18781,7 +18781,7 @@
     "WRFD": "2.03",
     "WRNITRO": "402/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18798,7 +18798,7 @@
     "WRFD": "2.00",
     "WRNITRO": "419/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18815,7 +18815,7 @@
     "WRFD": "2.00",
     "WRNITRO": "419/4.0",
     "WRTIRE": "56/44",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18832,7 +18832,7 @@
     "WRFD": "2.11",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "G.G.G.G.G",
     "isEV": ""
   },
   {
@@ -18849,7 +18849,7 @@
     "WRFD": "2.11",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18866,7 +18866,7 @@
     "WRFD": "2.00",
     "WRNITRO": "392/4.1",
     "WRTIRE": "52/48",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18883,7 +18883,7 @@
     "WRFD": "2.11",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   },
   {
@@ -18900,7 +18900,7 @@
     "WRFD": "2.08",
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
-    "Star": "",
+    "Star": "P.P.P.P.P",
     "isEV": ""
   }
 ]
