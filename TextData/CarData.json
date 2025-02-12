@@ -680,6 +680,23 @@
     "isEV": 0
   },
   {
+    "DBName": "AstonMartin_DB5Classic_1964_UR",
+    "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "0",
+    "isEV": 0
+  },
+  {
     "DBName": "AstonMartin_DB5Classic_1964",
     "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
     "SHIFT": "https://www.youtube.com/watch?v=ADotipMiIRM",
@@ -779,6 +796,23 @@
     "WRNITRO": "0/0.0",
     "WRTIRE": "0/0",
     "Star": "P.P.P",
+    "isEV": 0
+  },
+  {
+    "DBName": "Ferrari_250GTOClassic_1962_UR",
+    "Vision": "Added into the game in Update 1.23 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "0",
     "isEV": 0
   },
   {
@@ -1085,6 +1119,23 @@
     "WRNITRO": "0/0.0",
     "WRTIRE": "0/0",
     "Star": "P.P.P",
+    "isEV": 0
+  },
+  {
+    "DBName": "MercedesBenz_300SLClassic_1954_UR",
+    "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "0",
     "isEV": 0
   },
   {
@@ -1751,6 +1802,23 @@
     "isEV": 0
   },
   {
+    "DBName": "Chevrolet_CorvetteZR1Classic_1970_UR",
+    "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "0",
+    "isEV": 0
+  },
+  {
     "DBName": "Chevrolet_CorvetteZR1Classic_1970",
     "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
     "SHIFT": "",
@@ -2329,6 +2397,23 @@
     "isEV": 0
   },
   {
+    "DBName": "Pontiac_GTOTheJudgeClassic_1969_UR",
+    "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "n.A",
+    "isEV": 0
+  },
+  {
     "DBName": "Pontiac_GTOTheJudgeClassic_1969",
     "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
     "SHIFT": "https://www.youtube.com/watch?v=tucxVWIC2DE",
@@ -2445,6 +2530,23 @@
     "WRNITRO": "254/5.6",
     "WRTIRE": "0/100",
     "Star": "G.G.G",
+    "isEV": 0
+  },
+  {
+    "DBName": "Shelby_Cobra427SCClassic_1965_UR",
+    "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "0",
     "isEV": 0
   },
   {
@@ -4420,6 +4522,23 @@
     "isEV": 0
   },
   {
+    "DBName": "Honda_NSXRClassic_1992_UR",
+    "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "0",
+    "isEV": 0
+  },
+  {
     "DBName": "Honda_NSXRClassic_1992",
     "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
     "SHIFT": "https://www.youtube.com/watch?v=eLI8LAFjz-g",
@@ -4723,6 +4842,23 @@
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
     "Star": "P.P.P.P",
+    "isEV": 0
+  },
+  {
+    "DBName": "Lamborghini_CountachClassic_1988_UR",
+    "Vision": "",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "0",
     "isEV": 0
   },
   {
@@ -5879,6 +6015,23 @@
     "WRNITRO": "188/4.0",
     "WRTIRE": "0/100",
     "Star": "P.P.P.P.P",
+    "isEV": 0
+  },
+  {
+    "DBName": "Plymouth_HemiCudaClassic_1971_UR",
+    "Vision": "Added into the game in Update 2.0.0 and released in Season 62 (November 1, 2018 - November 15, 2018) as a part of the Legends campaign.",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": "0.000",
+    "WRpp": "0",
+    "WRevo": "0",
+    "WRFD": "0.00",
+    "WRNITRO": "0/0.0",
+    "WRTIRE": "0/0",
+    "Star": "0",
     "isEV": 0
   },
   {
