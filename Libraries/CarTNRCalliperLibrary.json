@@ -1,0 +1,465 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5019518530658817703
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -966764939350691952
+  },
+  "m_Name": "",
+  "CarTNRCallipers": [
+    {
+      "ID": 1000001,
+      "Name": "AEM Mandarin Alert",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.309803933,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000002,
+      "Name": "AEM Solar Eclipse",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.478431374,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000003,
+      "Name": "AEM Lemon Drop",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.670588255,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000004,
+      "Name": "AEM Hornet Yellow",
+      "Zone1DiffuseTint": {
+        "r": 0.972549,
+        "g": 0.796078444,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000005,
+      "Name": "AEM Iguana Run",
+      "Zone1DiffuseTint": {
+        "r": 0.7921569,
+        "g": 1.0,
+        "b": 0.223529413,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000006,
+      "Name": "AEM Energy Lime Green",
+      "Zone1DiffuseTint": {
+        "r": 0.129411772,
+        "g": 0.8980392,
+        "b": 0.08627451,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000007,
+      "Name": "AEM Kiwi Power",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.3529412,
+        "b": 0.239215687,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000008,
+      "Name": "AEM Racing Green",
+      "Zone1DiffuseTint": {
+        "r": 0.02745098,
+        "g": 0.2509804,
+        "b": 0.298039228,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000009,
+      "Name": "AEM Bright Turquoise",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.9607843,
+        "b": 0.882352948,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000010,
+      "Name": "AEM Energy Mint",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.635294139,
+        "b": 0.6901961,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000011,
+      "Name": "AEM Candy Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0117647061,
+        "g": 0.427450985,
+        "b": 0.709803939,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000012,
+      "Name": "AEM Hyper Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.121568628,
+        "g": 0.274509817,
+        "b": 0.847058833,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000013,
+      "Name": "AEM Blue By-You",
+      "Zone1DiffuseTint": {
+        "r": 0.137254909,
+        "g": 0.152941182,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000014,
+      "Name": "AEM Persian Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.368627459,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000015,
+      "Name": "AEM Hot Azalea",
+      "Zone1DiffuseTint": {
+        "r": 0.482352942,
+        "g": 0.101960786,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000016,
+      "Name": "AEM Psychedelic Purple",
+      "Zone1DiffuseTint": {
+        "r": 0.78039217,
+        "g": 0.168627456,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000017,
+      "Name": "AEM Purple Pizzazz",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.34117648,
+        "b": 0.9647059,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000018,
+      "Name": "AEM Fashion Fuchsia",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.09019608,
+        "b": 0.6627451,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000019,
+      "Name": "AEM Casis Haze",
+      "Zone1DiffuseTint": {
+        "r": 0.6392157,
+        "g": 0.113725491,
+        "b": 0.3254902,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000020,
+      "Name": "AEM Hyper Red",
+      "Zone1DiffuseTint": {
+        "r": 0.458823532,
+        "g": 0.0,
+        "b": 0.13333334,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000021,
+      "Name": "AEM Candy Red",
+      "Zone1DiffuseTint": {
+        "r": 0.56078434,
+        "g": 0.05490196,
+        "b": 0.09019608,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000022,
+      "Name": "AEM Red Hot Meltdown",
+      "Zone1DiffuseTint": {
+        "r": 0.819607854,
+        "g": 0.003921569,
+        "b": 0.0431372561,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000023,
+      "Name": "AEM Onyx",
+      "Zone1DiffuseTint": {
+        "r": 0.06666667,
+        "g": 0.06666667,
+        "b": 0.06666667,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000024,
+      "Name": "AEM Mine Shaft",
+      "Zone1DiffuseTint": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000025,
+      "Name": "AEM Big Stone",
+      "Zone1DiffuseTint": {
+        "r": 0.203921571,
+        "g": 0.239215687,
+        "b": 0.274509817,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000026,
+      "Name": "AEM Dark Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.333333343,
+        "g": 0.333333343,
+        "b": 0.333333343,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000027,
+      "Name": "AEM Fiord",
+      "Zone1DiffuseTint": {
+        "r": 0.309803933,
+        "g": 0.356862754,
+        "b": 0.4,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000028,
+      "Name": "AEM Monsoon",
+      "Zone1DiffuseTint": {
+        "r": 0.466666669,
+        "g": 0.466666669,
+        "b": 0.466666669,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000029,
+      "Name": "AEM Light Slate Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.498039216,
+        "g": 0.5411765,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000030,
+      "Name": "AEM Mountain Mist",
+      "Zone1DiffuseTint": {
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000031,
+      "Name": "Global Red",
+      "Zone1DiffuseTint": {
+        "r": 0.8156863,
+        "g": 0.156862751,
+        "b": 0.156862751,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0,
+      "Category": 4,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "ID": 1000132,
+      "Name": "Global Black",
+      "Zone1DiffuseTint": {
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0,
+      "Category": 4,
+      "IncludeToCar": "All"
+    }
+  ],
+  "ExclusionListCalliperIDKey": [],
+  "ExclusionListCarIDValues": [],
+  "isModified": 0
+}
