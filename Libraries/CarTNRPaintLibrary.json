@@ -1,0 +1,3739 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6226360718346967326
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6455033034255129196
+  },
+  "m_Name": "",
+  "CarTNRPaints": [
+    {
+      "Name": "AEM Mandarin Alert",
+      "UnlockLevel": -1,
+      "ID": 1000001,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.309803933,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.309803933,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Solar Eclipse",
+      "UnlockLevel": -1,
+      "ID": 1000002,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.478431374,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.478431374,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Lemon Drop",
+      "UnlockLevel": -1,
+      "ID": 1000003,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.670588255,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.670588255,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hornet Yellow",
+      "UnlockLevel": -1,
+      "ID": 1000004,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.972549,
+        "g": 0.796078444,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.972549,
+        "g": 0.796078444,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Iguana Run",
+      "UnlockLevel": -1,
+      "ID": 1000005,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.7921569,
+        "g": 1.0,
+        "b": 0.223529413,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.7921569,
+        "g": 1.0,
+        "b": 0.223529413,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Energy Lime Green",
+      "UnlockLevel": -1,
+      "ID": 1000006,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.129411772,
+        "g": 0.8980392,
+        "b": 0.08627451,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.129411772,
+        "g": 0.8980392,
+        "b": 0.08627451,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Kiwi Power",
+      "UnlockLevel": -1,
+      "ID": 1000007,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.3529412,
+        "b": 0.239215687,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.3529412,
+        "b": 0.239215687,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Racing Green",
+      "UnlockLevel": -1,
+      "ID": 1000008,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.02745098,
+        "g": 0.2509804,
+        "b": 0.298039228,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.02745098,
+        "g": 0.2509804,
+        "b": 0.298039228,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Bright Turquoise",
+      "UnlockLevel": -1,
+      "ID": 1000009,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.9607843,
+        "b": 0.882352948,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.9607843,
+        "b": 0.882352948,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Energy Mint",
+      "UnlockLevel": -1,
+      "ID": 1000010,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.635294139,
+        "b": 0.6901961,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.635294139,
+        "b": 0.6901961,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Candy Blue",
+      "UnlockLevel": -1,
+      "ID": 1000011,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.0117647061,
+        "g": 0.427450985,
+        "b": 0.709803939,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0117647061,
+        "g": 0.427450985,
+        "b": 0.709803939,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hyper Blue",
+      "UnlockLevel": -1,
+      "ID": 1000012,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.121568628,
+        "g": 0.274509817,
+        "b": 0.847058833,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.121568628,
+        "g": 0.274509817,
+        "b": 0.847058833,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Blue By-You",
+      "UnlockLevel": -1,
+      "ID": 1000013,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.137254909,
+        "g": 0.152941182,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.145098045,
+        "g": 0.156862751,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Persian Blue",
+      "UnlockLevel": -1,
+      "ID": 1000014,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.368627459,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.368627459,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hot Azalea",
+      "UnlockLevel": -1,
+      "ID": 1000015,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.482352942,
+        "g": 0.101960786,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.482352942,
+        "g": 0.101960786,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Psychedelic Purple",
+      "UnlockLevel": -1,
+      "ID": 1000016,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.78039217,
+        "g": 0.168627456,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.78039217,
+        "g": 0.168627456,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Purple Pizzazz",
+      "UnlockLevel": -1,
+      "ID": 1000017,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.34117648,
+        "b": 0.9647059,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.34117648,
+        "b": 0.9647059,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Fashion Fuchsia",
+      "UnlockLevel": -1,
+      "ID": 1000018,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.09019608,
+        "b": 0.6627451,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.09019608,
+        "b": 0.6627451,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Casis Haze",
+      "UnlockLevel": -1,
+      "ID": 1000019,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.6392157,
+        "g": 0.113725491,
+        "b": 0.3254902,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.6392157,
+        "g": 0.113725491,
+        "b": 0.3254902,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hyper Red",
+      "UnlockLevel": -1,
+      "ID": 1000020,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.458823532,
+        "g": 0.0,
+        "b": 0.13333334,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.458823532,
+        "g": 0.0,
+        "b": 0.13333334,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Candy Red",
+      "UnlockLevel": -1,
+      "ID": 1000021,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.623529434,
+        "g": 0.0627451,
+        "b": 0.101960786,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.623529434,
+        "g": 0.0627451,
+        "b": 0.101960786,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Red Hot Meltdown",
+      "UnlockLevel": -1,
+      "ID": 1000022,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.819607854,
+        "g": 0.0235294122,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.819607854,
+        "g": 0.0235294122,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mandarin Alert",
+      "UnlockLevel": -1,
+      "ID": 1000023,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.929411769,
+        "g": 0.2,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.447058827,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Solar Eclipse",
+      "UnlockLevel": -1,
+      "ID": 1000024,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.929411769,
+        "g": 0.380392164,
+        "b": 0.07450981,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.670588255,
+        "b": 0.08627451,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Lemon Drop",
+      "UnlockLevel": -1,
+      "ID": 1000025,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.929411769,
+        "g": 0.5568628,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.8392157,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hornet Yellow",
+      "UnlockLevel": -1,
+      "ID": 1000026,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.733333349,
+        "g": 0.572549045,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.980392158,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Iguana Run",
+      "UnlockLevel": -1,
+      "ID": 1000027,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.482352942,
+        "g": 0.6156863,
+        "b": 0.117647059,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.784313738,
+        "g": 1.0,
+        "b": 0.192156866,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Energy Lime Green",
+      "UnlockLevel": -1,
+      "ID": 1000028,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.149019614,
+        "g": 0.5803922,
+        "b": 0.0509803928,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.305882365,
+        "g": 1.0,
+        "b": 0.0509803928,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Kiwi Power",
+      "UnlockLevel": -1,
+      "ID": 1000029,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.270588249,
+        "b": 0.184313729,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.6117647,
+        "b": 0.4117647,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Racing Green",
+      "UnlockLevel": -1,
+      "ID": 1000030,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0117647061,
+        "g": 0.13333334,
+        "b": 0.160784319,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.07450981,
+        "g": 0.419607848,
+        "b": 0.498039216,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Bright Turquoise",
+      "UnlockLevel": -1,
+      "ID": 1000031,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.545098066,
+        "b": 0.5019608,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.917647064,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Energy Mint",
+      "UnlockLevel": -1,
+      "ID": 1000032,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.478431374,
+        "b": 0.521568656,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.921568632,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Candy Blue",
+      "UnlockLevel": -1,
+      "ID": 1000033,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.007843138,
+        "g": 0.333333343,
+        "b": 0.5529412,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0156862754,
+        "g": 0.5294118,
+        "b": 0.8784314,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hyper Blue",
+      "UnlockLevel": -1,
+      "ID": 1000034,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.09411765,
+        "g": 0.20784314,
+        "b": 0.647058845,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.145098045,
+        "g": 0.3254902,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Blue By-You",
+      "UnlockLevel": -1,
+      "ID": 1000035,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.09411765,
+        "g": 0.101960786,
+        "b": 0.392156869,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.109803922,
+        "g": 0.129411772,
+        "b": 0.7607843,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Persian Blue",
+      "UnlockLevel": -1,
+      "ID": 1000036,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.254901975,
+        "g": 0.0,
+        "b": 0.6901961,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.368627459,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hot Azalea",
+      "UnlockLevel": -1,
+      "ID": 1000037,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.309803933,
+        "g": 0.06666667,
+        "b": 0.6392157,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.482352942,
+        "g": 0.101960786,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Psychedelic Purple",
+      "UnlockLevel": -1,
+      "ID": 1000038,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.5137255,
+        "g": 0.109803922,
+        "b": 0.65882355,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.745098054,
+        "g": 0.02745098,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Purple Pizzazz",
+      "UnlockLevel": -1,
+      "ID": 1000039,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.6392157,
+        "g": 0.219607845,
+        "b": 0.619607866,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.192156866,
+        "b": 0.956862748,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Fashion Fuchsia",
+      "UnlockLevel": -1,
+      "ID": 1000040,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.627451,
+        "g": 0.05490196,
+        "b": 0.41568628,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.627451,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Casis Haze",
+      "UnlockLevel": -1,
+      "ID": 1000041,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.435294122,
+        "g": 0.03529412,
+        "b": 0.196078435,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.8352941,
+        "g": 0.149019614,
+        "b": 0.423529416,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hyper Red",
+      "UnlockLevel": -1,
+      "ID": 1000042,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.345098048,
+        "g": 0.0,
+        "b": 0.101960786,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.7764706,
+        "g": 0.0,
+        "b": 0.227450982,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Candy Red",
+      "UnlockLevel": -1,
+      "ID": 1000043,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.454901963,
+        "g": 0.0,
+        "b": 0.03137255,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.7529412,
+        "g": 0.07450981,
+        "b": 0.121568628,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Red Hot Meltdown",
+      "UnlockLevel": -1,
+      "ID": 1000044,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.5921569,
+        "g": 0.003921569,
+        "b": 0.03137255,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.9137255,
+        "g": 0.121568628,
+        "b": 0.0470588244,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mandarin Alert",
+      "UnlockLevel": -1,
+      "ID": 1000045,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.309803933,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.309803933,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Solar Eclipse",
+      "UnlockLevel": -1,
+      "ID": 1000046,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.478431374,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.478431374,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Lemon Drop",
+      "UnlockLevel": -1,
+      "ID": 1000047,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.670588255,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.670588255,
+        "b": 0.109803922,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hornet Yellow",
+      "UnlockLevel": -1,
+      "ID": 1000048,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.972549,
+        "g": 0.796078444,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.972549,
+        "g": 0.796078444,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Iguana Run",
+      "UnlockLevel": -1,
+      "ID": 1000049,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.7921569,
+        "g": 1.0,
+        "b": 0.223529413,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.7921569,
+        "g": 1.0,
+        "b": 0.223529413,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Energy Lime Green",
+      "UnlockLevel": -1,
+      "ID": 1000050,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.129411772,
+        "g": 0.8980392,
+        "b": 0.08627451,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.129411772,
+        "g": 0.8980392,
+        "b": 0.08627451,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Kiwi Power",
+      "UnlockLevel": -1,
+      "ID": 1000051,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.3529412,
+        "b": 0.239215687,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.3529412,
+        "b": 0.239215687,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Racing Green",
+      "UnlockLevel": -1,
+      "ID": 1000052,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.02745098,
+        "g": 0.2509804,
+        "b": 0.298039228,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.02745098,
+        "g": 0.2509804,
+        "b": 0.298039228,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Bright Turquoise",
+      "UnlockLevel": -1,
+      "ID": 1000053,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.9607843,
+        "b": 0.882352948,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.9607843,
+        "b": 0.882352948,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Energy Mint",
+      "UnlockLevel": -1,
+      "ID": 1000054,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.635294139,
+        "b": 0.6901961,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.635294139,
+        "b": 0.6901961,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Candy Blue",
+      "UnlockLevel": -1,
+      "ID": 1000055,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.0117647061,
+        "g": 0.427450985,
+        "b": 0.709803939,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0117647061,
+        "g": 0.427450985,
+        "b": 0.709803939,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hyper Blue",
+      "UnlockLevel": -1,
+      "ID": 1000056,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.121568628,
+        "g": 0.274509817,
+        "b": 0.847058833,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.121568628,
+        "g": 0.274509817,
+        "b": 0.847058833,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Blue By-You",
+      "UnlockLevel": -1,
+      "ID": 1000057,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.137254909,
+        "g": 0.152941182,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.137254909,
+        "g": 0.152941182,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Persian Blue",
+      "UnlockLevel": -1,
+      "ID": 1000058,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.368627459,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.368627459,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hot Azalea",
+      "UnlockLevel": -1,
+      "ID": 1000059,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.482352942,
+        "g": 0.101960786,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.482352942,
+        "g": 0.101960786,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Psychedelic Purple",
+      "UnlockLevel": -1,
+      "ID": 1000060,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.78039217,
+        "g": 0.168627456,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.78039217,
+        "g": 0.168627456,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Purple Pizzazz",
+      "UnlockLevel": -1,
+      "ID": 1000061,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.34117648,
+        "b": 0.9647059,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.34117648,
+        "b": 0.9647059,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Fashion Fuchsia",
+      "UnlockLevel": -1,
+      "ID": 1000062,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.09019608,
+        "b": 0.6627451,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.09019608,
+        "b": 0.6627451,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Casis Haze",
+      "UnlockLevel": -1,
+      "ID": 1000063,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.6392157,
+        "g": 0.113725491,
+        "b": 0.3254902,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.6392157,
+        "g": 0.113725491,
+        "b": 0.3254902,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hyper Red",
+      "UnlockLevel": -1,
+      "ID": 1000064,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.458823532,
+        "g": 0.0,
+        "b": 0.13333334,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.458823532,
+        "g": 0.0,
+        "b": 0.13333334,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Candy Red",
+      "UnlockLevel": -1,
+      "ID": 1000065,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.623529434,
+        "g": 0.0627451,
+        "b": 0.101960786,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.623529434,
+        "g": 0.0627451,
+        "b": 0.101960786,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Red Hot Meltdown",
+      "UnlockLevel": -1,
+      "ID": 1000066,
+      "CarPaintType": 3,
+      "DiffuseTint": {
+        "r": 0.819607854,
+        "g": 0.003921569,
+        "b": 0.0431372561,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.819607854,
+        "g": 0.003921569,
+        "b": 0.0431372561,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Onyx",
+      "UnlockLevel": -1,
+      "ID": 1000067,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 0.06666667,
+        "g": 0.06666667,
+        "b": 0.06666667,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.06666667,
+        "g": 0.06666667,
+        "b": 0.06666667,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mine Shaft",
+      "UnlockLevel": -1,
+      "ID": 1000068,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Big Stone",
+      "UnlockLevel": -1,
+      "ID": 1000069,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 0.203921571,
+        "g": 0.239215687,
+        "b": 0.274509817,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.203921571,
+        "g": 0.239215687,
+        "b": 0.274509817,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Dark Gray",
+      "UnlockLevel": -1,
+      "ID": 1000070,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 0.333333343,
+        "g": 0.333333343,
+        "b": 0.333333343,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.333333343,
+        "g": 0.333333343,
+        "b": 0.333333343,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Fiord",
+      "UnlockLevel": -1,
+      "ID": 1000071,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 0.309803933,
+        "g": 0.356862754,
+        "b": 0.4,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.309803933,
+        "g": 0.356862754,
+        "b": 0.4,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Monsoon",
+      "UnlockLevel": -1,
+      "ID": 1000072,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 0.466666669,
+        "g": 0.466666669,
+        "b": 0.466666669,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.466666669,
+        "g": 0.466666669,
+        "b": 0.466666669,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Light Slate Gray",
+      "UnlockLevel": -1,
+      "ID": 1000073,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 0.498039216,
+        "g": 0.5411765,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.498039216,
+        "g": 0.5411765,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mountain Mist",
+      "UnlockLevel": -1,
+      "ID": 1000074,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM White",
+      "UnlockLevel": -1,
+      "ID": 1000075,
+      "CarPaintType": 13,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Onyx",
+      "UnlockLevel": -1,
+      "ID": 1000076,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.06666667,
+        "g": 0.06666667,
+        "b": 0.06666667,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.31764707,
+        "g": 0.31764707,
+        "b": 0.31764707,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mine Shaft",
+      "UnlockLevel": -1,
+      "ID": 1000077,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.160784319,
+        "g": 0.160784319,
+        "b": 0.160784319,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.3529412,
+        "g": 0.3529412,
+        "b": 0.3529412,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Big Stone",
+      "UnlockLevel": -1,
+      "ID": 1000078,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.168627456,
+        "g": 0.2,
+        "b": 0.227450982,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.3254902,
+        "g": 0.384313732,
+        "b": 0.4392157,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Dark Gray",
+      "UnlockLevel": -1,
+      "ID": 1000079,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.254901975,
+        "g": 0.254901975,
+        "b": 0.254901975,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.423529416,
+        "g": 0.423529416,
+        "b": 0.423529416,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Fiord",
+      "UnlockLevel": -1,
+      "ID": 1000080,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.239215687,
+        "g": 0.274509817,
+        "b": 0.309803933,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.396078438,
+        "g": 0.454901963,
+        "b": 0.509803951,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Monsoon",
+      "UnlockLevel": -1,
+      "ID": 1000081,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.34117648,
+        "g": 0.34117648,
+        "b": 0.34117648,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.596078455,
+        "g": 0.596078455,
+        "b": 0.596078455,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Light Slate Gray",
+      "UnlockLevel": -1,
+      "ID": 1000082,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.368627459,
+        "g": 0.4,
+        "b": 0.423529416,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.5882353,
+        "g": 0.6392157,
+        "b": 0.6784314,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mountain Mist",
+      "UnlockLevel": -1,
+      "ID": 1000083,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.435294122,
+        "g": 0.435294122,
+        "b": 0.435294122,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.6901961,
+        "g": 0.6901961,
+        "b": 0.6901961,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM White",
+      "UnlockLevel": -1,
+      "ID": 1000084,
+      "CarPaintType": 10,
+      "DiffuseTint": {
+        "r": 0.796078444,
+        "g": 0.796078444,
+        "b": 0.796078444,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Onyx",
+      "UnlockLevel": -1,
+      "ID": 1000085,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 0.06666667,
+        "g": 0.06666667,
+        "b": 0.06666667,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.06666667,
+        "g": 0.06666667,
+        "b": 0.06666667,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mine Shaft",
+      "UnlockLevel": -1,
+      "ID": 1000086,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Big Stone",
+      "UnlockLevel": -1,
+      "ID": 1000087,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 0.203921571,
+        "g": 0.239215687,
+        "b": 0.274509817,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.203921571,
+        "g": 0.239215687,
+        "b": 0.274509817,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Dark Gray",
+      "UnlockLevel": -1,
+      "ID": 1000088,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 0.333333343,
+        "g": 0.333333343,
+        "b": 0.333333343,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.333333343,
+        "g": 0.333333343,
+        "b": 0.333333343,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Fiord",
+      "UnlockLevel": -1,
+      "ID": 1000089,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 0.309803933,
+        "g": 0.356862754,
+        "b": 0.4,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.309803933,
+        "g": 0.356862754,
+        "b": 0.4,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Monsoon",
+      "UnlockLevel": -1,
+      "ID": 1000090,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 0.466666669,
+        "g": 0.466666669,
+        "b": 0.466666669,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.466666669,
+        "g": 0.466666669,
+        "b": 0.466666669,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Light Slate Gray",
+      "UnlockLevel": -1,
+      "ID": 1000091,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 0.498039216,
+        "g": 0.5411765,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.498039216,
+        "g": 0.5411765,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 1,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mountain Mist",
+      "UnlockLevel": -1,
+      "ID": 1000092,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM White",
+      "UnlockLevel": -1,
+      "ID": 1000093,
+      "CarPaintType": 12,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.5,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Vitriol Glory",
+      "UnlockLevel": -1,
+      "ID": 1000094,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.0431372561,
+        "b": 0.31764707,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.972549,
+        "g": 0.1764706,
+        "b": 0.227450982,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Cyber Grape",
+      "UnlockLevel": -1,
+      "ID": 1000095,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.105882354,
+        "g": 0.0,
+        "b": 0.294117659,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.7529412,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Witchcraft Mint",
+      "UnlockLevel": -1,
+      "ID": 1000096,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.184313729,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.396078438,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Bitter Brown",
+      "UnlockLevel": -1,
+      "ID": 1000097,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.266666681,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.7137255,
+        "g": 1.0,
+        "b": 0.5137255,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Electric Olive",
+      "UnlockLevel": -1,
+      "ID": 1000098,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.227450982,
+        "g": 0.0,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.870588243,
+        "g": 1.0,
+        "b": 0.4117647,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Arsenic Night",
+      "UnlockLevel": -1,
+      "ID": 1000099,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.20784314,
+        "g": 0.0235294122,
+        "b": 0.227450982,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.8745098,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Acid Green",
+      "UnlockLevel": -1,
+      "ID": 1000100,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.05882353,
+        "g": 0.31764707,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.635294139,
+        "b": 0.3529412,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "Mystic Egg",
+      "UnlockLevel": -1,
+      "ID": 1000101,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.509803951,
+        "g": 0.360784322,
+        "b": 0.521568656,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.266666681,
+        "g": 1.0,
+        "b": 0.75686276,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Citrine Candy",
+      "UnlockLevel": -1,
+      "ID": 1000102,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.8392157,
+        "g": 0.4117647,
+        "b": 0.56078434,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Sour Yellow",
+      "UnlockLevel": -1,
+      "ID": 1000103,
+      "CarPaintType": 8,
+      "DiffuseTint": {
+        "r": 0.7176471,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 1.0,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 0.8,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Silver",
+      "UnlockLevel": -1,
+      "ID": 1000104,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.2509804,
+        "g": 0.2901961,
+        "b": 0.298039228,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.8392157,
+        "g": 0.819607854,
+        "b": 0.7764706,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Alloy",
+      "UnlockLevel": -1,
+      "ID": 1000105,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.05882353,
+        "g": 0.0627451,
+        "b": 0.0627451,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.972549,
+        "b": 0.905882359,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Titanium",
+      "UnlockLevel": -1,
+      "ID": 1000106,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.1882353,
+        "g": 0.172549024,
+        "b": 0.137254909,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.7411765,
+        "g": 0.6509804,
+        "b": 0.4862745,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Bronze",
+      "UnlockLevel": -1,
+      "ID": 1000107,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.196078435,
+        "g": 0.08235294,
+        "b": 0.0431372561,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.7529412,
+        "b": 0.6117647,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Copper",
+      "UnlockLevel": -1,
+      "ID": 1000108,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.309803933,
+        "g": 0.129411772,
+        "b": 0.0470588244,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.41568628,
+        "b": 0.247058824,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Gold",
+      "UnlockLevel": -1,
+      "ID": 1000109,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.329411775,
+        "g": 0.223529413,
+        "b": 0.0627451,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.772549033,
+        "b": 0.0235294122,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Hematite",
+      "UnlockLevel": -1,
+      "ID": 1000110,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.305882365,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.2901961,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Palladium",
+      "UnlockLevel": -1,
+      "ID": 1000111,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.168627456,
+        "g": 0.0,
+        "b": 0.243137255,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.20784314,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Cobalt",
+      "UnlockLevel": -1,
+      "ID": 1000112,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.0235294122,
+        "g": 0.02745098,
+        "b": 0.2509804,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.7294118,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "AEM Mecury",
+      "UnlockLevel": -1,
+      "ID": 1000113,
+      "CarPaintType": 4,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.141176477,
+        "b": 0.2784314,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.7921569,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.8,
+      "MetallicShininess": 0.6,
+      "ClearCoatF0": 0.4,
+      "ClearCoatShininess": 0.4,
+      "FresnelPower": 2.0,
+      "MetallicBoost": 1.0,
+      "Category": 2,
+      "IncludeToCar": "All\r"
+    },
+    {
+      "Name": "Subaru Ceramic White",
+      "UnlockLevel": -1,
+      "ID": 1000114,
+      "CarPaintType": 2,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.4,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Subaru_BRZTNR_2020"
+    },
+    {
+      "Name": "Toyota Renaissance Red 2.0",
+      "UnlockLevel": -1,
+      "ID": 1000115,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.5529412,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.8235294,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.7,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Toyota_GRSupraTNR_2020"
+    },
+    {
+      "Name": "Lexus Infrared",
+      "UnlockLevel": -1,
+      "ID": 1000116,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.58431375,
+        "g": 0.0,
+        "b": 0.05490196,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.8784314,
+        "g": 0.0,
+        "b": 0.09803922,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Lexus_LC500TNR_2018"
+    },
+    {
+      "Name": "Nissan Blaze Metallic",
+      "UnlockLevel": -1,
+      "ID": 1000117,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.6117647,
+        "g": 0.1254902,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.819607854,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Nissan_GTRTNR_2017"
+    },
+    {
+      "Name": "Nissan Bayside Blue",
+      "UnlockLevel": -1,
+      "ID": 1000118,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0264155734,
+        "g": 0.07409577,
+        "b": 0.339,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.384313732,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Nissan_SkylineGTRR34TNR_2002"
+    },
+    {
+      "Name": "Subaru WR Blue Pearl",
+      "UnlockLevel": -1,
+      "ID": 1000119,
+      "CarPaintType": 2,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.1956352,
+        "b": 0.602941155,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.7921569,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Subaru_WRXSTITNR_2018"
+    },
+    {
+      "Name": "Mitsubishi Rally Red",
+      "UnlockLevel": -1,
+      "ID": 1000120,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.606,
+        "g": 0.003585782,
+        "b": 0.103988342,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.277509749,
+        "b": 0.166000009,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.7,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.25,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Mitsubishi_LancerEVOXTNR_2015"
+    },
+    {
+      "Name": "Mazda Titanium Grey",
+      "UnlockLevel": -1,
+      "ID": 1000121,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.292424738,
+        "g": 0.287334,
+        "b": 0.306,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.819607854,
+        "g": 0.8235294,
+        "b": 0.843137264,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Mazda_RX7TNR_1993"
+    },
+    {
+      "Name": "Honda Suzuka Blue",
+      "UnlockLevel": -1,
+      "ID": 1000122,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.339948,
+        "g": 0.49532634,
+        "b": 0.684,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.698039234,
+        "g": 0.796078444,
+        "b": 0.8666667,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.7,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Honda_S2000TNR_2001"
+    },
+    {
+      "Name": "Toyota Gray",
+      "UnlockLevel": -1,
+      "ID": 1000123,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.218571439,
+        "g": 0.244591847,
+        "b": 0.255,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.5803922,
+        "g": 0.5803922,
+        "b": 0.5803922,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.7,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Toyota_SupraMK4TNR_1994"
+    },
+    {
+      "Name": "Ford Magnetic",
+      "UnlockLevel": -1,
+      "ID": 1000124,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.152086958,
+        "g": 0.152086958,
+        "b": 0.159,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.5453071,
+        "g": 0.5741241,
+        "b": 0.602941155,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Ford_MustangGTFastbackTNR_2018"
+    },
+    {
+      "Name": "Chevrolet Torch Red",
+      "UnlockLevel": -1,
+      "ID": 1000125,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.808,
+        "g": 0.06302401,
+        "b": 0.06302401,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.8078432,
+        "g": 0.0627451,
+        "b": 0.0627451,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Chevrolet_CorvetteStingrayTNR_2020"
+    },
+    {
+      "Name": "Nissan Yellow",
+      "UnlockLevel": -1,
+      "ID": 1000126,
+      "CarPaintType": 2,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8524074,
+        "b": 0.203000009,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.933333337,
+        "g": 0.8836092,
+        "b": 0.45266667,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Nissan_SilviaS15TNR_1999"
+    },
+    {
+      "Name": "McLaren Storm Grey",
+      "UnlockLevel": -1,
+      "ID": 1000127,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.156862751,
+        "g": 0.156862751,
+        "b": 0.156862751,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.3855506,
+        "g": 0.390033722,
+        "b": 0.399000019,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.15,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "McLaren_720STNR_2017"
+    },
+    {
+      "Name": "Honda Formula Red",
+      "UnlockLevel": -1,
+      "ID": 1000128,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.8156863,
+        "g": 0.07058824,
+        "b": 0.09411765,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.8156863,
+        "g": 0.07058824,
+        "b": 0.09411765,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Honda_NSXTNR_1992"
+    },
+    {
+      "Name": "Lamborghini Blu Aegir",
+      "UnlockLevel": -1,
+      "ID": 1000129,
+      "CarPaintType": 2,
+      "DiffuseTint": {
+        "r": 0.05921008,
+        "g": 0.309714317,
+        "b": 0.542,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.619607866,
+        "g": 0.996078432,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.4,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Lamborghini_AventadorTNR_2021"
+    },
+    {
+      "Name": "Nissan Seiran Blue TriCoat",
+      "UnlockLevel": -1,
+      "ID": 1000130,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0152727375,
+        "g": 0.1231999,
+        "b": 0.42,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.117647059,
+        "g": 0.733333349,
+        "b": 0.992156863,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 4,
+      "IncludeToCar": "Nissan_ZTNR_2023"
+    },
+    {
+      "Name": "BMW Portimao Blue",
+      "UnlockLevel": -1,
+      "ID": 1000131,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.087556,
+        "g": 0.119644076,
+        "b": 0.371,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.341255963,
+        "g": 0.455520928,
+        "b": 0.964,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All"
+    },
+    {
+      "Name": "Approval White",
+      "UnlockLevel": -1,
+      "ID": 1000132,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All"
+    },
+    {
+      "Name": "Lamborghini Giallo Inti",
+      "UnlockLevel": -1,
+      "ID": 1000133,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 1.0,
+        "g": 0.684,
+        "b": 0.160784319,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 1.0,
+        "g": 0.772,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.24,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0,
+      "Category": 0,
+      "IncludeToCar": "All"
+    }
+  ],
+  "ExclusionListPaintIDKey": [
+    1000001,
+    1000002,
+    1000003,
+    1000004,
+    1000005,
+    1000006,
+    1000007,
+    1000008,
+    1000009,
+    1000010,
+    1000011,
+    1000012,
+    1000013,
+    1000014,
+    1000015,
+    1000016,
+    1000017,
+    1000018,
+    1000019,
+    1000020,
+    1000021,
+    1000022,
+    1000023,
+    1000024,
+    1000025,
+    1000026,
+    1000027,
+    1000028,
+    1000029,
+    1000030,
+    1000031,
+    1000032,
+    1000033,
+    1000034,
+    1000035,
+    1000036,
+    1000037,
+    1000038,
+    1000039,
+    1000040,
+    1000041,
+    1000042,
+    1000043,
+    1000044,
+    1000045,
+    1000046,
+    1000047,
+    1000048,
+    1000049,
+    1000050,
+    1000051,
+    1000052,
+    1000053,
+    1000054,
+    1000055,
+    1000056,
+    1000057,
+    1000058,
+    1000059,
+    1000060,
+    1000061,
+    1000062,
+    1000063,
+    1000064,
+    1000065,
+    1000066,
+    1000067,
+    1000068,
+    1000069,
+    1000070,
+    1000071,
+    1000072,
+    1000073,
+    1000074,
+    1000075,
+    1000076,
+    1000077,
+    1000078,
+    1000079,
+    1000080,
+    1000081,
+    1000082,
+    1000083,
+    1000084,
+    1000085,
+    1000086,
+    1000087,
+    1000088,
+    1000089,
+    1000090,
+    1000091,
+    1000092,
+    1000093,
+    1000094,
+    1000095,
+    1000096,
+    1000097,
+    1000098,
+    1000099,
+    1000100,
+    1000101,
+    1000102,
+    1000103,
+    1000104,
+    1000105,
+    1000106,
+    1000107,
+    1000108,
+    1000109,
+    1000110,
+    1000111,
+    1000112,
+    1000113,
+    1000114,
+    1000115,
+    1000116,
+    1000117,
+    1000118,
+    1000119,
+    1000120,
+    1000121,
+    1000122,
+    1000123,
+    1000124,
+    1000125,
+    1000126,
+    1000127,
+    1000128,
+    1000129,
+    1000130,
+    1000131
+  ],
+  "ExclusionListCarIDValues": [
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Nissan_ZTNR_2023,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,BMW_M4CompetitionG82TNR_2021",
+    "Lexus_LC500TNR_2018,Subaru_BRZtSTNR_2020,Toyota_GRSupraTNR_2020,Subaru_WRXSTITNR_2018,Toyota_SupraMK4TNR_1994,Nissan_GTRTNR_2017,Nissan_SkylineGTRR34TNR_2002,Honda_S2000TNR_2001,Mazda_RX7TNR_1993,Mitsubishi_LancerEVOXTNR_2015,Placeholder_CarTNR_1234,Ford_MustangGTFastbackTNR_2018,Chevrolet_CorvetteStingrayTNR_2020,Nissan_SilviaS15TNR_1999,McLaren_720STNR_2017,Honda_NSXTNR_1992,Lamborghini_AventadorTNR_2021,Nissan_ZTNR_2023"
+  ],
+  "isModified": 0
+}

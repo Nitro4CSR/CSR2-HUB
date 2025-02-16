@@ -1,0 +1,4107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6441116321859069224
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4947923262215016293
+  },
+  "m_Name": "",
+  "CarCallipers": [
+    {
+      "ID": 0,
+      "Name": "Global Black",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.0784313753,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 5,
+      "Name": "Global Black",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.0784313753,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1,
+      "Name": "Global Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.02184258,
+        "g": 0.111321718,
+        "b": 0.742647052,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 2,
+      "Name": "Global Grey",
+      "Zone1DiffuseTint": {
+        "r": 0.492647052,
+        "g": 0.492647052,
+        "b": 0.492647052,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 3,
+      "Name": "Global Red",
+      "Zone1DiffuseTint": {
+        "r": 0.8308824,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 4,
+      "Name": "Global Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.463884056,
+        "g": 0.47619617,
+        "b": 0.477941155,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 6,
+      "Name": "Global Orange",
+      "Zone1DiffuseTint": {
+        "r": 0.9632353,
+        "g": 0.36410296,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 7,
+      "Name": "Global Yellow",
+      "Zone1DiffuseTint": {
+        "r": 0.920237541,
+        "g": 0.726619363,
+        "b": 0.02217784,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 8,
+      "Name": "BMW Gold Metallic",
+      "Zone1DiffuseTint": {
+        "r": 0.992647052,
+        "g": 0.774500549,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 9,
+      "Name": "Global Dark Grey",
+      "Zone1DiffuseTint": {
+        "r": 0.286764681,
+        "g": 0.286764681,
+        "b": 0.286764681,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 10,
+      "Name": "Ferrari Nero Lucido",
+      "Zone1DiffuseTint": {
+        "r": 0.154,
+        "g": 0.154,
+        "b": 0.154,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 11,
+      "Name": "Ferrari Rosso Corsa",
+      "Zone1DiffuseTint": {
+        "r": 0.6102941,
+        "g": 0.0212893281,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 12,
+      "Name": "Ferrari Giallo Modena",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 13,
+      "Name": "Ferrari Rosso Scuderia",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.117647052,
+        "b": 0.117647052,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 14,
+      "Name": "Ferrari Aluminium",
+      "Zone1DiffuseTint": {
+        "r": 0.661764741,
+        "g": 0.661764741,
+        "b": 0.661764741,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 15,
+      "Name": "Ferrari Grigio Silverstone",
+      "Zone1DiffuseTint": {
+        "r": 0.305882365,
+        "g": 0.305882365,
+        "b": 0.298039228,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 16,
+      "Name": "Ferrari Blu",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.278300852,
+        "b": 0.515,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 17,
+      "Name": "Global Titanium",
+      "Zone1DiffuseTint": {
+        "r": 0.5808823,
+        "g": 0.50633055,
+        "b": 0.307525933,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 18,
+      "Name": "Nissan Anodized Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.39310348,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 19,
+      "Name": "Global Gold",
+      "Zone1DiffuseTint": {
+        "r": 0.9529412,
+        "g": 0.596078455,
+        "b": 0.09019608,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 20,
+      "Name": "Global Dark Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.37,
+        "g": 0.37,
+        "b": 0.37,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 21,
+      "Name": "Koenigsegg Pebble White",
+      "Zone1DiffuseTint": {
+        "r": 0.9485294,
+        "g": 0.9485294,
+        "b": 0.9485294,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 22,
+      "Name": "Koenigsegg Blue Blood",
+      "Zone1DiffuseTint": {
+        "r": 0.00475779036,
+        "g": 0.126795024,
+        "b": 0.647058845,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 23,
+      "Name": "Koenigsegg Raven Black",
+      "Zone1DiffuseTint": {
+        "r": 0.168627456,
+        "g": 0.168627456,
+        "b": 0.160784319,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 24,
+      "Name": "Koenigsegg Burnt Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.469013333,
+        "b": 0.0514705777,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 25,
+      "Name": "Koenigsegg Kite Red",
+      "Zone1DiffuseTint": {
+        "r": 0.772058845,
+        "g": 0.0107980249,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 26,
+      "Name": "Koenigsegg Suede Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.828,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 27,
+      "Name": "Koenigsegg Cone Orange",
+      "Zone1DiffuseTint": {
+        "r": 0.9411765,
+        "g": 0.3565923,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 28,
+      "Name": "Mercedes-Benz AMG Carbon Ceramic",
+      "Zone1DiffuseTint": {
+        "r": 0.870588243,
+        "g": 0.4428668,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 29,
+      "Name": "BMW M Sport Light Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.100562267,
+        "g": 0.388958842,
+        "b": 0.9117647,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 30,
+      "Name": "Ferrari Standard Calliper",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.0784313753,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 31,
+      "Name": "McLaren Napier Green",
+      "Zone1DiffuseTint": {
+        "r": 0.5647059,
+        "g": 0.6627451,
+        "b": 0.196078435,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 32,
+      "Name": "AEM Falu Red",
+      "Zone1DiffuseTint": {
+        "r": 0.8,
+        "g": 0.0,
+        "b": 0.05882353,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 33,
+      "Name": "AEM Punch",
+      "Zone1DiffuseTint": {
+        "r": 0.9098039,
+        "g": 0.0470588244,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 34,
+      "Name": "AEM Sorbus",
+      "Zone1DiffuseTint": {
+        "r": 0.9529412,
+        "g": 0.274509817,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 35,
+      "Name": "AEM Carrot Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.5568628,
+        "b": 0.03529412,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 36,
+      "Name": "AEM Saffron",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.7647059,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 37,
+      "Name": "AEM Fruit Salad",
+      "Zone1DiffuseTint": {
+        "r": 0.5686275,
+        "g": 0.7647059,
+        "b": 0.1254902,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 38,
+      "Name": "AEM Ball Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.654902,
+        "b": 0.8156863,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 39,
+      "Name": "AEM Lapis Lazuli",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.294117659,
+        "b": 0.694117665,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 40,
+      "Name": "AEM Bay Of Many",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.105882354,
+        "b": 0.41568628,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 41,
+      "Name": "AEM Palatinate Purple",
+      "Zone1DiffuseTint": {
+        "r": 0.41568628,
+        "g": 0.0,
+        "b": 0.498039216,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 42,
+      "Name": "AEM Maire",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.08235294,
+        "b": 0.08235294,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 43,
+      "Name": "AEM Flint",
+      "Zone1DiffuseTint": {
+        "r": 0.333333343,
+        "g": 0.3372549,
+        "b": 0.3372549,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 44,
+      "Name": "AEM Dawn",
+      "Zone1DiffuseTint": {
+        "r": 0.8745098,
+        "g": 0.894117653,
+        "b": 0.9137255,
+        "a": 1.0
+      },
+      "Origin": 1,
+      "CashPrice": 0
+    },
+    {
+      "ID": 45,
+      "Name": "Common Default Calliper",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.08965516,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 46,
+      "Name": "Crew Project Mu",
+      "Zone1DiffuseTint": {
+        "r": 0.137254909,
+        "g": 0.509803951,
+        "b": 0.392156869,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 47,
+      "Name": "Ford Nitrous Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0509803928,
+        "g": 0.470588237,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 48,
+      "Name": "Dodge Sublime Green",
+      "Zone1DiffuseTint": {
+        "r": 0.7058824,
+        "g": 1.0,
+        "b": 0.23137255,
+        "a": 0.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 50,
+      "Name": "W Motors Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.299253881,
+        "g": 0.3011954,
+        "b": 0.301470578,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 51,
+      "Name": "W Motors Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.00475775171,
+        "g": 0.286262929,
+        "b": 0.647058845,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 52,
+      "Name": "W Motors Blue Sport",
+      "Zone1DiffuseTint": {
+        "r": 0.268057972,
+        "g": 0.585182965,
+        "b": 0.9852941,
+        "a": 0.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 53,
+      "Name": "W Motors Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.300847471,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 54,
+      "Name": "W Motors Red Sport",
+      "Zone1DiffuseTint": {
+        "r": 0.772058845,
+        "g": 0.0107980249,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 55,
+      "Name": "W Motors Yellow Sport",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.7687074,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 56,
+      "Name": "Bentley Green",
+      "Zone1DiffuseTint": {
+        "r": 0.12787725,
+        "g": 0.367647052,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 57,
+      "Name": "Bugatti Bugatti Light Blue Sport",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.534548,
+        "b": 0.716,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 58,
+      "Name": "Bugatti Cast Grey",
+      "Zone1DiffuseTint": {
+        "r": 0.243137255,
+        "g": 0.258823544,
+        "b": 0.239215687,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 59,
+      "Name": "Bugatti Black",
+      "Zone1DiffuseTint": {
+        "r": 0.0470588244,
+        "g": 0.0470588244,
+        "b": 0.0470588244,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 60,
+      "Name": "Bugatti Maritime Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.1425029,
+        "g": 0.13632299,
+        "b": 0.297,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 61,
+      "Name": "Bugatti Italian Red",
+      "Zone1DiffuseTint": {
+        "r": 0.683,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 62,
+      "Name": "Bugatti French Racing Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.387311846,
+        "b": 0.691,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 63,
+      "Name": "Ford Ultimate Green",
+      "Zone1DiffuseTint": {
+        "r": 0.243137255,
+        "g": 0.7254902,
+        "b": 0.239215687,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 64,
+      "Name": "Audi Audi Exclusive Java Green",
+      "Zone1DiffuseTint": {
+        "r": 0.478431374,
+        "g": 0.8784314,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 65,
+      "Name": "Chevrolet Laguna Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0196078438,
+        "g": 0.403921574,
+        "b": 0.7372549,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 66,
+      "Name": "McLaren McLaren Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.466666669,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 67,
+      "Name": "Lamborghini Ad Personam Rosso Efesto",
+      "Zone1DiffuseTint": {
+        "r": 0.6838235,
+        "g": 0.005028119,
+        "b": 0.05493943,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 68,
+      "Name": "Lamborghini Ad Personam Bianco Polar",
+      "Zone1DiffuseTint": {
+        "r": 0.7921569,
+        "g": 0.7882353,
+        "b": 0.75686276,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 69,
+      "Name": "Lamborghini Ad Personam Verde Ulysses",
+      "Zone1DiffuseTint": {
+        "r": 0.4645842,
+        "g": 0.8235294,
+        "b": 0.172941163,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 70,
+      "Name": "Lamborghini Ad Personam Azzurro",
+      "Zone1DiffuseTint": {
+        "r": 0.0514705777,
+        "g": 0.751205444,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 71,
+      "Name": "Ferrari Atelier Azzurro",
+      "Zone1DiffuseTint": {
+        "r": 0.0514705777,
+        "g": 0.751205444,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 72,
+      "Name": "Ferrari Atelier Verde Kers Lucido",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.8014706,
+        "b": 0.186101869,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 73,
+      "Name": "Lamborghini Ad Personam Avio Arancia",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.5176471,
+        "b": 0.243137255,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 74,
+      "Name": "Koenigsegg Jet black",
+      "Zone1DiffuseTint": {
+        "r": 0.168627456,
+        "g": 0.168627456,
+        "b": 0.160784319,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 75,
+      "Name": "Koenigsegg Arctic White",
+      "Zone1DiffuseTint": {
+        "r": 0.9485294,
+        "g": 0.9485294,
+        "b": 0.9485294,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 76,
+      "Name": "Koenigsegg Chili Red",
+      "Zone1DiffuseTint": {
+        "r": 0.772058845,
+        "g": 0.0107980249,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 77,
+      "Name": "Koenigsegg Yolk Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.7033493,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 78,
+      "Name": "GTA Naranja",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.274509817,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 79,
+      "Name": "GTA Amarillo",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 80,
+      "Name": "GTA Rojo",
+      "Zone1DiffuseTint": {
+        "r": 0.9411765,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 81,
+      "Name": "GTA Oscuro",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.0784313753,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 82,
+      "Name": "Porsche Acid Green",
+      "Zone1DiffuseTint": {
+        "r": 0.6784314,
+        "g": 0.8745098,
+        "b": 0.0156862754,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 83,
+      "Name": "Porsche Porsche Ceramic Composite Brake in Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.78757447,
+        "b": 0.0147058964,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 84,
+      "Name": "McLaren Azores",
+      "Zone1DiffuseTint": {
+        "r": 0.9411765,
+        "g": 0.384313732,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 85,
+      "Name": "McLaren Polished",
+      "Zone1DiffuseTint": {
+        "r": 0.429135,
+        "g": 0.464051425,
+        "b": 0.468999982,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 86,
+      "Name": "Pagani Blu Francia",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.324799955,
+        "b": 0.6544118,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 87,
+      "Name": "AEM Brembo",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.831372559,
+        "b": 0.4392157,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 88,
+      "Name": "Global Green",
+      "Zone1DiffuseTint": {
+        "r": 0.6,
+        "g": 0.784313738,
+        "b": 0.372549027,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 89,
+      "Name": "Maserati Nero",
+      "Zone1DiffuseTint": {
+        "r": 0.1397059,
+        "g": 0.1397059,
+        "b": 0.1397059,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 90,
+      "Name": "Maserati Rosso",
+      "Zone1DiffuseTint": {
+        "r": 0.8897059,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 91,
+      "Name": "Maserati Blu",
+      "Zone1DiffuseTint": {
+        "r": 0.153222322,
+        "g": 0.211341277,
+        "b": 0.8014706,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 92,
+      "Name": "BAC Red",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 93,
+      "Name": "BAC Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.266,
+        "b": 0.843137264,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 95,
+      "Name": "BAC Green",
+      "Zone1DiffuseTint": {
+        "r": 0.406,
+        "g": 0.854901969,
+        "b": 0.3254902,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 96,
+      "Name": "BAC Orange",
+      "Zone1DiffuseTint": {
+        "r": 0.9411765,
+        "g": 0.328,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 97,
+      "Name": "BAC Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.76,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 98,
+      "Name": "Chevrolet Calicove Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.09019608,
+        "g": 0.470588237,
+        "b": 0.9490196,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 99,
+      "Name": "Global Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.286764681,
+        "g": 0.286764681,
+        "b": 0.286764681,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 100,
+      "Name": "W Motors Yellow Sport",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.7499355,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 101,
+      "Name": "W Motors Copper",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.253,
+        "b": 0.0147058964,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 102,
+      "Name": "W Motors Red Sport",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.137254909,
+        "b": 0.08823532,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 103,
+      "Name": "W Motors Blue Sport",
+      "Zone1DiffuseTint": {
+        "r": 0.172549024,
+        "g": 0.6862745,
+        "b": 0.905882359,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 104,
+      "Name": "Aston Martin Dark Anodised",
+      "Zone1DiffuseTint": {
+        "r": 0.316176474,
+        "g": 0.313851655,
+        "b": 0.313851655,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 105,
+      "Name": "Aston Martin Black Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.1544118,
+        "g": 0.1544118,
+        "b": 0.1544118,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 106,
+      "Name": "Aston Martin Red Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.654000044,
+        "g": 0.108564012,
+        "b": 0.116412051,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 107,
+      "Name": "Aston Martin Yellow Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.831999958,
+        "g": 0.6226133,
+        "b": 0.203839988,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 108,
+      "Name": "Aston Martin Grey Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.5858564,
+        "g": 0.5922145,
+        "b": 0.617647052,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 109,
+      "Name": "Aston Martin Q Satin Silver Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.875,
+        "g": 0.875,
+        "b": 0.868566155,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 110,
+      "Name": "Aston Martin Q Orange Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.9044118,
+        "g": 0.385460258,
+        "b": 0.106401384,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 111,
+      "Name": "Aston Martin Q Madagascar Orange Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.8235294,
+        "g": 0.492190182,
+        "b": 0.151384085,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 112,
+      "Name": "Aston Martin Q Vivid Red Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.9558824,
+        "g": 0.00702855363,
+        "b": 0.0125131374,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 113,
+      "Name": "Aston Martin Q Blue Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.140570939,
+        "g": 0.176928252,
+        "b": 0.7647059,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 114,
+      "Name": "Lamborghini Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.772,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 115,
+      "Name": "Lamborghini Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.7647059,
+        "g": 0.7647059,
+        "b": 0.7647059,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 116,
+      "Name": "Zenvo Green",
+      "Zone1DiffuseTint": {
+        "r": 0.485980779,
+        "g": 0.747,
+        "b": 0.0403380133,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 117,
+      "Name": "Global White",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 118,
+      "Name": "Koenigsegg Metallic Burgundy Red",
+      "Zone1DiffuseTint": {
+        "r": 0.809,
+        "g": 0.0,
+        "b": 0.02311443,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 119,
+      "Name": "BMW M Sport Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.564192,
+        "g": 0.602595448,
+        "b": 0.653,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 120,
+      "Name": "Hennessey Ultimate Green",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.772058845,
+        "b": 0.1976471,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 121,
+      "Name": "Hennessey Pumpkin",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.223529413,
+        "b": 0.05882353,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 122,
+      "Name": "Pagani Dark Red",
+      "Zone1DiffuseTint": {
+        "r": 0.522058845,
+        "g": 0.0652573556,
+        "b": 0.0652573556,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 123,
+      "Name": "Aston Martin Lime Green",
+      "Zone1DiffuseTint": {
+        "r": 0.799999952,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 124,
+      "Name": "Zenvo Grøn",
+      "Zone1DiffuseTint": {
+        "r": 0.6624875,
+        "g": 0.867647052,
+        "b": 0.2870891,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 125,
+      "Name": "Zenvo Gul",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.7628065,
+        "b": 0.0514705777,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 126,
+      "Name": "Koenigsegg Light Blue Sport",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.6391243,
+        "b": 0.852941155,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 127,
+      "Name": "Koenigsegg Sunset Red",
+      "Zone1DiffuseTint": {
+        "r": 0.8455882,
+        "g": 0.187195733,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 128,
+      "Name": "McLaren Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.819607854,
+        "b": 0.282352954,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 129,
+      "Name": "Saleen Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8196079,
+        "b": 0.282352954,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 130,
+      "Name": "Lamborghini Bronze",
+      "Zone1DiffuseTint": {
+        "r": 0.56078434,
+        "g": 0.41568628,
+        "b": 0.3137255,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 131,
+      "Name": "Bugatti DIVO Racing Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.3921569,
+        "g": 0.670588255,
+        "b": 0.8078432,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 132,
+      "Name": "Koenigsegg Naraya Gold",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8184112,
+        "b": 0.33088237,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 133,
+      "Name": "Koenigsegg Zijin Yellow",
+      "Zone1DiffuseTint": {
+        "r": 0.968627453,
+        "g": 0.7137255,
+        "b": 0.266666681,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 134,
+      "Name": "Mercedes Carbon Ceramic",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.5385396,
+        "b": 0.04411763,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 135,
+      "Name": "W Motors Orange Candy",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.324,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 136,
+      "Name": "W Motors Wolf White",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 137,
+      "Name": "W Motors Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.332815975,
+        "b": 0.866,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 138,
+      "Name": "McLaren Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.766,
+        "g": 0.706470847,
+        "b": 0.557647943,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 139,
+      "Name": "McLaren Azura Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.1764706,
+        "g": 0.349019617,
+        "b": 0.6862745,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 140,
+      "Name": "AEM Ara Blue Crystal",
+      "Zone1DiffuseTint": {
+        "r": 0.231346026,
+        "g": 0.4216292,
+        "b": 0.883,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 141,
+      "Name": "Noble Baby Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.268509835,
+        "g": 0.6203519,
+        "b": 0.80392164,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 142,
+      "Name": "Donkervoort Green",
+      "Zone1DiffuseTint": {
+        "r": 0.7490196,
+        "g": 0.9215687,
+        "b": 0.2392157,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 143,
+      "Name": "Pagani Rosso",
+      "Zone1DiffuseTint": {
+        "r": 0.843137264,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 144,
+      "Name": "Ferrari Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.09981998,
+        "g": 0.160414532,
+        "b": 0.322,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 145,
+      "Name": "Lamborghini SC18 Red",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.149999976,
+        "b": 0.149999976,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 146,
+      "Name": "Ford Red",
+      "Zone1DiffuseTint": {
+        "r": 0.709,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 147,
+      "Name": "Spyker Gold",
+      "Zone1DiffuseTint": {
+        "r": 0.647,
+        "g": 0.409881383,
+        "b": 0.201217,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 148,
+      "Name": "AEM RWB Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.223529428,
+        "b": 0.9333334,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 149,
+      "Name": "Maserati Titanio",
+      "Zone1DiffuseTint": {
+        "r": 0.223,
+        "g": 0.223,
+        "b": 0.223,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 150,
+      "Name": "Maserati Giallo",
+      "Zone1DiffuseTint": {
+        "r": 0.891,
+        "g": 0.6625601,
+        "b": 0.230769,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 151,
+      "Name": "Maserati Blu",
+      "Zone1DiffuseTint": {
+        "r": 0.172577843,
+        "g": 0.2684544,
+        "b": 0.41911763,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 152,
+      "Name": "Alpine Bleu",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.534,
+        "b": 0.892,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 153,
+      "Name": "Alpine Gris",
+      "Zone1DiffuseTint": {
+        "r": 0.352941155,
+        "g": 0.352941155,
+        "b": 0.352941155,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 154,
+      "Name": "AEM Web",
+      "Zone1DiffuseTint": {
+        "r": 0.104272068,
+        "g": 0.179078713,
+        "b": 0.489,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 155,
+      "Name": "Cadillac Dark Gold",
+      "Zone1DiffuseTint": {
+        "r": 0.46,
+        "g": 0.318933278,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 156,
+      "Name": "Alpine Bleu",
+      "Zone1DiffuseTint": {
+        "r": 0.00719075045,
+        "g": 0.488683015,
+        "b": 0.977941155,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 157,
+      "Name": "Ford Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.443137258,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 158,
+      "Name": "Pagani Rosa",
+      "Zone1DiffuseTint": {
+        "r": 0.9411765,
+        "g": 0.5137255,
+        "b": 0.58431375,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 159,
+      "Name": "Mazzanti Persian Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0428769775,
+        "g": 0.30260253,
+        "b": 0.809,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 160,
+      "Name": "Zenvo Mørkerød",
+      "Zone1DiffuseTint": {
+        "r": 0.5686275,
+        "g": 0.09411765,
+        "b": 0.003921569,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 161,
+      "Name": "Zenvo Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.327,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 162,
+      "Name": "Zenvo Mørkeblå",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.254901975,
+        "b": 0.6784314,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 163,
+      "Name": "Zenvo Hvid",
+      "Zone1DiffuseTint": {
+        "r": 0.867647052,
+        "g": 0.867647052,
+        "b": 0.867647052,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 164,
+      "Name": "Zenvo Rød",
+      "Zone1DiffuseTint": {
+        "r": 0.7058823,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 165,
+      "Name": "Zenvo Blå",
+      "Zone1DiffuseTint": {
+        "r": 0.08983794,
+        "g": 0.361448139,
+        "b": 0.966,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 166,
+      "Name": "Porsche PCCB calipers painted in Black",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.0784313753,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 167,
+      "Name": "McLaren MSO Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.211764708,
+        "b": 0.905882359,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 168,
+      "Name": "Koenigsegg Green",
+      "Zone1DiffuseTint": {
+        "r": 0.7254902,
+        "g": 0.870588243,
+        "b": 0.0392156877,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 169,
+      "Name": "VUHL Green",
+      "Zone1DiffuseTint": {
+        "r": 0.8745098,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 170,
+      "Name": "Infiniti Motorsport Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.768627465,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 171,
+      "Name": "Hennessey Anodysed Orange",
+      "Zone1DiffuseTint": {
+        "r": 0.765,
+        "g": 0.374,
+        "b": 0.188954979,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 172,
+      "Name": "Bugatti Bugatti Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.496000051,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 173,
+      "Name": "OEM Yellow Sport",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8399834,
+        "b": 0.378000021,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 174,
+      "Name": "OEM Outrageous Orange",
+      "Zone1DiffuseTint": {
+        "r": 0.965,
+        "g": 0.446053863,
+        "b": 0.122554973,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 175,
+      "Name": "AEM Sprint Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.28132543,
+        "b": 0.5921569,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 176,
+      "Name": "Mini Chilli Red",
+      "Zone1DiffuseTint": {
+        "r": 0.8,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 177,
+      "Name": "Saleen Sour Apple Green",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.772058845,
+        "b": 0.165699914,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 178,
+      "Name": "Saleen Speedlab Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.825364,
+        "b": 0.109000027,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 179,
+      "Name": "Saleen Plum Insane",
+      "Zone1DiffuseTint": {
+        "r": 0.1557625,
+        "g": 0.07834126,
+        "b": 0.463235319,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 180,
+      "Name": "Saleen Mollypop Pink",
+      "Zone1DiffuseTint": {
+        "r": 0.8705883,
+        "g": 0.201105908,
+        "b": 0.503562331,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 181,
+      "Name": "McLaren MSO Green",
+      "Zone1DiffuseTint": {
+        "r": 0.4627451,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 182,
+      "Name": "Global Pacific Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.654902,
+        "b": 0.8156863,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 183,
+      "Name": "Global Purple",
+      "Zone1DiffuseTint": {
+        "r": 0.41568628,
+        "g": 0.0,
+        "b": 0.498039216,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 184,
+      "Name": "Lamborghini Giallo Belenus",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.834,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 185,
+      "Name": "McLaren Laurel Green",
+      "Zone1DiffuseTint": {
+        "r": 0.321568638,
+        "g": 0.7058824,
+        "b": 0.266666681,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 186,
+      "Name": "McLaren MSO Lime Green",
+      "Zone1DiffuseTint": {
+        "r": 0.8408919,
+        "g": 0.9,
+        "b": 0.170999989,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 187,
+      "Name": "McLaren MSO Curacao Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.268509835,
+        "g": 0.6203519,
+        "b": 0.80392164,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 188,
+      "Name": "McLaren MSO Sicilian Yellow",
+      "Zone1DiffuseTint": {
+        "r": 0.84,
+        "g": 0.7709589,
+        "b": 0.276164383,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 189,
+      "Name": "Koenigsegg Draco Red",
+      "Zone1DiffuseTint": {
+        "r": 0.623,
+        "g": 0.009161774,
+        "b": 0.09259616,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 190,
+      "Name": "Lamborghini Verde Medio",
+      "Zone1DiffuseTint": {
+        "r": 0.0247215014,
+        "g": 0.651,
+        "b": 0.218373418,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 191,
+      "Name": "Audi Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.00435219752,
+        "g": 0.374306619,
+        "b": 0.692,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 192,
+      "Name": "AEM Dutchboys Hotrods Red",
+      "Zone1DiffuseTint": {
+        "r": 0.478,
+        "g": 0.081738,
+        "b": 0.09117277,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 193,
+      "Name": "AEM Dutchboys Hotrods Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0349799842,
+        "g": 0.2888944,
+        "b": 0.66,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 194,
+      "Name": "AEM Rides by Kam Havoc Grey",
+      "Zone1DiffuseTint": {
+        "r": 0.079,
+        "g": 0.0237000026,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 195,
+      "Name": "Global Apple Green",
+      "Zone1DiffuseTint": {
+        "r": 0.5686275,
+        "g": 0.7647059,
+        "b": 0.1254902,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 196,
+      "Name": "Global Pacific Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.654902,
+        "b": 0.8156863,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 197,
+      "Name": "Global Purple",
+      "Zone1DiffuseTint": {
+        "r": 0.41568628,
+        "g": 0.0,
+        "b": 0.498039216,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 198,
+      "Name": "Dodge Gunmetal Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.286274523,
+        "g": 0.286274523,
+        "b": 0.286274523,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 199,
+      "Name": "Global Titanium Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.669,
+        "g": 0.6432894,
+        "b": 0.5771765,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 200,
+      "Name": "BMW M Sport Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0476397164,
+        "g": 0.240102708,
+        "b": 0.589,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 201,
+      "Name": "McLaren Nardo Orange",
+      "Zone1DiffuseTint": {
+        "r": 0.827451,
+        "g": 0.309803933,
+        "b": 0.23137255,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 202,
+      "Name": "McLaren Liquid Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.7647059,
+        "g": 0.7647059,
+        "b": 0.7647059,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 203,
+      "Name": "Lamborghini Green",
+      "Zone1DiffuseTint": {
+        "r": 0.407294631,
+        "g": 0.722,
+        "b": 0.259198,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 204,
+      "Name": "Lamborghini Light Green",
+      "Zone1DiffuseTint": {
+        "r": 0.666081,
+        "g": 0.714,
+        "b": 0.249185979,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 205,
+      "Name": "OEM Fashion Fuchsia",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.09019608,
+        "b": 0.6627451,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 206,
+      "Name": "Lamborghini Arancio California",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.4846797,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 207,
+      "Name": "Mazzanti Blu",
+      "Zone1DiffuseTint": {
+        "r": 0.168627456,
+        "g": 0.3137255,
+        "b": 0.6509804,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 208,
+      "Name": "Lamborghini Blu",
+      "Zone1DiffuseTint": {
+        "r": 0.129411772,
+        "g": 0.435294122,
+        "b": 0.7019608,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 209,
+      "Name": "Lamborghini Scandal",
+      "Zone1DiffuseTint": {
+        "r": 0.675104856,
+        "g": 0.9529412,
+        "b": 0.250980347,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 210,
+      "Name": "Pagani Arancio",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.4745098,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 211,
+      "Name": "Ford Daytona Red",
+      "Zone1DiffuseTint": {
+        "r": 0.8392157,
+        "g": 0.129411772,
+        "b": 0.05490196,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 212,
+      "Name": "Nissan Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.9247902,
+        "b": 0.283,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 213,
+      "Name": "McLaren Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.07304801,
+        "g": 0.256,
+        "b": 0.613,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 214,
+      "Name": "Aston Martin Vivid Orange",
+      "Zone1DiffuseTint": {
+        "r": 0.858823538,
+        "g": 0.3647059,
+        "b": 0.129411772,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 215,
+      "Name": "ATS ATS CORSA Titanium-Carbo ",
+      "Zone1DiffuseTint": {
+        "r": 0.9632353,
+        "g": 0.8383287,
+        "b": 0.5028655,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 216,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 217,
+      "Name": "McLaren Flux Green",
+      "Zone1DiffuseTint": {
+        "r": 0.8196177,
+        "g": 0.841,
+        "b": 0.186702013,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 218,
+      "Name": "Lamborghini Rosso Mars",
+      "Zone1DiffuseTint": {
+        "r": 0.847058833,
+        "g": 0.101464085,
+        "b": 0.141176477,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 219,
+      "Name": "Lamborghini Giallo Inti",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.9480001,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 220,
+      "Name": "Lamborghini Bronzo Oreadi",
+      "Zone1DiffuseTint": {
+        "r": 0.686,
+        "g": 0.578831553,
+        "b": 0.503524,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 221,
+      "Name": "Lamborghini Arancio Borealis",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.4345404,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 222,
+      "Name": "Lamborghini Verde Mantis",
+      "Zone1DiffuseTint": {
+        "r": 0.05688902,
+        "g": 0.903,
+        "b": 0.161806837,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 223,
+      "Name": "Ferrari Giallo",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8008299,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 224,
+      "Name": "McLaren Paris Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.447999954,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 225,
+      "Name": "Aston Martin Gold",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.827342033,
+        "b": 0.341000021,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 226,
+      "Name": "SSC Green",
+      "Zone1DiffuseTint": {
+        "r": 0.7254902,
+        "g": 1.0,
+        "b": 0.3372549,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 227,
+      "Name": "Koenigsegg Lava",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.469013333,
+        "b": 0.0514705777,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 228,
+      "Name": "Pagani Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.103250049,
+        "g": 0.297836632,
+        "b": 0.826,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 229,
+      "Name": "Global Hot Rod Red",
+      "Zone1DiffuseTint": {
+        "r": 0.478,
+        "g": 0.081738,
+        "b": 0.09117277,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 230,
+      "Name": "Lamborghini Light Green",
+      "Zone1DiffuseTint": {
+        "r": 0.7372549,
+        "g": 1.0,
+        "b": 0.0470588244,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 231,
+      "Name": "Noble Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8833333,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 232,
+      "Name": "Pagani Bahrain Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.896993458,
+        "b": 0.227450967,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 233,
+      "Name": "Chevrolet Edge Red",
+      "Zone1DiffuseTint": {
+        "r": 0.6415094,
+        "g": 0.0,
+        "b": 0.09800831,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 234,
+      "Name": "SSC Striker Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.555024147,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 235,
+      "Name": "Hennessey Red",
+      "Zone1DiffuseTint": {
+        "r": 0.552,
+        "g": 0.0,
+        "b": 0.0905396,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 236,
+      "Name": "Chevrolet Bronze",
+      "Zone1DiffuseTint": {
+        "r": 0.9137255,
+        "g": 0.5921569,
+        "b": 0.23137255,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 237,
+      "Name": "Cadillac Bronze",
+      "Zone1DiffuseTint": {
+        "r": 0.552,
+        "g": 0.4725733,
+        "b": 0.41676,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 238,
+      "Name": "Lamborghini Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.4345404,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 239,
+      "Name": "Lamborghini Red",
+      "Zone1DiffuseTint": {
+        "r": 0.847058833,
+        "g": 0.101464085,
+        "b": 0.141176477,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 240,
+      "Name": "BMW Gold",
+      "Zone1DiffuseTint": {
+        "r": 0.784313738,
+        "g": 0.590067148,
+        "b": 0.2282353,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 241,
+      "Name": "Audi Anthracite Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.5764706,
+        "g": 0.5686275,
+        "b": 0.5294118,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 242,
+      "Name": "Chevrolet Yellow",
+      "Zone1DiffuseTint": {
+        "r": 0.9137255,
+        "g": 0.5921569,
+        "b": 0.23137255,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 243,
+      "Name": "Pagani Dark Red",
+      "Zone1DiffuseTint": {
+        "r": 0.3254902,
+        "g": 0.09016077,
+        "b": 0.09976605,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 244,
+      "Name": "Bugatti Jaune Molsheim",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.8509804,
+        "b": 0.196078435,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 245,
+      "Name": "Global Bronze",
+      "Zone1DiffuseTint": {
+        "r": 0.847058833,
+        "g": 0.734804332,
+        "b": 0.556517661,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 246,
+      "Name": "Acura Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.25,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 247,
+      "Name": "Pagani Verde Firenze",
+      "Zone1DiffuseTint": {
+        "r": 0.635141432,
+        "g": 1.0,
+        "b": 0.119000018,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 248,
+      "Name": "Pagani Arancio",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.457133323,
+        "b": 0.0419999957,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 249,
+      "Name": "Audi Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.348,
+        "g": 0.348,
+        "b": 0.348,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 250,
+      "Name": "Global Rosso",
+      "Zone1DiffuseTint": {
+        "r": 0.8308824,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 251,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 252,
+      "Name": "Jeep Dark Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.147,
+        "g": 0.147,
+        "b": 0.147,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 253,
+      "Name": "Porsche PCCB with Calipers in High Gloss Black",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.0784313753,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 254,
+      "Name": "Porsche PCCB with Calipers in Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.78757447,
+        "b": 0.0147058964,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 255,
+      "Name": "Global Dark Red",
+      "Zone1DiffuseTint": {
+        "r": 0.65,
+        "g": 0.0,
+        "b": 0.0910829753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 256,
+      "Name": "McLaren Aurora Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0117647061,
+        "g": 0.1498038,
+        "b": 0.5294118,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 257,
+      "Name": "Ford Grabber Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.4231112,
+        "b": 0.895999968,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 258,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 259,
+      "Name": "Chevrolet Bright Red",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.01129961,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 260,
+      "Name": "Chevrolet Edge Yellow",
+      "Zone1DiffuseTint": {
+        "r": 0.774136,
+        "g": 0.8301887,
+        "b": 0.0195799191,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 261,
+      "Name": "Global Polished",
+      "Zone1DiffuseTint": {
+        "r": 0.429135,
+        "g": 0.464051425,
+        "b": 0.468999982,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 262,
+      "Name": "Zenvo Kulsort",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.0784313753,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 263,
+      "Name": "Global Titanium",
+      "Zone1DiffuseTint": {
+        "r": 0.449,
+        "g": 0.449,
+        "b": 0.449,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 264,
+      "Name": "Global Dark Gray",
+      "Zone1DiffuseTint": {
+        "r": 0.201,
+        "g": 0.201,
+        "b": 0.201,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 265,
+      "Name": "Global Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.7,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 266,
+      "Name": "Lamborghini Rosso Mars",
+      "Zone1DiffuseTint": {
+        "r": 0.669,
+        "g": 0.004005973,
+        "b": 0.05207772,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 267,
+      "Name": "Koenigsegg Lava",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.270588249,
+        "b": 0.06999999,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 268,
+      "Name": "Pininfarina Yellow",
+      "Zone1DiffuseTint": {
+        "r": 0.8156863,
+        "g": 0.65882355,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 269,
+      "Name": "Pininfarina Titan",
+      "Zone1DiffuseTint": {
+        "r": 0.309803933,
+        "g": 0.3254902,
+        "b": 0.345098048,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 270,
+      "Name": "Pininfarina Iconica Blu",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.30858323,
+        "b": 0.805,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 271,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 272,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 273,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 274,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 275,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 276,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 277,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 278,
+      "Name": "Lamborghini Rosso Mars CCB Brake Calipers",
+      "Zone1DiffuseTint": {
+        "r": 0.746,
+        "g": 0.008934132,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 279,
+      "Name": "Lamborghini Nero Helene CCB Brake Calipers",
+      "Zone1DiffuseTint": {
+        "r": 0.084,
+        "g": 0.084,
+        "b": 0.084,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 280,
+      "Name": "Lamborghini Arancio Xanto CCB Brake Calipers",
+      "Zone1DiffuseTint": {
+        "r": 0.900999963,
+        "g": 0.222927809,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 281,
+      "Name": "Lamborghini Giallo Belenus CCB Brake Calipers",
+      "Zone1DiffuseTint": {
+        "r": 0.951,
+        "g": 0.7943647,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 282,
+      "Name": "Lamborghini Grigio Nimbus CCB Brake Calipers",
+      "Zone1DiffuseTint": {
+        "r": 0.435294122,
+        "g": 0.435294122,
+        "b": 0.435294122,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 283,
+      "Name": "Lamborghini Verde Selvans CCB Brake Calipers",
+      "Zone1DiffuseTint": {
+        "r": 0.470588237,
+        "g": 0.6431373,
+        "b": 0.117647059,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 284,
+      "Name": "Lamborghini Verde Scandal CCB Brake Calipers",
+      "Zone1DiffuseTint": {
+        "r": 0.623529434,
+        "g": 0.7411765,
+        "b": 0.003921569,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 285,
+      "Name": "Maserati Blu",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.126047447,
+        "b": 0.607843161,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 286,
+      "Name": "Maserati Matte Grey",
+      "Zone1DiffuseTint": {
+        "r": 0.3997098,
+        "g": 0.414185643,
+        "b": 0.443137258,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 287,
+      "Name": "Maserati Black",
+      "Zone1DiffuseTint": {
+        "r": 0.05,
+        "g": 0.05,
+        "b": 0.05,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 288,
+      "Name": "Maserati Red",
+      "Zone1DiffuseTint": {
+        "r": 0.799,
+        "g": 0.0,
+        "b": 0.04139907,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 289,
+      "Name": "Maserati Yellow",
+      "Zone1DiffuseTint": {
+        "r": 0.854901969,
+        "g": 0.7647059,
+        "b": 0.0627451,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 290,
+      "Name": "Maserati Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.698039234,
+        "g": 0.694117665,
+        "b": 0.709803939,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 291,
+      "Name": "Czinger Ice Man Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.698039234,
+        "g": 0.694117665,
+        "b": 0.709803939,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 292,
+      "Name": "Rimac Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.3982904,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 293,
+      "Name": "Rimac Lime",
+      "Zone1DiffuseTint": {
+        "r": 0.847726762,
+        "g": 0.9019608,
+        "b": 0.2714902,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 294,
+      "Name": "Audi Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.003921569,
+        "g": 0.0786275044,
+        "b": 0.5019608,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 295,
+      "Name": "Global Aluminium",
+      "Zone1DiffuseTint": {
+        "r": 0.6627451,
+        "g": 0.6627451,
+        "b": 0.6627451,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 296,
+      "Name": "Pagani Champagne",
+      "Zone1DiffuseTint": {
+        "r": 0.699,
+        "g": 0.5840959,
+        "b": 0.4194,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 297,
+      "Name": "Pagani Giallo",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.7372549,
+        "b": 0.117647059,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 298,
+      "Name": "AEM Pistachio",
+      "Zone1DiffuseTint": {
+        "r": 0.7162721,
+        "g": 0.768627465,
+        "b": 0.644878447,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 299,
+      "Name": "Global Aluminium",
+      "Zone1DiffuseTint": {
+        "r": 0.650999963,
+        "g": 0.521885,
+        "b": 0.423149973,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 300,
+      "Name": "Zenvo Rosa Guld",
+      "Zone1DiffuseTint": {
+        "r": 0.5176471,
+        "g": 0.407843143,
+        "b": 0.396078438,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 301,
+      "Name": "Zenvo Sne",
+      "Zone1DiffuseTint": {
+        "r": 0.916,
+        "g": 0.916,
+        "b": 0.916,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 302,
+      "Name": "Zenvo Aubergine",
+      "Zone1DiffuseTint": {
+        "r": 0.3529412,
+        "g": 0.0627451,
+        "b": 0.356862754,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 303,
+      "Name": "Zenvo Citrongul",
+      "Zone1DiffuseTint": {
+        "r": 0.7764706,
+        "g": 0.807843149,
+        "b": 0.07450981,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 304,
+      "Name": "Zenvo Borealis 400",
+      "Zone1DiffuseTint": {
+        "r": 0.594000041,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 325,
+      "Name": "Zenvo Grøn",
+      "Zone1DiffuseTint": {
+        "r": 0.894117653,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 305,
+      "Name": "Pagani Azzuro Sardegna",
+      "Zone1DiffuseTint": {
+        "r": 0.659976,
+        "g": 0.7750336,
+        "b": 0.856,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 306,
+      "Name": "Zenvo Sort",
+      "Zone1DiffuseTint": {
+        "r": 0.0784313753,
+        "g": 0.0784313753,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 307,
+      "Name": "Aston Martin Bronze Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.894117653,
+        "g": 0.722549,
+        "b": 0.482352942,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 308,
+      "Name": "Aston Martin Vivid Orange Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.858823538,
+        "g": 0.3647059,
+        "b": 0.129411772,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 309,
+      "Name": "Aston Martin Lime Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.799999952,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 310,
+      "Name": "Hyundai Active Red",
+      "Zone1DiffuseTint": {
+        "r": 0.90199995,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 311,
+      "Name": "Ferrari Aluminium",
+      "Zone1DiffuseTint": {
+        "r": 0.798000038,
+        "g": 0.714914143,
+        "b": 0.515508,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 312,
+      "Name": "Global GOSH Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.5803922,
+        "b": 0.854901969,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 313,
+      "Name": "Porsche PCCB with Calipers in Titanium Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.804,
+        "g": 0.6884078,
+        "b": 0.566016,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 314,
+      "Name": "BMW Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0476397164,
+        "g": 0.240102708,
+        "b": 0.589,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 315,
+      "Name": "McLaren Speedline Gold",
+      "Zone1DiffuseTint": {
+        "r": 0.6901961,
+        "g": 0.6071569,
+        "b": 0.448627472,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 316,
+      "Name": "McLaren Bronze",
+      "Zone1DiffuseTint": {
+        "r": 0.399000019,
+        "g": 0.307030529,
+        "b": 0.215061009,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 317,
+      "Name": "Aspark Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.0509803854,
+        "g": 0.297712475,
+        "b": 0.6431373,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 318,
+      "Name": "AEM Dark Grey",
+      "Zone1DiffuseTint": {
+        "r": 0.123976521,
+        "g": 0.132075489,
+        "b": 0.124928527,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 319,
+      "Name": "Porsche PCCB with Calipers in Red",
+      "Zone1DiffuseTint": {
+        "r": 0.797,
+        "g": 0.007887676,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 320,
+      "Name": "Ruffian Silver",
+      "Zone1DiffuseTint": {
+        "r": 0.355,
+        "g": 0.343906254,
+        "b": 0.318020821,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 321,
+      "Name": "Nilu27 OG White",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 322,
+      "Name": "Bugatti Nocturne",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 323,
+      "Name": "Aston Martin Racing Green Painted",
+      "Zone1DiffuseTint": {
+        "r": 0.0504,
+        "g": 0.42,
+        "b": 0.379680037,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 324,
+      "Name": "Radford Yellow",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.7764706,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 326,
+      "Name": "Zenvo Dansk Rød",
+      "Zone1DiffuseTint": {
+        "r": 0.945098042,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 329,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 327,
+      "Name": "Zenvo Rød Orange",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.261734575,
+        "b": 0.019607842,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 328,
+      "Name": "Zenvo Applesin Orange",
+      "Zone1DiffuseTint": {
+        "r": 0.968627453,
+        "g": 0.619607866,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 330,
+      "Name": "Zenvo Citrongul",
+      "Zone1DiffuseTint": {
+        "r": 0.972549,
+        "g": 0.75686276,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 331,
+      "Name": "Zenvo Lys Grøn",
+      "Zone1DiffuseTint": {
+        "r": 0.8156863,
+        "g": 0.9647059,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 332,
+      "Name": "Zenvo Skovgrøn",
+      "Zone1DiffuseTint": {
+        "r": 0.0156862754,
+        "g": 0.623529434,
+        "b": 0.0235294122,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 333,
+      "Name": "Zenvo Fjordblå",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 0.6156863,
+        "b": 0.6509804,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 334,
+      "Name": "Zenvo Granitgrå",
+      "Zone1DiffuseTint": {
+        "r": 0.3647059,
+        "g": 0.3647059,
+        "b": 0.3647059,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 335,
+      "Name": "Zenvo Kulsort",
+      "Zone1DiffuseTint": {
+        "r": 0.154,
+        "g": 0.154,
+        "b": 0.154,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 336,
+      "Name": "Pininfarina Giallo Arneis",
+      "Zone1DiffuseTint": {
+        "r": 0.9882353,
+        "g": 0.698039234,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 337,
+      "Name": "Global Gold",
+      "Zone1DiffuseTint": {
+        "r": 1.0,
+        "g": 0.6465517,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 338,
+      "Name": "Global Light Gold",
+      "Zone1DiffuseTint": {
+        "r": 0.671,
+        "g": 0.557910144,
+        "b": 0.343039334,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 339,
+      "Name": "Lamborghini Yellow CCB Brake Calipers",
+      "Zone1DiffuseTint": {
+        "r": 0.968627453,
+        "g": 0.726013064,
+        "b": 0.0588235147,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 340,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 341,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 342,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    }
+  ],
+  "isModified": 0
+}

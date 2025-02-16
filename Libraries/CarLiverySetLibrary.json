@@ -1,0 +1,4791 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8109652553352974620
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7209649969024406344
+  },
+  "m_Name": "",
+  "CarLiverySets": [
+    {
+      "ID": 0,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Yellow Y",
+      "liveryID": 497,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Ferrari_250GTOYellowY_Swatch_Diffuse"
+    },
+    {
+      "ID": 1,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Black Y",
+      "liveryID": 505,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlackY_Swatch_Diffuse"
+    },
+    {
+      "ID": 2,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO White Y",
+      "liveryID": 496,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Ferrari_250GTOWhiteY_Swatch_Diffuse"
+    },
+    {
+      "ID": 3,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue C Stripe",
+      "liveryID": 504,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueCStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 4,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO White C Stripe",
+      "liveryID": 496,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ferrari_250GTOWhiteCStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 5,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Gray H",
+      "liveryID": 494,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueGrayH_Swatch_Diffuse"
+    },
+    {
+      "ID": 6,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO White Roof",
+      "liveryID": 496,
+      "liveryZoneID": 13,
+      "SwatchTexture": "OEM_Ferrari_250GTOWhiteRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 7,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Yellow Nose",
+      "liveryID": 497,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_250GTOYellowNose_Swatch_Diffuse"
+    },
+    {
+      "ID": 8,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO White Nose",
+      "liveryID": 496,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_250GTOWhiteNose_Swatch_Diffuse"
+    },
+    {
+      "ID": 9,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Gray Nose",
+      "liveryID": 494,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueGrayNose_Swatch_Diffuse"
+    },
+    {
+      "ID": 10,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Red Nose",
+      "liveryID": 495,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_250GTORedNose_Swatch_Diffuse"
+    },
+    {
+      "ID": 11,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Blanc Rouge Stripes",
+      "liveryID": 493,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ferrari_250GTOBleuBlancRougeStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 12,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 503,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 13,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Belgium Yellow Stripe",
+      "liveryID": 498,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ferrari_250GTOBelgianYellowStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 14,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Yellow Stripe",
+      "liveryID": 499,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ferrari_250GTOYellowStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 15,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO White Stripe",
+      "liveryID": 506,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ferrari_250GTOWhiteStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 16,
+      "isNoLivery": 0,
+      "NameID": "Jaguar XJ220 Black",
+      "liveryID": 546,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jaguar_XJ220Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 17,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Blue Hood",
+      "liveryID": 556,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1BlueHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 18,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Blue No Hood",
+      "liveryID": 557,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1BlueNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 19,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Orange Hood",
+      "liveryID": 558,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1OrangeHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 20,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Orange No Hood",
+      "liveryID": 559,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1OrangeNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 21,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Red Hood ",
+      "liveryID": 560,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1RedHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 22,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Red No Hood ",
+      "liveryID": 561,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1RedNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 23,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 White Hood ",
+      "liveryID": 562,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1WhiteHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 24,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 White No Hood ",
+      "liveryID": 563,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1WhiteNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 25,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Yellow Hood ",
+      "liveryID": 564,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1YellowHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 26,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Yellow No Hood ",
+      "liveryID": 565,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1YellowNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 27,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Black Hood ",
+      "liveryID": 566,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2BlackHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 28,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Black No Hood ",
+      "liveryID": 567,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2BlackNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 29,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Blue Hood ",
+      "liveryID": 568,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2BlueHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 30,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Blue No Hood ",
+      "liveryID": 569,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2BlueNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 31,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Orange Hood",
+      "liveryID": 570,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2OrangeHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 32,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Orange No Hood",
+      "liveryID": 571,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2OrangeNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 33,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Red Hood",
+      "liveryID": 572,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2RedHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 34,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Red No Hood",
+      "liveryID": 573,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2RedNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 35,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 White Hood",
+      "liveryID": 574,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2WhiteHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 36,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 White No Hood",
+      "liveryID": 575,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2WhiteNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 37,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Yellow Hood",
+      "liveryID": 576,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2YellowHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 38,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 2 Yellow No Hood",
+      "liveryID": 577,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design2YellowNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 39,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 4 Black White Design 1 No Hood White",
+      "liveryID": 578,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design4BlackWhiteDesign1NoHoodWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 40,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 4 Blue White Design 1 No Hood White",
+      "liveryID": 579,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design4BlueWhiteDesign1NoHoodWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 41,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Black",
+      "liveryID": 580,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 42,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Black Design 1 No Hood Black",
+      "liveryID": 581,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesBlackDesign1NoHoodBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 43,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Blue",
+      "liveryID": 582,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 44,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Blue Design 1 No Hood Blue",
+      "liveryID": 583,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesBlueDesign1NoHoodBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 45,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Orange",
+      "liveryID": 584,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 46,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Orange Design 1 No Hood Black",
+      "liveryID": 585,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesOrangeDesign1NoHoodBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 47,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Orange Design 1 No Hood Orange",
+      "liveryID": 586,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesOrangeDesign1NoHoodOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 48,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Red",
+      "liveryID": 587,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 49,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Red Blue",
+      "liveryID": 588,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesRedBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 50,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Red Design 1 No Hood Red",
+      "liveryID": 589,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesRedDesign1NoHoodRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 51,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Red White Design 1 No Hood White",
+      "liveryID": 590,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesRedWhiteDesign1NoHoodWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 52,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes White",
+      "liveryID": 591,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 53,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes White Design 1 No Hood White",
+      "liveryID": 592,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesWhiteDesign1NoHoodWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 54,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes White Red",
+      "liveryID": 593,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesWhiteRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 55,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Yellow",
+      "liveryID": 594,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 56,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Yellow Desgin 1 No Hood Yellow",
+      "liveryID": 595,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesYellowDesign1NoHoodYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 57,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Blue White",
+      "liveryID": 596,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesBlueWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 58,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Stripes Blue Red Design 1 No Hood Blue",
+      "liveryID": 597,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ford_Mustang302StripesBlueRedDesign1NoHoodBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 59,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Front Cover Black",
+      "liveryID": 598,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Ford_Mustang302FrontCoverBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 60,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Stripes Red White Red",
+      "liveryID": 614,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5StripesRedWhiteRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 61,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Stripes Blue White Blue",
+      "liveryID": 613,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5StripesBlueWhiteBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 62,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Stripes Blue Blanc Rouge",
+      "liveryID": 612,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5StripesBlueBlancRouge_Swatch_Diffuse"
+    },
+    {
+      "ID": 63,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Stripes Black White Black",
+      "liveryID": 611,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5StripesBlackWhiteBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 64,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth Yellow",
+      "liveryID": 610,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 65,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth with Stripe Yellow",
+      "liveryID": 609,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthWithStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 66,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth with Stripe White",
+      "liveryID": 608,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthWithStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 67,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth with Stripe Red",
+      "liveryID": 607,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthWithStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 68,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth with Stripe Orange",
+      "liveryID": 606,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthWithStripeOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 69,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth with Stripe Blue Gray",
+      "liveryID": 605,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthWithStripeBlueGray_Swatch_Diffuse"
+    },
+    {
+      "ID": 70,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth White",
+      "liveryID": 604,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 71,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth Red",
+      "liveryID": 603,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 72,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth Orange",
+      "liveryID": 602,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 73,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Mouth Blue Gray",
+      "liveryID": 601,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5MouthBlueGray_Swatch_Diffuse"
+    },
+    {
+      "ID": 74,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin DB5 Kastraul",
+      "liveryID": 600,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_AstonMartin_DB5Kastraul_Swatch_Diffuse"
+    },
+    {
+      "ID": 75,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Yellow White Green Contrast",
+      "liveryID": 620,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicYellowWhiteGreenContrast_Swatch_Diffuse"
+    },
+    {
+      "ID": 76,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Yellow White Green Top Inverted",
+      "liveryID": 620,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicYellowWhiteGreenTopInverted_Swatch_Diffuse"
+    },
+    {
+      "ID": 77,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Yellow White Green Accent",
+      "liveryID": 620,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicYellowWhiteGreenAccent_Swatch_Diffuse"
+    },
+    {
+      "ID": 81,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 618,
+      "liveryZoneID": 9,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 82,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Dark Blue Red Yellow Top Inverted",
+      "liveryID": 618,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicDarkBlueRedYellowTopInverted_Swatch_Diffuse"
+    },
+    {
+      "ID": 83,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Dark Blue Red Yellow Accent",
+      "liveryID": 618,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicDarkBlueRedYellowAccent_Swatch_Diffuse"
+    },
+    {
+      "ID": 84,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Yellow White Contrast",
+      "liveryID": 617,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackYellowWhiteContrast_Swatch_Diffuse"
+    },
+    {
+      "ID": 85,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Yellow White Top Inverted",
+      "liveryID": 617,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackYellowWhiteTopInverted_Swatch_Diffuse"
+    },
+    {
+      "ID": 86,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Yellow White Accent",
+      "liveryID": 617,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackYellowWhiteAccent_Swatch_Diffuse"
+    },
+    {
+      "ID": 87,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Red Yellow Contrast",
+      "liveryID": 616,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackRedYellowContrast_Swatch_Diffuse"
+    },
+    {
+      "ID": 88,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Red Yellow Top Inverted",
+      "liveryID": 616,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackRedYellowTopInverted_Swatch_Diffuse"
+    },
+    {
+      "ID": 89,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Red Yellow Accent",
+      "liveryID": 616,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackRedYellowAccent_Swatch_Diffuse"
+    },
+    {
+      "ID": 90,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Red White Contrast",
+      "liveryID": 615,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackRedWhiteContrast_Swatch_Diffuse"
+    },
+    {
+      "ID": 91,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Red White Top Inverted",
+      "liveryID": 615,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackRedWhiteTopInverted_Swatch_Diffuse"
+    },
+    {
+      "ID": 92,
+      "isNoLivery": 0,
+      "NameID": "Pontiac GTO The Judge Black Red White Accent",
+      "liveryID": 615,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicBlackRedWhiteAccent_Swatch_Diffuse"
+    },
+    {
+      "ID": 93,
+      "isNoLivery": 0,
+      "NameID": "Saleen S7 Black Roof",
+      "liveryID": 624,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Saleen_S7BlackRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 94,
+      "isNoLivery": 0,
+      "NameID": "Saleen S7 Black LE",
+      "liveryID": 624,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Saleen_S7BlackLE_Swatch_Diffuse"
+    },
+    {
+      "ID": 95,
+      "isNoLivery": 0,
+      "NameID": "Jaguar XJ220 Silver",
+      "liveryID": 547,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jaguar_XJ220Silver_Swatch_Diffuse"
+    },
+    {
+      "ID": 96,
+      "isNoLivery": 0,
+      "NameID": "Jaguar XJ220 Black Roof",
+      "liveryID": 546,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jaguar_XJ220BlackRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 97,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Red Y",
+      "liveryID": 495,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Ferrari_250GTORedY_Swatch_Diffuse"
+    },
+    {
+      "ID": 98,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Gray Y",
+      "liveryID": 494,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueGrayY_Swatch_Diffuse"
+    },
+    {
+      "ID": 99,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Y",
+      "liveryID": 504,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueY_Swatch_Diffuse"
+    },
+    {
+      "ID": 100,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Black C Stripe",
+      "liveryID": 505,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlackCStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 101,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Red C Stripe",
+      "liveryID": 495,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ferrari_250GTORedCStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 102,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Gray C Stripe",
+      "liveryID": 494,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueGrayCStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 103,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Yellow C Stripe",
+      "liveryID": 497,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Ferrari_250GTOYellowCStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 104,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO White H",
+      "liveryID": 496,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_250GTOWhiteH_Swatch_Diffuse"
+    },
+    {
+      "ID": 105,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Black H",
+      "liveryID": 505,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlackH_Swatch_Diffuse"
+    },
+    {
+      "ID": 106,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Red H",
+      "liveryID": 495,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_250GTORedH_Swatch_Diffuse"
+    },
+    {
+      "ID": 107,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue H",
+      "liveryID": 504,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueH_Swatch_Diffuse"
+    },
+    {
+      "ID": 108,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Yellow H",
+      "liveryID": 497,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_250GTOYellowH_Swatch_Diffuse"
+    },
+    {
+      "ID": 109,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Black Roof",
+      "liveryID": 505,
+      "liveryZoneID": 13,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlackRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 110,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Black Nose",
+      "liveryID": 505,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlackNose_Swatch_Diffuse"
+    },
+    {
+      "ID": 111,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 495,
+      "liveryZoneID": 9,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 112,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Nose",
+      "liveryID": 504,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueNose_Swatch_Diffuse"
+    },
+    {
+      "ID": 113,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Black Stripe",
+      "liveryID": 627,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlackStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 114,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Red Stripe",
+      "liveryID": 628,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ferrari_250GTORedStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 115,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Stripe",
+      "liveryID": 629,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 116,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 250 GTO Blue Gray Stripe",
+      "liveryID": 630,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ferrari_250GTOBlueGrayStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 117,
+      "isNoLivery": 1,
+      "NameID": "Global No Livery",
+      "liveryID": 632,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 120,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Small HEMI White",
+      "liveryID": 639,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_SmallHEMIWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 121,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Small HEMI Roof White",
+      "liveryID": 640,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_SmallHEMIRoofWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 122,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Large HEMI White",
+      "liveryID": 641,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_LargeHEMIWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 123,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Large HEMI Roof White",
+      "liveryID": 642,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_LargeHEMIRoofWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 124,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Hood Black",
+      "liveryID": 643,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_HoodBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 126,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Large HEMI Roof Black",
+      "liveryID": 645,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_LargeHEMIRoofBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 127,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Large HEMI Roof Front Fender Black",
+      "liveryID": 646,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_LargeHEMIRoofFrontFenderBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 128,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Roof Black",
+      "liveryID": 647,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_RoofBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 129,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Roof Front Fender Black",
+      "liveryID": 648,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_RoofFrontFenderBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 130,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Small HEMI Black",
+      "liveryID": 649,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_SmallHEMIBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 131,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Small HEMI Roof Black",
+      "liveryID": 650,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_SmallHEMIRoofBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 132,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Small HEMI Roof Front Fender Black",
+      "liveryID": 651,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_SmallHEMIRoofFrontFenderBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 133,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Large HEMI Red",
+      "liveryID": 652,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_LargeHEMIRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 134,
+      "isNoLivery": 0,
+      "NameID": "Plymouth Small HEMI Red",
+      "liveryID": 653,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Plymouth_SmallHEMIRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 135,
+      "isNoLivery": 0,
+      "NameID": "Ford Mustang 302 Design 1 Black NoHood",
+      "liveryID": 654,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_Mustang302Design1BlackNoHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 136,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 668,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 137,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripeswithSideandRoofBlueWhite_1",
+      "liveryID": 667,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripeswithSideandRoofBlueWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 138,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripeswithSideandCoversGerman_1",
+      "liveryID": 666,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripeswithSideandCoversGerman_Swatch_Diffuse"
+    },
+    {
+      "ID": 139,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripesDoubleYellow_1",
+      "liveryID": 665,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripesDoubleYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 140,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLIWCRacingBlack_1",
+      "liveryID": 664,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLIWCRacingBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 141,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLHillclimbBlack_1",
+      "liveryID": 663,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLHillclimbBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 142,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLGullwingwithVentsWhite_1",
+      "liveryID": 662,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLGullwingwithVentsWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 143,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLFendersStripesRed_1",
+      "liveryID": 661,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLFendersStripesRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 144,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLDavidCoulthardBlack_1",
+      "liveryID": 660,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLDavidCoulthardBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 145,
+      "isNoLivery": 0,
+      "NameID": "Porsche_CarreraGTGulfNoOutlineBlack_1",
+      "liveryID": 669,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Porsche_CarreraGTGulfNoOutlineBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 146,
+      "isNoLivery": 0,
+      "NameID": "Porsche_CarreraGTGulfNoOutlineWhite_1",
+      "liveryID": 670,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Porsche_CarreraGTGulfNoOutlineWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 147,
+      "isNoLivery": 0,
+      "NameID": "Porsche_CarreraGTGulfWhiteBlackOutline_1",
+      "liveryID": 671,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Porsche_CarreraGTGulfWhiteBlackOutline_Swatch_Diffuse"
+    },
+    {
+      "ID": 148,
+      "isNoLivery": 0,
+      "NameID": "Porsche_CarreraGTGulfOrangeBlackOutline_1",
+      "liveryID": 672,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Porsche_CarreraGTGulfOrangeBlackOutline_Swatch_Diffuse"
+    },
+    {
+      "ID": 149,
+      "isNoLivery": 0,
+      "NameID": "Porsche_CarreraGTGulfBlueRedOutline_1",
+      "liveryID": 673,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Porsche_CarreraGTGulfBlueRedOutline_Swatch_Diffuse"
+    },
+    {
+      "ID": 150,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1HarrodsWhiteStripe_1",
+      "liveryID": 674,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1HarrodsWhiteStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 151,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1HarrodsBlackStripe_1",
+      "liveryID": 675,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1HarrodsBlackStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 152,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1GulfOrangeBlackLine_1",
+      "liveryID": 676,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1GulfOrangeBlackLine_Swatch_Diffuse"
+    },
+    {
+      "ID": 153,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailBlackStripe_1",
+      "liveryID": 677,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailBlackStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 154,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1Gulf2BlackCentreOrangeStripe_1",
+      "liveryID": 678,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1Gulf2BlackCentreOrangeStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 155,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailRedStripe_1",
+      "liveryID": 679,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailRedStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 156,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailWhiteStripe_1",
+      "liveryID": 680,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailWhiteStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 157,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1GulfYellowBlackLine_1",
+      "liveryID": 681,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1GulfYellowBlackLine_Swatch_Diffuse"
+    },
+    {
+      "ID": 158,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1HarrodsYellowStripe_1",
+      "liveryID": 682,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1HarrodsYellowStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 159,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1Gulf2BlackCentreBlueStripe_1",
+      "liveryID": 683,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1Gulf2BlackCentreBlueStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 160,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1Gulf2BlackCentreYellowStripe_1",
+      "liveryID": 684,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1Gulf2BlackCentreYellowStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 161,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1GulfBlueBlackLine_1",
+      "liveryID": 685,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1GulfBlueBlackLine_Swatch_Diffuse"
+    },
+    {
+      "ID": 162,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRCastrolBlackGreen_1",
+      "liveryID": 688,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRCastrolBlackGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 163,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRSideStripesBlackRed_1",
+      "liveryID": 689,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRSideStripesBlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 164,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRTypeRBlackRed_1",
+      "liveryID": 690,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRTypeRBlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 165,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1Gulf2BlackCentreRedStripe_1",
+      "liveryID": 693,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1Gulf2BlackCentreRedStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 166,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1Gulf2BlackCentreWhiteStripe_1",
+      "liveryID": 694,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1Gulf2BlackCentreWhiteStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 167,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1GulfRedBlackLine_1",
+      "liveryID": 695,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1GulfRedBlackLine_Swatch_Diffuse"
+    },
+    {
+      "ID": 168,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1GulfWhiteBlackLine_1",
+      "liveryID": 696,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1GulfWhiteBlackLine_Swatch_Diffuse"
+    },
+    {
+      "ID": 169,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1HarrodsBlueStripe_1",
+      "liveryID": 697,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1HarrodsBlueStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 170,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1HarrodsGreenStripe_1",
+      "liveryID": 698,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1HarrodsGreenStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 171,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1HarrodsOrangeStripe_1",
+      "liveryID": 699,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1HarrodsOrangeStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 172,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1HarrodsRedStripe_1",
+      "liveryID": 700,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1HarrodsRedStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 173,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 701,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 174,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailBlackStripeBlue_1",
+      "liveryID": 702,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailBlackStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 175,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailBlackStripeRed_1",
+      "liveryID": 703,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailBlackStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 176,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailBlackStripeYellow_1",
+      "liveryID": 704,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailBlackStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 177,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailBlueStripe_1",
+      "liveryID": 705,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailBlueStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 178,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailOrangeStripe_1",
+      "liveryID": 706,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailOrangeStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 179,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailYellowStripe_1",
+      "liveryID": 707,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailYellowStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 180,
+      "isNoLivery": 0,
+      "NameID": "McLaren_F1SideDetailBlackStripeWhite_1",
+      "liveryID": 708,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_McLaren_F1SideDetailBlackStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 181,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRCastrolBlackBlue_1",
+      "liveryID": 709,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRCastrolBlackBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 182,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRCastrolBlackOrange_1",
+      "liveryID": 710,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRCastrolBlackOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 183,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRCastrolBlackRed_1",
+      "liveryID": 711,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRCastrolBlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 184,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRCastrolBlackWhite_1",
+      "liveryID": 712,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRCastrolBlackWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 185,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRCastrolBlackYellow_1",
+      "liveryID": 713,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRCastrolBlackYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 186,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRSideStripesBlackBlue_1",
+      "liveryID": 714,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRSideStripesBlackBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 187,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRSideStripesBlackOrange_1",
+      "liveryID": 715,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRSideStripesBlackOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 188,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRSideStripesBlackWhite_1",
+      "liveryID": 716,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRSideStripesBlackWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 189,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRSideStripesBlackYellow_1",
+      "liveryID": 717,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRSideStripesBlackYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 190,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRTypeRBlackBlue_1",
+      "liveryID": 718,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRTypeRBlackBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 191,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRTypeRBlackOrange_1",
+      "liveryID": 719,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRTypeRBlackOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 192,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRTypeRBlackWhite_1",
+      "liveryID": 720,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRTypeRBlackWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 193,
+      "isNoLivery": 0,
+      "NameID": "Honda_NSXRTypeRBlackYellow_1",
+      "liveryID": 721,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_NSXRTypeRBlackYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 194,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLFendersStripesBlack_1",
+      "liveryID": 722,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLFendersStripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 195,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLFendersStripesBlue_1",
+      "liveryID": 723,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLFendersStripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 196,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLFendersStripesOrange_1",
+      "liveryID": 724,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLFendersStripesOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 197,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLFendersStripesWhite_1",
+      "liveryID": 725,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLFendersStripesWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 198,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLFendersStripesYellow_1",
+      "liveryID": 726,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLFendersStripesYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 199,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLGullwingwithVentsBlack_1",
+      "liveryID": 727,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLGullwingwithVentsBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 200,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLGullwingwithVentsOrange_1",
+      "liveryID": 728,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLGullwingwithVentsOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 201,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLGullwingwithVentsRed_1",
+      "liveryID": 729,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLGullwingwithVentsRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 202,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLGullwingwithVentsBlue_1",
+      "liveryID": 730,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLGullwingwithVentsBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 203,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLGullwingwithVentsYellow_1",
+      "liveryID": 731,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLGullwingwithVentsYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 204,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripesDoubleBlack_1",
+      "liveryID": 732,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripesDoubleBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 205,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripesDoubleBlue_1",
+      "liveryID": 733,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripesDoubleBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 206,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripesDoubleOrange_1",
+      "liveryID": 734,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripesDoubleOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 207,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripesDoubleRed_1",
+      "liveryID": 735,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripesDoubleRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 208,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripesDoubleWhite_1",
+      "liveryID": 736,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripesDoubleWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 209,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripeswithSideandRoofBlackRed_1",
+      "liveryID": 737,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripeswithSideandRoofBlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 210,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripeswithSideandRoofOrangeBlack_1",
+      "liveryID": 738,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripeswithSideandRoofOrangeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 211,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripeswithSideandRoofWhiteBlack_1",
+      "liveryID": 739,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripeswithSideandRoofWhiteBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 212,
+      "isNoLivery": 0,
+      "NameID": "MercedesBenz_300SLStripeswithSideandRoofYellowBlack_1",
+      "liveryID": 740,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MercedesBenz_300SLStripeswithSideandRoofYellowBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 213,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 741,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 214,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 742,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 215,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 743,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 216,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 744,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 217,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 745,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 218,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC01Black_1",
+      "liveryID": 746,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC01Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 219,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC01Blue_1",
+      "liveryID": 747,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC01Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 220,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC01Orange_1",
+      "liveryID": 748,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC01Orange_Swatch_Diffuse"
+    },
+    {
+      "ID": 221,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC01Red_1",
+      "liveryID": 749,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC01Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 222,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC01Yellow_1",
+      "liveryID": 750,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC01Yellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 223,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC02BlackWhite_1",
+      "liveryID": 751,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC02BlackWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 224,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC02BlueWhite_1",
+      "liveryID": 752,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC02BlueWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 225,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC02OrangeBlack_1",
+      "liveryID": 753,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC02OrangeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 226,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC02RedBlack_1",
+      "liveryID": 754,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC02RedBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 227,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC02WhiteBlack_1",
+      "liveryID": 755,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC02WhiteBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 228,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC02YellowBlack_1",
+      "liveryID": 756,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC02YellowBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 229,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC03Black_1",
+      "liveryID": 757,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC03Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 230,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC03Blue_1",
+      "liveryID": 758,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC03Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 231,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC03Orange_1",
+      "liveryID": 759,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC03Orange_Swatch_Diffuse"
+    },
+    {
+      "ID": 232,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC03Red_1",
+      "liveryID": 760,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC03Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 233,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC03White_1",
+      "liveryID": 761,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC03White_Swatch_Diffuse"
+    },
+    {
+      "ID": 234,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC03Yellow_1",
+      "liveryID": 762,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC03Yellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 235,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC04Black_1",
+      "liveryID": 763,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC04Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 236,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC04Blue_1",
+      "liveryID": 764,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC04Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 237,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC04Orange_1",
+      "liveryID": 765,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC04Orange_Swatch_Diffuse"
+    },
+    {
+      "ID": 238,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC04Red_1",
+      "liveryID": 766,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC04Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 239,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC04White_1",
+      "liveryID": 767,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC04White_Swatch_Diffuse"
+    },
+    {
+      "ID": 240,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC04Yellow_1",
+      "liveryID": 768,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC04Yellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 241,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC05RedWhiteBlue_1",
+      "liveryID": 769,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC05RedWhiteBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 242,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC06Black_1",
+      "liveryID": 770,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC06Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 243,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC06Blue_1",
+      "liveryID": 771,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC06Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 244,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC06Orange_1",
+      "liveryID": 772,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC06Orange_Swatch_Diffuse"
+    },
+    {
+      "ID": 245,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC06Red_1",
+      "liveryID": 773,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC06Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 246,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC06White_1",
+      "liveryID": 774,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC06White_Swatch_Diffuse"
+    },
+    {
+      "ID": 247,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC06Yellow_1",
+      "liveryID": 775,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC06Yellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 248,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC07BlackRed_1",
+      "liveryID": 776,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC07BlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 249,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC07BlueWhite_1",
+      "liveryID": 777,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC07BlueWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 250,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC07OrangeBlack_1",
+      "liveryID": 778,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC07OrangeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 251,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC07RedBlack_1",
+      "liveryID": 779,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC07RedBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 252,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC07WhiteBlack_1",
+      "liveryID": 780,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC07WhiteBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 253,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC07YellowBlack_1",
+      "liveryID": 781,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC07YellowBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 254,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC08Black_1",
+      "liveryID": 782,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC08Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 255,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC08Blue_1",
+      "liveryID": 783,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC08Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 256,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC08Orange_1",
+      "liveryID": 784,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC08Orange_Swatch_Diffuse"
+    },
+    {
+      "ID": 257,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC08Red_1",
+      "liveryID": 785,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC08Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 258,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC08White_1",
+      "liveryID": 786,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC08White_Swatch_Diffuse"
+    },
+    {
+      "ID": 259,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC08Yellow_1",
+      "liveryID": 787,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC08Yellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 260,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC09BlackRed_1",
+      "liveryID": 788,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC09BlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 261,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC09BlueWhite_1",
+      "liveryID": 789,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC09BlueWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 262,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC09OrangeBlack_1",
+      "liveryID": 790,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC09OrangeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 263,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC09WhiteYellow_1",
+      "liveryID": 791,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC09WhiteYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 264,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC10BlackBlue_1",
+      "liveryID": 792,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC10BlackBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 265,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC10BlackOrange_1",
+      "liveryID": 793,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC10BlackOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 266,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC10BlackRed_1",
+      "liveryID": 794,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC10BlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 267,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC10BlackWhite_1",
+      "liveryID": 795,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC10BlackWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 268,
+      "isNoLivery": 0,
+      "NameID": "Shelby_Cobra427SC10BlackYellow_1",
+      "liveryID": 796,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Shelby_Cobra427SC10BlackYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 269,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceBlackBlue_1",
+      "liveryID": 797,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceBlackBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 270,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceBlackOrange_1",
+      "liveryID": 798,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceBlackOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 271,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceBlackRed_1",
+      "liveryID": 799,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceBlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 272,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceBlackWhite_1",
+      "liveryID": 800,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceBlackWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 273,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceBlackYellow_1",
+      "liveryID": 801,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceBlackYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 274,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceWhiteBlack_1",
+      "liveryID": 802,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceWhiteBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 275,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceWhiteBlue_1",
+      "liveryID": 803,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceWhiteBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 276,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceWhiteRed_1",
+      "liveryID": 804,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceWhiteRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 277,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPLeMansBlack_1",
+      "liveryID": 805,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPLeMansBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 278,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPLeMansBlue_1",
+      "liveryID": 806,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPLeMansBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 279,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPLeMansOrange_1",
+      "liveryID": 807,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPLeMansOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 280,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPLeMansRed_1",
+      "liveryID": 808,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPLeMansRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 281,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPLeMansWhite_1",
+      "liveryID": 809,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPLeMansWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 282,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPLeMansYellow_1",
+      "liveryID": 810,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPLeMansYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 283,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPSCCABlack_1",
+      "liveryID": 811,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPSCCABlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 284,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPSCCABlue_1",
+      "liveryID": 812,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPSCCABlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 285,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPSCCAOrange_1",
+      "liveryID": 813,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPSCCAOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 286,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPSCCARed_1",
+      "liveryID": 814,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPSCCARed_Swatch_Diffuse"
+    },
+    {
+      "ID": 287,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPSCCAWhite_1",
+      "liveryID": 815,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPSCCAWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 288,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPSCCAYellow_1",
+      "liveryID": 816,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPSCCAYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 289,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPTrunkStripeBlue_1",
+      "liveryID": 817,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPTrunkStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 290,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPTrunkStripeOrange_1",
+      "liveryID": 818,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPTrunkStripeOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 291,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPTrunkStripeRed_1",
+      "liveryID": 819,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPTrunkStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 292,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPTrunkStripeWhite_1",
+      "liveryID": 820,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPTrunkStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 293,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPTrunkStripeYellow_1",
+      "liveryID": 821,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPTrunkStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 294,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPTrunkStripeBlack_1",
+      "liveryID": 822,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPTrunkStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 295,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceBlueOrange_1",
+      "liveryID": 823,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceBlueOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 296,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteZR1LPDXRaceYellowBlack_1",
+      "liveryID": 824,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteZR1LPDXRaceYellowBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 297,
+      "isNoLivery": 0,
+      "NameID": "Porsche_CarreraGTGulfYellowBlackOutline_1",
+      "liveryID": 825,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Porsche_CarreraGTGulfYellowBlackOutline_Swatch_Diffuse"
+    },
+    {
+      "ID": 298,
+      "isNoLivery": 0,
+      "NameID": "Porsche_CarreraGTGulfRedBlackOutline_1",
+      "liveryID": 826,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Porsche_CarreraGTGulfRedBlackOutline_Swatch_Diffuse"
+    },
+    {
+      "ID": 299,
+      "isNoLivery": 0,
+      "NameID": "Bugatti_Carbon_1",
+      "liveryID": 827,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 300,
+      "isNoLivery": 0,
+      "NameID": "Ferrari_488PistaSpiderBicolorRacingLiveryBluNart_1",
+      "liveryID": 831,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_488PistaSpiderBicolorRacingLiveryBluNart_Swatch_Diffuse"
+    },
+    {
+      "ID": 301,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 488 Pista Spider Bicolor Racing Livery Argento Nurburgring",
+      "liveryID": 448,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_488PistaSpiderBicolorRacingLiveryArgentoNurburgring_Swatch_Diffuse"
+    },
+    {
+      "ID": 302,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 488 Pista Spider Bicolor Racing Livery Nero Daytona",
+      "liveryID": 449,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Ferrari_488PistaSpiderBicolorRacingLiveryNeroDaytona_Swatch_Diffuse"
+    },
+    {
+      "ID": 303,
+      "isNoLivery": 0,
+      "NameID": "Ferrari_488PistaSpiderBicolorRacingLiveryBluNart_1",
+      "liveryID": 831,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_488PistaSpiderRacingLiveryBluNart_Swatch_Diffuse"
+    },
+    {
+      "ID": 304,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 488 Pista Spider Bicolor Racing Livery Argento Nurburgring",
+      "liveryID": 448,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_488PistaSpiderRacingLiveryArgentoNurburgring_Swatch_Diffuse"
+    },
+    {
+      "ID": 305,
+      "isNoLivery": 0,
+      "NameID": "Ferrari 488 Pista Spider Bicolor Racing Livery Nero Daytona",
+      "liveryID": 449,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Ferrari_488PistaSpiderRacingLiveryNeroDaytona_Swatch_Diffuse"
+    },
+    {
+      "ID": 306,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin Gloss Carbon Fibre",
+      "liveryID": 318,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_AstonMartin_VantageV8GlossCarbonFullNoDiffuser_Swatch_Diffuse"
+    },
+    {
+      "ID": 307,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin Vantage V8 Gloss Black Full",
+      "liveryID": 319,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_AstonMartin_VantageV8GlossBlackFullNoDiffuser_Swatch_Diffuse"
+    },
+    {
+      "ID": 308,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin Vantage V8 Graphite Painted",
+      "liveryID": 321,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_AstonMartin_VantageV8GraphitePainted_Swatch_Diffuse"
+    },
+    {
+      "ID": 309,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin Gloss Carbon Fibre",
+      "liveryID": 318,
+      "liveryZoneID": 9,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 310,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin Vantage V8 Gloss Black Full",
+      "liveryID": 319,
+      "liveryZoneID": 9,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 311,
+      "isNoLivery": 0,
+      "NameID": "BMW M Performance",
+      "liveryID": 139,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_BMW_M235iPerformanceStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 312,
+      "isNoLivery": 0,
+      "NameID": "Audi Carbon Sigma",
+      "liveryID": 123,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Audi_AccentCarbonSigma_Swatch_Diffuse"
+    },
+    {
+      "ID": 313,
+      "isNoLivery": 0,
+      "NameID": "Audi Black",
+      "liveryID": 147,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Audi_AccentBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 314,
+      "isNoLivery": 0,
+      "NameID": "Audi Aluminum Matt",
+      "liveryID": 146,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Audi_AccentAluminumMatt_Swatch_Diffuse"
+    },
+    {
+      "ID": 315,
+      "isNoLivery": 0,
+      "NameID": "Audi Red",
+      "liveryID": 141,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Audi_AccentRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 316,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini Huracan LP610-4 Avio White",
+      "liveryID": 200,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentStripesWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 317,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini Huracan LP610-4 Avio Orange",
+      "liveryID": 201,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentStripesOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 318,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini Huracan LP610-4 Italian Flag",
+      "liveryID": 202,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104ItalianFlagStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 319,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911 R White Yellow Black",
+      "liveryID": 297,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Porsche_911RHoodTopSideStripesWhiteYellowBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 320,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911R Red",
+      "liveryID": 263,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 321,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911 R Red White Black",
+      "liveryID": 291,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlackRedWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 322,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911R Black",
+      "liveryID": 265,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 323,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911R Black Mirror",
+      "liveryID": 298,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 324,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911 R Acid Green Black",
+      "liveryID": 292,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlackAcidGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 325,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911R Green",
+      "liveryID": 262,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlackGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 326,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911 R Orange",
+      "liveryID": 293,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 327,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911 R Dark Blue",
+      "liveryID": 294,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 328,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911 R Yellow Black",
+      "liveryID": 295,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlackYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 329,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911R Black",
+      "liveryID": 265,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Porsche_911RSideStripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 330,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911 R Orange Grey",
+      "liveryID": 296,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesWhiteOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 331,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911R Green Mirror",
+      "liveryID": 299,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesBlackGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 332,
+      "isNoLivery": 0,
+      "NameID": "Porsche 911R Red Blue",
+      "liveryID": 300,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Porsche_911RTopSideStripesRedBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 333,
+      "isNoLivery": 0,
+      "NameID": "BMW_M235iGermanFlag_1",
+      "liveryID": 845,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_BMW_M235iGermanFlag_Swatch_Diffuse"
+    },
+    {
+      "ID": 334,
+      "isNoLivery": 0,
+      "NameID": "BMW_M235iTopStripePerformance_1",
+      "liveryID": 846,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_M235iTopStripePerformance_Swatch_Diffuse"
+    },
+    {
+      "ID": 335,
+      "isNoLivery": 0,
+      "NameID": "BMW_M235iTopStripeGermanFlag_1",
+      "liveryID": 847,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_M235iTopStripeGermanFlag_Swatch_Diffuse"
+    },
+    {
+      "ID": 336,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507Black_1",
+      "liveryID": 844,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Mercedes_C63AMGSideStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 337,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507White_1",
+      "liveryID": 848,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Mercedes_C63AMGSideStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 338,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507Yellow_1",
+      "liveryID": 849,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Mercedes_C63AMGSideStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 339,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63BlackSeriesNoStripe_1",
+      "liveryID": 850,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Mercedes_C63AMGNoLivery_Swatch_Diffuse"
+    },
+    {
+      "ID": 340,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507Red_1",
+      "liveryID": 851,
+      "liveryZoneID": 7,
+      "SwatchTexture": "OEM_Mercedes_C63AMGSideStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 341,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507TopStripeBlack_1",
+      "liveryID": 852,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Mercedes_C63AMGBothStripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 342,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507TopStripeWhite_1",
+      "liveryID": 853,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Mercedes_C63AMGBothStripesWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 343,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507TopStripeYellow_1",
+      "liveryID": 854,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Mercedes_C63AMGBothStripesYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 344,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507TopStripeRed_1",
+      "liveryID": 855,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Mercedes_C63AMGBothStripesRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 345,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507TopStripeBlack_1",
+      "liveryID": 852,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Mercedes_C63AMGTopStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 346,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507TopStripeWhite_1",
+      "liveryID": 853,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Mercedes_C63AMGTopStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 347,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507TopStripeYellow_1",
+      "liveryID": 854,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Mercedes_C63AMGTopStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 348,
+      "isNoLivery": 0,
+      "NameID": "Mercedes_C63AMGEdition507TopStripeRed_1",
+      "liveryID": 855,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Mercedes_C63AMGTopStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 349,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104AvioBlack_1",
+      "liveryID": 856,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentStripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 350,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104AvioBlue_1",
+      "liveryID": 857,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentStripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 351,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104AvioYellow_1",
+      "liveryID": 858,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentStripesYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 352,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104StripesYellow_1",
+      "liveryID": 862,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104StripesYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 353,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104AvioYellow_1",
+      "liveryID": 858,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 354,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104StripesBlue_1",
+      "liveryID": 860,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104StripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 355,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104AvioBlue_1",
+      "liveryID": 857,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 356,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104StripesBlack_1",
+      "liveryID": 859,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104StripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 357,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104AvioBlack_1",
+      "liveryID": 856,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 358,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini Huracan LP610-4 Avio White",
+      "liveryID": 200,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 359,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini Huracan LP610-4 Avio Orange",
+      "liveryID": 201,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104AccentOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 360,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104StripesWhite_1",
+      "liveryID": 861,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104StripesWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 361,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104StripesOranger_1",
+      "liveryID": 863,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104StripesOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 362,
+      "isNoLivery": 0,
+      "NameID": "Audi_Blue_1",
+      "liveryID": 864,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Audi_AccentBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 363,
+      "isNoLivery": 0,
+      "NameID": "Audi_Orange_1",
+      "liveryID": 865,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Audi_AccentOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 364,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS6StripesBlack_1",
+      "liveryID": 866,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS6StripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 365,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS5SideStripeBlack_1",
+      "liveryID": 867,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS5SideStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 366,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS5SideStripeBlue_1",
+      "liveryID": 868,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS5SideStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 367,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS5SideStripeGold_1",
+      "liveryID": 869,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS5SideStripeGold_Swatch_Diffuse"
+    },
+    {
+      "ID": 368,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS5SideStripeOrange_1",
+      "liveryID": 876,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS5SideStripeOrange_Swatch_Diffuse"
+    },
+    {
+      "ID": 369,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS5SideStripeRed_1",
+      "liveryID": 870,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS5SideStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 370,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS5SideStripeWhite_1",
+      "liveryID": 871,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS5SideStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 371,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS6StripesBlue_1",
+      "liveryID": 872,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS6StripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 372,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS6StripesRed_1",
+      "liveryID": 873,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS6StripesRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 373,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS6StripesWhite_1",
+      "liveryID": 874,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS6StripesWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 374,
+      "isNoLivery": 0,
+      "NameID": "Audi_RS6StripesYellow_1",
+      "liveryID": 875,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Audi_RS6StripesYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 375,
+      "isNoLivery": 0,
+      "NameID": "Porsche_911RBlue_1",
+      "liveryID": 881,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Porsche_911RSideStripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 376,
+      "isNoLivery": 0,
+      "NameID": "Aston Martin Vantage V8 Graphite Painted",
+      "liveryID": 321,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_AstonMartin_VantageV8SilverFullNoDiffuser_Swatch_Diffuse"
+    },
+    {
+      "ID": 377,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104ItalianStripesBlack_1",
+      "liveryID": 882,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104ItalianStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 378,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_HuracanLP6104ItalianStripesWhite_1",
+      "liveryID": 883,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_HuracanLP6104ItalianStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 379,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 884,
+      "liveryZoneID": 0,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 380,
+      "isNoLivery": 0,
+      "NameID": "Dodge Black",
+      "liveryID": 157,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTRearStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 381,
+      "isNoLivery": 0,
+      "NameID": "Dodge Challenger SRT Hellcat 2015 Shaker Stripes Red",
+      "liveryID": 159,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTShakerStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 382,
+      "isNoLivery": 0,
+      "NameID": "Dodge Challenger SRT Hellcat 2015 Shaker Stripes Blue",
+      "liveryID": 158,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTShakerStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 383,
+      "isNoLivery": 0,
+      "NameID": "Dodge Black Hood",
+      "liveryID": 157,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTHoodBlackMatteSwatch_Diffuse"
+    },
+    {
+      "ID": 384,
+      "isNoLivery": 0,
+      "NameID": "Dodge_BlackGloss_1",
+      "liveryID": 884,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTHoodBlackGlossySwatch_Diffuse"
+    },
+    {
+      "ID": 385,
+      "isNoLivery": 0,
+      "NameID": "Dodge_MOPARBlue_1",
+      "liveryID": 885,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTRearStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 386,
+      "isNoLivery": 0,
+      "NameID": "Dodge_Red_1",
+      "liveryID": 886,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTRearStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 387,
+      "isNoLivery": 0,
+      "NameID": "Dodge_SublimeGreen_1",
+      "liveryID": 887,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTRearStripeGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 388,
+      "isNoLivery": 0,
+      "NameID": "Dodge_White_1",
+      "liveryID": 888,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTRearStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 389,
+      "isNoLivery": 0,
+      "NameID": "Dodge_ChallengerSRTHellcat2015_ShakerStripesBlack_1",
+      "liveryID": 889,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTShakerStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 390,
+      "isNoLivery": 0,
+      "NameID": "Dodge_ChallengerSRTHellcat2015_ShakerStripesSublimeGreen_1",
+      "liveryID": 890,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTShakerStripeGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 391,
+      "isNoLivery": 0,
+      "NameID": "Dodge_ChallengerSRTHellcat2015_ShakerStripesWhite_1",
+      "liveryID": 891,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTShakerStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 392,
+      "isNoLivery": 0,
+      "NameID": "Dodge_ChallengerSRTHellcat2015_SunStripesBlack_1",
+      "liveryID": 892,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTSunStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 393,
+      "isNoLivery": 0,
+      "NameID": "Dodge_ChallengerSRTHellcat2015_SunStripesBlue_1",
+      "liveryID": 893,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTSunStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 394,
+      "isNoLivery": 0,
+      "NameID": "Dodge_ChallengerSRTHellcat2015_SunStripesRed_1",
+      "liveryID": 894,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTSunStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 395,
+      "isNoLivery": 0,
+      "NameID": "Dodge_ChallengerSRTHellcat2015_SunStripesSublimeGreen_1",
+      "liveryID": 895,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTSunStripeGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 396,
+      "isNoLivery": 0,
+      "NameID": "Dodge_ChallengerSRTHellcat2015_SunStripesWhite_1",
+      "liveryID": 896,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Dodge_ChallengerSRTSunStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 397,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 Red Stripes",
+      "liveryID": 149,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSStripesFullRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 398,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 Black Stripes",
+      "liveryID": 150,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSStripesFullBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 399,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 White Stripes",
+      "liveryID": 151,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSStripesFullWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 400,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 Red Stripes",
+      "liveryID": 149,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSStripesHoodRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 401,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 Black Stripes",
+      "liveryID": 150,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSStripesHoodBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 402,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 White Stripes",
+      "liveryID": 151,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSStripesHoodWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 403,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 Fender Badge Kit Red Aluminum Rough",
+      "liveryID": 176,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSFenderRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 404,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 Fender Badge Kit Black Red",
+      "liveryID": 177,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSFenderBlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 405,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 Fender Badge Kit Black",
+      "liveryID": 178,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSFenderBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 406,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Camaro SS 2016 Fender Badge Kit Aluminum Rough Black",
+      "liveryID": 179,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSFenderSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 407,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Carbon",
+      "liveryID": 191,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSHoodCarbon_Swatch_Diffuse"
+    },
+    {
+      "ID": 408,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet Matte Black",
+      "liveryID": 157,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Chevrolet_CamaroSSHoodBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 409,
+      "isNoLivery": 0,
+      "NameID": "Ford Ebony Racing Stripe",
+      "liveryID": 142,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeEbony_Swatch_Diffuse"
+    },
+    {
+      "ID": 410,
+      "isNoLivery": 0,
+      "NameID": "Ford Silver Racing Stripe",
+      "liveryID": 143,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 411,
+      "isNoLivery": 0,
+      "NameID": "Ford Black Roof",
+      "liveryID": 144,
+      "liveryZoneID": 13,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumBlackRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 412,
+      "isNoLivery": 0,
+      "NameID": "Ford Carbon Roof",
+      "liveryID": 424,
+      "liveryZoneID": 13,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumCarbonRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 413,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeBlue_1",
+      "liveryID": 897,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 414,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeRed_1",
+      "liveryID": 898,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 415,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeWhite_1",
+      "liveryID": 899,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 416,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeFullBlack_1",
+      "liveryID": 900,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeFullBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 417,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeFullBlue_1",
+      "liveryID": 901,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeFullBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 418,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeFullRed_1",
+      "liveryID": 902,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeFullRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 419,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeFullSilver_1",
+      "liveryID": 903,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeFullSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 420,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeFullWhite_1",
+      "liveryID": 904,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumRacingStripeFullWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 421,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingBossStripeBlack_1",
+      "liveryID": 905,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumBossStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 422,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingBossStripeBlue_1",
+      "liveryID": 906,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumBossStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 423,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingBossStripeRed_1",
+      "liveryID": 907,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumBossStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 424,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingBossStripeSilver_1",
+      "liveryID": 908,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumBossStripeSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 425,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingBossStripeWhite_1",
+      "liveryID": 909,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumBossStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 426,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeMatteBlack_1",
+      "liveryID": 910,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumMatteStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 427,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeMatteBlue_1",
+      "liveryID": 911,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumMatteStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 428,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeMatteRed_1",
+      "liveryID": 912,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumMatteStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 429,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeMatteSilver_1",
+      "liveryID": 913,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumMatteStripeSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 430,
+      "isNoLivery": 0,
+      "NameID": "Ford_RacingStripeMatteWhite_1",
+      "liveryID": 914,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_MustangGTPremiumMatteStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 431,
+      "isNoLivery": 0,
+      "NameID": "Local Motors Rally Fighter Black 1",
+      "liveryID": 401,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter1Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 432,
+      "isNoLivery": 0,
+      "NameID": "Local Motors Rally Fighter Black 2",
+      "liveryID": 402,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter2Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 433,
+      "isNoLivery": 0,
+      "NameID": "Local Motors Rally Fighter Black 3",
+      "liveryID": 403,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter3Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 434,
+      "isNoLivery": 0,
+      "NameID": "Local Motors Rally Fighter Black 4",
+      "liveryID": 404,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter4Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 435,
+      "isNoLivery": 0,
+      "NameID": "Local Motors Rally Fighter Black 5",
+      "liveryID": 405,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter5Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 436,
+      "isNoLivery": 0,
+      "NameID": "Local Motors Rally Fighter Black 8",
+      "liveryID": 408,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter8Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 437,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterBlue1_1",
+      "liveryID": 915,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter1Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 438,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterBlue2_1",
+      "liveryID": 916,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter2Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 439,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterBlue3_1",
+      "liveryID": 917,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter3Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 440,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterBlue4_1",
+      "liveryID": 918,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter4Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 441,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterBlue5_1",
+      "liveryID": 919,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter5Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 442,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterRed1_1",
+      "liveryID": 920,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter1Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 443,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterRed2_1",
+      "liveryID": 921,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter2Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 444,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterRed3_1",
+      "liveryID": 922,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter3Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 445,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterRed4_1",
+      "liveryID": 923,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter4Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 446,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterRed5_1",
+      "liveryID": 924,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter5Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 447,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterWhite1_1",
+      "liveryID": 925,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter1White_Swatch_Diffuse"
+    },
+    {
+      "ID": 448,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterWhite2_1",
+      "liveryID": 926,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter2White_Swatch_Diffuse"
+    },
+    {
+      "ID": 449,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterWhite3_1",
+      "liveryID": 927,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter3White_Swatch_Diffuse"
+    },
+    {
+      "ID": 450,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterWhite4_1",
+      "liveryID": 928,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter4White_Swatch_Diffuse"
+    },
+    {
+      "ID": 451,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterWhite5_1",
+      "liveryID": 929,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter5White_Swatch_Diffuse"
+    },
+    {
+      "ID": 452,
+      "isNoLivery": 0,
+      "NameID": "LocalMotors_RallyFighterBlackMirror8_1",
+      "liveryID": 930,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_LocalMotors_Rallyfighter8MirrorBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 453,
+      "isNoLivery": 0,
+      "NameID": "Ford F-150 SVT Raptor",
+      "liveryID": 225,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor_Swatch_Diffuse"
+    },
+    {
+      "ID": 454,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor1_1",
+      "liveryID": 932,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor1Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 455,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor2_1",
+      "liveryID": 933,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor2Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 456,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor3_1",
+      "liveryID": 934,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor3Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 457,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor4_1",
+      "liveryID": 935,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor4Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 458,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor1Blue_1",
+      "liveryID": 936,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor1Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 459,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor1Red_1",
+      "liveryID": 937,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor1Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 460,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor1Silver_1",
+      "liveryID": 938,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor1Silver_Swatch_Diffuse"
+    },
+    {
+      "ID": 461,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor1White_1",
+      "liveryID": 939,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor1White_Swatch_Diffuse"
+    },
+    {
+      "ID": 462,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor2Blue_1",
+      "liveryID": 940,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor2Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 463,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor2Red_1",
+      "liveryID": 941,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor2Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 464,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor2Silver_1",
+      "liveryID": 942,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor2Silver_Swatch_Diffuse"
+    },
+    {
+      "ID": 465,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor2White_1",
+      "liveryID": 943,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor2White_Swatch_Diffuse"
+    },
+    {
+      "ID": 466,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor3Blue_1",
+      "liveryID": 944,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor3Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 467,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor3Silver_1",
+      "liveryID": 945,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor3SIlver_Swatch_Diffuse"
+    },
+    {
+      "ID": 468,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor3White_1",
+      "liveryID": 946,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor3White_Swatch_Diffuse"
+    },
+    {
+      "ID": 469,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor4Blue_1",
+      "liveryID": 947,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor4Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 470,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor4Red_1",
+      "liveryID": 948,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor4Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 471,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor4Silver_1",
+      "liveryID": 949,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor4Silver_Swatch_Diffuse"
+    },
+    {
+      "ID": 472,
+      "isNoLivery": 0,
+      "NameID": "Ford_F150SVTRaptor4White_1",
+      "liveryID": 950,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Ford_F150SVTRaptor4White_Swatch_Diffuse"
+    },
+    {
+      "ID": 473,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeBlack_1",
+      "liveryID": 952,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 474,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeBlue_1",
+      "liveryID": 953,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 475,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeRed_1",
+      "liveryID": 954,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 476,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeSilver_1",
+      "liveryID": 955,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 477,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeYellow_1",
+      "liveryID": 956,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 478,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeStripeBlue_1",
+      "liveryID": 957,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 479,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeStripeRed_1",
+      "liveryID": 958,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 480,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeStripeSilver_1",
+      "liveryID": 959,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeStripeSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 481,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkCherokeeStripeYellow_1",
+      "liveryID": 960,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkCherokeeStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 482,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkStripeBlue_1",
+      "liveryID": 961,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 483,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkStripeRed_1",
+      "liveryID": 962,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 484,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkStripeSilver_1",
+      "liveryID": 963,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkStripeSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 485,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkStripeYellow_1",
+      "liveryID": 964,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 486,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkRed_1",
+      "liveryID": 965,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 487,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkBlack_1",
+      "liveryID": 966,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 488,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkBlue_1",
+      "liveryID": 967,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 489,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkSilver_1",
+      "liveryID": 968,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 490,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkYellow_1",
+      "liveryID": 969,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 491,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkStripeNoRoofBlue_1",
+      "liveryID": 970,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkStripeNoRoofBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 492,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkStripeNoRoofRed_1",
+      "liveryID": 971,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkStripeNoRoofRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 493,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkStripeNoRoofSilver_1",
+      "liveryID": 972,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkStripeNoRoofSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 494,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkStripeNoRoofYellow_1",
+      "liveryID": 973,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkStripeNoRoofYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 495,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkRoofStripeBlue_1",
+      "liveryID": 974,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkRoofStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 496,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkRoofStripeRed_1",
+      "liveryID": 975,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkRoofStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 497,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkRoofStripeSilver_1",
+      "liveryID": 976,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkRoofStripeSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 498,
+      "isNoLivery": 0,
+      "NameID": "Jeep_GrandTrackhawkRoofStripeYellow_1",
+      "liveryID": 977,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_Jeep_GrandTrackhawkRoofStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 499,
+      "isNoLivery": 0,
+      "NameID": "Shelby SuperSnake Black Stripe",
+      "liveryID": 464,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeBlackStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 500,
+      "isNoLivery": 0,
+      "NameID": "Shelby SuperSnake Blue Stripe",
+      "liveryID": 465,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeBlueStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 501,
+      "isNoLivery": 0,
+      "NameID": "Shelby SuperSnake Red Stripe",
+      "liveryID": 466,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeRedStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 502,
+      "isNoLivery": 0,
+      "NameID": "Shelby SuperSnake Silver Stripe",
+      "liveryID": 467,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeSilverStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 503,
+      "isNoLivery": 0,
+      "NameID": "Shelby SuperSnake White Stripe",
+      "liveryID": 468,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeWhiteStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 504,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8AccentsBlack_1",
+      "liveryID": 984,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8AccentsBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 505,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8AccentsNo_1",
+      "liveryID": 985,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8AccentsNo_Swatch_Diffuse"
+    },
+    {
+      "ID": 506,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8StripesBlack_1",
+      "liveryID": 986,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8StripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 507,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8StripesRed_1",
+      "liveryID": 987,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8StripesRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 508,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8StripesSilver_1",
+      "liveryID": 988,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8StripesSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 509,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8FenderHashBlack_1",
+      "liveryID": 989,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8FenderHashBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 510,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8FenderHashRed_1",
+      "liveryID": 990,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8FenderHashRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 511,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8FenderHashSilver_1",
+      "liveryID": 991,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8FenderHashSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 512,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8StripesAccentBlack_1",
+      "liveryID": 992,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8AccentFenderHashBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 513,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8StripesAccentRed_1",
+      "liveryID": 993,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8StripesAccentRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 514,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8StripesAccentSilver_1",
+      "liveryID": 994,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8StripesAccentSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 515,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8AccentFenderHashBlack_1",
+      "liveryID": 995,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8AccentFenderHashBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 516,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8AccentFenderHashRed_1",
+      "liveryID": 996,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8AccentFenderHashRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 517,
+      "isNoLivery": 0,
+      "NameID": "Chevrolet_CorvetteC8AccentFenderHashSilver_1",
+      "liveryID": 997,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Chevrolet_CorvetteC8AccentFenderHashSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 518,
+      "isNoLivery": 0,
+      "NameID": "Shelby_SuperSnake_1",
+      "liveryID": 1001,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Shelby_SuperSnake_Swatch_Diffuse"
+    },
+    {
+      "ID": 519,
+      "isNoLivery": 0,
+      "NameID": "Shelby_SuperSnakeRed_1",
+      "liveryID": 1002,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 520,
+      "isNoLivery": 0,
+      "NameID": "Shelby_SuperSnakeBlue_1",
+      "liveryID": 1003,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 521,
+      "isNoLivery": 0,
+      "NameID": "Shelby_SuperSnakeSIlver_1",
+      "liveryID": 1004,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeSIlver_Swatch_Diffuse"
+    },
+    {
+      "ID": 522,
+      "isNoLivery": 0,
+      "NameID": "Shelby_SuperSnakeRedBlue_1",
+      "liveryID": 1005,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeRedBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 523,
+      "isNoLivery": 0,
+      "NameID": "Shelby_SuperSnakeBlueRedStripe_1",
+      "liveryID": 1006,
+      "liveryZoneID": 9,
+      "SwatchTexture": "OEM_Shelby_SuperSnakeBlueRedStripe_Swatch_Diffuse"
+    },
+    {
+      "ID": 524,
+      "isNoLivery": 0,
+      "NameID": "Dodge Viper GTS GTS Racing Stripes Billet Silver Standard",
+      "liveryID": 167,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSGTSRacingStripesBilletSilverStandard_Swatch_Diffuse"
+    },
+    {
+      "ID": 525,
+      "isNoLivery": 0,
+      "NameID": "Dodge Viper GTS GTS Racing Stripes Black Matte",
+      "liveryID": 165,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSGTSRacingStripesBlackMatte_Swatch_Diffuse"
+    },
+    {
+      "ID": 526,
+      "isNoLivery": 0,
+      "NameID": "Dodge Viper GTS GTS Racing Stripes Bright White Matte",
+      "liveryID": 164,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSGTSRacingStripesBrightWhiteMatte_Swatch_Diffuse"
+    },
+    {
+      "ID": 527,
+      "isNoLivery": 0,
+      "NameID": "Dodge Viper GTS GTS Racing Stripes Adrenaline Red Matte",
+      "liveryID": 169,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSGTSRacingStripesAdrenalineRedMatte_Swatch_Diffuse"
+    },
+    {
+      "ID": 528,
+      "isNoLivery": 0,
+      "NameID": "liveryset_placeholder_1234",
+      "liveryID": 168,
+      "liveryZoneID": 15,
+      "SwatchTexture": ""
+    },
+    {
+      "ID": 529,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSCentreBlackRed_1",
+      "liveryID": 1009,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSCentreBlackRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 530,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSCentreBlueRed_1",
+      "liveryID": 1010,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSCentreBlueRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 531,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSCentreSilverRed_1",
+      "liveryID": 1011,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSCentreSIlverRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 532,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSCentreWhiteRed_1",
+      "liveryID": 1012,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSCentreWhiteRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 533,
+      "isNoLivery": 0,
+      "NameID": "Cadillac_CTSVLogo_1",
+      "liveryID": 1013,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Cadillac_CTSVSIde_Swatch_Diffuse"
+    },
+    {
+      "ID": 534,
+      "isNoLivery": 0,
+      "NameID": "Cadillac_CTSVHood_1",
+      "liveryID": 1013,
+      "liveryZoneID": 4,
+      "SwatchTexture": "OEM_Cadillac_CTSVHood_Swatch_Diffuse"
+    },
+    {
+      "ID": 535,
+      "isNoLivery": 0,
+      "NameID": "Cadillac_CTSVDoubleStripeWhite_1",
+      "liveryID": 1016,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Cadillac_CTSVDoubleStripeWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 536,
+      "isNoLivery": 0,
+      "NameID": "Cadillac_CTSVDoubleStripeBlack_1",
+      "liveryID": 1014,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Cadillac_CTSVDoubleStripeBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 537,
+      "isNoLivery": 0,
+      "NameID": "Cadillac_CTSVDoubleStripeSilver_1",
+      "liveryID": 1015,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Cadillac_CTSVDoubleStripeSilver_Swatch_Diffuse"
+    },
+    {
+      "ID": 538,
+      "isNoLivery": 0,
+      "NameID": "Cadillac_CTSVDoubleStripeBlue_1",
+      "liveryID": 1017,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Cadillac_CTSVDoubleStripeBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 539,
+      "isNoLivery": 0,
+      "NameID": "Cadillac_CTSVDoubleStripeRed_1",
+      "liveryID": 1018,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Cadillac_CTSVDoubleStripeRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 540,
+      "isNoLivery": 0,
+      "NameID": "Cadillac_CTSVDoubleStripeYellow_1",
+      "liveryID": 1019,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_Cadillac_CTSVDoubleStripeYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 541,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTS3StripesBlue_1",
+      "liveryID": 1020,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTS3StripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 542,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTS3StripesGreen_1",
+      "liveryID": 1021,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTS3StripesGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 543,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTS3StripesRed_1",
+      "liveryID": 1022,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTS3StripesRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 544,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTS3StripesBlack_1",
+      "liveryID": 1023,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTS3StripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 545,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTS3StripesSilver_1",
+      "liveryID": 1024,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTS3StripesSIlver_Swatch_Diffuse"
+    },
+    {
+      "ID": 546,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTS3StripesWhite_1",
+      "liveryID": 1025,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTS3StripesWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 547,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSGTSRacingStripesBluetandard_1",
+      "liveryID": 1026,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSGTSRacingStripesAdrenalineBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 548,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSGTSRacingStripesGreenStandard_1",
+      "liveryID": 1027,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSGTSRacingStripesGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 549,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSLeft4StripesBlack_1",
+      "liveryID": 1028,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSLeft4StripesBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 550,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSLeft4StripesBlue_1",
+      "liveryID": 1029,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSLeft4StripesBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 551,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSLeft4StripesGreen_1",
+      "liveryID": 1030,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSLeft4StripesGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 552,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSLeft4StripesRed_1",
+      "liveryID": 1031,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSLeft4StripesRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 553,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSLeft4StripesSilver_1",
+      "liveryID": 1032,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSCentreSIlverRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 554,
+      "isNoLivery": 0,
+      "NameID": "Dodge_DodgeViperGTSLeft4StripesWhite_1",
+      "liveryID": 1033,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSLeft4StripesWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 555,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanBlue_1",
+      "liveryID": 1041,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 556,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanBlueNoRoof_1",
+      "liveryID": 1042,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanBlueNoRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 557,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanNoLogos_1",
+      "liveryID": 1049,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanNoLogos_Swatch_Diffuse"
+    },
+    {
+      "ID": 558,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanLime_1",
+      "liveryID": 1043,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanLime_Swatch_Diffuse"
+    },
+    {
+      "ID": 559,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanLimeNoRoof_1",
+      "liveryID": 1044,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanLimeNoRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 560,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanRedNoRoof_1",
+      "liveryID": 1045,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanRedNoRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 561,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanRed_1",
+      "liveryID": 1046,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 562,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanYellowNoRoof_1",
+      "liveryID": 1047,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanYellowNoRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 563,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini_LBSilhouetteHuracanYellow_1",
+      "liveryID": 1048,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanYellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 564,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini LB Silhouette Huracan",
+      "liveryID": 657,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracan_Swatch_Diffuse"
+    },
+    {
+      "ID": 565,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini LB Silhouette Huracan No Roof",
+      "liveryID": 659,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanNoRoof_Swatch_Diffuse"
+    },
+    {
+      "ID": 566,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini LB Silhouette Huracan White F1",
+      "liveryID": 658,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanWhiteF1_Swatch_Diffuse"
+    },
+    {
+      "ID": 567,
+      "isNoLivery": 0,
+      "NameID": "Lamborghini LB Silhouette Huracan No Roof White",
+      "liveryID": 692,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Lamborghini_LBSilhouetteHuracanNoRoofWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 568,
+      "isNoLivery": 0,
+      "NameID": "Honda LB NSX Livery Black",
+      "liveryID": 411,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Honda_LBNSX_LiveryBlack_Swatch_Diffuse"
+    },
+    {
+      "ID": 569,
+      "isNoLivery": 0,
+      "NameID": "Honda LB NSX Livery White",
+      "liveryID": 412,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Honda_LBNSX_LiveryWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 570,
+      "isNoLivery": 0,
+      "NameID": "Honda LB NSX Livery Bronze",
+      "liveryID": 413,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Honda_LBNSX_LiveryBronze_Swatch_Diffuse"
+    },
+    {
+      "ID": 571,
+      "isNoLivery": 0,
+      "NameID": "Honda LB NSX Livery Green",
+      "liveryID": 414,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Honda_LBNSX_LiveryGreen_Swatch_Diffuse"
+    },
+    {
+      "ID": 572,
+      "isNoLivery": 0,
+      "NameID": "Honda LB NSX Livery Red",
+      "liveryID": 415,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Honda_LBNSX_LiveryRed_Swatch_Diffuse"
+    },
+    {
+      "ID": 573,
+      "isNoLivery": 0,
+      "NameID": "Honda LB NSX Livery Pink",
+      "liveryID": 416,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_Honda_LBNSX_LiveryPink_Swatch_Diffuse"
+    },
+    {
+      "ID": 574,
+      "isNoLivery": 0,
+      "NameID": "Mazda RX-7 Gold",
+      "liveryID": 371,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MazdaRX7_Gold_Swatch_Diffuse"
+    },
+    {
+      "ID": 575,
+      "isNoLivery": 0,
+      "NameID": "Mazda RX-7 Blue",
+      "liveryID": 372,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MazdaRX7_Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 576,
+      "isNoLivery": 0,
+      "NameID": "Mazda RX-7 Pink",
+      "liveryID": 373,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MazdaRX7_Pink_Swatch_Diffuse"
+    },
+    {
+      "ID": 577,
+      "isNoLivery": 0,
+      "NameID": "Mazda RX-7 Aluminium Rough",
+      "liveryID": 375,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MazdaRX7_AluminiumRough_Swatch_Diffuse"
+    },
+    {
+      "ID": 578,
+      "isNoLivery": 0,
+      "NameID": "Mazda RX-7 Black",
+      "liveryID": 359,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MazdaRX7_Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 579,
+      "isNoLivery": 0,
+      "NameID": "MazdaRX7_White_1",
+      "liveryID": 1056,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_MazdaRX7_White_Swatch_Diffuse"
+    },
+    {
+      "ID": 580,
+      "isNoLivery": 0,
+      "NameID": "MazdaRX7_BlackArches_1",
+      "liveryID": 1057,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_MazdaRX7_BlackArches_Swatch_Diffuse"
+    },
+    {
+      "ID": 581,
+      "isNoLivery": 0,
+      "NameID": "MazdaRX7_BlackArches_2",
+      "liveryID": 1057,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_MazdaRX7_BlackArches2_Swatch_Diffuse"
+    },
+    {
+      "ID": 582,
+      "isNoLivery": 0,
+      "NameID": "MazdaRX7_BlackArches_3",
+      "liveryID": 1057,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_MazdaRX7_BlackArches3_Swatch_Diffuse"
+    },
+    {
+      "ID": 583,
+      "isNoLivery": 0,
+      "NameID": "NissanSIlviaS15RocketBunny_BlackArches_1",
+      "liveryID": 1058,
+      "liveryZoneID": 2,
+      "SwatchTexture": "OEM_NissanSIlviaS15RocketBunny_BlackArches_Swatch_Diffuse"
+    },
+    {
+      "ID": 584,
+      "isNoLivery": 0,
+      "NameID": "NissanSIlviaS15RocketBunny_BlackArches_2",
+      "liveryID": 1058,
+      "liveryZoneID": 15,
+      "SwatchTexture": "OEM_NissanSIlviaS15RocketBunny_BlackArches2_Swatch_Diffuse"
+    },
+    {
+      "ID": 585,
+      "isNoLivery": 0,
+      "NameID": "NissanSIlviaS15RocketBunny_BlackArches_3",
+      "liveryID": 1058,
+      "liveryZoneID": 6,
+      "SwatchTexture": "OEM_NissanSIlviaS15RocketBunny_BlackArches3_Swatch_Diffuse"
+    },
+    {
+      "ID": 586,
+      "isNoLivery": 0,
+      "NameID": "NissanSIlviaS15RocketBunny_BlackArches_4",
+      "liveryID": 1058,
+      "liveryZoneID": 1,
+      "SwatchTexture": "OEM_NissanSIlviaS15RocketBunny_BlackArches4_Swatch_Diffuse"
+    },
+    {
+      "ID": 587,
+      "isNoLivery": 0,
+      "NameID": "BMW_VarisM4Black_1",
+      "liveryID": 839,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_VarisM4Black_Swatch_Diffuse"
+    },
+    {
+      "ID": 588,
+      "isNoLivery": 0,
+      "NameID": "BMW_VarisM4Blue_1",
+      "liveryID": 1071,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_VarisM4Blue_Swatch_Diffuse"
+    },
+    {
+      "ID": 589,
+      "isNoLivery": 0,
+      "NameID": "BMW_VarisM4LightBlue_1",
+      "liveryID": 1072,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_VarisM4LightBlue_Swatch_Diffuse"
+    },
+    {
+      "ID": 590,
+      "isNoLivery": 0,
+      "NameID": "BMW_VarisM4Red_1",
+      "liveryID": 1073,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_VarisM4Red_Swatch_Diffuse"
+    },
+    {
+      "ID": 591,
+      "isNoLivery": 0,
+      "NameID": "BMW_VarisM4White_1",
+      "liveryID": 1074,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_VarisM4White_Swatch_Diffuse"
+    },
+    {
+      "ID": 592,
+      "isNoLivery": 0,
+      "NameID": "BMW_VarisM4Yellow_1",
+      "liveryID": 1075,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_VarisM4Yellow_Swatch_Diffuse"
+    },
+    {
+      "ID": 593,
+      "isNoLivery": 0,
+      "NameID": "Honda_CivicTypeRVarisBlackNoWheel_1",
+      "liveryID": 1076,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVarisBlackNoWheel_Swatch_Diffuse"
+    },
+    {
+      "ID": 594,
+      "isNoLivery": 0,
+      "NameID": "Honda_CivicTypeRVarisBlueNoWheel_1",
+      "liveryID": 1077,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVarisBlueNoWheel_Swatch_Diffuse"
+    },
+    {
+      "ID": 595,
+      "isNoLivery": 0,
+      "NameID": "Honda_CivicTypeRVarisRedNoWheel_1",
+      "liveryID": 1078,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVarisRedNoWheel_Swatch_Diffuse"
+    },
+    {
+      "ID": 596,
+      "isNoLivery": 0,
+      "NameID": "Honda_CivicTypeRVarisWhiteNoWheel_1",
+      "liveryID": 1079,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVarisWhiteNoWheel_Swatch_Diffuse"
+    },
+    {
+      "ID": 597,
+      "isNoLivery": 0,
+      "NameID": "Honda_CivicTypeRVarisYellowNoWheel_1",
+      "liveryID": 1080,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVarisYellowNoWheel_Swatch_Diffuse"
+    },
+    {
+      "ID": 598,
+      "isNoLivery": 0,
+      "NameID": "Honda Civic TypeR Varis Black",
+      "liveryID": 625,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVaris_Swatch_Diffuse"
+    },
+    {
+      "ID": 599,
+      "isNoLivery": 0,
+      "NameID": "Honda Civic TypeR Varis White",
+      "liveryID": 626,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVarisWhite_Swatch_Diffuse"
+    },
+    {
+      "ID": 600,
+      "isNoLivery": 0,
+      "NameID": "Honda_CivicTypeRVarisGreenNoWheel_1",
+      "liveryID": 1081,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVarisGreenNoWheel_Swatch_Diffuse"
+    },
+    {
+      "ID": 601,
+      "isNoLivery": 0,
+      "NameID": "Honda_CivicTypeRVarisNoLivery_1",
+      "liveryID": 1082,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_Honda_CivicTypeRVarisNoLivery_Swatch_Diffuse"
+    },
+    {
+      "ID": 602,
+      "isNoLivery": 0,
+      "NameID": "BMW_VarisM4NoLivery_1",
+      "liveryID": 1084,
+      "liveryZoneID": 0,
+      "SwatchTexture": "OEM_BMW_VarisM4NoLivery_Swatch_Diffuse"
+    }
+  ],
+  "isModified": 0
+}

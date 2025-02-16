@@ -1,0 +1,6838 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2782027675629764192
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -702965281917061028
+  },
+  "m_Name": "",
+  "CarCameraAnimations": [
+    {
+      "Name": "Global_Configurator_CalliperL_Camera1",
+      "ID": 1,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7594639301906444386
+      }
+    },
+    {
+      "Name": "Global_Configurator_InteriorL_Camera1",
+      "ID": 2,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7659534881167820215
+      }
+    },
+    {
+      "Name": "Global_Configurator_InteriorR_Camera1",
+      "ID": 3,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -651965750787370326
+      }
+    },
+    {
+      "Name": "Global_Configurator_LiveryF_Camera1",
+      "ID": 4,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2614503987144446996
+      }
+    },
+    {
+      "Name": "Global_Configurator_PaintL_Camera1",
+      "ID": 5,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4901314560768880342
+      }
+    },
+    {
+      "Name": "Global_Configurator_PaintR_Camera1",
+      "ID": 6,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9072101862339553629
+      }
+    },
+    {
+      "Name": "Global_Configurator_WheelR_Camera1",
+      "ID": 7,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -920983354832871622
+      }
+    },
+    {
+      "Name": "Abarth_500_2014_InteriorR_Camera1",
+      "ID": 8,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1659551081038612363
+      }
+    },
+    {
+      "Name": "AlfaRomeo_4CCoupe_2013_InteriorR_Camera1",
+      "ID": 9,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5842168079661027427
+      }
+    },
+    {
+      "Name": "AlfaRomeo_4CSpider_2016_InteriorR_Camera1",
+      "ID": 10,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6028217914467804456
+      }
+    },
+    {
+      "Name": "AstonMartin_DB11_2017_InteriorR_Camera1",
+      "ID": 11,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 890355757685500369
+      }
+    },
+    {
+      "Name": "AstonMartin_One77_2010_InteriorR_Camera1",
+      "ID": 12,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -163657783272417042
+      }
+    },
+    {
+      "Name": "AstonMartin_Vanquish_2014_InteriorR_Camera1",
+      "ID": 13,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1114018785210514491
+      }
+    },
+    {
+      "Name": "AstonMartin_Vulcan_2016_InteriorR_Camera1",
+      "ID": 14,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3615242136100921129
+      }
+    },
+    {
+      "Name": "Audi_R8V10PlusCoupe_2014_InteriorR_Camera1",
+      "ID": 15,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8615828540765032959
+      }
+    },
+    {
+      "Name": "Audi_RS5Coupe_2014_InteriorR_Camera1",
+      "ID": 16,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7307272601036393348
+      }
+    },
+    {
+      "Name": "Audi_R8V10PlusCoupe_2016_InteriorR_Camera1",
+      "ID": 17,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2262923013967397188
+      }
+    },
+    {
+      "Name": "Audi_TTRSPlusCoupe_2014_InteriorR_Camera1",
+      "ID": 18,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3054623425065910026
+      }
+    },
+    {
+      "Name": "BAC_Mono_2017_InteriorR_Camera1",
+      "ID": 19,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7920724500891570938
+      }
+    },
+    {
+      "Name": "Bentley_ContinentalGT3R_2015_InteriorR_Camera1",
+      "ID": 20,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5522031583882341078
+      }
+    },
+    {
+      "Name": "Bentley_ContinentalGTSpeed_2016_InteriorR_Camera1",
+      "ID": 21,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5662609137555591320
+      }
+    },
+    {
+      "Name": "Bentley_ContinentalGTV8S_2014_InteriorR_Camera1",
+      "ID": 22,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7765275930736789737
+      }
+    },
+    {
+      "Name": "BMW_M235iCoupe_2014_InteriorR_Camera1",
+      "ID": 23,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4598221584899910145
+      }
+    },
+    {
+      "Name": "BMW_i8_2017_InteriorR_Camera1",
+      "ID": 24,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2822673296729779393
+      }
+    },
+    {
+      "Name": "BMW_M4Coupe_2014_InteriorR_Camera1",
+      "ID": 25,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5066504750237233318
+      }
+    },
+    {
+      "Name": "BMW_M3E92CoupeGTS_2011_InteriorR_Camera1",
+      "ID": 26,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3157236770103479012
+      }
+    },
+    {
+      "Name": "Bugatti_Chiron_2016_InteriorR_Camera1",
+      "ID": 27,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 916455765002700964
+      }
+    },
+    {
+      "Name": "Bugatti_VeyronSuperSport_2012_InteriorR_Camera1",
+      "ID": 28,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1912989441753162742
+      }
+    },
+    {
+      "Name": "Chevrolet_C10_2016_InteriorR_Camera1",
+      "ID": 29,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2697248246921754886
+      }
+    },
+    {
+      "Name": "Chevrolet_CamaroSS_2016_InteriorR_Camera1",
+      "ID": 30,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2235633218893232386
+      }
+    },
+    {
+      "Name": "Chevrolet_CamaroZ28_2015_InteriorR_Camera1",
+      "ID": 31,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2350391899525325001
+      }
+    },
+    {
+      "Name": "Chevrolet_CamaroZL1_2017_InteriorR_Camera1",
+      "ID": 32,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8805781537701082244
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZ06_2015_InteriorR_Camera1",
+      "ID": 33,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3137559839315090509
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteStingray_2015_InteriorR_Camera1",
+      "ID": 34,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -573575705166254097
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteStingRayC2_1966_InteriorR_Camera1",
+      "ID": 35,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4270265470105754216
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1_2018_InteriorR_Camera1",
+      "ID": 36,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7057460982479028664
+      }
+    },
+    {
+      "Name": "Chevrolet_HSCustomsCamaro_2016_InteriorR_Camera1",
+      "ID": 37,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -186978396589731886
+      }
+    },
+    {
+      "Name": "Dodge_ChallengerSRTDemon_2018_InteriorR_Camera1",
+      "ID": 38,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2797568027417972112
+      }
+    },
+    {
+      "Name": "Dodge_ChallengerSRTHellcat_2015_InteriorR_Camera1",
+      "ID": 39,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3586444063234551449
+      }
+    },
+    {
+      "Name": "Dodge_ChargerRTF8_1970_InteriorR_Camera1",
+      "ID": 40,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6524916006109803156
+      }
+    },
+    {
+      "Name": "Dodge_ViperACR_2016_InteriorR_Camera1",
+      "ID": 41,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4058149749402924568
+      }
+    },
+    {
+      "Name": "Dodge_ViperGTS_2015_InteriorR_Camera1",
+      "ID": 42,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3834115512985618858
+      }
+    },
+    {
+      "Name": "Ferrari_458Speciale_2014_InteriorR_Camera1",
+      "ID": 43,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6928697674286415174
+      }
+    },
+    {
+      "Name": "Ferrari_488GTB_2015_InteriorR_Camera1",
+      "ID": 44,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4069372078791590949
+      }
+    },
+    {
+      "Name": "Ferrari_488Spider_2015_InteriorR_Camera1",
+      "ID": 45,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4182493074969489243
+      }
+    },
+    {
+      "Name": "Ferrari_599GTO_2010_InteriorR_Camera1",
+      "ID": 46,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1025911689681623512
+      }
+    },
+    {
+      "Name": "Ferrari_812Superfast_2018_InteriorR_Camera1",
+      "ID": 47,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3701457093789613025
+      }
+    },
+    {
+      "Name": "Ferrari_California_2012_InteriorR_Camera1",
+      "ID": 48,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6860792867529651731
+      }
+    },
+    {
+      "Name": "Ferrari_CaliforniaT_2015_InteriorR_Camera1",
+      "ID": 49,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1245639914853940805
+      }
+    },
+    {
+      "Name": "Ferrari_F12berlinetta_2014_InteriorR_Camera1",
+      "ID": 50,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7192557913036310774
+      }
+    },
+    {
+      "Name": "Ferrari_F12tdf_2016_InteriorR_Camera1",
+      "ID": 51,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8544670137795359608
+      }
+    },
+    {
+      "Name": "Ferrari_F40_1987_InteriorR_Camera1",
+      "ID": 52,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4899689754731426358
+      }
+    },
+    {
+      "Name": "Ferrari_FXXK_2014_InteriorR_Camera1",
+      "ID": 53,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2218917619106951331
+      }
+    },
+    {
+      "Name": "Ferrari_GTC4Lusso_2016_InteriorR_Camera1",
+      "ID": 54,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6065604811495914375
+      }
+    },
+    {
+      "Name": "Ferrari_LaFerrari_2014_InteriorR_Camera1",
+      "ID": 55,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4206645349147291914
+      }
+    },
+    {
+      "Name": "Ferrari_LaFerrariAperta_2017_InteriorR_Camera1",
+      "ID": 56,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1548954343941475944
+      }
+    },
+    {
+      "Name": "Ford_Durty30_2016_InteriorRLowEnd_Camera1",
+      "ID": 57,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6710330121986289107
+      }
+    },
+    {
+      "Name": "Ford_Durty30_2016_InteriorR_Camera1",
+      "ID": 58,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3031531953229513856
+      }
+    },
+    {
+      "Name": "Ford_F150SVTRaptor_2014_InteriorR_Camera1",
+      "ID": 59,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7968495063429696607
+      }
+    },
+    {
+      "Name": "Ford_FiestaST_2016_InteriorR_Camera1",
+      "ID": 60,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5306655409006711730
+      }
+    },
+    {
+      "Name": "Ford_FocusRS_2017_InteriorR_Camera1",
+      "ID": 61,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4446002153120383760
+      }
+    },
+    {
+      "Name": "Ford_GT_2017_InteriorR_Camera1",
+      "ID": 62,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3165781391695436660
+      }
+    },
+    {
+      "Name": "Ford_MustangGTPremium_2015_InteriorR_Camera1",
+      "ID": 63,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9019983626393171118
+      }
+    },
+    {
+      "Name": "Ford_ShelbyGT350R_2016_InteriorR_Camera1",
+      "ID": 64,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7190351628762458679
+      }
+    },
+    {
+      "Name": "GTA_Spano_2015_InteriorR_Camera1",
+      "ID": 65,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9070301254008872223
+      }
+    },
+    {
+      "Name": "Hennessey_VenomGT_2012_InteriorR_Camera1",
+      "ID": 66,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3073464965693152296
+      }
+    },
+    {
+      "Name": "Hennessey_VenomGTSpyder_2016_InteriorR_Camera1",
+      "ID": 67,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 890298373586630966
+      }
+    },
+    {
+      "Name": "Honda_Civic15VTEC_1994_InteriorL_Camera1",
+      "ID": 68,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6291861770060491448
+      }
+    },
+    {
+      "Name": "Honda_CivicTypeR_2017_InteriorR_Camera1",
+      "ID": 69,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1048233585183867400
+      }
+    },
+    {
+      "Name": "Honda_NSX_2017_InteriorR_Camera1",
+      "ID": 70,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8356672828653195916
+      }
+    },
+    {
+      "Name": "Hyundai_VelosterTurboRSpec_2014_InteriorR_Camera1",
+      "ID": 71,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8343996405574371217
+      }
+    },
+    {
+      "Name": "Jaguar_CX75Prototype_2013_InteriorR_Camera1",
+      "ID": 72,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3323577304263435876
+      }
+    },
+    {
+      "Name": "Jaguar_FTypeRCoupe_2016_InteriorR_Camera1",
+      "ID": 73,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3274533726379800263
+      }
+    },
+    {
+      "Name": "Jeep_GrandCherokeeTrackhawk_2018_InteriorR_Camera1",
+      "ID": 74,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 635694056028857521
+      }
+    },
+    {
+      "Name": "Koenigsegg_AgeraR_2013_InteriorR_Camera1",
+      "ID": 75,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -383254812365372297
+      }
+    },
+    {
+      "Name": "Koenigsegg_One1_2014_InteriorR_Camera1",
+      "ID": 76,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7146026129105017422
+      }
+    },
+    {
+      "Name": "Koenigsegg_Regera_2016_InteriorR_Camera1",
+      "ID": 77,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1403257575910791485
+      }
+    },
+    {
+      "Name": "Lamborghini_AventadorLP7004_2011_InteriorR_Camera1",
+      "ID": 78,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6575531425706636538
+      }
+    },
+    {
+      "Name": "Lamborghini_AventadorLP7504Superveloce_2015_InteriorR_Camera1",
+      "ID": 79,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 541937463476367324
+      }
+    },
+    {
+      "Name": "Lamborghini_CentenarioRoadster_2017_InteriorR_Camera1",
+      "ID": 80,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7661355873295836518
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanLP6104_2014_InteriorR_Camera1",
+      "ID": 81,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1262399268260455275
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanPerformante_2018_InteriorR_Camera1",
+      "ID": 82,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3641982016581135803
+      }
+    },
+    {
+      "Name": "Lamborghini_MurcielagoLP640_2006_InteriorR_Camera1",
+      "ID": 83,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5137793743887084264
+      }
+    },
+    {
+      "Name": "Landrover_RangeRoverEvoqueCoupe_2016_InteriorR_Camera1",
+      "ID": 84,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2936281302663116296
+      }
+    },
+    {
+      "Name": "LocalMotor_RallyFighter_2013_InteriorR_Camera1",
+      "ID": 85,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1369933770918185727
+      }
+    },
+    {
+      "Name": "Lotus_Exige360Cup_2016_InteriorR_Camera1",
+      "ID": 86,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5623897401717231762
+      }
+    },
+    {
+      "Name": "Lotus_ExigeS_2014_InteriorR_Camera1",
+      "ID": 87,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8344828123289493051
+      }
+    },
+    {
+      "Name": "Maserati_GhibliSQ4_2014_InteriorR_Camera1",
+      "ID": 88,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6567902008737579559
+      }
+    },
+    {
+      "Name": "Mazda_RX7_1993_InteriorL_Camera1",
+      "ID": 89,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7246046043227873807
+      }
+    },
+    {
+      "Name": "McLaren_570S_2016_InteriorR_Camera1",
+      "ID": 90,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1289138204427563136
+      }
+    },
+    {
+      "Name": "McLaren_650S_2015_InteriorR_Camera1",
+      "ID": 91,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3473361978705773825
+      }
+    },
+    {
+      "Name": "McLaren_675LTSpider_2016_InteriorR_Camera1",
+      "ID": 92,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5902723373648130135
+      }
+    },
+    {
+      "Name": "McLaren_P1_2014_InteriorR_Camera1",
+      "ID": 93,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6740839488790230716
+      }
+    },
+    {
+      "Name": "McLaren_720SCoupe_2017_InteriorR_Camera1",
+      "ID": 94,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1494472933872406137
+      }
+    },
+    {
+      "Name": "McLaren_P1GTR_2015_InteriorR_Camera1",
+      "ID": 95,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7901087992356530565
+      }
+    },
+    {
+      "Name": "MercedesAMG_GT_2015_InteriorR_Camera1",
+      "ID": 96,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4460147534736857152
+      }
+    },
+    {
+      "Name": "MercedesAMG_GTR_2017_InteriorR_Camera1",
+      "ID": 97,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7247731502796559691
+      }
+    },
+    {
+      "Name": "MercedesBenz_A45AMG_2014_InteriorR_Camera1",
+      "ID": 98,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6320756709471588827
+      }
+    },
+    {
+      "Name": "MercedesBenz_C63AMG_2014_InteriorR_Camera1",
+      "ID": 99,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4775072636597850715
+      }
+    },
+    {
+      "Name": "MercedesBenz_CLA45AMGShootingBrake_2015_InteriorR_Camera1",
+      "ID": 100,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4921408328123181011
+      }
+    },
+    {
+      "Name": "MercedesBenz_SLSAMGBlackSeries_2013_InteriorR_Camera1",
+      "ID": 101,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4292704484566678740
+      }
+    },
+    {
+      "Name": "Mini_CooperS_2014_InteriorR_Camera1",
+      "ID": 102,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -500856342004370161
+      }
+    },
+    {
+      "Name": "Nissan_GTR_2017_InteriorR_Camera1",
+      "ID": 103,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7858102737436455904
+      }
+    },
+    {
+      "Name": "Nissan_GTR_2015_InteriorR_Camera1",
+      "ID": 104,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5060398650255330371
+      }
+    },
+    {
+      "Name": "Nissan_SilviaS15_1999_InteriorL_Camera1",
+      "ID": 105,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1436710674415351179
+      }
+    },
+    {
+      "Name": "Pagani_Huayra_2014_InteriorR_Camera1",
+      "ID": 106,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7337868465426201981
+      }
+    },
+    {
+      "Name": "Pagani_HuayraBC_2016_InteriorR_Camera1",
+      "ID": 107,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6816187087373381382
+      }
+    },
+    {
+      "Name": "Pagani_HuayraRoadster_2017_InteriorR_Camera1",
+      "ID": 108,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6143320442986309834
+      }
+    },
+    {
+      "Name": "Plymouth_RoadRunnerGTX_1971_InteriorR_Camera1",
+      "ID": 109,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6862561919671101319
+      }
+    },
+    {
+      "Name": "Plymouth_WeaverCustomsCudaTorc_2016_InteriorR_Camera1",
+      "ID": 110,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1575835603604268900
+      }
+    },
+    {
+      "Name": "Porsche_718BoxsterS_2017_InteriorR_Camera1",
+      "ID": 111,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 800448590700803420
+      }
+    },
+    {
+      "Name": "Porsche_911GT3_2018_InteriorR_Camera1",
+      "ID": 112,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5331582422604482828
+      }
+    },
+    {
+      "Name": "Porsche_911GT3RS_2016_InteriorR_Camera1",
+      "ID": 113,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8104869215920563453
+      }
+    },
+    {
+      "Name": "Porsche_911R_2017_InteriorR_Camera1",
+      "ID": 114,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4799072099984189731
+      }
+    },
+    {
+      "Name": "Porsche_911TurboS_2016_InteriorR_Camera1",
+      "ID": 115,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4347875086066187363
+      }
+    },
+    {
+      "Name": "Porsche_918Spyder_2015_InteriorR_Camera1",
+      "ID": 116,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4433034139680567491
+      }
+    },
+    {
+      "Name": "Porsche_CaymanGT4_2016_InteriorR_Camera1",
+      "ID": 117,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4172821495855402557
+      }
+    },
+    {
+      "Name": "Subaru_BRZRocketBunny_2013_InteriorL_Camera1",
+      "ID": 118,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5587469521802410774
+      }
+    },
+    {
+      "Name": "Subaru_ImprezaWRXSTI_2014_InteriorR_Camera1",
+      "ID": 119,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2208425310943253776
+      }
+    },
+    {
+      "Name": "Subaru_WRXSTI_2018_InteriorR_Camera1",
+      "ID": 120,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4203266939163578564
+      }
+    },
+    {
+      "Name": "Toyota_86_2014_InteriorL_Camera1",
+      "ID": 121,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1453817596861534599
+      }
+    },
+    {
+      "Name": "Volkswagen_GolfGTI_2014_InteriorR_Camera1",
+      "ID": 122,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7306125393121080542
+      }
+    },
+    {
+      "Name": "Volkswagen_GolfGTI_1982_InteriorR_Camera1",
+      "ID": 123,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3456524274491671805
+      }
+    },
+    {
+      "Name": "Volkswagen_SciroccoR_2015_InteriorL_Camera1",
+      "ID": 124,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5321355620238344736
+      }
+    },
+    {
+      "Name": "WMotors_FenyrSupersport_2016_InteriorRLowEnd_Camera1",
+      "ID": 125,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2259058529571205484
+      }
+    },
+    {
+      "Name": "WMotors_FenyrSupersport_2016_InteriorR_Camera1",
+      "ID": 126,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6872394733986051699
+      }
+    },
+    {
+      "Name": "WMotors_LykanHyperSport_2015_InteriorRLowEnd_Camera1",
+      "ID": 127,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2416591365329074711
+      }
+    },
+    {
+      "Name": "WMotors_LykanHyperSport_2015_InteriorR_Camera1",
+      "ID": 128,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -415395715063850253
+      }
+    },
+    {
+      "Name": "Zenvo_TS1GT_2018_InteriorR_Camera1",
+      "ID": 129,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5757461560170425190
+      }
+    },
+    {
+      "Name": "AstonMartin_VantageV8_2018_InteriorR_Camera1",
+      "ID": 130,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6405588260357018893
+      }
+    },
+    {
+      "Name": "Lamborghini_Urus_2018_InteriorR_Camera1",
+      "ID": 131,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1451647048000145191
+      }
+    },
+    {
+      "Name": "Koenigsegg_AgeraRS_2017_InteriorR_Camera1",
+      "ID": 132,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5203381391543195888
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanPerformanteSpyder_2019_InteriorR_Camera1",
+      "ID": 133,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7793319709479687399
+      }
+    },
+    {
+      "Name": "SCG_SCG003S_2017_InteriorR_Camera1",
+      "ID": 134,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5580779381525676830
+      }
+    },
+    {
+      "Name": "Nissan_SkylineGTRR34_1999_InteriorL_Camera1",
+      "ID": 135,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8317504738500986609
+      }
+    },
+    {
+      "Name": "Ferrari_F50_1995_InteriorR_Camera1",
+      "ID": 136,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7968775689201559326
+      }
+    },
+    {
+      "Name": "Lamborghini_SestoElemento_2012_InteriorR_Camera1",
+      "ID": 137,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3807523214379725797
+      }
+    },
+    {
+      "Name": "Honda_S2000_2001_InteriorR_Camera1",
+      "ID": 138,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7023554409165066497
+      }
+    },
+    {
+      "Name": "Ford_MustangGTHPE750_2015_InteriorR_Camera1",
+      "ID": 139,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3846234280186830553
+      }
+    },
+    {
+      "Name": "Jaguar_Project7_2016_InteriorL_Camera1",
+      "ID": 140,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1963432710540810838
+      }
+    },
+    {
+      "Name": "Toyota_86RocketBunny_2014_InteriorL_Camera1",
+      "ID": 141,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1647778552058098633
+      }
+    },
+    {
+      "Name": "BMW_M2Competition_2018_InteriorR_Camera1",
+      "ID": 142,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3229771295805396606
+      }
+    },
+    {
+      "Name": "Mazda_MX5_2016_InteriorR_Camera1",
+      "ID": 143,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6833047719432038603
+      }
+    },
+    {
+      "Name": "Porsche_911GT3RS_2018_InteriorR_Camera1",
+      "ID": 144,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3750784242761530855
+      }
+    },
+    {
+      "Name": "Lamborghini_MurcielagoSV_2009_InteriorR_Camera1",
+      "ID": 145,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7142219181059626108
+      }
+    },
+    {
+      "Name": "Ferrari_Portofino_2018_InteriorR_Camera1",
+      "ID": 146,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4567156791160734149
+      }
+    },
+    {
+      "Name": "Ford_FocusST_2014_InteriorR_Camera1",
+      "ID": 147,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1775229814667243055
+      }
+    },
+    {
+      "Name": "Mazda_RX7F1_1993_InteriorR_Camera1",
+      "ID": 148,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8512312866677062945
+      }
+    },
+    {
+      "Name": "Mitsubishi_Eclipse_1995_InteriorR_Camera1",
+      "ID": 149,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4533732143704423378
+      }
+    },
+    {
+      "Name": "Bentley_ContinentalGT_2018_InteriorR_Camera1",
+      "ID": 150,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1276780912911544531
+      }
+    },
+    {
+      "Name": "Dodge_ChargerRTF1_1970_InteriorR_Camera1",
+      "ID": 151,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6608204485946718288
+      }
+    },
+    {
+      "Name": "KTM_XBowR_2011_InteriorR_Camera1",
+      "ID": 152,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -140924323998650798
+      }
+    },
+    {
+      "Name": "Toyota_SupraMKIV_1994_InteriorR_Camera1",
+      "ID": 153,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9106376689168032466
+      }
+    },
+    {
+      "Name": "Porsche_911GT2RS_2017_InteriorR_Camera1",
+      "ID": 154,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1068382372782843595
+      }
+    },
+    {
+      "Name": "Jaguar_FTypeSVRCoupe_2019_InteriorR_Camera1",
+      "ID": 155,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4311780566123881064
+      }
+    },
+    {
+      "Name": "Ferrari_488Pista_2019_InteriorR_Camera1",
+      "ID": 156,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5396998598487579389
+      }
+    },
+    {
+      "Name": "Porsche_RWB993Rotana_1993_InteriorR_Camera1",
+      "ID": 157,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -644446129670922902
+      }
+    },
+    {
+      "Name": "Apollo_IntensaEmozione_2019_InteriorL_Camera1",
+      "ID": 158,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1158709284304830391
+      }
+    },
+    {
+      "Name": "Ferrari_FXXKEvo_2018_InteriorR_Camera1",
+      "ID": 159,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5565709211431319128
+      }
+    },
+    {
+      "Name": "Saleen_S1_2018_InteriorR_Camera1",
+      "ID": 160,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6007699793207444657
+      }
+    },
+    {
+      "Name": "Lamborghini_AventadorSVJ_2019_InteriorR_Camera1",
+      "ID": 161,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8696808747845573103
+      }
+    },
+    {
+      "Name": "Porsche_911STRII_1972_InteriorR_Camera1",
+      "ID": 162,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2891679830955409438
+      }
+    },
+    {
+      "Name": "Porsche_Canepa959_1988_InteriorR_Camera1",
+      "ID": 163,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7836250269442139471
+      }
+    },
+    {
+      "Name": "Bugatti_Divo_2019_InteriorR_Camera1",
+      "ID": 164,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5695389354486034299
+      }
+    },
+    {
+      "Name": "AMC_RingbrothersJavelinDefiant_1972_InteriorR_Camera1",
+      "ID": 165,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1231972485869534443
+      }
+    },
+    {
+      "Name": "Chevrolet_QuintinBrotherCamaro_1968_InteriorR_Camera1",
+      "ID": 166,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3210737560221831118
+      }
+    },
+    {
+      "Name": "Maserati_MC12_2004_InteriorR_Camera1",
+      "ID": 167,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8347708677584415311
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_BodyL_Camera1",
+      "ID": 168,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 371515129524888867
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_BodyB_Camera2",
+      "ID": 169,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4399084041253304689
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_BodyR_Camera3",
+      "ID": 170,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2321840544352391028
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_EngineL_Camera1",
+      "ID": 171,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -252824637597155384
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_InteriorL_Camera2",
+      "ID": 172,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5075559239127830444
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_InteriorR_Camera1",
+      "ID": 173,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3264854006231726422
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_BodyL_Camera2",
+      "ID": 174,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4134170599339918390
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_BodyB_Camera2",
+      "ID": 175,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9130763205266238864
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_BodyF_Camera1",
+      "ID": 176,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4815920478155958559
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_BodyL_Camera3",
+      "ID": 177,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3858433671292703531
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_BodyR_Camera4",
+      "ID": 178,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4816498396142007719
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_EngineR_Camera1",
+      "ID": 179,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1610996816447623145
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_InteriorR_Camera1",
+      "ID": 180,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6985427366171909807
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5Classic_1964_BodyB_Camera3",
+      "ID": 181,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7571636826583658687
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5Classic_1964_BodyF_Camera4",
+      "ID": 182,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6442323133434506878
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5Classic_1964_BodyL_Camera2",
+      "ID": 183,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1747410763143664423
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5Classic_1964_BodyR_Camera1",
+      "ID": 184,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4858961175234678233
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5Classic_1964_EngineR_Camera1",
+      "ID": 185,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2749844776030976124
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5Classic_1964_InteriorL_Camera1",
+      "ID": 186,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1744317818339977330
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCClassic_1965_BodyB_Camera2",
+      "ID": 187,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8206507741763437771
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCClassic_1965_BodyF_Camera3",
+      "ID": 188,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4627069844332217835
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCClassic_1965_BodyR_Camera1",
+      "ID": 189,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6237385044988570820
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCClassic_1965_EngineB_Camera2",
+      "ID": 190,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8902641992743961291
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCClassic_1965_EngineL_Camera1",
+      "ID": 191,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -135773892288727116
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCClassic_1965_InteriorR_Camera1",
+      "ID": 192,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6121107709663781194
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_BodyL_Camera3",
+      "ID": 193,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6740116902048556542
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_BodyR_Camera1",
+      "ID": 194,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2984496600854295149
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_BodyR_Camera4",
+      "ID": 195,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2246508757793144555
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_EngineR_Camera1",
+      "ID": 196,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5279010721394889325
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_InteriorR_Camera1",
+      "ID": 197,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4247411780255270027
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachClassic_1988_BodyB_Camera3",
+      "ID": 198,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6672783176205656399
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachClassic_1988_BodyF_Camera2",
+      "ID": 199,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6621487302657595268
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachClassic_1988_BodyL_Camera1",
+      "ID": 200,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7327860844731821771
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachClassic_1988_EngineL_Camera1",
+      "ID": 201,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3806540911733775994
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachClassic_1988_EngineR_Camera2",
+      "ID": 202,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3973746945403050756
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachClassic_1988_InteriorL_Camera1",
+      "ID": 203,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 370295369063704557
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaClassic_1971_BodyB_Camera3",
+      "ID": 204,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2745188931574998284
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaClassic_1971_BodyF_Camera1",
+      "ID": 205,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7488443156875572608
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaClassic_1971_BodyR_Camera2",
+      "ID": 206,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5872523261149136062
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaClassic_1971_EngineF_Camera1",
+      "ID": 207,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2024015560195448888
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaClassic_1971_EngineF_Camera2",
+      "ID": 208,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1294803503996698539
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaClassic_1971_InteriorR_Camera1",
+      "ID": 209,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6595649182017124707
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_BodyRestored0_Camera1",
+      "ID": 210,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7947286631739111205
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_BodyRestored1_Camera1",
+      "ID": 211,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5221527752825280013
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_BodyRestored2_Camera1",
+      "ID": 212,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9150790709876479090
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_BodyRestored3_Camera1",
+      "ID": 213,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9113161487102991633
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_EngineRestored0_Camera1",
+      "ID": 214,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8318262163928100599
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_InteriorRestored0_Camera1",
+      "ID": 215,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3881867275332109054
+      }
+    },
+    {
+      "Name": "McLaren_600LT_2019_InteriorR_Camera1",
+      "ID": 216,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9135988459991405819
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220Classic_1993_BodyL_Camera1",
+      "ID": 217,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5401268780787148371
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220Classic_1993_BodyF_Camera3",
+      "ID": 218,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 532366027465857625
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220Classic_1993_BodyB_Camera2",
+      "ID": 219,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8191079509001340735
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220Classic_1993_EngineL_Camera1",
+      "ID": 220,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4762651801517114873
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220Classic_1993_EngineR_Camera2",
+      "ID": 221,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6373781900927255485
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220Classic_1993_InteriorL_Camera1",
+      "ID": 222,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 114684674011499675
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSClassic_1992_BodyB_Camera3",
+      "ID": 223,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9176202745545217209
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSClassic_1992_BodyF_Camera1",
+      "ID": 224,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2215000778342954825
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSClassic_1992_BodyL_Camera2",
+      "ID": 225,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 639182667043725071
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSClassic_1992_EngineL_Camera2",
+      "ID": 226,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9123652183916690847
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSClassic_1992_EngineR_Camera1",
+      "ID": 227,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3168132969659088985
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSClassic_1992_InteriorR_Camera1",
+      "ID": 228,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -479384834963784270
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_BodyF_Camera1",
+      "ID": 229,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4969365721757597106
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_BodyF_Camera3",
+      "ID": 230,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2606773165542545008
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_BodyL_Camera2",
+      "ID": 231,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7270697577283282204
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_EngineR_Camera1",
+      "ID": 232,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3803573869171737600
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_EngineR_Camera2",
+      "ID": 233,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -904270195105441692
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_InteriorL_Camera1",
+      "ID": 234,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9073523879204021345
+      }
+    },
+    {
+      "Name": "MercedesBenz_300SLClassic_1954_BodyB_Camera3",
+      "ID": 235,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3019409665935209175
+      }
+    },
+    {
+      "Name": "MercedesBenz_300SLClassic_1954_BodyF_Camera1",
+      "ID": 236,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1236401867585290302
+      }
+    },
+    {
+      "Name": "MercedesBenz_300SLClassic_1954_BodyF_Camera2",
+      "ID": 237,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7494679972303863995
+      }
+    },
+    {
+      "Name": "MercedesBenz_300SLClassic_1954_BodyF_Camera4",
+      "ID": 238,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3166052914596063957
+      }
+    },
+    {
+      "Name": "MercedesBenz_300SLClassic_1954_EngineL_Camera1",
+      "ID": 239,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3322145045945855079
+      }
+    },
+    {
+      "Name": "MercedesBenz_300SLClassic_1954_InteriorR_Camera1",
+      "ID": 240,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -194402059924081055
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_BodyB_Camera2",
+      "ID": 241,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6475779158794807715
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_BodyF_Camera1",
+      "ID": 242,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3809785160491395122
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_BodyR_Camera3",
+      "ID": 243,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7593829625547717872
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_EngineB_Camera1",
+      "ID": 244,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3201929540035172920
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_EngineF_Camera2",
+      "ID": 245,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7188597107722358683
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_InteriorR_Camera1",
+      "ID": 246,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7691945795305670181
+      }
+    },
+    {
+      "Name": "Saleen_S7Classic_2004_BodyB_Camera4",
+      "ID": 247,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7894428058543049547
+      }
+    },
+    {
+      "Name": "Saleen_S7Classic_2004_BodyF_Camera1",
+      "ID": 248,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5542207395327674461
+      }
+    },
+    {
+      "Name": "Saleen_S7Classic_2004_BodyF_Camera2",
+      "ID": 249,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2681566783410057801
+      }
+    },
+    {
+      "Name": "Saleen_S7Classic_2004_BodyL_Camera3",
+      "ID": 250,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4866348027773711925
+      }
+    },
+    {
+      "Name": "Saleen_S7Classic_2004_EngineR_Camera1",
+      "ID": 251,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2393338654055958515
+      }
+    },
+    {
+      "Name": "Saleen_S7Classic_2004_InteriorL_Camera1",
+      "ID": 252,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2872953141390289523
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 253,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 254,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5Classic_1964_EngineRLowEnd_Camera1",
+      "ID": 255,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5643936995310969949
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSClassic_1992_EngineLLowEnd_Camera2",
+      "ID": 256,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4942597535707219202
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSClassic_1992_EngineRLowEnd_Camera1",
+      "ID": 257,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -517075820333132951
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_EngineRLowEnd_Camera1",
+      "ID": 258,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9111215549255226893
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_EngineLLowEnd_Camera1",
+      "ID": 259,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1042868146376515923
+      }
+    },
+    {
+      "Name": "Global_Configurator_BodyB_Camera1",
+      "ID": 260,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3090432607238478712
+      }
+    },
+    {
+      "Name": "Global_Configurator_BodyF_Camera1",
+      "ID": 261,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2274378776361547447
+      }
+    },
+    {
+      "Name": "Global_Configurator_BodyL_Camera1",
+      "ID": 262,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1590375834368719726
+      }
+    },
+    {
+      "Name": "Global_Configurator_BodyR_Camera1",
+      "ID": 263,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7311430748383418558
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_EngineRLowEnd_Camera1",
+      "ID": 264,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8575508537457687747
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_EngineRLowEnd_Camera2",
+      "ID": 265,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 14900850922188424
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220Classic_1993_EngineLLowEnd_Camera1",
+      "ID": 266,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6097253780251783391
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220Classic_1993_EngineRLowEnd_Camera2",
+      "ID": 267,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 96726653124737188
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachClassic_1988_EngineLLowEnd_Camera1",
+      "ID": 268,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -759773329254964055
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachClassic_1988_EngineRLowEnd_Camera2",
+      "ID": 269,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6382931759840409022
+      }
+    },
+    {
+      "Name": "MercedesBenz_300SLClassic_1954_EngineLLowEnd_Camera1",
+      "ID": 270,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8333858033071723228
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaClassic_1971_EngineFLowEnd_Camera1",
+      "ID": 271,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2135765970880505475
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaClassic_1971_EngineFLowEnd_Camera2",
+      "ID": 272,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5396267440120761980
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_EngineRLowEnd_Camera1",
+      "ID": 273,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7835767910188508728
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_EngineBLowEnd_Camera1",
+      "ID": 274,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3115244900320803039
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_EngineFLowEnd_Camera2",
+      "ID": 275,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5865997927112326536
+      }
+    },
+    {
+      "Name": "Saleen_S7Classic_2004_EngineRLowEnd_Camera1",
+      "ID": 276,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8016634266197995157
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCClassic_1965_EngineBLowEnd_Camera2",
+      "ID": 277,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5273791508186364567
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCClassic_1965_EngineLLowEnd_Camera1",
+      "ID": 278,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7815278340976141530
+      }
+    },
+    {
+      "Name": "Bentley_Bentayga_2018_InteriorR_Camera1",
+      "ID": 279,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1962053191257880463
+      }
+    },
+    {
+      "Name": "Honda_NSXRClassic_1992_BodyLLowEnd_Camera2",
+      "ID": 280,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1559169742555776154
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_InteriorLLowEnd_Camera2",
+      "ID": 281,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8569905437890154487
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOClassic_1962_InteriorRLowEnd_Camera1",
+      "ID": 282,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5333526121079197505
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_InteriorRLowEnd_Camera1",
+      "ID": 283,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8658748697040062170
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1Classic_1970_BodyRLowEnd_Camera4",
+      "ID": 284,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5406949007145045707
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_BodyLLowEnd_Camera2",
+      "ID": 285,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3210532495732919327
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_BodyRLowEnd_Camera1",
+      "ID": 286,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1564408987574109366
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_BodyRLowEnd_Camera4",
+      "ID": 287,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1905504063831316312
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeClassic_1969_BodyLLowEnd_Camera3",
+      "ID": 288,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1054670535392235660
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTClassic_2003_BodyRLowEnd_Camera3",
+      "ID": 289,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4109765494753009338
+      }
+    },
+    {
+      "Name": "Lamborghini_Veneno_2013_InteriorR_Camera1",
+      "ID": 290,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7468601150116782978
+      }
+    },
+    {
+      "Name": "AstonMartin_DBSSuperleggera_2019_InteriorR_Camera1",
+      "ID": 291,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8826313968318054802
+      }
+    },
+    {
+      "Name": "AlfaRomeo_8CCompetizione_2007_InteriorR_Camera1",
+      "ID": 292,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2965243969483419032
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIIClassic_1966_BodyB_Camera3",
+      "ID": 293,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5405028246034751685
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIIClassic_1966_BodyF_Camera1",
+      "ID": 294,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9162264982331995862
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIIClassic_1966_BodyF_Camera2",
+      "ID": 295,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5650843525214095577
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIIClassic_1966_BodyR_Camera4",
+      "ID": 296,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 387782050105201662
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIIClassic_1966_EngineRLowEnd_Camera1",
+      "ID": 297,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7783307163968648210
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIIClassic_1966_EngineR_Camera1",
+      "ID": 298,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 675769447648582272
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIIClassic_1966_InteriorLLowEnd_Camera1",
+      "ID": 299,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7048046174430187841
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIIClassic_1966_InteriorL_Camera1",
+      "ID": 300,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7054707245297850162
+      }
+    },
+    {
+      "Name": "Nissan_GTRNismoN_2017_InteriorL_Camera1",
+      "ID": 301,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7568178692670918055
+      }
+    },
+    {
+      "Name": "Noble_M600_2017_InteriorL_Camera1",
+      "ID": 302,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 117863590903679921
+      }
+    },
+    {
+      "Name": "Donkervoort_D8GTO_2015_InteriorR_Camera1",
+      "ID": 303,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8217940193871761167
+      }
+    },
+    {
+      "Name": "Brabham_BT62_2019_InteriorR_Camera1",
+      "ID": 304,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5910263285094477972
+      }
+    },
+    {
+      "Name": "Pagani_ZondaRevolucion_2013_InteriorR_Camera1",
+      "ID": 305,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8040657363849581467
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT500_2019_InteriorR_Camera1",
+      "ID": 306,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3138216037360253030
+      }
+    },
+    {
+      "Name": "Ferrari_488PistaSpider_2019_InteriorR_Camera1",
+      "ID": 307,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7623835487542906334
+      }
+    },
+    {
+      "Name": "SCG_SCG004C_2019_InteriorR_Camera1",
+      "ID": 308,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7604034557391581797
+      }
+    },
+    {
+      "Name": "Porsche_911Carrera4SCabriolet_2020_InteriorR_Camera1",
+      "ID": 309,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3167710216822342647
+      }
+    },
+    {
+      "Name": "BMW_M5Competition_2019_InteriorR_Camera1",
+      "ID": 310,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6295733923139905896
+      }
+    },
+    {
+      "Name": "AlfaRomeo_GiuliaQuadrifoglio_2017_InteriorR_Camera1",
+      "ID": 311,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3954377380191561652
+      }
+    },
+    {
+      "Name": "Lamborghini_SC18Alston_2019_InteriorR_Camera1",
+      "ID": 312,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7096220884738851956
+      }
+    },
+    {
+      "Name": "Bugatti_ChironSport_2018_InteriorR_Camera1",
+      "ID": 313,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1884284277629829099
+      }
+    },
+    {
+      "Name": "Maserati_GranTurismoMC_2018_InteriorR_Camera1",
+      "ID": 314,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5120853647560247157
+      }
+    },
+    {
+      "Name": "Porsche_RWB993_1993_InteriorL_Camera1",
+      "ID": 315,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2358214719760466810
+      }
+    },
+    {
+      "Name": "SSC_Tuatara_2019_InteriorR_Camera1",
+      "ID": 316,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5790313533531600505
+      }
+    },
+    {
+      "Name": "Spyker_C8Preliator_2017_InteriorR_Camera1",
+      "ID": 317,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5657655774697387965
+      }
+    },
+    {
+      "Name": "FnF_FlipCar_2013_InteriorR_Camera1",
+      "ID": 318,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8181421125362934722
+      }
+    },
+    {
+      "Name": "Nissan_350ZF3_2003_InteriorL_Camera1",
+      "ID": 319,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1927785030555534599
+      }
+    },
+    {
+      "Name": "Chevrolet_CamaroFBombF4_1973_InteriorR_Camera1",
+      "ID": 320,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9206063394165488584
+      }
+    },
+    {
+      "Name": "Alpine_A110_2018_InteriorR_Camera1",
+      "ID": 321,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7166237169752268344
+      }
+    },
+    {
+      "Name": "Cadillac_CTSV_2017_InteriorR_Camera1",
+      "ID": 322,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7880330825874085105
+      }
+    },
+    {
+      "Name": "Chevrolet_COPOCamaro_2019_InteriorR_Camera1",
+      "ID": 323,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4038853077857222810
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 324,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Shelby_SuperSnake_2019_InteriorR_Camera1",
+      "ID": 325,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3107794989227028183
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteGrandSport_2017_InteriorR_Camera1",
+      "ID": 326,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1078525847666067756
+      }
+    },
+    {
+      "Name": "AstonMartin_VanquishZagato_2017_InteriorL_Camera1",
+      "ID": 327,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7415470145139164350
+      }
+    },
+    {
+      "Name": "BMW_Z4_2019_InteriorR_Camera1",
+      "ID": 328,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7873046469145303795
+      }
+    },
+    {
+      "Name": "Mazda_RX7F3_1993_InteriorL_Camera1",
+      "ID": 329,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7425344648080777587
+      }
+    },
+    {
+      "Name": "Mazzanti_EvantraMillecavalli_2019_InteriorR_Camera1",
+      "ID": 330,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5424841891336598481
+      }
+    },
+    {
+      "Name": "Pagani_HuayraBCRoadster_2019_InteriorR_Camera1",
+      "ID": 331,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -39678851485940303
+      }
+    },
+    {
+      "Name": "Pagani_ZondaBarchetta_2018_InteriorR_Camera1",
+      "ID": 332,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4446645301528141766
+      }
+    },
+    {
+      "Name": "Porsche_911Speedster_2020_InteriorR_Camera1",
+      "ID": 333,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8673574981667758910
+      }
+    },
+    {
+      "Name": "Toyota_GRSupra_2020_InteriorR_Camera1",
+      "ID": 334,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7478376623751051587
+      }
+    },
+    {
+      "Name": "Nissan_SkylineGTRF4_2002_InteriorL_Camera1",
+      "ID": 335,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8708735372980373115
+      }
+    },
+    {
+      "Name": "Mitsubishi_LancerEvolutionVIIF2_2002_InteriorR_Camera1",
+      "ID": 336,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1830905947724290114
+      }
+    },
+    {
+      "Name": "Mazzanti_EvantraMillecavalli_2019_InteriorRLowEnd_Camera1",
+      "ID": 337,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3580868791239197539
+      }
+    },
+    {
+      "Name": "ATSAutomobili_GT_2018_InteriorR_Camera1",
+      "ID": 338,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3597701942892840953
+      }
+    },
+    {
+      "Name": "SCG_004CS_2020_InteriorR_Camera1",
+      "ID": 339,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4824993320379771865
+      }
+    },
+    {
+      "Name": "BMW_M8_2020_InteriorR_Camera1",
+      "ID": 340,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7889594822404429477
+      }
+    },
+    {
+      "Name": "Ford_MustangCobraJet_2019_InteriorR_Camera1",
+      "ID": 341,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3178198769153833683
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_BodyB_Camera2",
+      "ID": 342,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8588511506449742120
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_BodyL_Camera1",
+      "ID": 343,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3938012964525734488
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_BodyR_Camera3",
+      "ID": 344,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8853472461123344793
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_EngineLLowEnd_Camera1",
+      "ID": 345,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 428626739736630314
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_EngineL_Camera1",
+      "ID": 346,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6674278493700173474
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_InteriorLLowEnd_Camera2",
+      "ID": 347,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1600226589920172343
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_InteriorL_Camera2",
+      "ID": 348,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5625419608334289204
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_InteriorRLowEnd_Camera1",
+      "ID": 349,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8902942412256866246
+      }
+    },
+    {
+      "Name": "Ferrari_250GTOLPClassic_1962_InteriorR_Camera1",
+      "ID": 350,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7388736027375964512
+      }
+    },
+    {
+      "Name": "Jaguar_XESVProject8_2018_InteriorR_Camera1",
+      "ID": 351,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6145139473667974077
+      }
+    },
+    {
+      "Name": "McLaren_720SSpider_2019_InteriorR_Camera1",
+      "ID": 352,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3231728109100063858
+      }
+    },
+    {
+      "Name": "Porsche_718BoxsterSpyder_2020_InteriorR_Camera1",
+      "ID": 353,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4462876605856249326
+      }
+    },
+    {
+      "Name": "Koenigsegg_Jesko_2020_InteriorR_Camera1",
+      "ID": 354,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2391550820084335970
+      }
+    },
+    {
+      "Name": "Ford_ROUSHMustang_2019_InteriorR_Camera1",
+      "ID": 355,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4084891508850786885
+      }
+    },
+    {
+      "Name": "Ferrari_F8Tributo_2020_InteriorR_Camera1",
+      "ID": 356,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5043115035892956677
+      }
+    },
+    {
+      "Name": "Lotus_EvoraGT430_2018_InteriorR_Camera1",
+      "ID": 357,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2384907302120705515
+      }
+    },
+    {
+      "Name": "Global_Configurator_ExteriorConfiguratorF_Camera1",
+      "ID": 358,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8848581056008916228
+      }
+    },
+    {
+      "Name": "Global_Configurator_ExteriorDecalsR_Camera1",
+      "ID": 359,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6266114110557830280
+      }
+    },
+    {
+      "Name": "Global_Configurator_ExteriorWorkshopF_Camera1",
+      "ID": 360,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2645333027457551769
+      }
+    },
+    {
+      "Name": "Global_Configurator_RareImportsL_Camera1",
+      "ID": 361,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7830596134339299776
+      }
+    },
+    {
+      "Name": "Global_Configurator_WheelConfiguratorR_Camera1",
+      "ID": 362,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2208237446713858965
+      }
+    },
+    {
+      "Name": "Global_Configurator_WheelWorkshopL_Camera1",
+      "ID": 363,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7942451140054112944
+      }
+    },
+    {
+      "Name": "Lamborghini_FewOff_2020_InteriorR_Camera1",
+      "ID": 364,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5067469835012609485
+      }
+    },
+    {
+      "Name": "McLaren_Senna_2018_InteriorR_Camera1",
+      "ID": 365,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 669349295748671806
+      }
+    },
+    {
+      "Name": "McLaren_Speedtail_2019_InteriorR_Camera1",
+      "ID": 366,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3635658386607042790
+      }
+    },
+    {
+      "Name": "Bugatti_Chiron42Seconds_2016_InteriorR_Camera1",
+      "ID": 367,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8806915314581576649
+      }
+    },
+    {
+      "Name": "Nissan_JukeR20Concept_2015_InteriorR_Camera1",
+      "ID": 368,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4067171895414895316
+      }
+    },
+    {
+      "Name": "Ginetta_Akula_2019_InteriorL_Camera1",
+      "ID": 369,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6497977441819899243
+      }
+    },
+    {
+      "Name": "VUHL_05RR_2019_InteriorR_Camera1",
+      "ID": 370,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1811004948637262839
+      }
+    },
+    {
+      "Name": "Infiniti_Q60ProjectBlackS_2018_InteriorR_Camera1",
+      "ID": 371,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1666850005267876516
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220LPClassic_1993_BodyB_Camera2",
+      "ID": 372,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2827117022522005257
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220LPClassic_1993_BodyF_Camera3",
+      "ID": 373,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1917481422231733368
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220LPClassic_1993_BodyL_Camera1",
+      "ID": 374,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6023168802812770581
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220LPClassic_1993_EngineLLowEnd_Camera1",
+      "ID": 375,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2141699539799617889
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220LPClassic_1993_EngineL_Camera1",
+      "ID": 376,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9124373583683591791
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220LPClassic_1993_EngineRLowEnd_Camera2",
+      "ID": 377,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4774048606801510380
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220LPClassic_1993_EngineR_Camera2",
+      "ID": 378,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4079889219423313759
+      }
+    },
+    {
+      "Name": "Jaguar_XJ220LPClassic_1993_InteriorL_Camera1",
+      "ID": 379,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8987944384713493199
+      }
+    },
+    {
+      "Name": "Bentley_ContinentalGTConvertible_2019_InteriorR_Camera1",
+      "ID": 380,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4747246449411341805
+      }
+    },
+    {
+      "Name": "Audi_R8V10Decennium_2019_InteriorR_Camera1",
+      "ID": 381,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3462510613878232792
+      }
+    },
+    {
+      "Name": "Ultima_RS_2020_InteriorL_Camera1",
+      "ID": 382,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2315718678724062885
+      }
+    },
+    {
+      "Name": "TVR_Sagaris_2006_InteriorL_Camera1",
+      "ID": 383,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2694655730053659755
+      }
+    },
+    {
+      "Name": "Bugatti_ChironSuperSportWRE_2020_InteriorR_Camera1",
+      "ID": 384,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2689404673041310271
+      }
+    },
+    {
+      "Name": "Bugatti_VeyronGrandSportVitesse_2012_InteriorR_Camera1",
+      "ID": 385,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2585459064255278475
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5LPClassic_1964_BodyB_Camera3",
+      "ID": 386,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3507582805376998002
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5LPClassic_1964_BodyF_Camera4",
+      "ID": 387,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2683522824812664593
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5LPClassic_1964_BodyL_Camera2",
+      "ID": 388,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1744376611162175772
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5LPClassic_1964_BodyR_Camera1",
+      "ID": 389,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -231776048904016900
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5LPClassic_1964_EngineRLowEnd_Camera1",
+      "ID": 390,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1416173573201502154
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5LPClassic_1964_EngineR_Camera1",
+      "ID": 391,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7376209064684356156
+      }
+    },
+    {
+      "Name": "AstonMartin_DB5LPClassic_1964_InteriorL_Camera1",
+      "ID": 392,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2953789888213593198
+      }
+    },
+    {
+      "Name": "BMW_LBi8_2017_InteriorR_Camera1",
+      "ID": 393,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 448406520860480954
+      }
+    },
+    {
+      "Name": "Ford_Mustang302LP_1970_InteriorR_Camera1",
+      "ID": 394,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6026927982602631236
+      }
+    },
+    {
+      "Name": "Lamborghini_VenenoRoadster_2014_InteriorR_Camera1",
+      "ID": 395,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3232479605333673196
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteC8_2020_InteriorR_Camera1",
+      "ID": 396,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1510014804880207661
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanEvoSpyder_2019_InteriorR_Camera1",
+      "ID": 397,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1280034563103729042
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_BodyLLowEnd_Camera2",
+      "ID": 398,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2764039616517351680
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_BodyLLowEnd_Camera3",
+      "ID": 399,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6202400930953319049
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_BodyL_Camera2",
+      "ID": 400,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9166265146280620943
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_BodyL_Camera3",
+      "ID": 401,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5609439149520889843
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_BodyRLowEnd_Camera1",
+      "ID": 402,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2372747010240498874
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_BodyRLowEnd_Camera4",
+      "ID": 403,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7704487999873427483
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_BodyR_Camera1",
+      "ID": 404,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7312134075497626747
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_BodyR_Camera4",
+      "ID": 405,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2602786419422656280
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_EngineRLowEnd_Camera1",
+      "ID": 406,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 444953065619970683
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_EngineR_Camera1",
+      "ID": 407,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3858793882281118201
+      }
+    },
+    {
+      "Name": "Pontiac_GTOTheJudgeLPClassic_1969_InteriorR_Camera1",
+      "ID": 408,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9184048811065879165
+      }
+    },
+    {
+      "Name": "Hennessey_VenomF5_2020_InteriorR_Camera1",
+      "ID": 409,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1286359355275089122
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaLPClassic_1971_BodyB_Camera3",
+      "ID": 410,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8319560426137776854
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaLPClassic_1971_BodyF_Camera1",
+      "ID": 411,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5576346120401942312
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaLPClassic_1971_BodyR_Camera2",
+      "ID": 412,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7167398840048998541
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaLPClassic_1971_EngineFLowEnd_Camera1",
+      "ID": 413,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6507873074926052273
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaLPClassic_1971_EngineFLowEnd_Camera2",
+      "ID": 414,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6600093470474109746
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaLPClassic_1971_EngineF_Camera1",
+      "ID": 415,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1922614597410082534
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaLPClassic_1971_EngineF_Camera2",
+      "ID": 416,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6539341940810503913
+      }
+    },
+    {
+      "Name": "Plymouth_HemiCudaLPClassic_1971_InteriorR_Camera1",
+      "ID": 417,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7570646566297793080
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_BodyB_Camera2",
+      "ID": 418,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8643324064614184731
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_BodyF_Camera1",
+      "ID": 419,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5111727137414195093
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_BodyRLowEnd_Camera3",
+      "ID": 420,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1862046576563578795
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_BodyR_Camera3",
+      "ID": 421,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8866285716467217588
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_EngineBLowEnd_Camera1",
+      "ID": 422,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1004814731797348915
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_EngineB_Camera1",
+      "ID": 423,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1174093940553096028
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_EngineFLowEnd_Camera2",
+      "ID": 424,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -904425183644704248
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_EngineF_Camera2",
+      "ID": 425,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4140947914615189779
+      }
+    },
+    {
+      "Name": "Porsche_CarreraGTLPClassic_2003_InteriorR_Camera1",
+      "ID": 426,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1113394052329274917
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_BodyB_Camera2",
+      "ID": 427,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -82431786830396861
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_BodyF_Camera1",
+      "ID": 428,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1961396917145930203
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_BodyL_Camera3",
+      "ID": 429,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 637167416522058294
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_BodyRLowEnd_Camera4",
+      "ID": 430,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8011411058816114147
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_BodyR_Camera4",
+      "ID": 431,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5156994950872455686
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_EngineRLowEnd_Camera1",
+      "ID": 432,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8857413374127646805
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_EngineR_Camera1",
+      "ID": 433,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3338917373624230552
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_InteriorRLowEnd_Camera1",
+      "ID": 434,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3331918605101266689
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZR1LPClassic_1970_InteriorR_Camera1",
+      "ID": 435,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8411305369444419975
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPClassic_1988_BodyB_Camera3",
+      "ID": 436,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3714940337808635997
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPClassic_1988_BodyF_Camera2",
+      "ID": 437,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4845361715616987160
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPClassic_1988_BodyL_Camera1",
+      "ID": 438,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1467794302636342463
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPClassic_1988_EngineLLowEnd_Camera1",
+      "ID": 439,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3910129327156371580
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPClassic_1988_EngineL_Camera1",
+      "ID": 440,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6067646020112784868
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPClassic_1988_EngineRLowEnd_Camera2",
+      "ID": 441,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7734540448788690349
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPClassic_1988_EngineR_Camera2",
+      "ID": 442,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6202339111155276488
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPClassic_1988_InteriorL_Camera1",
+      "ID": 443,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5015843050209844559
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCLPClassic_1965_BodyB_Camera2",
+      "ID": 444,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8963927697112202695
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCLPClassic_1965_BodyF_Camera3",
+      "ID": 445,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7539707066447434447
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCLPClassic_1965_BodyR_Camera1",
+      "ID": 446,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 400666804575271848
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCLPClassic_1965_EngineBLowEnd_Camera2",
+      "ID": 447,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6704652306719810294
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCLPClassic_1965_EngineB_Camera2",
+      "ID": 448,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5258506880352424274
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCLPClassic_1965_EngineLLowEnd_Camera1",
+      "ID": 449,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -541542840555880638
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCLPClassic_1965_EngineL_Camera1",
+      "ID": 450,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 645402232383803926
+      }
+    },
+    {
+      "Name": "Shelby_Cobra427SCLPClassic_1965_InteriorR_Camera1",
+      "ID": 451,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3775387506181476657
+      }
+    },
+    {
+      "Name": "Saleen_S7LPClassic_2004_BodyB_Camera4",
+      "ID": 452,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2439956150237550988
+      }
+    },
+    {
+      "Name": "Saleen_S7LPClassic_2004_BodyF_Camera1",
+      "ID": 453,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3319430573620512817
+      }
+    },
+    {
+      "Name": "Saleen_S7LPClassic_2004_BodyF_Camera2",
+      "ID": 454,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -394277300123392981
+      }
+    },
+    {
+      "Name": "Saleen_S7LPClassic_2004_BodyL_Camera3",
+      "ID": 455,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1485165498614794417
+      }
+    },
+    {
+      "Name": "Saleen_S7LPClassic_2004_EngineRLowEnd_Camera1",
+      "ID": 456,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5765955733989569208
+      }
+    },
+    {
+      "Name": "Saleen_S7LPClassic_2004_EngineR_Camera1",
+      "ID": 457,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5947156193279885048
+      }
+    },
+    {
+      "Name": "Saleen_S7LPClassic_2004_InteriorL_Camera1",
+      "ID": 458,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4027226951028399353
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSLPClassic_1992_BodyB_Camera3",
+      "ID": 459,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4467520975772850785
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSLPClassic_1992_BodyF_Camera1",
+      "ID": 460,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8663792088585783772
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSLPClassic_1992_BodyL_Camera2",
+      "ID": 461,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6169122983457317297
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSLPClassic_1992_EngineLLowEnd_Camera2",
+      "ID": 462,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1475791318642173420
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSLPClassic_1992_EngineL_Camera2",
+      "ID": 463,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1065931871537206922
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSLPClassic_1992_EngineRLowEnd_Camera1",
+      "ID": 464,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8524621584301572693
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSLPClassic_1992_EngineR_Camera1",
+      "ID": 465,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8757249523347798911
+      }
+    },
+    {
+      "Name": "Bugatti_EB110SSLPClassic_1992_InteriorR_Camera1",
+      "ID": 466,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1525928942088962578
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_BodyF_Camera1",
+      "ID": 467,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4270602462918242027
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_BodyF_Camera3",
+      "ID": 468,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2992633040385651596
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_BodyLLowEnd_Camera2",
+      "ID": 469,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6440548803146023120
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_BodyL_Camera2",
+      "ID": 470,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5036090530422272413
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_BodyRestored0_Camera1",
+      "ID": 471,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1891389378107067890
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_BodyRestored1_Camera1",
+      "ID": 472,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5891451179488529514
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_BodyRestored2_Camera1",
+      "ID": 473,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 316751924063737110
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_BodyRestored3_Camera1",
+      "ID": 474,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7272900709418439362
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_EngineRLowEnd_Camera1",
+      "ID": 475,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5570698486906041589
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_EngineRLowEnd_Camera2",
+      "ID": 476,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7100892055930527128
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_EngineR_Camera1",
+      "ID": 477,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4005993431259523935
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_EngineR_Camera2",
+      "ID": 478,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1915612683742033842
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_EngineRestored0_Camera1",
+      "ID": 479,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9148033843788658368
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_InteriorL_Camera1",
+      "ID": 480,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7401160284595991230
+      }
+    },
+    {
+      "Name": "Honda_NSXRLPClassic_1992_InteriorRestored0_Camera1",
+      "ID": 481,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3890844337320336338
+      }
+    },
+    {
+      "Name": "McLaren_F1LP_1993_InteriorR_Camera1",
+      "ID": 482,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8383751857062428130
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIILPClassic_1966_BodyB_Camera3",
+      "ID": 483,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2178594139101050871
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIILPClassic_1966_BodyF_Camera1",
+      "ID": 484,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1206500221033053104
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIILPClassic_1966_BodyF_Camera2",
+      "ID": 485,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -795667983232486846
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIILPClassic_1966_BodyR_Camera4",
+      "ID": 486,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4512635398017377437
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIILPClassic_1966_EngineRLowEnd_Camera1",
+      "ID": 487,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7026467580238520828
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIILPClassic_1966_EngineR_Camera1",
+      "ID": 488,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7662234259379398368
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIILPClassic_1966_InteriorLLowEnd_Camera1",
+      "ID": 489,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9094980938626000992
+      }
+    },
+    {
+      "Name": "Ford_GT40MkIILPClassic_1966_InteriorL_Camera1",
+      "ID": 490,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8579640222342225976
+      }
+    },
+    {
+      "Name": "Mini_CooperJCWGP_2020_InteriorR_Camera1",
+      "ID": 491,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1286961426282525031
+      }
+    },
+    {
+      "Name": "Ford_GT40MkII1_1966_InteriorL_Camera1",
+      "ID": 492,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7007979756489598162
+      }
+    },
+    {
+      "Name": "Kia_StingerGTS_2020_InteriorR_Camera1",
+      "ID": 493,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7653771503688475467
+      }
+    },
+    {
+      "Name": "Ferrari_Monza_2019_InteriorL_Camera1",
+      "ID": 495,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6910267358311658895
+      }
+    },
+    {
+      "Name": "Ford_WeaverCustomsModelA_1931_InteriorRLowEnd_Camera1",
+      "ID": 496,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5780141371064405781
+      }
+    },
+    {
+      "Name": "Ford_WeaverCustomsModelA_1931_InteriorR_Camera1",
+      "ID": 497,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4396481482069026517
+      }
+    },
+    {
+      "Name": "McLaren_600LTSpider_2020_InteriorR_Camera1",
+      "ID": 498,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 341191946689775907
+      }
+    },
+    {
+      "Name": "Bugatti_ChironR_2020_InteriorR_Camera1",
+      "ID": 499,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2742860942428685761
+      }
+    },
+    {
+      "Name": "Nissan_GTR50_2020_InteriorR_Camera1",
+      "ID": 500,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 250278482376952852
+      }
+    },
+    {
+      "Name": "AstonMartin_Valhalla_2020_InteriorR_Camera1",
+      "ID": 501,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6208676467992722610
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 502,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Honda_S2000F1_2001_InteriorR_Camera1",
+      "ID": 503,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6393545301535550490
+      }
+    },
+    {
+      "Name": "AstonMartin_DBX_2019_InteriorR_Camera1",
+      "ID": 504,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -421600027482567377
+      }
+    },
+    {
+      "Name": "TVR_Griffith_2019_InteriorL_Camera1",
+      "ID": 505,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9041638594257872538
+      }
+    },
+    {
+      "Name": "Nissan_SilviaS15F3_1999_InteriorL_Camera1",
+      "ID": 506,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5597180726798968154
+      }
+    },
+    {
+      "Name": "Subaru_ImprezaWRXF4_2009_InteriorR_Camera1",
+      "ID": 507,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1781406817799501687
+      }
+    },
+    {
+      "Name": "Dodge_ChargerDaytonaF6_1970_InteriorR_Camera1",
+      "ID": 508,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1982751420726200167
+      }
+    },
+    {
+      "Name": "Volkswagen_JettaF1_1995_InteriorR_Camera1",
+      "ID": 509,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3000528701481814528
+      }
+    },
+    {
+      "Name": "Lamborghini_AventadorSVJRoadster_2020_InteriorR_Camera1",
+      "ID": 510,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4740856851710639568
+      }
+    },
+    {
+      "Name": "Mitsubishi_LancerEvolutionIXF3_2006_InteriorL_Camera1",
+      "ID": 511,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7830980879491798950
+      }
+    },
+    {
+      "Name": "Audi_RS6Avant_2020_InteriorR_Camera1",
+      "ID": 512,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -682809451297923691
+      }
+    },
+    {
+      "Name": "Mazda_PandeMMX5_2016_InteriorR_Camera1",
+      "ID": 513,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2057237087532494031
+      }
+    },
+    {
+      "Name": "Lamborghini_Centenario_2017_InteriorR_Camera1",
+      "ID": 514,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5898532854335634969
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteC8Convertible_2020_InteriorR_Camera1",
+      "ID": 515,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5922748089269781200
+      }
+    },
+    {
+      "Name": "Porsche_935_2019_InteriorR_Camera1",
+      "ID": 516,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3828485325765167606
+      }
+    },
+    {
+      "Name": "McLaren_GT_2020_InteriorR_Camera1",
+      "ID": 517,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6770009609575170625
+      }
+    },
+    {
+      "Name": "AlfaRomeo_8CSpider_2009_InteriorR_Camera1",
+      "ID": 518,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7966980620919074187
+      }
+    },
+    {
+      "Name": "Ford_EscortMKIF6_1970_InteriorL_Camera1",
+      "ID": 519,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8643094660662850923
+      }
+    },
+    {
+      "Name": "MercedesAMG_GTBlackSeries_2020_InteriorR_Camera1",
+      "ID": 520,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8937085156203526415
+      }
+    },
+    {
+      "Name": "Dodge_ChargerHellcat_2020_InteriorR_Camera1",
+      "ID": 521,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6526399306671778245
+      }
+    },
+    {
+      "Name": "Chevrolet_DutchboysCamaro_1969_InteriorR_Camera1",
+      "ID": 522,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6713767407835274907
+      }
+    },
+    {
+      "Name": "Chevrolet_RingbrothersCamaro_1969_InteriorR_Camera1",
+      "ID": 523,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2180542901020415292
+      }
+    },
+    {
+      "Name": "Plymouth_FormulaSBarracuda_1968_InteriorR_Camera1",
+      "ID": 524,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1239313801330011665
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteC8R_2020_InteriorR_Camera1",
+      "ID": 525,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3279364963926311867
+      }
+    },
+    {
+      "Name": "Chevrolet_NASCARCamaroZL1_2020_InteriorL_Camera1",
+      "ID": 526,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5589583556839381569
+      }
+    },
+    {
+      "Name": "Dodge_HavocChallenger_1970_InteriorR_Camera1",
+      "ID": 527,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3131772075373591152
+      }
+    },
+    {
+      "Name": "Lamborghini_SianRoadster_2021_InteriorR_Camera1",
+      "ID": 528,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -730617332680594030
+      }
+    },
+    {
+      "Name": "Dodge_ChargerRTF4_1970_InteriorR_Camera1",
+      "ID": 529,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2702752856540679568
+      }
+    },
+    {
+      "Name": "Ford_GT_2005_InteriorR_Camera1",
+      "ID": 533,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8919825598789283611
+      }
+    },
+    {
+      "Name": "Porsche_911TurboS_2021_InteriorR_Camera1",
+      "ID": 534,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3912700577119239790
+      }
+    },
+    {
+      "Name": "Ferrari_SF90Stradale_2020_InteriorR_Camera1",
+      "ID": 535,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7758922110138640371
+      }
+    },
+    {
+      "Name": "Subaru_BRZTNR_2020_InteriorR_Camera1",
+      "ID": 536,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -709781446559272270
+      }
+    },
+    {
+      "Name": "McLaren_765LT_2021_InteriorR_Camera1",
+      "ID": 537,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 102108672052198011
+      }
+    },
+    {
+      "Name": "Global_Configurator_BodyKitR_Camera1",
+      "ID": 538,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5018993162599904650
+      }
+    },
+    {
+      "Name": "Koenigsegg_Gemera_2021_InteriorR_Camera1",
+      "ID": 539,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5059303972068223740
+      }
+    },
+    {
+      "Name": "AstonMartin_VantageRoadster_2021_InteriorR_Camera1",
+      "ID": 540,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5062847149541279762
+      }
+    },
+    {
+      "Name": "Nissan_GTRR35BensopraF6_2012_InteriorR_Camera1",
+      "ID": 541,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4535030810346105431
+      }
+    },
+    {
+      "Name": "Dodge_ChallengerRTShakerF7_2015_InteriorR_Camera1",
+      "ID": 542,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1859929141661359069
+      }
+    },
+    {
+      "Name": "Ford_MustangF3_1967_InteriorR_Camera1",
+      "ID": 543,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -798740679029193504
+      }
+    },
+    {
+      "Name": "Italdesign_Zerouno_2017_InteriorR_Camera1",
+      "ID": 544,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2129290779633634521
+      }
+    },
+    {
+      "Name": "Bentley_MullinerBacalar_2021_InteriorR_Camera1",
+      "ID": 545,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1546959759787485186
+      }
+    },
+    {
+      "Name": "Toyota_GRSupraTNR_2020_InteriorR_Camera1",
+      "ID": 546,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8433684842549626749
+      }
+    },
+    {
+      "Name": "Ford_MustangMach1_2021_InteriorR_Camera1",
+      "ID": 547,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6862435170481504127
+      }
+    },
+    {
+      "Name": "Nissan_GTRTNR_2017_InteriorR_Camera1",
+      "ID": 548,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4754372169672918555
+      }
+    },
+    {
+      "Name": "Global_Configurator_ExhaustB_Camera1",
+      "ID": 549,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5538248418645062027
+      }
+    },
+    {
+      "Name": "Global_Configurator_HoodF_Camera1",
+      "ID": 550,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4295014156234797135
+      }
+    },
+    {
+      "Name": "Global_Configurator_WingB_Camera1",
+      "ID": 551,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 320798808630568305
+      }
+    },
+    {
+      "Name": "Nissan_SkylineGTRR34TNR_2002_InteriorL_Camera1",
+      "ID": 552,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1965963031756858111
+      }
+    },
+    {
+      "Name": "Porsche_718CaymanGT4_2020_InteriorR_Camera1",
+      "ID": 553,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4293680499150830224
+      }
+    },
+    {
+      "Name": "Ferrari_F8Spider_2020_InteriorR_Camera1",
+      "ID": 554,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3382152580330815456
+      }
+    },
+    {
+      "Name": "Global_Configurator_BodyKitL_Camera1",
+      "ID": 555,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5018993162599904650
+      }
+    },
+    {
+      "Name": "Global_Configurator_ExhaustL_Camera1",
+      "ID": 556,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4237150923472259068
+      }
+    },
+    {
+      "Name": "Global_Configurator_ExhaustR_Camera1",
+      "ID": 557,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8867594662951725671
+      }
+    },
+    {
+      "Name": "Spyker_C8PreliatorSpyder_2017_InteriorR_Camera1",
+      "ID": 558,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9191956351846624901
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanSTO_2021_InteriorR_Camera1",
+      "ID": 559,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 139158696374062786
+      }
+    },
+    {
+      "Name": "Ultima_EVOCoupe_2016_InteriorL_Camera1",
+      "ID": 560,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4177278356764536706
+      }
+    },
+    {
+      "Name": "BMW_M4Coupe_2021_InteriorR_Camera1",
+      "ID": 561,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8358034012356484346
+      }
+    },
+    {
+      "Name": "Toyota_SupraMKIVVaris_1994_InteriorR_Camera1",
+      "ID": 562,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -634677515073261593
+      }
+    },
+    {
+      "Name": "Porsche_911GT2RSClubSport_2019_InteriorR_Camera1",
+      "ID": 563,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1862994538693880826
+      }
+    },
+    {
+      "Name": "Lexus_LFA_2011_InteriorR_Camera1",
+      "ID": 564,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6813820259575750416
+      }
+    },
+    {
+      "Name": "McLaren_Elva_2021_InteriorR_Camera1",
+      "ID": 565,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4209306750530380834
+      }
+    },
+    {
+      "Name": "Bugatti_X16_2024_InteriorR_Camera1",
+      "ID": 566,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3975310588506345751
+      }
+    },
+    {
+      "Name": "Pagani_Imola_2021_InteriorR_Camera1",
+      "ID": 567,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7982063933757634777
+      }
+    },
+    {
+      "Name": "AlfaRomeo_GiuliaGTAm_2021_InteriorR_Camera1",
+      "ID": 568,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2991754378193436384
+      }
+    },
+    {
+      "Name": "Subaru_BRZtSTNR_2020_InteriorR_Camera1",
+      "ID": 569,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -774832111963744237
+      }
+    },
+    {
+      "Name": "Lexus_LC500TNR_2018_InteriorR_Camera1",
+      "ID": 570,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5378365845187744401
+      }
+    },
+    {
+      "Name": "Toyota_PandeMGRSupra_2020_InteriorR_Camera1",
+      "ID": 571,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -577393043124102075
+      }
+    },
+    {
+      "Name": "Mitsubishi_LancerEVOXTNR_2015_InteriorR_Camera1",
+      "ID": 572,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8649918262998091010
+      }
+    },
+    {
+      "Name": "Subaru_WRXSTITNR_2018_InteriorR_Camera1",
+      "ID": 573,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7088652632697713627
+      }
+    },
+    {
+      "Name": "AstonMartin_Valkyrie_2020_InteriorR_Camera1",
+      "ID": 574,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2240443005860824812
+      }
+    },
+    {
+      "Name": "AstonMartin_V12Speedster_2021_InteriorR_Camera1",
+      "ID": 575,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -834580179055541174
+      }
+    },
+    {
+      "Name": "Nissan_SkylineR33NismoSTune_1995_InteriorL_Camera1",
+      "ID": 576,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3142253563072393498
+      }
+    },
+    {
+      "Name": "Honda_NSXRocketBunny_1992_InteriorL_Camera1",
+      "ID": 577,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2147271320792437276
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 578,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Brabham_BT62R_2020_InteriorR_Camera1",
+      "ID": 579,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7481595369744993299
+      }
+    },
+    {
+      "Name": "Ford_GTLeMansRacecar_2016_InteriorR_Camera1",
+      "ID": 580,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1214738474854678360
+      }
+    },
+    {
+      "Name": "MercedesBenz_AMGGT3_2020_InteriorR_Camera1",
+      "ID": 581,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3264289106798067345
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanGT3EVORacecar_2019_InteriorR_Camera1",
+      "ID": 582,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3146234630080887066
+      }
+    },
+    {
+      "Name": "Mazda_Furai_2008_InteriorL_Camera1",
+      "ID": 583,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6908049662621181031
+      }
+    },
+    {
+      "Name": "McLaren_720SGT3_2019_InteriorR_Camera1",
+      "ID": 584,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4578783552620753611
+      }
+    },
+    {
+      "Name": "McLaren_SennaGTR_2020_InteriorR_Camera1",
+      "ID": 585,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4413622118577151466
+      }
+    },
+    {
+      "Name": "Nissan_ProtoZ_2020_InteriorR_Camera1",
+      "ID": 586,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1476865802733451422
+      }
+    },
+    {
+      "Name": "Porsche_911Targa4S_2021_InteriorR_Camera1",
+      "ID": 587,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1972223765564133790
+      }
+    },
+    {
+      "Name": "Honda_S2000TNR_2001_InteriorR_Camera1",
+      "ID": 588,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6379342308903941589
+      }
+    },
+    {
+      "Name": "Mazda_RX7TNR_1993_InteriorR_Camera1",
+      "ID": 589,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1782360004370042303
+      }
+    },
+    {
+      "Name": "AstonMartin_DBSVolante_2020_InteriorR_Camera1",
+      "ID": 590,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3239628262266682282
+      }
+    },
+    {
+      "Name": "Arrinera_Hussarya_2020_InteriorR_Camera1",
+      "ID": 591,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5710038672007008980
+      }
+    },
+    {
+      "Name": "ATSAutomobili_RRTurbo_2020_InteriorR_Camera1",
+      "ID": 592,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6168344828672604162
+      }
+    },
+    {
+      "Name": "Audi_R8LMSGT3_2019_InteriorR_Camera1",
+      "ID": 593,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3923498727691545326
+      }
+    },
+    {
+      "Name": "Bentley_ContinentalGT3RaceCar_2020_InteriorL_Camera1",
+      "ID": 594,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4371617090182779941
+      }
+    },
+    {
+      "Name": "Ferrari_Roma_2020_InteriorR_Camera1",
+      "ID": 595,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2394508452390441623
+      }
+    },
+    {
+      "Name": "Lamborghini_EssenzaSCV12_2021_InteriorR_Camera1",
+      "ID": 596,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7273595626290351088
+      }
+    },
+    {
+      "Name": "Porsche_PanameraSportTurismo_2021_InteriorR_Camera1",
+      "ID": 597,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7957198404261756735
+      }
+    },
+    {
+      "Name": "BMW_M8Convertible_2021_InteriorR_Camera1",
+      "ID": 598,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7447923738841649737
+      }
+    },
+    {
+      "Name": "SCG_007_2021_InteriorL_Camera1",
+      "ID": 599,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6733463116120376007
+      }
+    },
+    {
+      "Name": "Indy_Car_2021_InteriorR_Camera1",
+      "ID": 600,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5498115413592849257
+      }
+    },
+    {
+      "Name": "MercedesAMG_S63Coupe_2020_InteriorR_Camera1",
+      "ID": 601,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3334817605404179623
+      }
+    },
+    {
+      "Name": "McLaren_Artura_2022_InteriorR_Camera1",
+      "ID": 602,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4986734985584382794
+      }
+    },
+    {
+      "Name": "AstonMartin_VanquishZagatoSB_2017_InteriorL_Camera1",
+      "ID": 603,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8975264591787784207
+      }
+    },
+    {
+      "Name": "AstonMartin_AstonMartin_Victor_2020_InteriorR_Camera1",
+      "ID": 604,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1819931395019453847
+      }
+    },
+    {
+      "Name": "Audi_R18_2014_InteriorL_Camera1",
+      "ID": 605,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1463188041692591892
+      }
+    },
+    {
+      "Name": "Audi_R8Spyder_2020_InteriorR_Camera1",
+      "ID": 606,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2121408237192739515
+      }
+    },
+    {
+      "Name": "Bugatti_AtlanticConcept_2015_InteriorR_Camera1",
+      "ID": 607,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -890096096342472480
+      }
+    },
+    {
+      "Name": "Ferrari_Enzo_2002_InteriorR_Camera1",
+      "ID": 608,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3209282148380071412
+      }
+    },
+    {
+      "Name": "Lotus_Type131_2022_InteriorR_Camera1",
+      "ID": 609,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2661438502706453595
+      }
+    },
+    {
+      "Name": "Lamborghini_AventadorSJ_2021_InteriorR_Camera1",
+      "ID": 610,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1129217646032055201
+      }
+    },
+    {
+      "Name": "Porsche_911GT3_2022_InteriorR_Camera1",
+      "ID": 611,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6895402505713039508
+      }
+    },
+    {
+      "Name": "MercedesAMGF1_W11_2020_InteriorR_Camera1",
+      "ID": 612,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4995775408501960755
+      }
+    },
+    {
+      "Name": "MercedesBenz_CLKGTR_1999_InteriorR_Camera1",
+      "ID": 613,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2562991544553949257
+      }
+    },
+    {
+      "Name": "Toyota_SupraMK4TNR_1994_InteriorR_Camera1",
+      "ID": 614,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 319698164634620171
+      }
+    },
+    {
+      "Name": "KTM_XBowGTX_2020_InteriorR_Camera1",
+      "ID": 615,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8813657778150338493
+      }
+    },
+    {
+      "Name": "Pagani_HuayraR_2021_InteriorR_Camera1",
+      "ID": 616,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6939166875271287718
+      }
+    },
+    {
+      "Name": "Audi_RS5Coupe_2020_InteriorR_Camera1",
+      "ID": 617,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -765433449125309481
+      }
+    },
+    {
+      "Name": "Italdesign_ZerounoDuerta_2018_InteriorR_Camera1",
+      "ID": 618,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1138351069434978547
+      }
+    },
+    {
+      "Name": "McLaren_765LTSpider_2021_InteriorR_Camera1",
+      "ID": 619,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2507730416775421423
+      }
+    },
+    {
+      "Name": "Lamborghini_SC20_2020_InteriorR_Camera1",
+      "ID": 620,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 642587913613930032
+      }
+    },
+    {
+      "Name": "MercedesAMG_G63SUV_2020_InteriorR_Camera1",
+      "ID": 621,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8746297239662085386
+      }
+    },
+    {
+      "Name": "Pagani_ZondaCinqueCoupe_2009_InteriorR_Camera1",
+      "ID": 622,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8077435403926995564
+      }
+    },
+    {
+      "Name": "AstonMartin_DBSGTZagato_2020_InteriorR_Camera1",
+      "ID": 623,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2930328847015311896
+      }
+    },
+    {
+      "Name": "Ferrari_488GTModificata_2021_InteriorR_Camera1",
+      "ID": 624,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7724039811679641465
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanEvo_2019_InteriorR_Camera1",
+      "ID": 625,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7937808852138811337
+      }
+    },
+    {
+      "Name": "BMW_M5CS_2022_InteriorR_Camera1",
+      "ID": 626,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4571143884702078091
+      }
+    },
+    {
+      "Name": "Jaguar_FTYPERConvertible_2021_InteriorR_Camera1",
+      "ID": 627,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4546286528293496653
+      }
+    },
+    {
+      "Name": "Porsche_TaycanTurboS_2021_InteriorR_Camera1",
+      "ID": 628,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6208127707311088169
+      }
+    },
+    {
+      "Name": "Ferrari_FXXEvoluzione_2008_InteriorR_Camera1",
+      "ID": 629,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3322741751520498277
+      }
+    },
+    {
+      "Name": "Ford_MustangGTHoonicornV2_1965_InteriorR_Camera1",
+      "ID": 630,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2152120323713403263
+      }
+    },
+    {
+      "Name": "Chevrolet_CamaroSSNASCARXfinity_2021_InteriorL_Camera1",
+      "ID": 631,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6144677123316324765
+      }
+    },
+    {
+      "Name": "Nissan_StillenMaximaF1_1999_InteriorR_Camera1",
+      "ID": 632,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5181626198916723434
+      }
+    },
+    {
+      "Name": "Ferrari_599XXEvoluzione_2011_InteriorR_Camera1",
+      "ID": 633,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6722659882176034958
+      }
+    },
+    {
+      "Name": "Audi_RS7Sportback_2020_InteriorR_Camera1",
+      "ID": 634,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8827160023627046477
+      }
+    },
+    {
+      "Name": "Nissan_SilviaS14F1_1997_InteriorL_Camera1",
+      "ID": 635,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2115633780899907953
+      }
+    },
+    {
+      "Name": "Mazda_RX8F3_2004_InteriorL_Camera1",
+      "ID": 636,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7599899782609743724
+      }
+    },
+    {
+      "Name": "Lamborghini_CountachLPI8004_2022_InteriorR_Camera1",
+      "ID": 637,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7853378246132057555
+      }
+    },
+    {
+      "Name": "AstonMartin_VantageGTE_2020_InteriorR_Camera1",
+      "ID": 638,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7256723530455664704
+      }
+    },
+    {
+      "Name": "Chevrolet_MonteCarloRaceCarF9_1995_InteriorR_Camera1",
+      "ID": 639,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3101652954345795009
+      }
+    },
+    {
+      "Name": "Dodge_ChargerRTF9_1966_InteriorR_Camera1",
+      "ID": 640,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7255449466954017320
+      }
+    },
+    {
+      "Name": "Ferrari_812GTS_2020_InteriorR_Camera1",
+      "ID": 641,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7287912798238170079
+      }
+    },
+    {
+      "Name": "Ford_MustangFoxbodyF9_1987_InteriorR_Camera1",
+      "ID": 642,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8011829669397506023
+      }
+    },
+    {
+      "Name": "Jeep_GladiatorF9_2019_InteriorR_Camera1",
+      "ID": 643,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4527874050270894789
+      }
+    },
+    {
+      "Name": "Pontiac_FieroF9_1986_InteriorR_Camera1",
+      "ID": 644,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6372683676335715650
+      }
+    },
+    {
+      "Name": "BMW_M4GT3_2022_InteriorR_Camera1",
+      "ID": 645,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8032392620498124718
+      }
+    },
+    {
+      "Name": "Nissan_GTRNISMOGT3_2015_InteriorR_Camera1",
+      "ID": 646,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6104349501315902676
+      }
+    },
+    {
+      "Name": "Toyota_GRSupraF9_2020_InteriorR_Camera1",
+      "ID": 647,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8504293323059021126
+      }
+    },
+    {
+      "Name": "Chevrolet_NovaSSF9_1970_InteriorR_Camera1",
+      "ID": 648,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1757707458069402601
+      }
+    },
+    {
+      "Name": "Ferrari_SF90Spider_2021_InteriorR_Camera1",
+      "ID": 649,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1543461730382832566
+      }
+    },
+    {
+      "Name": "Dodge_ChargerTantrumF9_1970_InteriorR_Camera1",
+      "ID": 650,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5508687481131947820
+      }
+    },
+    {
+      "Name": "Dodge_DemonChargerF9_2018_InteriorR_Camera1",
+      "ID": 651,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3556848430138565647
+      }
+    },
+    {
+      "Name": "Dodge_WidebodyChargerF9_1968_InteriorR_Camera1",
+      "ID": 652,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8205896448812023954
+      }
+    },
+    {
+      "Name": "Ford_MustangGT350F9_2016_InteriorR_Camera1",
+      "ID": 653,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1008963053764254495
+      }
+    },
+    {
+      "Name": "Pagani_ZondaCinqueRoadster_2010_InteriorR_Camera1",
+      "ID": 654,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2840349880094287174
+      }
+    },
+    {
+      "Name": "Ferrari_812Competizione_2021_InteriorR_Camera1",
+      "ID": 655,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3982072209417304912
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteZ06_2023_InteriorR_Camera1",
+      "ID": 656,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6535102092509149712
+      }
+    },
+    {
+      "Name": "Porsche_CayenneTurboGT_2022_InteriorR_Camera1",
+      "ID": 657,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 319290186287220477
+      }
+    },
+    {
+      "Name": "MercedesBenz_SL65AMGBlackSeries_2009_InteriorR_Camera1",
+      "ID": 658,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8175427859350751531
+      }
+    },
+    {
+      "Name": "Audi_S1ETronQuattroHoonitron_2022_InteriorR_Camera1",
+      "ID": 659,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7068506237929993934
+      }
+    },
+    {
+      "Name": "Dodge_ChallengerMoparDragPak_2021_InteriorR_Camera1",
+      "ID": 660,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3497516472538184560
+      }
+    },
+    {
+      "Name": "Ford_MustangMachE1400_2021_InteriorR_Camera1",
+      "ID": 661,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9055250569552344757
+      }
+    },
+    {
+      "Name": "Nissan_240SXRocketBunnyBoss_1995_InteriorL_Camera1",
+      "ID": 662,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2262559017952525635
+      }
+    },
+    {
+      "Name": "McLaren_SLR722Edition_2006_InteriorR_Camera1",
+      "ID": 663,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2987357259375642137
+      }
+    },
+    {
+      "Name": "RAM_1500TRX_2021_InteriorR_Camera1",
+      "ID": 664,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2515338467602240616
+      }
+    },
+    {
+      "Name": "Lotus_Evija_2020_InteriorR_Camera1",
+      "ID": 665,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3416696708955211404
+      }
+    },
+    {
+      "Name": "Chevrolet_SickSecondsCamaroSS_1969_InteriorR_Camera1",
+      "ID": 666,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8986836158224014255
+      }
+    },
+    {
+      "Name": "Hennessey_VenomF5_2021_InteriorR_Camera1",
+      "ID": 667,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6336530455858246919
+      }
+    },
+    {
+      "Name": "Ford_MustangNASCAR_2022_InteriorL_Camera1",
+      "ID": 668,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4859516839274794981
+      }
+    },
+    {
+      "Name": "Nissan_LBSuperSilhouetteSilviaS15_1999_InteriorL_Camera1",
+      "ID": 669,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2641192521654766957
+      }
+    },
+    {
+      "Name": "Chevrolet_CamaroZL1NASCAR_2022_InteriorL_Camera1",
+      "ID": 670,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6914021904561365270
+      }
+    },
+    {
+      "Name": "Cadillac_CT5VBlackwing_2022_InteriorR_Camera1",
+      "ID": 671,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6064065194429892122
+      }
+    },
+    {
+      "Name": "Honda_NSXLBWorks_1992_InteriorL_Camera1",
+      "ID": 672,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3468043729276972293
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanTecnica_2022_InteriorR_Camera1",
+      "ID": 673,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8614042493711104294
+      }
+    },
+    {
+      "Name": "Czinger_21C_2021_InteriorR_Camera1",
+      "ID": 674,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1915825474184996617
+      }
+    },
+    {
+      "Name": "BMW_M3Touring_2022_InteriorR_Camera1",
+      "ID": 675,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4245426252132706811
+      }
+    },
+    {
+      "Name": "Toyota_CamryNASCAR_2022_InteriorL_Camera1",
+      "ID": 676,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6280526451701079788
+      }
+    },
+    {
+      "Name": "Bentley_ContinentalGT3PikesPeak_2021_InteriorL_Camera1",
+      "ID": 677,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1578274805413517846
+      }
+    },
+    {
+      "Name": "Audi_RSetronGT_2022_InteriorR_Camera1",
+      "ID": 678,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3659365220048616770
+      }
+    },
+    {
+      "Name": "Pagani_C10_2023_InteriorR_Camera1",
+      "ID": 679,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4558953641237147624
+      }
+    },
+    {
+      "Name": "Ford_MustangGTFastbackTNR_2018_InteriorR_Camera1",
+      "ID": 680,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6372639059290052297
+      }
+    },
+    {
+      "Name": "Noble_M600Speedster_2018_InteriorL_Camera1",
+      "ID": 681,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1756817193846000358
+      }
+    },
+    {
+      "Name": "Porsche_718CaymanGT4RS_2022_InteriorR_Camera1",
+      "ID": 682,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2690948846643895030
+      }
+    },
+    {
+      "Name": "BMW_M2CoupeG87_2023_InteriorR_Camera1",
+      "ID": 683,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1960882303762520084
+      }
+    },
+    {
+      "Name": "Porsche_TaycanTurboSCrossTurismo_2022_InteriorR_Camera1",
+      "ID": 684,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3606315929919635539
+      }
+    },
+    {
+      "Name": "Devel_Sixteen_2022_InteriorR_Camera1",
+      "ID": 685,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7711559659393419694
+      }
+    },
+    {
+      "Name": "Mazda_KRCJapanRX8_2004_InteriorL_Camera1",
+      "ID": 686,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6571861620448316066
+      }
+    },
+    {
+      "Name": "Acura_NSXTypeS_2022_InteriorR_Camera1",
+      "ID": 687,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6596992000775529758
+      }
+    },
+    {
+      "Name": "McLaren_SLR722SRoadster_2009_InteriorR_Camera1",
+      "ID": 688,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2806214833730272829
+      }
+    },
+    {
+      "Name": "McLaren_720SGT3X_2021_InteriorR_Camera1",
+      "ID": 689,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3631712788536945714
+      }
+    },
+    {
+      "Name": "Porsche_912Hoonipigasus_1966_InteriorR_Camera1",
+      "ID": 690,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5740519510465381679
+      }
+    },
+    {
+      "Name": "Rimac_Nevera_2021_InteriorR_Camera1",
+      "ID": 691,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4710643123644207956
+      }
+    },
+    {
+      "Name": "Maserati_MC20_2021_InteriorR_Camera1",
+      "ID": 692,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6177042229796432362
+      }
+    },
+    {
+      "Name": "BMW_M4CSL_2022_InteriorR_Camera1",
+      "ID": 693,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1392376306133043478
+      }
+    },
+    {
+      "Name": "Ferrari_SF90StradaleAF_2021_InteriorR_Camera1",
+      "ID": 694,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2837096729979355072
+      }
+    },
+    {
+      "Name": "Pagani_ZondaREvoBarchetta_2021_InteriorR_Camera1",
+      "ID": 695,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3235249739248897002
+      }
+    },
+    {
+      "Name": "Volkswagen_IDR_2019_InteriorL_Camera1",
+      "ID": 696,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2720461218877162155
+      }
+    },
+    {
+      "Name": "Ferrari_296GTB_2022_InteriorR_Camera1",
+      "ID": 697,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1147616795577520369
+      }
+    },
+    {
+      "Name": "Kimera_EVO37_2022_InteriorR_Camera1",
+      "ID": 698,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4430759454823745494
+      }
+    },
+    {
+      "Name": "Nissan_PandeMGTRR33_1995_InteriorL_Camera1",
+      "ID": 699,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2358430492391276471
+      }
+    },
+    {
+      "Name": "Pininfarina_Battista_2020_InteriorR_Camera1",
+      "ID": 700,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8547341114971330034
+      }
+    },
+    {
+      "Name": "Ford_MustangMachEGT_2021_InteriorR_Camera1",
+      "ID": 701,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2209236509683402538
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteStingrayTNR_2020_InteriorR_Camera1",
+      "ID": 702,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4630364776011493165
+      }
+    },
+    {
+      "Name": "Porsche_911GT3RS992_2023_InteriorR_Camera1",
+      "ID": 703,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8716476987483548613
+      }
+    },
+    {
+      "Name": "Hyundai_ElantraN_2022_InteriorR_Camera1",
+      "ID": 704,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1204921356859329503
+      }
+    },
+    {
+      "Name": "Noble_M500_2022_InteriorL_Camera1",
+      "ID": 705,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5453554774654922863
+      }
+    },
+    {
+      "Name": "Nissan_KRCJapanGTRR35_2017_InteriorR_Camera1",
+      "ID": 706,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6833646782618853994
+      }
+    },
+    {
+      "Name": "Ford_MustangGT_2024_InteriorR_Camera1",
+      "ID": 707,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5074606237268805046
+      }
+    },
+    {
+      "Name": "Hennessey_VenomF5Roadster_2023_InteriorR_Camera1",
+      "ID": 708,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7661456658113145397
+      }
+    },
+    {
+      "Name": "Ferrari_DaytonaSP3_2022_InteriorR_Camera1",
+      "ID": 709,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6144222138600965686
+      }
+    },
+    {
+      "Name": "Ford_Supervan4_2022_InteriorR_Camera1",
+      "ID": 710,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5693012007813924497
+      }
+    },
+    {
+      "Name": "Porsche_MissionRConcept_2021_InteriorR_Camera1",
+      "ID": 711,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7860857120578376072
+      }
+    },
+    {
+      "Name": "McMurtry_Speirling_2022_InteriorL_Camera1",
+      "ID": 712,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7962172027068294035
+      }
+    },
+    {
+      "Name": "Subaru_WRXSTIGobstopperII_2015_InteriorL_Camera1",
+      "ID": 713,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7115522100839826581
+      }
+    },
+    {
+      "Name": "BMW_RocketBunnyM3E92_2011_InteriorR_Camera1",
+      "ID": 714,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2571637081521812158
+      }
+    },
+    {
+      "Name": "Ferrari_296GTS_2023_InteriorR_Camera1",
+      "ID": 715,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6689938986160121752
+      }
+    },
+    {
+      "Name": "Chevrolet_EddiesCorvetteC2_1963_InteriorR_Camera1",
+      "ID": 716,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -725463612798928785
+      }
+    },
+    {
+      "Name": "Chevrolet_GreeningCamaroIROCZ_1985_InteriorR_Camera1",
+      "ID": 717,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2637460503421163019
+      }
+    },
+    {
+      "Name": "Chevrolet_KellySonBelAir_1957_InteriorR_Camera1",
+      "ID": 718,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4667784744581676859
+      }
+    },
+    {
+      "Name": "Chevrolet_RingbrothersPickUp_1948_InteriorR_Camera1",
+      "ID": 719,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2726932802875131946
+      }
+    },
+    {
+      "Name": "Dodge_ViperACRVoodooII_2016_InteriorR_Camera1",
+      "ID": 720,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7857339668499292029
+      }
+    },
+    {
+      "Name": "Ford_F150Hoonitruck_1977_InteriorR_Camera1",
+      "ID": 721,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1169707441752044579
+      }
+    },
+    {
+      "Name": "Ford_RingbrothersMustangMach1_1969_InteriorR_Camera1",
+      "ID": 722,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 620427166799588093
+      }
+    },
+    {
+      "Name": "Hyundai_Ioniq5N_2023_InteriorR_Camera1",
+      "ID": 723,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6498782429789563309
+      }
+    },
+    {
+      "Name": "Lamborghini_UrusPerformante_2023_InteriorR_Camera1",
+      "ID": 724,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5693362822165788982
+      }
+    },
+    {
+      "Name": "Nissan_GTRNISMO_2024_InteriorL_Camera1",
+      "ID": 725,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7107767859529362118
+      }
+    },
+    {
+      "Name": "Nissan_SilviaS15TNR_1999_InteriorR_Camera1",
+      "ID": 726,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1413517815297936168
+      }
+    },
+    {
+      "Name": "Pontiac_RyansFirebirdTransAm_1978_InteriorR_Camera1",
+      "ID": 727,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -349872596199002532
+      }
+    },
+    {
+      "Name": "Ford_MustangGTHoonicornV1_1965_InteriorR_Camera1",
+      "ID": 728,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1775467488753299588
+      }
+    },
+    {
+      "Name": "Buick_RoadstershopGrandNational_1987_InteriorR_Camera1",
+      "ID": 729,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7673891403378487177
+      }
+    },
+    {
+      "Name": "Chevrolet_RingbrothersChevelle_1966_InteriorR_Camera1",
+      "ID": 730,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1543357575660447344
+      }
+    },
+    {
+      "Name": "Dodge_RingbrosChargerCAPTIV_1969_InteriorR_Camera1",
+      "ID": 731,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4651542411360860222
+      }
+    },
+    {
+      "Name": "Porsche_718SpyderRS_2024_InteriorR_Camera1",
+      "ID": 732,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7246967218033807003
+      }
+    },
+    {
+      "Name": "Ford_WeaverCustomsMustangFastback_1968_InteriorR_Camera1",
+      "ID": 733,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3751718391341297475
+      }
+    },
+    {
+      "Name": "Lamborghini_Revuelto_2024_InteriorR_Camera1",
+      "ID": 734,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5754072905557293511
+      }
+    },
+    {
+      "Name": "Lamborghini_IV_2024_InteriorR_Camera1",
+      "ID": 735,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3046815678990696630
+      }
+    },
+    {
+      "Name": "Chevrolet_Camaro632_1988_InteriorR_Camera1",
+      "ID": 736,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1363969013860551893
+      }
+    },
+    {
+      "Name": "Chevrolet_NapalmNova_1972_Camera1",
+      "ID": 737,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7259072279239362482
+      }
+    },
+    {
+      "Name": "Chevrolet_NapalmNova_1972_InteriorR_Camera1",
+      "ID": 738,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2488090161528710776
+      }
+    },
+    {
+      "Name": "Ferrari_Purosangue_2023_InteriorR_Camera1",
+      "ID": 739,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8677850196543418968
+      }
+    },
+    {
+      "Name": "Honda_IndyTruck_2017_InteriorR_Camera1",
+      "ID": 740,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1073323342038320087
+      }
+    },
+    {
+      "Name": "Porsche_RWB911Turbo_1991_InteriorR_Camera1",
+      "ID": 741,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -909106082061302215
+      }
+    },
+    {
+      "Name": "Mazda_LBSuperSilhouetteRX7_1993_InteriorL_Camera1",
+      "ID": 742,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6653622291206053778
+      }
+    },
+    {
+      "Name": "Maserati_MC20Cielo_2023_InteriorR_Camera1",
+      "ID": 743,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5084200986661000480
+      }
+    },
+    {
+      "Name": "Chevrolet_CapriceDonk_1971_InteriorR_Camera1",
+      "ID": 744,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2127231115688715159
+      }
+    },
+    {
+      "Name": "Lamborghini_Invencible_2023_InteriorR_Camera1",
+      "ID": 745,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8706400317669634330
+      }
+    },
+    {
+      "Name": "Koenigsegg_CC850_2023_InteriorR_Camera1",
+      "ID": 746,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3059191281285592762
+      }
+    },
+    {
+      "Name": "Czinger_21CVMax_2023_InteriorR_Camera1",
+      "ID": 747,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6766506794429125945
+      }
+    },
+    {
+      "Name": "AstonMartin_DB12_2023_InteriorR_Camera1",
+      "ID": 748,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7401659666603589463
+      }
+    },
+    {
+      "Name": "AstonMartin_ValkyrieAMRPro_2022_InteriorR_Camera1",
+      "ID": 749,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6786926457927740637
+      }
+    },
+    {
+      "Name": "Audi_RS3Sedan_2023_InteriorR_Camera1",
+      "ID": 750,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9140298068821920847
+      }
+    },
+    {
+      "Name": "AstonMartin_Valour_2024_InteriorR_Camera1",
+      "ID": 751,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1343355507502512124
+      }
+    },
+    {
+      "Name": "AstonMartin_ValkyrieSpider_2022_InteriorR_Camera1",
+      "ID": 752,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4145228999097450489
+      }
+    },
+    {
+      "Name": "Honda_NSXTNR_1992_InteriorL_Camera1",
+      "ID": 753,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2400342137786626870
+      }
+    },
+    {
+      "Name": "Bentley_MullinerBatur_2023_InteriorR_Camera1",
+      "ID": 754,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8722391319654375643
+      }
+    },
+    {
+      "Name": "BMW_M3SportEvoE30_1990_InteriorR_Camera1",
+      "ID": 755,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8698525271360393193
+      }
+    },
+    {
+      "Name": "Porsche_911GT1StraBenversion_1996_InteriorR_Camera1",
+      "ID": 756,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -50587184577787879
+      }
+    },
+    {
+      "Name": "Nissan_ZNISMO_2024_InteriorR_Camera1",
+      "ID": 757,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2427453440203974046
+      }
+    },
+    {
+      "Name": "Ferrari_SF90XXStradale_2024_InteriorR_Camera1",
+      "ID": 758,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 378792631669840312
+      }
+    },
+    {
+      "Name": "Ford_RoushStage3Mustang_1996_InteriorR_Camera1",
+      "ID": 759,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4431345773138802364
+      }
+    },
+    {
+      "Name": "McLaren_F1GT_1997_InteriorR_Camera1",
+      "ID": 760,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -440348527447698521
+      }
+    },
+    {
+      "Name": "Porsche_911GT2993_1995_InteriorR_Camera1",
+      "ID": 761,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2432269965036416461
+      }
+    },
+    {
+      "Name": "McLaren_720STNR_2017_InteriorR_Camera1",
+      "ID": 762,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2886461050452161893
+      }
+    },
+    {
+      "Name": "Honda_CivicTypeR_2023_InteriorR_Camera1",
+      "ID": 763,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8041754211497122933
+      }
+    },
+    {
+      "Name": "Lamborghini_SC63LMDh_2024_InteriorR_Camera1",
+      "ID": 764,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6433166035325276101
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanGT3Evo2_2024_InteriorR_Camera1",
+      "ID": 765,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2739231399551097927
+      }
+    },
+    {
+      "Name": "Chevrolet_LMCorvetteC8_2020_InteriorR_Camera1",
+      "ID": 766,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2016439398417043385
+      }
+    },
+    {
+      "Name": "Zenvo_Aurora_2024_InteriorR_Camera1",
+      "ID": 767,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5652284741751359419
+      }
+    },
+    {
+      "Name": "AstonMartin_DBS770Ultimate_2023_InteriorR_Camera1",
+      "ID": 768,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6396262798875026429
+      }
+    },
+    {
+      "Name": "Lamborghini_DiabloSV_1997_InteriorR_Camera1",
+      "ID": 769,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6144875821129294588
+      }
+    },
+    {
+      "Name": "Pagani_HuayraCodalunga_2022_InteriorR_Camera1",
+      "ID": 770,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3736132524417688407
+      }
+    },
+    {
+      "Name": "Lamborghini_UrusPHEV_2024_InteriorR_Camera1",
+      "ID": 771,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2260383682505547499
+      }
+    },
+    {
+      "Name": "Ferrari_F50GT_1996_InteriorR_Camera1",
+      "ID": 772,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6517171731832839198
+      }
+    },
+    {
+      "Name": "Ferrari_512TR_1991_InteriorR_Camera1",
+      "ID": 773,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2804090834061246171
+      }
+    },
+    {
+      "Name": "Lancia_DeltaHFIntegraleEvo2_1994_InteriorR_Camera1",
+      "ID": 774,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7897084704361341707
+      }
+    },
+    {
+      "Name": "Lamborghini_AventadorTNR_2021_InteriorR_Camera1",
+      "ID": 775,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7757225267490169317
+      }
+    },
+    {
+      "Name": "Radford_Type62_2021_InteriorR_Camera1",
+      "ID": 776,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 601594096069703352
+      }
+    },
+    {
+      "Name": "AstonMartin_DB12Volante_2024_InteriorR_Camera1",
+      "ID": 777,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4644367772216887106
+      }
+    },
+    {
+      "Name": "Porsche_TaycanTurboGT_2025_InteriorR_Camera1",
+      "ID": 778,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7385040529756404333
+      }
+    },
+    {
+      "Name": "Chevrolet_CorvetteC4ZR1_1994_InteriorR_Camera1",
+      "ID": 779,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 584279186956589994
+      }
+    },
+    {
+      "Name": "Dodge_ViperGTS_1996_InteriorR_Camera1",
+      "ID": 780,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4002355735347466810
+      }
+    },
+    {
+      "Name": "Dodge_ChargerDaytona_1970_InteriorR_Camera1",
+      "ID": 781,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5296226239661230657
+      }
+    },
+    {
+      "Name": "BMW_M5Sedan_2024_InteriorR_Camera1",
+      "ID": 782,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7815496674038193348
+      }
+    },
+    {
+      "Name": "Subaru_VarisWRXSTICALM_2018_InteriorR_Camera1",
+      "ID": 783,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2097245841316097263
+      }
+    },
+    {
+      "Name": "Ford_GTMk4_2024_InteriorR_Camera1",
+      "ID": 784,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1977211653244809913
+      }
+    },
+    {
+      "Name": "Ford_MustangGTD_2025_InteriorR_Camera1",
+      "ID": 785,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7595102298455496627
+      }
+    },
+    {
+      "Name": "Hyundai_NVision74Concept_2023_InteriorR_Camera1",
+      "ID": 786,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7574716641935907108
+      }
+    },
+    {
+      "Name": "McLaren_ArturaSpider_2024_InteriorR_Camera1",
+      "ID": 787,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 139072060330911938
+      }
+    },
+    {
+      "Name": "McLaren_Sabre_2022_InteriorR_Camera1",
+      "ID": 788,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7347012792936994721
+      }
+    },
+    {
+      "Name": "Nissan_ZTNR_2023_InteriorR_Camera1",
+      "ID": 789,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4773264366533443120
+      }
+    },
+    {
+      "Name": "Aspark_Owl_2020_InteriorR_Camera1",
+      "ID": 790,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1400997684966235632
+      }
+    },
+    {
+      "Name": "Aspark_Owl_2021_InteriorR_Camera1",
+      "ID": 791,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1400997684966235632
+      }
+    },
+    {
+      "Name": "Lamborghini_LB634_2024_InteriorR_Camera1",
+      "ID": 792,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2376432827124163517
+      }
+    },
+    {
+      "Name": "Lamborghini_LBCountachLP_1988_InteriorR_Camera1",
+      "ID": 793,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5468096059586197526
+      }
+    },
+    {
+      "Name": "McLaren_ElvaWindscreen_2021_InteriorR_Camera1",
+      "ID": 794,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4766532113115550954
+      }
+    },
+    {
+      "Name": "Dodge_SRTDemon170_2023_InteriorR_Camera1",
+      "ID": 795,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 51274517560822594
+      }
+    },
+    {
+      "Name": "Chevrolet_HSCustomsChevelle_1968_InteriorR_Camera1",
+      "ID": 796,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3275127364064603706
+      }
+    },
+    {
+      "Name": "Ford_RuffianMustang_1970_InteriorR_Camera1",
+      "ID": 797,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6653229410387490058
+      }
+    },
+    {
+      "Name": "Chevrolet_WeaverCustoms3100_1949_InteriorR_Camera1",
+      "ID": 798,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1609798312127612033
+      }
+    },
+    {
+      "Name": "BMW_M5G99Touring_2024_InteriorR_Camera1",
+      "ID": 799,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -145103274105720835
+      }
+    },
+    {
+      "Name": "Plymouth_RidesByKamBarracuda_1970_InteriorR_Camera1",
+      "ID": 800,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4870080736442988347
+      }
+    },
+    {
+      "Name": "Chevrolet_PickupVerminsDiner_1936_InteriorR_Camera1",
+      "ID": 801,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7286024142131512373
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanSterrato_2021_InteriorR_Camera1",
+      "ID": 802,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6439371096148850998
+      }
+    },
+    {
+      "Name": "Pontiac_HorizonMotorsportsTransAm_1973_InteriorR_Camera1",
+      "ID": 803,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6426854020524277392
+      }
+    },
+    {
+      "Name": "Porsche_911Dakar_2023_InteriorR_Camera1",
+      "ID": 804,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7618551051952607381
+      }
+    },
+    {
+      "Name": "Ford_RuffianMustangFIAFastback_1967_InteriorR_Camera1",
+      "ID": 805,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6962438435427475685
+      }
+    },
+    {
+      "Name": "Ferrari_12Cilindri_2024_InteriorR_Camera1",
+      "ID": 806,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6115437935019685911
+      }
+    },
+    {
+      "Name": "Pagani_ImolaRoadster_2023_InteriorR_Camera1",
+      "ID": 807,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4434675630465867806
+      }
+    },
+    {
+      "Name": "Ford_RuffianGT40_1966_InteriorL_Camera1",
+      "ID": 808,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7525518116664655841
+      }
+    },
+    {
+      "Name": "Ford_RuffianGalaxie500_1964_InteriorR_Camera1",
+      "ID": 809,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3202243127916240945
+      }
+    },
+    {
+      "Name": "Nilu27_NILU_2025_InteriorR_Camera1",
+      "ID": 810,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8442810731196208119
+      }
+    },
+    {
+      "Name": "BMW_M4CompetitionG82TNR_2021_InteriorR_Camera1",
+      "ID": 811,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4874474867633194924
+      }
+    },
+    {
+      "Name": "Porsche_Bisimoto935K3V_1984_InteriorR_Camera1",
+      "ID": 812,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7872545846256248755
+      }
+    },
+    {
+      "Name": "Zenvo_TSRGT_2023_InteriorR_Camera1",
+      "ID": 813,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 9107436740672467321
+      }
+    },
+    {
+      "Name": "Audi_RS6AvantGT_2024_InteriorR_Camera1",
+      "ID": 814,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7418299094516358395
+      }
+    },
+    {
+      "Name": "Bugatti_Tourbillon_2026_InteriorR_Camera1",
+      "ID": 815,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8334576987916843103
+      }
+    },
+    {
+      "Name": "Chevrolet_RoadsterShopCamaro_1970_InteriorR_Camera1",
+      "ID": 816,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6638545520447840198
+      }
+    },
+    {
+      "Name": "Dodge_RingbrothersChargerTUSK_1969_InteriorR_Camera1",
+      "ID": 817,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4486319635884703195
+      }
+    },
+    {
+      "Name": "Pininfarina_B95_2025_InteriorR_Camera1",
+      "ID": 818,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3818056914239764689
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_BodyLLowEnd_Camera2",
+      "ID": 819,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6950110356988641325
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_BodyLLowEnd_Camera3",
+      "ID": 820,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -606838144071975327
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_BodyL_Camera2",
+      "ID": 821,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6373287730242550686
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_BodyL_Camera3",
+      "ID": 822,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6879676303666603694
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_BodyRLowEnd_Camera1",
+      "ID": 823,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3899586661738722137
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_BodyRLowEnd_Camera4",
+      "ID": 824,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6131103146533921749
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_BodyR_Camera1",
+      "ID": 825,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2557247525600975481
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_BodyR_Camera4",
+      "ID": 826,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 516767939774377421
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_EngineRLowEnd_Camera1",
+      "ID": 827,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3263512098130248523
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_EngineR_Camera1",
+      "ID": 828,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9113176368201797312
+      }
+    },
+    {
+      "Name": "Ford_MustangShelbyGT350LPClassic_1965_InteriorR_Camera1",
+      "ID": 829,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1311336070873322028
+      }
+    },
+    {
+      "Name": "Lamborghini_MiuraSVLPClassic_1971_BodyB_Camera3",
+      "ID": 830,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8904468899634970947
+      }
+    },
+    {
+      "Name": "Lamborghini_MiuraSVLPClassic_1971_BodyF_Camera2",
+      "ID": 831,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9092701420206596709
+      }
+    },
+    {
+      "Name": "Lamborghini_MiuraSVLPClassic_1971_BodyL_Camera1",
+      "ID": 832,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1848121354066123534
+      }
+    },
+    {
+      "Name": "Lamborghini_MiuraSVLPClassic_1971_EngineLLowEnd_Camera1",
+      "ID": 833,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8414753780647360432
+      }
+    },
+    {
+      "Name": "Lamborghini_MiuraSVLPClassic_1971_EngineL_Camera1",
+      "ID": 834,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3822188084729077990
+      }
+    },
+    {
+      "Name": "Lamborghini_MiuraSVLPClassic_1971_EngineRLowEnd_Camera2",
+      "ID": 835,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1361634721054174655
+      }
+    },
+    {
+      "Name": "Lamborghini_MiuraSVLPClassic_1971_EngineR_Camera2",
+      "ID": 836,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1103162305685968269
+      }
+    },
+    {
+      "Name": "Lamborghini_MiuraSVLPClassic_1971_InteriorL_Camera1",
+      "ID": 837,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2615145779484155295
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 838,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Porsche_RWB964_1991_InteriorR_Camera1",
+      "ID": 839,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6509443614719379318
+      }
+    },
+    {
+      "Name": "Zenvo_AuroraAgil_2024_InteriorR_Camera1",
+      "ID": 840,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -7710509919778417144
+      }
+    },
+    {
+      "Name": "Pagani_UtopiaRoadster_2024_InteriorR_Camera1",
+      "ID": 841,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2633681837484654868
+      }
+    },
+    {
+      "Name": "Lamborghini_Autentica_2023_InteriorR_Camera1",
+      "ID": 842,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -652883796399881277
+      }
+    },
+    {
+      "Name": "BTTF_TimeMachine1_1985_InteriorR_Camera1",
+      "ID": 843,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8584834267567205124
+      }
+    },
+    {
+      "Name": "McLaren_750S_2023_InteriorR_Camera1",
+      "ID": 844,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2931696540110840159
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 845,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 846,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 847,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 848,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanEvoTNR_2021_InteriorR_Camera1",
+      "ID": 849,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5227464234494628202
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 850,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Lamborghini_HuracanEVOTNR_2021_InteriorR_Camera1",
+      "ID": 851,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5227464234494628202
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 852,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 853,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 854,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 855,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 856,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Camera_placeholder_1234",
+      "ID": 857,
+      "cameraAnimationPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ]
+}
