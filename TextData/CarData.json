@@ -453,7 +453,7 @@
     "WRpp": "481",
     "WRevo": "776",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -572,7 +572,7 @@
     "WRpp": "481",
     "WRevo": "889",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -895,7 +895,7 @@
     "WRpp": "481",
     "WRevo": "419",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -1575,7 +1575,7 @@
     "WRpp": "581",
     "WRevo": "506",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -2170,7 +2170,7 @@
     "WRpp": "582",
     "WRevo": "300",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -2306,7 +2306,7 @@
     "WRpp": "581",
     "WRevo": "631",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -3870,7 +3870,7 @@
     "WRpp": "675",
     "WRevo": "863",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -4312,7 +4312,7 @@
     "WRpp": "673",
     "WRevo": "849",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -4635,7 +4635,7 @@
     "WRpp": "675",
     "WRevo": "742",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -5808,7 +5808,7 @@
     "WRpp": "672",
     "WRevo": "566",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -8375,7 +8375,7 @@
     "WRpp": "713",
     "WRevo": "527",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -12387,7 +12387,7 @@
     "WRpp": "713",
     "WRevo": "1141",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -17708,7 +17708,7 @@
     "WRpp": "713",
     "WRevo": "1045",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
@@ -18133,7 +18133,7 @@
     "WRpp": "713",
     "WRevo": "1418",
     "WRFD": "0.00",
-    "WRNITRO": "-",
+    "WRNITRO": "0/0.0",
     "WRTIRE": "-",
     "Star": "0",
     "isEV": 0
