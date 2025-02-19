@@ -19972,18 +19972,18 @@
     },
     {
       "ID": 1012,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "BMW Midrand Beige Merino Leather",
+      "Zone2Name": "BMW Black Merino Leather",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.68235296,
+        "g": 0.5137255,
+        "b": 0.254901975,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -20112,18 +20112,18 @@
     },
     {
       "ID": 1020,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Nero Ade",
+      "Zone2Name": "Lamborghini Siena Brown",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.604,
+        "g": 0.402669877,
+        "b": 0.20294401,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -20392,18 +20392,18 @@
     },
     {
       "ID": 1034,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Bentley Imperial Blue",
+      "Zone2Name": "Bentley Magnolia",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.13333334,
+        "g": 0.156862751,
+        "b": 0.211764708,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.772549033,
+        "g": 0.7019608,
+        "b": 0.549019635,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -20412,18 +20412,18 @@
     },
     {
       "ID": 1035,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Bentley Beluga",
+      "Zone2Name": "Bentley Hotspur",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.4745098,
+        "g": 0.113725491,
+        "b": 0.141176477,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -21272,18 +21272,18 @@
     },
     {
       "ID": 1078,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Saleen Chestnut Tan",
+      "Zone2Name": "Saleen Chestnut Tan",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.294117659,
+        "g": 0.164705887,
+        "b": 0.08627451,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.294117659,
+        "g": 0.164705887,
+        "b": 0.08627451,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -22512,18 +22512,18 @@
     },
     {
       "ID": 1140,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Ferrari Black leather",
+      "Zone2Name": "Ferrari White inserts",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.196078435,
+        "g": 0.196078435,
+        "b": 0.196078435,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.8897059,
+        "g": 0.8897059,
+        "b": 0.8897059,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -22612,18 +22612,18 @@
     },
     {
       "ID": 1145,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Ferrari Blu Scuro Alcantara",
+      "Zone2Name": "Ferrari Nero Leather Detail",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.08823529,
+        "g": 0.152173921,
+        "b": 0.2352941,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -22872,18 +22872,18 @@
     },
     {
       "ID": 1158,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Ferrari Blu Scuro Alcantara",
+      "Zone2Name": "Ferrari White Leather Detail",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.08823529,
+        "g": 0.152173921,
+        "b": 0.2352941,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.8897059,
+        "g": 0.8897059,
+        "b": 0.8897059,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -22892,18 +22892,18 @@
     },
     {
       "ID": 1159,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Ferrari Nero Alcantara",
+      "Zone2Name": "Ferrari White Leather Detail",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.8897059,
+        "g": 0.8897059,
+        "b": 0.8897059,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -22932,18 +22932,18 @@
     },
     {
       "ID": 1161,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Nero Ade",
+      "Zone2Name": "Lamborghini Verde Medio",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.0247215014,
+        "g": 0.651,
+        "b": 0.218373418,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -23212,18 +23212,18 @@
     },
     {
       "ID": 1176,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Lime Green",
+      "Zone2Name": "Aston Martin Phantom Grey",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.8,
+        "g": 1.0,
+        "b": 0.0,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.196078449,
+        "g": 0.196078449,
+        "b": 0.196078449,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -23892,18 +23892,18 @@
     },
     {
       "ID": 1210,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Dodge Black",
+      "Zone2Name": "Dodge Red",
       "Zone1DiffuseTint": {
-        "r": 0.0,
+        "r": 0.7794118,
         "g": 0.0,
-        "b": 1.0,
+        "b": 0.0,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.0661764741,
+        "g": 0.0661764741,
+        "b": 0.0661764741,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -23932,18 +23932,18 @@
     },
     {
       "ID": 1212,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Mercedes-Benz Nappa Leather Black",
+      "Zone2Name": "Mercedes-Benz DINAMICA microfibre Yellow Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.101960793,
+        "g": 0.0980392247,
+        "b": 0.09411766,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.810000062,
+        "b": 0.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -24052,18 +24052,18 @@
     },
     {
       "ID": 1218,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Mercedes-Benz Nappa Leather Black",
+      "Zone2Name": "Mercedes-Benz DINAMICA microfibre Black Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -25132,18 +25132,18 @@
     },
     {
       "ID": 1273,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Bugatti Beluga Black",
+      "Zone2Name": "Bugatti Agile Bleu",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.117647059,
+        "g": 0.117647059,
+        "b": 0.117647059,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.16035293,
+        "g": 0.448469728,
+        "b": 0.87,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -25432,18 +25432,18 @@
     },
     {
       "ID": 1288,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Aurora Blue",
+      "Zone2Name": "Aston Martin Aurora Blue",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.117647067,
+        "g": 0.13333334,
+        "b": 0.211764723,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.117647067,
+        "g": 0.13333334,
+        "b": 0.211764723,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -25732,18 +25732,18 @@
     },
     {
       "ID": 1303,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Ferrari Rosso Ferrari",
+      "Zone2Name": "Ferrari Tradizione Inner Detail",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.708,
+        "g": 0.0552240051,
+        "b": 0.0,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.447058827,
+        "g": 0.423529416,
+        "b": 0.372549027,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -25932,18 +25932,18 @@
     },
     {
       "ID": 1313,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Nissan Black",
+      "Zone2Name": "Nissan Red",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.129411772,
+        "g": 0.129411772,
+        "b": 0.121568628,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.183823526,
+        "b": 0.183823526,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -26772,18 +26772,18 @@
     },
     {
       "ID": 1355,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Leather Interior in Marsala",
+      "Zone2Name": "Porsche Leather Interior in Marsala",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.34117648,
+        "g": 0.243137255,
+        "b": 0.274509817,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.34117648,
+        "g": 0.243137255,
+        "b": 0.274509817,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -26952,18 +26952,18 @@
     },
     {
       "ID": 1364,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Extensive Leather & Race-Tex in Black",
+      "Zone2Name": "Porsche Contrasting Stitching in Shark Blue",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.003921569,
+        "g": 0.427450985,
+        "b": 0.819607854,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -28092,18 +28092,18 @@
     },
     {
       "ID": 1421,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Arancio Dryope",
+      "Zone2Name": "Lamborghini Nero Ade",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.933333337,
+        "g": 0.333333343,
+        "b": 0.180392161,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -28372,18 +28372,18 @@
     },
     {
       "ID": 1435,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Bentley Beluga",
+      "Zone2Name": "Bentley Linen",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.117647059,
+        "g": 0.117647059,
+        "b": 0.117647059,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.917647064,
+        "g": 0.8862745,
+        "b": 0.858823538,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -28952,18 +28952,18 @@
     },
     {
       "ID": 1464,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Hennessey Black Leather",
+      "Zone2Name": "Hennessey Butterscotch Leather",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.129411772,
+        "g": 0.129411772,
+        "b": 0.121568628,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.918000042,
+        "g": 0.6120001,
+        "b": 0.389111161,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -29172,18 +29172,18 @@
     },
     {
       "ID": 1475,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Verde Faunus",
+      "Zone2Name": "Lamborghini Nero Ade",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.411764741,
+        "g": 0.854902,
+        "b": 0.3254902,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.109803922,
+        "g": 0.109803922,
+        "b": 0.109803922,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -29612,18 +29612,18 @@
     },
     {
       "ID": 1497,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Mazda Black",
+      "Zone2Name": "Mazda Blue",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.0449147373,
+        "g": 0.028528301,
+        "b": 0.254717,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -29872,18 +29872,18 @@
     },
     {
       "ID": 1510,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Pure Black",
+      "Zone2Name": "Aston Martin Cream Truffle",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.105882362,
+        "g": 0.105882362,
+        "b": 0.105882362,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.9635294,
+        "b": 0.882352948,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -29912,18 +29912,18 @@
     },
     {
       "ID": 1512,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Electron Yellow",
+      "Zone2Name": "Aston Martin Electron Yellow",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.9116333,
+        "b": 0.518,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.909804,
+        "b": 0.5176471,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -30012,18 +30012,18 @@
     },
     {
       "ID": 1517,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Pininfarina Black",
+      "Zone2Name": "Pininfarina Brown",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.146,
+        "g": 0.146,
+        "b": 0.146,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.3529412,
+        "g": 0.2901961,
+        "b": 0.227450982,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -30753,7 +30753,7 @@
     {
       "ID": 1554,
       "Zone1Name": "Ford Black Onyx",
-      "Zone2Name": "Ford Black White",
+      "Zone2Name": "Ford Black Onyx",
       "Zone1DiffuseTint": {
         "r": 0.1509434,
         "g": 0.1509434,
@@ -31272,18 +31272,18 @@
     },
     {
       "ID": 1580,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Hennessey Orange",
+      "Zone2Name": "Hennessey Black",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.5562,
+        "b": 0.0490000248,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.154,
+        "g": 0.154,
+        "b": 0.154,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -32592,18 +32592,18 @@
     },
     {
       "ID": 1646,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Audi Black with Express Red Stitching",
+      "Zone2Name": "Audi Black with Express Red Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.741,
+        "g": 0.0,
+        "b": 0.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -32792,18 +32792,18 @@
     },
     {
       "ID": 1655,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Pagani Ocera",
+      "Zone2Name": "Pagani Ocera",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.882352948,
+        "g": 0.78039217,
+        "b": 0.490196079,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.882352948,
+        "g": 0.78039217,
+        "b": 0.490196079,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -32872,18 +32872,18 @@
     },
     {
       "ID": 1659,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Nissan Graphite Red Leather& Alcantara with Red accents",
+      "Zone2Name": "Nissan Graphite Red Leather& Alcantara with Red accents",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.118999995,
+        "g": 0.118999995,
+        "b": 0.118999995,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.8745098,
+        "g": 0.0,
+        "b": 0.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -32972,18 +32972,18 @@
     },
     {
       "ID": 1664,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Bentley Beluga",
+      "Zone2Name": "Bentley Indigo Night",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.117647059,
+        "g": 0.117647059,
+        "b": 0.117647059,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.172200009,
+        "g": 0.19555667,
+        "b": 0.28,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -33192,18 +33192,18 @@
     },
     {
       "ID": 1675,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Bugatti Gaucho",
+      "Zone2Name": "Bugatti Beluga Black",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.726,
+        "g": 0.446297556,
+        "b": 0.270797968,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.117647059,
+        "g": 0.117647059,
+        "b": 0.117647059,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -33212,18 +33212,18 @@
     },
     {
       "ID": 1676,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Bugatti Brun Cavalier",
+      "Zone2Name": "Bugatti Beluga Black",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.440999985,
+        "g": 0.28175,
+        "b": 0.220499992,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.117647059,
+        "g": 0.117647059,
+        "b": 0.117647059,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -33492,18 +33492,18 @@
     },
     {
       "ID": 1690,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Onyx Black",
+      "Zone2Name": "Aston Martin Havana",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.168,
+        "g": 0.168,
+        "b": 0.168,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.3137255,
+        "g": 0.2509804,
+        "b": 0.2509804,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -33732,18 +33732,18 @@
     },
     {
       "ID": 1702,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Marrone Elpis",
+      "Zone2Name": "Lamborghini Bianco Leda",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.33088237,
+        "g": 0.272491366,
+        "b": 0.272491366,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.9490196,
+        "g": 0.933333337,
+        "b": 0.9098039,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -33752,18 +33752,18 @@
     },
     {
       "ID": 1703,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Marrone Elpis",
+      "Zone2Name": "Lamborghini Blu Cepheus",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.33088237,
+        "g": 0.272491366,
+        "b": 0.272491366,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.190999985,
+        "g": 0.61168,
+        "b": 1.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -33772,18 +33772,18 @@
     },
     {
       "ID": 1704,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Marrone Elpis",
+      "Zone2Name": "Lamborghini Arancio Apodis",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.33088237,
+        "g": 0.272491366,
+        "b": 0.272491366,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.442102,
+        "b": 0.120999992,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -33792,18 +33792,18 @@
     },
     {
       "ID": 1705,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Marrone Elpis",
+      "Zone2Name": "Lamborghini Blu Uranus",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.33088237,
+        "g": 0.272491366,
+        "b": 0.272491366,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.203921571,
+        "g": 0.41568628,
+        "b": 0.5137255,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -33812,18 +33812,18 @@
     },
     {
       "ID": 1706,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Marrone Elpis",
+      "Zone2Name": "Lamborghini Viola Acutus",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.33088237,
+        "g": 0.272491366,
+        "b": 0.272491366,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.4463551,
+        "g": 0.155652031,
+        "b": 0.654000044,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -33832,18 +33832,18 @@
     },
     {
       "ID": 1707,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Lamborghini Marrone Elpis",
+      "Zone2Name": "Lamborghini Verde Scandal",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.33088237,
+        "g": 0.272491366,
+        "b": 0.272491366,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.8394257,
+        "g": 1.0,
+        "b": 0.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -34032,18 +34032,18 @@
     },
     {
       "ID": 1718,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Chevrolet Light Beige",
+      "Zone2Name": "Chevrolet Light Beige",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.7794118,
+        "g": 0.719897866,
+        "b": 0.624675632,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.7794118,
+        "g": 0.719897866,
+        "b": 0.624675632,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -34052,18 +34052,18 @@
     },
     {
       "ID": 1719,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Chevrolet Torch Red",
+      "Zone2Name": "Chevrolet Torch Red",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.654902,
+        "g": 0.132873252,
+        "b": 0.09299605,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.654902,
+        "g": 0.131656408,
+        "b": 0.09168627,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -35552,18 +35552,18 @@
     },
     {
       "ID": 1794,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Zenvo Sort",
+      "Zone2Name": "Zenvo Lilla",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.141176477,
+        "g": 0.141176477,
+        "b": 0.141176477,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.371,
+        "g": 0.212582991,
+        "b": 0.371,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -35772,18 +35772,18 @@
     },
     {
       "ID": 1805,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Onyx Black",
+      "Zone2Name": "Aston Martin Auric Gold",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.168,
+        "g": 0.168,
+        "b": 0.168,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.949,
+        "g": 0.616849959,
+        "b": 0.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 1,
@@ -35972,18 +35972,18 @@
     },
     {
       "ID": 1815,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Race-Tex Contrast Colour Carmine Red",
+      "Zone2Name": "Porsche Race-Tex Contrast Colour Carmine Red",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.5254902,
+        "g": 0.168627456,
+        "b": 0.164705887,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.5254902,
+        "g": 0.168627456,
+        "b": 0.164705887,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -35992,18 +35992,18 @@
     },
     {
       "ID": 1816,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Race-Tex Contrast Colour Slate Grey Neo",
+      "Zone2Name": "Porsche Race-Tex Contrast Colour Slate Grey Neo",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.4,
+        "g": 0.4,
+        "b": 0.4,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.399000019,
+        "g": 0.399000019,
+        "b": 0.399000019,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36012,18 +36012,18 @@
     },
     {
       "ID": 1817,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Race-Tex Contrast Colour Speed Blue",
+      "Zone2Name": "Porsche Race-Tex Contrast Colour Speed Blue",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.0156862754,
+        "g": 0.3372549,
+        "b": 0.5803922,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.0156862754,
+        "g": 0.3372549,
+        "b": 0.5803922,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36032,18 +36032,18 @@
     },
     {
       "ID": 1818,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Race-Tex Contrast Colour Orange",
+      "Zone2Name": "Porsche Race-Tex Contrast Colour Orange",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.4745098,
+        "b": 0.07058824,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.4745098,
+        "b": 0.07058824,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36052,18 +36052,18 @@
     },
     {
       "ID": 1819,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Race-Tex Contrast Colour Classic Cognac",
+      "Zone2Name": "Porsche Race-Tex Contrast Colour Classic Cognac",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.7372549,
+        "g": 0.549019635,
+        "b": 0.372549027,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.7372549,
+        "g": 0.549019635,
+        "b": 0.372549027,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36072,18 +36072,18 @@
     },
     {
       "ID": 1821,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Race-Tex Contrast Colour Nightgreen",
+      "Zone2Name": "Porsche Race-Tex Contrast Colour Nightgreen",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.2509804,
+        "g": 0.270588249,
+        "b": 0.243137255,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.2509804,
+        "g": 0.270588249,
+        "b": 0.243137255,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36092,18 +36092,18 @@
     },
     {
       "ID": 1820,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Race-Tex Contrast Colour Chalk Beige",
+      "Zone2Name": "Porsche Race-Tex Contrast Colour Chalk Beige",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.7,
+        "g": 0.6687898,
+        "b": 0.633121,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.7019608,
+        "g": 0.670588255,
+        "b": 0.635294139,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36112,18 +36112,18 @@
     },
     {
       "ID": 1822,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Race-Tex Contrast Colour Racing Yellow",
+      "Zone2Name": "Porsche Race-Tex Contrast Colour Racing Yellow",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.8,
+        "b": 0.0,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.8,
+        "b": 0.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36132,18 +36132,18 @@
     },
     {
       "ID": 1823,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Acura Ebony",
+      "Zone2Name": "Acura Red",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.118999995,
+        "g": 0.118999995,
+        "b": 0.118999995,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.727,
+        "g": 0.0618723333,
+        "b": 0.067028366,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36152,18 +36152,18 @@
     },
     {
       "ID": 1824,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Chancellor Red",
+      "Zone2Name": "Aston Martin Q Electron Yellow Contrast Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.45588237,
+        "g": 0.124026828,
+        "b": 0.158356592,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.8000001,
+        "b": 0.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36172,18 +36172,18 @@
     },
     {
       "ID": 1825,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Onyx Black",
+      "Zone2Name": "Aston Martin Q Electron Yellow Contrast Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.1,
+        "g": 0.1,
+        "b": 0.1,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
         "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "g": 0.8000001,
+        "b": 0.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36192,18 +36192,18 @@
     },
     {
       "ID": 1826,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Phantom Grey",
+      "Zone2Name": "Aston Martin Onyx Black Contrast Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.341,
+        "g": 0.341,
+        "b": 0.341,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.0980000049,
+        "g": 0.0980000049,
+        "b": 0.0980000049,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36212,18 +36212,18 @@
     },
     {
       "ID": 1827,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Bison Brown",
+      "Zone2Name": "Aston Martin Sandstorm Contrast Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.254901975,
+        "g": 0.219607845,
+        "b": 0.196078435,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.895,
+        "g": 0.7794107,
+        "b": 0.638134956,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36232,18 +36232,18 @@
     },
     {
       "ID": 1828,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Dark Knight",
+      "Zone2Name": "Aston Martin Q Cote d Azur Blue Contrast Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.13333334,
+        "g": 0.13333334,
+        "b": 0.168627456,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.0,
+        "g": 0.3833332,
+        "b": 1.0,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36252,18 +36252,18 @@
     },
     {
       "ID": 1829,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Bitter Chocolate",
+      "Zone2Name": "Aston Martin Chancellor Red Contrast Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.168627456,
+        "g": 0.117647059,
+        "b": 0.105882354,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.497,
+        "g": 0.0347899981,
+        "b": 0.0347899981,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36272,18 +36272,18 @@
     },
     {
       "ID": 1830,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Aston Martin Oxford Tan",
+      "Zone2Name": "Aston Martin Phantom Grey Contrast Stitching",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.9529412,
+        "g": 0.56078434,
+        "b": 0.333333343,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.245,
+        "g": 0.245,
+        "b": 0.245,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36312,18 +36312,18 @@
     },
     {
       "ID": 1832,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo Tan NEW",
+      "Zone2Name": "Apollo Tan NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.7882353,
+        "g": 0.545098066,
+        "b": 0.384313732,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.788235366,
+        "g": 0.545098066,
+        "b": 0.3803922,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36332,18 +36332,18 @@
     },
     {
       "ID": 1833,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo Brown NEW",
+      "Zone2Name": "Apollo Brown NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.5019608,
+        "g": 0.321568638,
+        "b": 0.227450982,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.5019608,
+        "g": 0.321568638,
+        "b": 0.227450982,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36352,18 +36352,18 @@
     },
     {
       "ID": 1834,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo Dove Gray NEW",
+      "Zone2Name": "Apollo Dove Gray NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.5157209,
+        "g": 0.5157209,
+        "b": 0.528,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.5176471,
+        "g": 0.5176471,
+        "b": 0.5294118,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36372,18 +36372,18 @@
     },
     {
       "ID": 1835,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo Gray NEW",
+      "Zone2Name": "Apollo Gray NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.3254902,
+        "g": 0.321568638,
+        "b": 0.333333343,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.3254902,
+        "g": 0.321568638,
+        "b": 0.333333343,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36392,18 +36392,18 @@
     },
     {
       "ID": 1836,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo White NEW",
+      "Zone2Name": "Apollo White NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.759,
+        "g": 0.759,
+        "b": 0.759,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.7607843,
+        "g": 0.7607843,
+        "b": 0.7607843,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36412,18 +36412,18 @@
     },
     {
       "ID": 1837,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo Blue NEW",
+      "Zone2Name": "Apollo Blue NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.129411772,
+        "g": 0.305882365,
+        "b": 0.607843161,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.129411772,
+        "g": 0.305882365,
+        "b": 0.607843161,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36432,18 +36432,18 @@
     },
     {
       "ID": 1838,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo Green NEW",
+      "Zone2Name": "Apollo Green NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.254901975,
+        "g": 0.6745098,
+        "b": 0.145098045,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.254901975,
+        "g": 0.6745098,
+        "b": 0.145098045,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36452,18 +36452,18 @@
     },
     {
       "ID": 1839,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo Orange NEW",
+      "Zone2Name": "Apollo Orange NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.7607843,
+        "g": 0.274509817,
+        "b": 0.145098045,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.7607843,
+        "g": 0.274509817,
+        "b": 0.145098045,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36472,18 +36472,18 @@
     },
     {
       "ID": 1840,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Apollo Red NEW",
+      "Zone2Name": "Apollo Red NEW",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.6117647,
+        "g": 0.137254909,
+        "b": 0.172549024,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.6117647,
+        "g": 0.137254909,
+        "b": 0.172549024,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,
@@ -36492,18 +36492,258 @@
     },
     {
       "ID": 1841,
-      "Zone1Name": "interior1_placeholder_1234",
-      "Zone2Name": "interior2_placeholder_1234",
+      "Zone1Name": "Porsche Deep Sea Blue",
+      "Zone2Name": "Porsche Deep Sea Blue",
       "Zone1DiffuseTint": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 1.0,
+        "r": 0.13351725,
+        "g": 0.13891387,
+        "b": 0.242000014,
         "a": 1.0
       },
       "Zone2DiffuseTint": {
-        "r": 1.0,
-        "g": 0.921568632,
-        "b": 0.0156862754,
+        "r": 0.13351725,
+        "g": 0.13891387,
+        "b": 0.242000014,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1842,
+      "Zone1Name": "Ford Ebony",
+      "Zone2Name": "Ford Ebony",
+      "Zone1DiffuseTint": {
+        "r": 0.099,
+        "g": 0.099,
+        "b": 0.099,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.0980392247,
+        "g": 0.0980392247,
+        "b": 0.0980392247,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1843,
+      "Zone1Name": "Ford White",
+      "Zone2Name": "Ford White",
+      "Zone1DiffuseTint": {
+        "r": 0.9137255,
+        "g": 0.8277278,
+        "b": 0.7309804,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.913725555,
+        "g": 0.82745105,
+        "b": 0.7294118,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1844,
+      "Zone1Name": "Ford Red",
+      "Zone2Name": "Ford Red",
+      "Zone1DiffuseTint": {
+        "r": 0.4862745,
+        "g": 0.121568628,
+        "b": 0.156862751,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.48627454,
+        "g": 0.121568635,
+        "b": 0.160784319,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1845,
+      "Zone1Name": "Ford Blue",
+      "Zone2Name": "Ford Blue",
+      "Zone1DiffuseTint": {
+        "r": 0.104774177,
+        "g": 0.2432258,
+        "b": 0.348,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.105882362,
+        "g": 0.24313727,
+        "b": 0.349019617,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1846,
+      "Zone1Name": "Ford Palomino",
+      "Zone2Name": "Ford Palomino",
+      "Zone1DiffuseTint": {
+        "r": 0.305882365,
+        "g": 0.2065377,
+        "b": 0.169152945,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.305882365,
+        "g": 0.207843155,
+        "b": 0.168627456,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1847,
+      "Zone1Name": "Lamborghini Nero",
+      "Zone2Name": "Lamborghini Nero",
+      "Zone1DiffuseTint": {
+        "r": 0.148392,
+        "g": 0.148392,
+        "b": 0.162,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.149019614,
+        "g": 0.149019614,
+        "b": 0.164705887,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1848,
+      "Zone1Name": "Lamborghini Senape",
+      "Zone2Name": "Lamborghini Senape",
+      "Zone1DiffuseTint": {
+        "r": 0.7764706,
+        "g": 0.5882353,
+        "b": 0.3764706,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.7764706,
+        "g": 0.5882353,
+        "b": 0.3764706,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1849,
+      "Zone1Name": "Lamborghini Blu",
+      "Zone2Name": "Lamborghini Blu",
+      "Zone1DiffuseTint": {
+        "r": 0.180212989,
+        "g": 0.326606482,
+        "b": 0.473,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.180392161,
+        "g": 0.329411775,
+        "b": 0.4745098,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1850,
+      "Zone1Name": "Lamborghini Bianco",
+      "Zone2Name": "Lamborghini Bianco",
+      "Zone1DiffuseTint": {
+        "r": 0.8117647,
+        "g": 0.8,
+        "b": 0.7607843,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.8117647,
+        "g": 0.8,
+        "b": 0.7607843,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1851,
+      "Zone1Name": "Lamborghini Rosso",
+      "Zone2Name": "Lamborghini Rosso",
+      "Zone1DiffuseTint": {
+        "r": 0.566,
+        "g": 0.132204369,
+        "b": 0.1198102,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.5686275,
+        "g": 0.13333334,
+        "b": 0.121568628,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1852,
+      "Zone1Name": "Lamborghini Grigio Chiaro",
+      "Zone2Name": "Lamborghini Grigio Chiaro",
+      "Zone1DiffuseTint": {
+        "r": 0.65882355,
+        "g": 0.6496824,
+        "b": 0.6100706,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.65882355,
+        "g": 0.6509804,
+        "b": 0.6117647,
+        "a": 1.0
+      },
+      "InteriorTilingZone2": 0,
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 1853,
+      "Zone1Name": "Lamborghini Verde Scuro",
+      "Zone2Name": "Lamborghini Verde Scuro",
+      "Zone1DiffuseTint": {
+        "r": 0.28059,
+        "g": 0.47,
+        "b": 0.365824521,
+        "a": 1.0
+      },
+      "Zone2DiffuseTint": {
+        "r": 0.282352954,
+        "g": 0.470588237,
+        "b": 0.368627459,
         "a": 1.0
       },
       "InteriorTilingZone2": 0,

@@ -4101,6 +4101,42 @@
       },
       "Origin": 0,
       "CashPrice": 0
+    },
+    {
+      "ID": 343,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 344,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
+    },
+    {
+      "ID": 345,
+      "Name": "calliper_Placeholder_1234",
+      "Zone1DiffuseTint": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Origin": 0,
+      "CashPrice": 0
     }
   ],
   "isModified": 0

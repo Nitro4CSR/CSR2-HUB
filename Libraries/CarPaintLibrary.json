@@ -40132,12 +40132,12 @@
         "b": 0.972549,
         "a": 1.0
       },
-      "MetallicCoverage": 0.5,
+      "MetallicCoverage": 0.55,
       "MetallicShininess": 0.2,
       "ClearCoatF0": 0.2,
       "ClearCoatShininess": 1.0,
-      "FresnelPower": 1.0,
-      "MetallicBoost": 1.0
+      "FresnelPower": 1.2,
+      "MetallicBoost": 1.2
     },
     {
       "Name": "OEM Fashion Fuchsia",
@@ -41772,14 +41772,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Noble Orange",
       "UnlockLevel": -1,
       "ID": 1773,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.357467979,
+        "b": 0.140999973,
         "a": 1.0
       },
       "MetallicTint": {
@@ -44244,14 +44244,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Lamborghini Blu Tawaret",
       "UnlockLevel": -1,
       "ID": 1876,
       "CarPaintType": 2,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.004176993,
+        "g": 0.1294867,
+        "b": 0.472,
         "a": 1.0
       },
       "MetallicTint": {
@@ -44484,14 +44484,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Mercedes-Benz G Manufaktur Monza Grey Magno",
       "UnlockLevel": -1,
       "ID": 1886,
       "CarPaintType": 3,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.258823544,
+        "g": 0.239215687,
+        "b": 0.227450982,
         "a": 1.0
       },
       "MetallicTint": {
@@ -44508,14 +44508,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Mercedes-Benz G Manufaktur Dakota Brown Magno",
       "UnlockLevel": -1,
       "ID": 1887,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.233999968,
+        "g": 0.201895177,
+        "b": 0.165203974,
         "a": 1.0
       },
       "MetallicTint": {
@@ -44604,14 +44604,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Hennessey Fury Blue",
       "UnlockLevel": -1,
       "ID": 1891,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0321,
+        "g": 0.0344413742,
+        "b": 0.1,
         "a": 1.0
       },
       "MetallicTint": {
@@ -45060,14 +45060,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "SSC SSC Gold",
       "UnlockLevel": -1,
       "ID": 1910,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.747,
+        "g": 0.4929603,
+        "b": 0.164339975,
         "a": 1.0
       },
       "MetallicTint": {
@@ -45132,14 +45132,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Jaguar Bluefire Blue Unbalanced",
       "UnlockLevel": -1,
       "ID": 1913,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.07450981,
+        "g": 0.09411765,
+        "b": 0.23137255,
         "a": 1.0
       },
       "MetallicTint": {
@@ -45372,14 +45372,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Koenigsegg Jesko Green",
       "UnlockLevel": -1,
       "ID": 1923,
       "CarPaintType": 2,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.676060438,
+        "g": 0.83,
+        "b": 0.12284,
         "a": 1.0
       },
       "MetallicTint": {
@@ -45948,14 +45948,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Bentley Royal Ebony",
       "UnlockLevel": -1,
       "ID": 1947,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0785745159,
+        "g": 0.07600784,
+        "b": 0.08627451,
         "a": 1.0
       },
       "MetallicTint": {
@@ -47580,14 +47580,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Audi Panther Black",
       "UnlockLevel": -1,
       "ID": 2015,
       "CarPaintType": 2,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.038,
+        "g": 0.038,
+        "b": 0.038,
         "a": 1.0
       },
       "MetallicTint": {
@@ -47772,14 +47772,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Bugatti Ruby Black",
       "UnlockLevel": -1,
       "ID": 2023,
       "CarPaintType": 2,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0470588244,
+        "g": 0.0470588244,
+        "b": 0.0470588244,
         "a": 1.0
       },
       "MetallicTint": {
@@ -47820,14 +47820,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Noble Brown",
       "UnlockLevel": -1,
       "ID": 2025,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.175,
+        "g": 0.175,
+        "b": 0.121975,
         "a": 1.0
       },
       "MetallicTint": {
@@ -48132,14 +48132,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Lamborghini Verde Miura",
       "UnlockLevel": -1,
       "ID": 2038,
       "CarPaintType": 2,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.3282976,
+        "g": 0.867647052,
+        "b": 0.223291531,
         "a": 1.0
       },
       "MetallicTint": {
@@ -48228,14 +48228,14 @@
       "MetallicBoost": 1.2
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Aston Martin Maximum Orange",
       "UnlockLevel": -1,
       "ID": 2042,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.18198806,
+        "b": 0.107623339,
         "a": 1.0
       },
       "MetallicTint": {
@@ -48252,14 +48252,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Aston Martin Liquid Petroleum",
       "UnlockLevel": -1,
       "ID": 2043,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0266039241,
+        "g": 0.0266039241,
+        "b": 0.03137255,
         "a": 1.0
       },
       "MetallicTint": {
@@ -48324,14 +48324,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Bugatti Bugatti Yellow",
       "UnlockLevel": -1,
       "ID": 2046,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.80521667,
+        "b": 0.101000011,
         "a": 1.0
       },
       "MetallicTint": {
@@ -48372,14 +48372,14 @@
       "MetallicBoost": 1.2
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Bugatti Agile Bleu",
       "UnlockLevel": -1,
       "ID": 2048,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0,
+        "g": 0.520973,
+        "b": 0.948,
         "a": 1.0
       },
       "MetallicTint": {
@@ -48780,14 +48780,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Ford Infinite Blue",
       "UnlockLevel": -1,
       "ID": 2065,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.16677779,
+        "g": 0.26333335,
+        "b": 0.395,
         "a": 1.0
       },
       "MetallicTint": {
@@ -49428,14 +49428,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Ford Blue Ember",
       "UnlockLevel": -1,
       "ID": 2092,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0616000034,
+        "g": 0.0955058858,
+        "b": 0.129411772,
         "a": 1.0
       },
       "MetallicTint": {
@@ -50484,14 +50484,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Plymouth Light Blue NEW",
       "UnlockLevel": -1,
       "ID": 2136,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.135299966,
+        "g": 0.4930933,
+        "b": 0.90199995,
         "a": 1.0
       },
       "MetallicTint": {
@@ -50772,14 +50772,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Koenigsegg Moon Silver",
       "UnlockLevel": -1,
       "ID": 2148,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.3135,
+        "g": 0.322666675,
+        "b": 0.341,
         "a": 1.0
       },
       "MetallicTint": {
@@ -51348,13 +51348,13 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Mitsubishi Scotia White",
       "UnlockLevel": -1,
       "ID": 2172,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
+        "r": 1.0,
+        "g": 1.0,
         "b": 1.0,
         "a": 1.0
       },
@@ -51708,14 +51708,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Lotus Carbon Black",
       "UnlockLevel": -1,
       "ID": 2187,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0490000024,
+        "g": 0.0490000024,
+        "b": 0.0490000024,
         "a": 1.0
       },
       "MetallicTint": {
@@ -51852,14 +51852,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Audi Kyalami Green",
       "UnlockLevel": -1,
       "ID": 2193,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.202947721,
+        "g": 0.601,
+        "b": 0.113589011,
         "a": 1.0
       },
       "MetallicTint": {
@@ -52116,14 +52116,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Audi Python Yellow",
       "UnlockLevel": -1,
       "ID": 2204,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.8980392,
+        "g": 0.771241844,
+        "b": 0.137254879,
         "a": 1.0
       },
       "MetallicTint": {
@@ -52356,14 +52356,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Bentley Fine Brodgar Silver",
       "UnlockLevel": -1,
       "ID": 2214,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.321568638,
+        "g": 0.3019608,
+        "b": 0.2901961,
         "a": 1.0
       },
       "MetallicTint": {
@@ -52812,14 +52812,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Zenvo Rose Gold",
       "UnlockLevel": -1,
       "ID": 2233,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.5176471,
+        "g": 0.4067671,
+        "b": 0.3944471,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53028,14 +53028,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Zenvo Pink",
       "UnlockLevel": -1,
       "ID": 2242,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.484000027,
+        "g": 0.0101538589,
+        "b": 0.287692368,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53268,14 +53268,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Chevrolet Dark Rose",
       "UnlockLevel": -1,
       "ID": 2252,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.09483871,
+        "g": 0.05374194,
+        "b": 0.0980000049,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53628,14 +53628,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Chevrolet Competition Yellow",
       "UnlockLevel": -1,
       "ID": 2267,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.996078432,
+        "g": 0.8156209,
+        "b": 0.0117647005,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53652,14 +53652,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Chevrolet Polo Green II",
       "UnlockLevel": -1,
       "ID": 2268,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0899999961,
+        "g": 0.162,
+        "b": 0.1395,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53676,14 +53676,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Chevrolet Bright Aqua",
       "UnlockLevel": -1,
       "ID": 2269,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.086210534,
+        "g": 0.254526347,
+        "b": 0.468,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53700,14 +53700,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Chevrolet Dark Red",
       "UnlockLevel": -1,
       "ID": 2270,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.380999982,
+        "g": 0.0380999856,
+        "b": 0.0380999856,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53796,14 +53796,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Chevrolet Copper",
       "UnlockLevel": -1,
       "ID": 2274,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.41900003,
+        "g": 0.1737317,
+        "b": 0.0953821,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53892,14 +53892,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Dodge Blue Fire",
       "UnlockLevel": -1,
       "ID": 2278,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0,
+        "g": 0.352000058,
+        "b": 0.708,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53916,14 +53916,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Dodge Hemi Orange",
       "UnlockLevel": -1,
       "ID": 2279,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.227516338,
+        "b": 0.125490189,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53940,14 +53940,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Dodge Bright Red",
       "UnlockLevel": -1,
       "ID": 2280,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.825,
+        "g": 0.00332660973,
+        "b": 0.00332660973,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53964,14 +53964,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Dodge Spring Green",
       "UnlockLevel": -1,
       "ID": 2281,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.09533333,
+        "g": 0.33,
+        "b": 0.185288861,
         "a": 1.0
       },
       "MetallicTint": {
@@ -53988,14 +53988,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Dodge Dark Blue",
       "UnlockLevel": -1,
       "ID": 2282,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0,
+        "g": 0.0235294122,
+        "b": 0.109803922,
         "a": 1.0
       },
       "MetallicTint": {
@@ -54012,14 +54012,14 @@
       "MetallicBoost": 2.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Dodge Viper Red",
       "UnlockLevel": -1,
       "ID": 2283,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.825,
+        "g": 0.00332660973,
+        "b": 0.00332660973,
         "a": 1.0
       },
       "MetallicTint": {
@@ -54300,14 +54300,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Ford Burgundy Velvet",
       "UnlockLevel": -1,
       "ID": 2295,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.172549024,
+        "g": 0.027450975,
+        "b": 0.05163403,
         "a": 1.0
       },
       "MetallicTint": {
@@ -54324,14 +54324,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Ford Lightning Blue",
       "UnlockLevel": -1,
       "ID": 2296,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.09332552,
+        "g": 0.2641793,
+        "b": 0.572549045,
         "a": 1.0
       },
       "MetallicTint": {
@@ -54420,14 +54420,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Lamborghini Azzurro",
       "UnlockLevel": -1,
       "ID": 2300,
       "CarPaintType": 2,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0392156877,
+        "g": 0.4745098,
+        "b": 0.7294118,
         "a": 1.0
       },
       "MetallicTint": {
@@ -54444,14 +54444,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Lamborghini Rosso Mars",
       "UnlockLevel": -1,
       "ID": 2301,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.75,
+        "g": 0.0,
+        "b": 0.0169456061,
         "a": 1.0
       },
       "MetallicTint": {
@@ -54468,14 +54468,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Lamborghini Verde Mantis",
       "UnlockLevel": -1,
       "ID": 2302,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.3282976,
+        "g": 0.867647052,
+        "b": 0.223291531,
         "a": 1.0
       },
       "MetallicTint": {
@@ -54708,14 +54708,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Ferrari Blu Corsa",
       "UnlockLevel": -1,
       "ID": 2312,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0,
+        "g": 0.149019614,
+        "b": 0.309803933,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55236,14 +55236,14 @@
       "MetallicBoost": 1.2
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Gletcher Blå NEW",
       "UnlockLevel": -1,
       "ID": 2334,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0,
+        "g": 0.72547096,
+        "b": 0.7372549,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55500,14 +55500,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Aston Martin Auric Gold",
       "UnlockLevel": -1,
       "ID": 2345,
       "CarPaintType": 3,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.678000033,
+        "g": 0.4191273,
+        "b": 0.07396365,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55572,14 +55572,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Porsche Cartagena Yellow",
       "UnlockLevel": -1,
       "ID": 2348,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.9411765,
+        "g": 0.8745098,
+        "b": 0.4862745,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55596,14 +55596,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Porsche Lugano Blue",
       "UnlockLevel": -1,
       "ID": 2349,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.0,
+        "g": 0.235741988,
+        "b": 0.58,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55620,14 +55620,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Apollo Deep Orange",
       "UnlockLevel": -1,
       "ID": 2350,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.649,
+        "g": 0.0,
+        "b": 0.0229736157,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55692,38 +55692,38 @@
       "MetallicBoost": 1.302
     },
     {
-      "Name": "AEM House Of Kolor Goldmine NEW",
+      "Name": "AEM House Of Kolor Goldmine",
       "UnlockLevel": -1,
       "ID": 2353,
       "CarPaintType": 2,
       "DiffuseTint": {
-        "r": 0.399000019,
-        "g": 0.207812518,
-        "b": 0.0207812432,
+        "r": 0.521568656,
+        "g": 0.199934646,
+        "b": 0.0,
         "a": 1.0
       },
       "MetallicTint": {
         "r": 0.996078432,
-        "g": 0.8980392,
-        "b": 0.007843138,
+        "g": 0.9764706,
+        "b": 0.152941182,
         "a": 1.0
       },
-      "MetallicCoverage": 0.535,
+      "MetallicCoverage": 0.7,
       "MetallicShininess": 0.3,
-      "ClearCoatF0": 0.2,
+      "ClearCoatF0": 0.25,
       "ClearCoatShininess": 1.0,
       "FresnelPower": 1.0,
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Aston Martin Podium Green",
       "UnlockLevel": -1,
       "ID": 2354,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.019576475,
+        "g": 0.152941182,
+        "b": 0.1369374,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55740,14 +55740,14 @@
       "MetallicBoost": 1.2
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Aston Martin Q Cosmopolitan Yellow",
       "UnlockLevel": -1,
       "ID": 2355,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.6509804,
+        "g": 0.564052343,
+        "b": 0.129411742,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55764,14 +55764,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Aston Martin Storm Purple",
       "UnlockLevel": -1,
       "ID": 2356,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.137254909,
+        "g": 0.05882353,
+        "b": 0.211764708,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55788,38 +55788,14 @@
       "MetallicBoost": 1.2
     },
     {
-      "Name": "paint_placeholder_1234",
-      "UnlockLevel": -1,
-      "ID": 2357,
-      "CarPaintType": 0,
-      "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
-        "a": 1.0
-      },
-      "MetallicTint": {
-        "r": 0.154,
-        "g": 0.154,
-        "b": 0.154,
-        "a": 1.0
-      },
-      "MetallicCoverage": 0.4,
-      "MetallicShininess": 0.3,
-      "ClearCoatF0": 0.2,
-      "ClearCoatShininess": 1.0,
-      "FresnelPower": 1.0,
-      "MetallicBoost": 1.0
-    },
-    {
-      "Name": "paint_placeholder_1234",
+      "Name": "Hoonigan Cossie V2 Livery",
       "UnlockLevel": -1,
       "ID": 2358,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.866,
+        "g": 0.866,
+        "b": 0.866,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55836,20 +55812,20 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Lamborghini Giallo Miura",
       "UnlockLevel": -1,
       "ID": 2359,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 1.0,
+        "g": 0.683333337,
+        "b": 0.0,
         "a": 1.0
       },
       "MetallicTint": {
-        "r": 1.0,
-        "g": 0.8666667,
-        "b": 0.211764708,
+        "r": 0.9764706,
+        "g": 0.876506746,
+        "b": 0.533152938,
         "a": 1.0
       },
       "MetallicCoverage": 0.3,
@@ -55860,14 +55836,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Porsche Salzburg Livery",
       "UnlockLevel": -1,
       "ID": 2360,
       "CarPaintType": 1,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.736,
+        "g": 0.00754871732,
+        "b": 0.00754871732,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55884,14 +55860,14 @@
       "MetallicBoost": 1.0
     },
     {
-      "Name": "paint_placeholder_1234",
+      "Name": "Bugatti Doré Gold",
       "UnlockLevel": -1,
       "ID": 2361,
       "CarPaintType": 0,
       "DiffuseTint": {
-        "r": 0.56,
-        "g": 0.16,
-        "b": 1.0,
+        "r": 0.420999974,
+        "g": 0.276539236,
+        "b": 0.14858824,
         "a": 1.0
       },
       "MetallicTint": {
@@ -55906,6 +55882,582 @@
       "ClearCoatShininess": 1.0,
       "FresnelPower": 1.0,
       "MetallicBoost": 1.2
+    },
+    {
+      "Name": "Shelby Raven Black",
+      "UnlockLevel": -1,
+      "ID": 2362,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.032,
+        "g": 0.0256000012,
+        "b": 0.0256000012,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.297000021,
+        "g": 0.284086972,
+        "b": 0.2744022,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.3,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Shelby Sapphire Blue",
+      "UnlockLevel": -1,
+      "ID": 2363,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.197155863,
+        "b": 0.322999984,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.423529416,
+        "g": 0.7294118,
+        "b": 0.9098039,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.65,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Shelby Candy Apple Red",
+      "UnlockLevel": -1,
+      "ID": 2364,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.449,
+        "g": 0.0,
+        "b": 0.03805069,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.9529412,
+        "g": 0.09434121,
+        "b": 0.187263057,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.45,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.2
+    },
+    {
+      "Name": "Lamborghini Rosso Corsa",
+      "UnlockLevel": -1,
+      "ID": 2365,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.698039234,
+        "g": 0.08322632,
+        "b": 0.0537489951,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.9647059,
+        "g": 0.309803933,
+        "b": 0.223529413,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Azzurro Cielo",
+      "UnlockLevel": -1,
+      "ID": 2366,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.463317662,
+        "g": 0.6831774,
+        "b": 0.796078444,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.7529412,
+        "g": 0.843137264,
+        "b": 0.8980392,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Azzurro Mexico",
+      "UnlockLevel": -1,
+      "ID": 2367,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0202500056,
+        "g": 0.319949985,
+        "b": 0.405,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.368627459,
+        "g": 0.7019608,
+        "b": 0.796078444,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Bianco",
+      "UnlockLevel": -1,
+      "ID": 2368,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.844796062,
+        "g": 0.8649739,
+        "b": 0.8901961,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.9764706,
+        "g": 0.9764706,
+        "b": 0.9764706,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Blu Miura",
+      "UnlockLevel": -1,
+      "ID": 2369,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.033380948,
+        "g": 0.321291715,
+        "b": 0.701,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.309803933,
+        "g": 0.7019608,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Nero Cangiante",
+      "UnlockLevel": -1,
+      "ID": 2370,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0509803928,
+        "g": 0.07450981,
+        "b": 0.09411765,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.178874984,
+        "g": 0.18900001,
+        "b": 0.216,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Argento Metallizzato",
+      "UnlockLevel": -1,
+      "ID": 2371,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.518,
+        "g": 0.51378864,
+        "b": 0.488520324,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.8980392,
+        "g": 0.858823538,
+        "b": 0.8235294,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Verde Mertallizzato",
+      "UnlockLevel": -1,
+      "ID": 2372,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.254901975,
+        "b": 0.1254902,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.7058824,
+        "b": 0.572549045,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Luci del Bosco",
+      "UnlockLevel": -1,
+      "ID": 2373,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.227450982,
+        "g": 0.1882353,
+        "b": 0.152941182,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.898,
+        "g": 0.5760566,
+        "b": 0.308912039,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.55,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.2
+    },
+    {
+      "Name": "Lamborghini Blu Tahiti",
+      "UnlockLevel": -1,
+      "ID": 2374,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0117647061,
+        "g": 0.227450982,
+        "b": 0.396078438,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.08627451,
+        "g": 0.5372549,
+        "b": 0.796078444,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.45,
+      "MetallicShininess": 0.0,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Nero",
+      "UnlockLevel": -1,
+      "ID": 2375,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.235,
+        "g": 0.235,
+        "b": 0.235,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Blu Notte Miura",
+      "UnlockLevel": -1,
+      "ID": 2376,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0392156877,
+        "g": 0.117647059,
+        "b": 0.172549024,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0,
+        "g": 0.298039228,
+        "b": 0.5372549,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.55,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Grigio",
+      "UnlockLevel": -1,
+      "ID": 2377,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.174,
+        "g": 0.174,
+        "b": 0.174,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.6039216,
+        "g": 0.6117647,
+        "b": 0.6117647,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Oro Metallizzato",
+      "UnlockLevel": -1,
+      "ID": 2378,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.447999984,
+        "g": 0.376822442,
+        "b": 0.163289741,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.768627465,
+        "g": 0.6901961,
+        "b": 0.4509804,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.55,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Argento",
+      "UnlockLevel": -1,
+      "ID": 2379,
+      "CarPaintType": 1,
+      "DiffuseTint": {
+        "r": 0.549953,
+        "g": 0.5716492,
+        "b": 0.5764706,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.847840965,
+        "g": 0.8832803,
+        "b": 0.900999963,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.2,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Amaranto",
+      "UnlockLevel": -1,
+      "ID": 2380,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.192156866,
+        "g": 0.05490196,
+        "b": 0.0784313753,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.5411765,
+        "g": 0.239215687,
+        "b": 0.2509804,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.45,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Marrone Metallizzato",
+      "UnlockLevel": -1,
+      "ID": 2381,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.184313729,
+        "g": 0.101960786,
+        "b": 0.09803922,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.342,
+        "g": 0.173408449,
+        "b": 0.134873226,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.5,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.1,
+      "MetallicBoost": 1.0
+    },
+    {
+      "Name": "Lamborghini Viola Salchi",
+      "UnlockLevel": -1,
+      "ID": 2382,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.282352954,
+        "g": 0.243137255,
+        "b": 0.6666667,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.443137258,
+        "g": 0.380392164,
+        "b": 0.772549033,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.43,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.1
+    },
+    {
+      "Name": "Lamborghini Verde Inglese",
+      "UnlockLevel": -1,
+      "ID": 2383,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.0196078438,
+        "g": 0.258823544,
+        "b": 0.309803933,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.0470588244,
+        "g": 0.443137258,
+        "b": 0.5921569,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.35,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.1,
+      "MetallicBoost": 1.1
+    },
+    {
+      "Name": "Lamborghini Verde Rio Metallizzato",
+      "UnlockLevel": -1,
+      "ID": 2384,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.003921569,
+        "g": 0.286274523,
+        "b": 0.243137255,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.08627451,
+        "g": 0.5686275,
+        "b": 0.458823532,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.4,
+      "MetallicShininess": 0.3,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.2
+    },
+    {
+      "Name": "Lamborghini Rosso Granada",
+      "UnlockLevel": -1,
+      "ID": 2385,
+      "CarPaintType": 0,
+      "DiffuseTint": {
+        "r": 0.356862754,
+        "g": 0.06666667,
+        "b": 0.141176477,
+        "a": 1.0
+      },
+      "MetallicTint": {
+        "r": 0.607843161,
+        "g": 0.258823544,
+        "b": 0.3372549,
+        "a": 1.0
+      },
+      "MetallicCoverage": 0.6,
+      "MetallicShininess": 0.26,
+      "ClearCoatF0": 0.2,
+      "ClearCoatShininess": 1.0,
+      "FresnelPower": 1.0,
+      "MetallicBoost": 1.0
     }
   ],
   "isModified": 0

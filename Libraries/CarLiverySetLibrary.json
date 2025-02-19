@@ -109,10 +109,10 @@
     {
       "ID": 12,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "Ferrari 250 GTO Nurburgring Stripes",
       "liveryID": 503,
       "liveryZoneID": 0,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_Ferrari_250GTONurburgringStripe_Swatch_Diffuse"
     },
     {
       "ID": 13,
@@ -637,10 +637,10 @@
     {
       "ID": 81,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "Pontiac GTO The Judge Dark Blue Red Yellow Contrast",
       "liveryID": 618,
       "liveryZoneID": 9,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_Pontiac_GTOTheJudgeClassicDarkBlueRedYellowContrast_Swatch_Diffuse"
     },
     {
       "ID": 82,
@@ -877,10 +877,10 @@
     {
       "ID": 111,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "Ferrari 250 GTO Red Nose",
       "liveryID": 495,
       "liveryZoneID": 9,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_Ferrari_250GTORedNose_Swatch_Diffuse"
     },
     {
       "ID": 112,
@@ -1053,10 +1053,10 @@
     {
       "ID": 136,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "MercedesBenz_300SLYShapeBlue_1",
       "liveryID": 668,
       "liveryZoneID": 0,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_MercedesBenz_300SLYShapeBlue_Swatch_Diffuse"
     },
     {
       "ID": 137,
@@ -1349,10 +1349,10 @@
     {
       "ID": 173,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "McLaren_F1HarrodsWhiteStripe_1",
       "liveryID": 701,
       "liveryZoneID": 0,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_McLaren_F1HarrodsWhiteStripe_Swatch_Diffuse"
     },
     {
       "ID": 174,
@@ -1669,42 +1669,42 @@
     {
       "ID": 213,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "MercedesBenz_300SLYShapeBlack_1",
       "liveryID": 741,
       "liveryZoneID": 0,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_MercedesBenz_300SLYShapeBlack_Swatch_Diffuse"
     },
     {
       "ID": 214,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "MercedesBenz_300SLYShapeOrange_1",
       "liveryID": 742,
       "liveryZoneID": 0,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_MercedesBenz_300SLYShapeOrange_Swatch_Diffuse"
     },
     {
       "ID": 215,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "MercedesBenz_300SLYShapeRed_1",
       "liveryID": 743,
       "liveryZoneID": 0,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_MercedesBenz_300SLYShapeRed_Swatch_Diffuse"
     },
     {
       "ID": 216,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "MercedesBenz_300SLYShapeWhite_1",
       "liveryID": 744,
       "liveryZoneID": 0,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_MercedesBenz_300SLYShapeWhite_Swatch_Diffuse"
     },
     {
       "ID": 217,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "MercedesBenz_300SLYShapeYellow_1",
       "liveryID": 745,
       "liveryZoneID": 0,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_MercedesBenz_300SLYShapeYellow_Swatch_Diffuse"
     },
     {
       "ID": 218,
@@ -2997,7 +2997,7 @@
     {
       "ID": 379,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "Chevrolet_CamaroSS2016HoodRedHash_1",
       "liveryID": 884,
       "liveryZoneID": 0,
       "SwatchTexture": ""
@@ -4189,10 +4189,10 @@
     {
       "ID": 528,
       "isNoLivery": 0,
-      "NameID": "liveryset_placeholder_1234",
+      "NameID": "Dodge Viper GTS Black Rear Accent Applique",
       "liveryID": 168,
       "liveryZoneID": 15,
-      "SwatchTexture": ""
+      "SwatchTexture": "OEM_Dodge_DodgeViperGTSBlackRearAccentApplique_Swatch_Diffuse"
     },
     {
       "ID": 529,
