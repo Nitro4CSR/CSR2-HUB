@@ -1878,5 +1878,13 @@
     "PrizeCar": "McLaren_750SReward_2023",
     "MilestoneCar": "McLaren_750SRewardRecycled_2023",
     "PrestigeCar": "AstonMartin_DBX707RewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": "",
+    "KnownSeason": "",
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
   }
 ]
