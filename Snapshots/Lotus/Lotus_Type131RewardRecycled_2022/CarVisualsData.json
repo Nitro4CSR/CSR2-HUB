@@ -1,0 +1,167 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2523654462150081154
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4956490398670777961
+  },
+  "m_Name": "",
+  "ProjectorsParentBoneOverride": "",
+  "FlaresParentBoneOverride": "",
+  "CarPaintIDs": [
+    1865,
+    1864,
+    1863,
+    1862,
+    1861
+  ],
+  "CarLiveryZonesSetIDs": [],
+  "CarLiveryIDs": [],
+  "CarInteriorIDs": [
+    1380,
+    1382,
+    1384,
+    1381,
+    1386
+  ],
+  "CarCalliperIDs": [
+    4,
+    7,
+    3
+  ],
+  "WheelBundleNames": [
+    "Wheel1A_3D",
+    "Wheel1B_3D",
+    "Wheel2A_3D",
+    "Wheel2B_3D",
+    "Wheel2C_3D"
+  ],
+  "HasOwnLivery": 0,
+  "GachaConfigs": [
+    {
+      "gachaLetter": "A",
+      "duplicate": 0,
+      "PaintID": 1865,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1018,
+      "CalliperID": 3,
+      "LiveryZonesSetID": 2147483647,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel1A_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1865,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1384,
+      "CalliperID": 4,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel2B_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1864,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1382,
+      "CalliperID": 4,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel2C_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1864,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1382,
+      "CalliperID": 7,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel1B_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1863,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1381,
+      "CalliperID": 4,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel1A_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1863,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1386,
+      "CalliperID": 3,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel2B_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1862,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1384,
+      "CalliperID": 7,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel2B_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1862,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1384,
+      "CalliperID": 7,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel1B_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1862,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1382,
+      "CalliperID": 4,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel2A_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1861,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1386,
+      "CalliperID": 3,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel2B_3D"
+    },
+    {
+      "gachaLetter": "",
+      "duplicate": 0,
+      "PaintID": 1861,
+      "WrapPaintID": 2147483647,
+      "InteriorID": 1380,
+      "CalliperID": 3,
+      "LiveryZonesSetID": -1,
+      "LiveryID": 2147483647,
+      "WheelBundleName": "Wheel2C_3D"
+    }
+  ],
+  "lockPaintsToIndex": 0
+}
