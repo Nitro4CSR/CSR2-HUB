@@ -1894,5 +1894,21 @@
     "PrizeCar": "Porsche_911Targa4GTSReward_2025",
     "MilestoneCar": "Porsche_911Targa4GTSRewardRecycled_2025",
     "PrestigeCar": "Lamborghini_HuracanSterratoRewardRecycled_2021"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": "",
+    "KnownSeason": "",
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
+  },
+  {
+    "Type": 4,
+    "CodeSeason": "",
+    "KnownSeason": "",
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
   }
 ]
