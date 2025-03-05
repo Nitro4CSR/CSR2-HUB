@@ -21,7 +21,7 @@
   },
   {
     "CarDB": "Lexus_LC500TNR_2018",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 650, "h": 650}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
   },
   {
     "CarDB": "BMW_M4CompetitionG82TNR_2021",
@@ -397,7 +397,7 @@
   },
   {
     "CarDB": "Honda_IndyTruck_2017",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 150, "z": 0, "w": 800, "h": 800}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 150, "z": 0, "w": 750, "h": 750}
   },
   {
     "CarDB": "Hyundai_NVision74Concept_2023",
@@ -433,7 +433,7 @@
   },
   {
     "CarDB": "Lamborghini_SC63LMDH_2024",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 95, "z": 0, "w": 650, "h": 650}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 600, "h": 600}
   },
   {
     "CarDB": "Lamborghini_TerzoMillennio_2017",
