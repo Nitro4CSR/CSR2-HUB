@@ -1,28 +1,28 @@
 [
   {
     "name": "Ѕᴄᴀɴᴛᴇʀ",
-    "LND": "5",
+    "LND": 5,
     "NonStarred": 0,
     "T1": 0,
-    "T2": "8",
-    "T3": "9",
-    "T4": "22",
-    "T5": "101",
-    "Total": "145",
-    "Points": "390",
+    "T2": 8,
+    "T3": 9,
+    "T4": 22,
+    "T5": 101,
+    "Total": 145,
+    "Points": 390,
     "namehex": "#ffffff"
   },
   {
     "name": "eLGeZoOo",
-    "LND": "8",
+    "LND": 8,
     "NonStarred": 0,
     "T1": 1,
     "T2": 3,
-    "T3": "9",
-    "T4": "24",
-    "T5": "67",
-    "Total": "112",
-    "Points": "360",
+    "T3": 9,
+    "T4": 24,
+    "T5": 67,
+    "Total": 112,
+    "Points": 360,
     "namehex": "#ffb300"
   },
   {
@@ -32,23 +32,23 @@
     "T1": 0,
     "T2": 2,
     "T3": 4,
-    "T4": "20",
-    "T5": "77",
-    "Total": "103",
-    "Points": "210",
+    "T4": 20,
+    "T5": 77,
+    "Total": 103,
+    "Points": 210,
     "namehex": "#ffffff"
   },
   {
     "name": "🃏JOKER86",
-    "LND": "7",
+    "LND": 7,
     "NonStarred": 0,
     "T1": 0,
     "T2": 1,
     "T3": 4,
-    "T4": "10",
-    "T5": "36",
-    "Total": "58",
-    "Points": "205",
+    "T4": 10,
+    "T5": 36,
+    "Total": 58,
+    "Points": 205,
     "namehex": "#ff00ff"
   },
   {
@@ -58,10 +58,10 @@
     "T1": 0,
     "T2": 1,
     "T3": 4,
-    "T4": "33",
-    "T5": "21",
-    "Total": "60",
-    "Points": "181",
+    "T4": 33,
+    "T5": 21,
+    "Total": 60,
+    "Points": 181,
     "namehex": "#ffffff"
   },
   {
@@ -71,23 +71,23 @@
     "T1": 0,
     "T2": 0,
     "T3": 0,
-    "T4": "11",
-    "T5": "75",
-    "Total": "86",
-    "Points": "141",
+    "T4": 11,
+    "T5": 75,
+    "Total": 86,
+    "Points": 141,
     "namehex": "#ffffff"
   },
   {
     "name": "BISBIS ☯",
     "LND": 0,
     "NonStarred": 0,
-    "T1": "6",
+    "T1": 6,
     "T2": 4,
-    "T3": "6",
-    "T4": "5",
+    "T3": 6,
+    "T4": 5,
     "T5": 2,
-    "Total": "23",
-    "Points": "129",
+    "Total": 23,
+    "Points": 129,
     "namehex": "#0033cc"
   },
   {
@@ -97,10 +97,10 @@
     "T1": 0,
     "T2": 1,
     "T3": 1,
-    "T4": "10",
-    "T5": "32",
-    "Total": "44",
-    "Points": "89",
+    "T4": 10,
+    "T5": 32,
+    "Total": 44,
+    "Points": 89,
     "namehex": "#ff0000"
   },
   {
@@ -110,10 +110,10 @@
     "T1": 0,
     "T2": 0,
     "T3": 1,
-    "T4": "8",
-    "T5": "12",
-    "Total": "24",
-    "Points": "86",
+    "T4": 8,
+    "T5": 12,
+    "Total": 24,
+    "Points": 86,
     "namehex": "#a61c00"
   },
   {
@@ -123,10 +123,10 @@
     "T1": 1,
     "T2": 1,
     "T3": 2,
-    "T4": "11",
-    "T5": "6",
-    "Total": "21",
-    "Points": "68",
+    "T4": 11,
+    "T5": 6,
+    "Total": 21,
+    "Points": 68,
     "namehex": "#ffffff"
   },
   {
@@ -137,9 +137,9 @@
     "T2": 0,
     "T3": 2,
     "T4": 3,
-    "T5": "30",
-    "Total": "35",
-    "Points": "61",
+    "T5": 30,
+    "Total": 35,
+    "Points": 61,
     "namehex": "#ff01a4"
   },
   {
@@ -151,34 +151,34 @@
     "T3": 4,
     "T4": 1,
     "T5": 2,
-    "Total": "10",
-    "Points": "58",
+    "Total": 10,
+    "Points": 58,
     "namehex": "#ffffff"
   },
   {
     "name": "🏁JacKaroS21🏁🇦🇱",
     "LND": 0,
-    "NonStarred": "5",
+    "NonStarred": 5,
     "T1": 0,
     "T2": 0,
     "T3": 0,
     "T4": 0,
     "T5": 0,
-    "Total": "5",
-    "Points": "55",
+    "Total": 5,
+    "Points": 55,
     "namehex": "#ffffff"
   },
   {
     "name": "GARFIAX🔄~^",
     "LND": 0,
-    "NonStarred": "5",
+    "NonStarred": 5,
     "T1": 0,
     "T2": 0,
     "T3": 0,
     "T4": 0,
     "T5": 0,
-    "Total": "5",
-    "Points": "55",
+    "Total": 5,
+    "Points": 55,
     "namehex": "#ffffff"
   },
   {
@@ -190,8 +190,8 @@
     "T3": 1,
     "T4": 3,
     "T5": 2,
-    "Total": "10",
-    "Points": "46",
+    "Total": 10,
+    "Points": 46,
     "namehex": "#20c102"
   },
   {
@@ -202,9 +202,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 3,
-    "T5": "26",
-    "Total": "29",
-    "Points": "44",
+    "T5": 26,
+    "Total": 29,
+    "Points": 44,
     "namehex": "#ffffff"
   },
   {
@@ -214,10 +214,10 @@
     "T1": 0,
     "T2": 0,
     "T3": 1,
-    "T4": "5",
-    "T5": "13",
-    "Total": "19",
-    "Points": "36",
+    "T4": 5,
+    "T5": 13,
+    "Total": 19,
+    "Points": 36,
     "namehex": "#ffffff"
   },
   {
@@ -228,9 +228,9 @@
     "T2": 0,
     "T3": 4,
     "T4": 3,
-    "T5": "6",
-    "Total": "13",
-    "Points": "35",
+    "T5": 6,
+    "Total": 13,
+    "Points": 35,
     "namehex": "#ffffff"
   },
   {
@@ -243,7 +243,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 3,
-    "Points": "33",
+    "Points": 33,
     "namehex": "#ffffff"
   },
   {
@@ -255,8 +255,8 @@
     "T3": 2,
     "T4": 1,
     "T5": 2,
-    "Total": "6",
-    "Points": "28",
+    "Total": 6,
+    "Points": 28,
     "namehex": "#ffffff"
   },
   {
@@ -267,9 +267,9 @@
     "T2": 0,
     "T3": 1,
     "T4": 3,
-    "T5": "8",
-    "Total": "12",
-    "Points": "25",
+    "T5": 8,
+    "Total": 12,
+    "Points": 25,
     "namehex": "#ffffff"
   },
   {
@@ -282,7 +282,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 2,
-    "Points": "22",
+    "Points": 22,
     "namehex": "#ffffff"
   },
   {
@@ -294,8 +294,8 @@
     "T3": 2,
     "T4": 1,
     "T5": 1,
-    "Total": "5",
-    "Points": "21",
+    "Total": 5,
+    "Points": 21,
     "namehex": "#ffffff"
   },
   {
@@ -306,9 +306,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 2,
-    "T5": "12",
-    "Total": "14",
-    "Points": "21",
+    "T5": 12,
+    "Total": 14,
+    "Points": 21,
     "namehex": "#0093f0"
   },
   {
@@ -321,7 +321,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 2,
-    "Points": "20",
+    "Points": 20,
     "namehex": "#ffffff"
   },
   {
@@ -334,7 +334,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 2,
-    "Points": "20",
+    "Points": 20,
     "namehex": "#ffffff"
   },
   {
@@ -347,7 +347,7 @@
     "T4": 1,
     "T5": 0,
     "Total": 3,
-    "Points": "15",
+    "Points": 15,
     "namehex": "#ffffff"
   },
   {
@@ -358,9 +358,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 1,
-    "T5": "9",
-    "Total": "10",
-    "Points": "15",
+    "T5": 9,
+    "Total": 10,
+    "Points": 15,
     "namehex": "#7030a0"
   },
   {
@@ -371,9 +371,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 1,
-    "T5": "9",
-    "Total": "10",
-    "Points": "15",
+    "T5": 9,
+    "Total": 10,
+    "Points": 15,
     "namehex": "#974806"
   },
   {
@@ -386,7 +386,7 @@
     "T4": 0,
     "T5": 1,
     "Total": 3,
-    "Points": "15",
+    "Points": 15,
     "namehex": "#ffffff"
   },
   {
@@ -399,7 +399,7 @@
     "T4": 0,
     "T5": 1,
     "Total": 2,
-    "Points": "14",
+    "Points": 14,
     "namehex": "#ffffff"
   },
   {
@@ -410,9 +410,9 @@
     "T2": 0,
     "T3": 1,
     "T4": 1,
-    "T5": "5",
-    "Total": "7",
-    "Points": "13",
+    "T5": 5,
+    "Total": 7,
+    "Points": 13,
     "namehex": "#ffffff"
   },
   {
@@ -425,7 +425,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "11",
+    "Points": 11,
     "namehex": "#ffffff"
   },
   {
@@ -438,7 +438,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "11",
+    "Points": 11,
     "namehex": "#ffffff"
   },
   {
@@ -451,7 +451,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 2,
-    "Points": "10",
+    "Points": 10,
     "namehex": "#ffffff"
   },
   {
@@ -463,8 +463,8 @@
     "T3": 0,
     "T4": 2,
     "T5": 4,
-    "Total": "6",
-    "Points": "10",
+    "Total": 6,
+    "Points": 10,
     "namehex": "#ffffff"
   },
   {
@@ -477,7 +477,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "9",
+    "Points": 9,
     "namehex": "#ffffff"
   },
   {
@@ -489,8 +489,8 @@
     "T3": 0,
     "T4": 2,
     "T5": 3,
-    "Total": "5",
-    "Points": "9",
+    "Total": 5,
+    "Points": 9,
     "namehex": "#ffffff"
   },
   {
@@ -503,7 +503,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "9",
+    "Points": 9,
     "namehex": "#ffffff"
   },
   {
@@ -516,7 +516,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "9",
+    "Points": 9,
     "namehex": "#ffffff"
   },
   {
@@ -529,7 +529,7 @@
     "T4": 1,
     "T5": 1,
     "Total": 3,
-    "Points": "9",
+    "Points": 9,
     "namehex": "#ffffff"
   },
   {
@@ -542,7 +542,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "9",
+    "Points": 9,
     "namehex": "#ffffff"
   },
   {
@@ -554,8 +554,8 @@
     "T3": 0,
     "T4": 2,
     "T5": 3,
-    "Total": "5",
-    "Points": "9",
+    "Total": 5,
+    "Points": 9,
     "namehex": "#ffffff"
   },
   {
@@ -568,7 +568,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "7",
+    "Points": 7,
     "namehex": "#ffffff"
   },
   {
@@ -581,7 +581,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "7",
+    "Points": 7,
     "namehex": "#ffffff"
   },
   {
@@ -594,7 +594,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "7",
+    "Points": 7,
     "namehex": "#ffffff"
   },
   {
@@ -606,8 +606,8 @@
     "T3": 0,
     "T4": 1,
     "T5": 4,
-    "Total": "5",
-    "Points": "7",
+    "Total": 5,
+    "Points": 7,
     "namehex": "#ffffff"
   },
   {
@@ -618,9 +618,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 0,
-    "T5": "6",
-    "Total": "6",
-    "Points": "6",
+    "T5": 6,
+    "Total": 6,
+    "Points": 6,
     "namehex": "#ffffff"
   },
   {
@@ -633,7 +633,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "5",
+    "Points": 5,
     "namehex": "#ffffff"
   },
   {
@@ -646,7 +646,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "5",
+    "Points": 5,
     "namehex": "#ffffff"
   },
   {
@@ -657,9 +657,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 0,
-    "T5": "5",
-    "Total": "5",
-    "Points": "5",
+    "T5": 5,
+    "Total": 5,
+    "Points": 5,
     "namehex": "#ffffff"
   },
   {
@@ -672,7 +672,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "5",
+    "Points": 5,
     "namehex": "#ffffff"
   },
   {
@@ -685,7 +685,7 @@
     "T4": 0,
     "T5": 0,
     "Total": 1,
-    "Points": "5",
+    "Points": 5,
     "namehex": "#ffffff"
   },
   {
