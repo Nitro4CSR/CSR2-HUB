@@ -630,5 +630,17 @@
   {
     "CarDB": "BTTF_TimeMachine1_1985",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Radford_Type62PikesPeak_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ford_EscortRSCosworthCossieV2_1994",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Porsche_917K_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 600, "h": 600}
   }
 ]
