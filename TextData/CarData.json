@@ -11358,11 +11358,11 @@
   {
     "DBName": "Ford_EscortRSCosworthCossieV2_1994",
     "Vision": "Added into the game in OTA1 Update 5.6.0 and released in Season 228 (March 23, 2025 -April 7, 2025) as a Gift (Free) car part of the Ken Block 4/3 Day and Tire Shredder events.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=VpFSIBaBKDw",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.829,
     "WRdyno": 7.003,
     "WRpp": "713",
     "WRevo": 2443,
