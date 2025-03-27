@@ -202,9 +202,22 @@
     "T2": 0,
     "T3": 0,
     "T4": 3,
-    "T5": 26,
-    "Total": 29,
-    "Points": 44,
+    "T5": 27,
+    "Total": 30,
+    "Points": 45,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "BioFace",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 3,
+    "T5": 27,
+    "Total": 30,
+    "Points": 45,
     "namehex": "#ffffff"
   },
   {
@@ -417,19 +430,6 @@
   },
   {
     "name": "Kubbo🔄W/L🔄Droid",
-    "LND": 0,
-    "NonStarred": 1,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 0,
-    "Total": 1,
-    "Points": 11,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "RussianCzar01🍎🔄",
     "LND": 0,
     "NonStarred": 1,
     "T1": 0,
@@ -1674,6 +1674,19 @@
     "T5": 1,
     "Total": 1,
     "Points": 1,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "RussianCzar01🍎🔄",
+    "LND": "",
+    "NonStarred": "",
+    "T1": "",
+    "T2": "",
+    "T3": "",
+    "T4": "",
+    "T5": "",
+    "Total": "",
+    "Points": "",
     "namehex": "#ffffff"
   }
 ]
