@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.Documentation export-ignore
+Localisation/** export-ignore
+README.md export-ignore
