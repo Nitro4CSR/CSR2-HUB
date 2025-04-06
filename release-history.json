@@ -2,7 +2,7 @@
     {
         "version": "0.9.2",
         "info": "- added offline support\n- GitBox updating\n- autoshow bug fixes & optimization\n- worldrecords bug fixes & optimization\n- added info section and pin\n- added checking for application updates\n- added exit pin\n- another bug fixes",
-        "action": "https://github.com/Nitro4CSR/CSR2-HUB",
+        "action": "NONE",
 		"date": "07/04/25"
     },
 	{
