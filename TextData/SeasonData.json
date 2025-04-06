@@ -1883,24 +1883,24 @@
     "Type": 4,
     "CodeSeason": 236,
     "KnownSeason": 228,
-    "PrizeCar": "",
-    "MilestoneCar": "",
-    "PrestigeCar": ""
-  },
-  {
-    "Type": 4,
-    "CodeSeason": 237,
-    "KnownSeason": 229,
     "PrizeCar": "Porsche_911Targa4GTSReward_2025",
     "MilestoneCar": "Porsche_911Targa4GTSRewardRecycled_2025",
     "PrestigeCar": "Lamborghini_HuracanSterratoRewardRecycled_2021"
   },
   {
     "Type": 4,
-    "CodeSeason": 238,
-    "KnownSeason": 230,
+    "CodeSeason": 237,
+    "KnownSeason": 229,
     "PrizeCar": "Shelby_SuperSnakeS650Reward_2024",
     "MilestoneCar": "Shelby_SuperSnakeS650RewardRecycled_2024",
     "PrestigeCar": "BMW_M5CompetitionRewardRecycled_2019"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 238,
+    "KnownSeason": 230,
+    "PrizeCar": "Bugatti_W16MistralReward_2023",
+    "MilestoneCar": "Bugatti_W16MistralRewardRecycled_2023",
+    "PrestigeCar": ""
   }
 ]
