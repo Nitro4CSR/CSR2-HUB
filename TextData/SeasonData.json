@@ -1883,9 +1883,9 @@
     "Type": 4,
     "CodeSeason": 236,
     "KnownSeason": 228,
-    "PrizeCar": "Shelby_SuperSnakeS650Reward_2024",
-    "MilestoneCar": "Shelby_SuperSnakeS650RewardRecycled_2024",
-    "PrestigeCar": "BMW_M5CompetitionRewardRecycled_2019"
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
   },
   {
     "Type": 4,
@@ -1897,10 +1897,10 @@
   },
   {
     "Type": 4,
-    "CodeSeason": 237,
-    "KnownSeason": 229,
-    "PrizeCar": "",
-    "MilestoneCar": "",
-    "PrestigeCar": ""
+    "CodeSeason": 238,
+    "KnownSeason": 230,
+    "PrizeCar": "Shelby_SuperSnakeS650Reward_2024",
+    "MilestoneCar": "Shelby_SuperSnakeS650RewardRecycled_2024",
+    "PrestigeCar": "BMW_M5CompetitionRewardRecycled_2019"
   }
 ]
