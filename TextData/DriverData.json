@@ -33,9 +33,9 @@
     "T2": 2,
     "T3": 4,
     "T4": 20,
-    "T5": 78,
-    "Total": 104,
-    "Points": 211,
+    "T5": 77,
+    "Total": 103,
+    "Points": 210,
     "namehex": "#ffffff"
   },
   {
@@ -46,9 +46,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 11,
-    "T5": 77,
-    "Total": 88,
-    "Points": 146,
+    "T5": 76,
+    "Total": 87,
+    "Points": 142,
     "namehex": "#ffffff"
   },
   {
@@ -111,9 +111,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 3,
-    "T5": 27,
-    "Total": 30,
-    "Points": 45,
+    "T5": 28,
+    "Total": 31,
+    "Points": 49,
     "namehex": "#ffffff"
   },
   {
@@ -124,9 +124,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 3,
-    "T5": 27,
-    "Total": 30,
-    "Points": 45,
+    "T5": 28,
+    "Total": 31,
+    "Points": 49,
     "namehex": "#ffffff"
   },
   {
@@ -572,6 +572,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "IL NOOB",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 1,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 1,
+    "Total": 2,
+    "Points": 10,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "₦Ø₦₦Ø ₦λ₦₦ł™",
     "LND": 0,
     "NonStarred": 0,
@@ -699,19 +712,6 @@
     "T5": 0,
     "Total": 1,
     "Points": 11,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "IL NOOB",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 1,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 0,
-    "Total": 1,
-    "Points": 9,
     "namehex": "#ffffff"
   },
   {
