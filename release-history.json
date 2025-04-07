@@ -1,8 +1,14 @@
 [   
     {
+        "version": "0.9.5",
+        "info": "- added exception of errors when the gacha is missing\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1g4vr_D48HHyEWbdvDa4Q6TqR0GzkgIh3/view?usp=sharing",
+		"date": "07/04/25"
+    },
+    {
         "version": "0.9.4",
         "info": "- added exception of errors when the car is unknown\n- memory leaks fixes\n- added scrollbar for autoshow\n- other minor changes",
-        "action": "https://drive.google.com/file/d/1kZlt8ucE79vB2tzxRr0yNEiZ3oFTwQG-/view?usp=sharing",
+        "action": "NONE",
 		"date": "07/04/25"
     },
     {
