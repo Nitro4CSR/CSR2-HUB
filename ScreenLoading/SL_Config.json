@@ -159,5 +159,37 @@
         "art_id": 39,
         "art_y_offset": -75,
         "mus_id": 0
+    }, {
+        "art_id": 40,
+        "art_y_offset": 25,
+        "mus_id": 0
+    }, {
+        "art_id": 41,
+        "art_y_offset": 25,
+        "mus_id": 0
+    }, {
+        "art_id": 42,
+        "art_y_offset": -35,
+        "mus_id": 2
+    }, {
+        "art_id": 43,
+        "art_y_offset": -50,
+        "mus_id": 0
+    }, {
+        "art_id": 44,
+        "art_y_offset": -70,
+        "mus_id": 0
+    }, {
+        "art_id": 45,
+        "art_y_offset": -40,
+        "mus_id": 1
+    }, {
+        "art_id": 46,
+        "art_y_offset": -40,
+        "mus_id": 1
+    }, {
+        "art_id": 47,
+        "art_y_offset": -50,
+        "mus_id": 0
     }
 ]
