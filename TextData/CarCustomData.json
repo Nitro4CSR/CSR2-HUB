@@ -641,6 +641,14 @@
   },
   {
     "CarDB": "Porsche_917K_1970",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 600, "h": 600}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Dodge_ChargerDaytonaScatPack_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 85, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Porsche_962C_1987",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 650, "h": 650}
   }
 ]
