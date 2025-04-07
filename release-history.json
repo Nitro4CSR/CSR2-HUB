@@ -1,19 +1,25 @@
 [   
     {
+        "version": "0.9.4",
+        "info": "- added exception of errors when the car is unknown\n- memory leaks fixes\n- added scrollbar for autoshow\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1kZlt8ucE79vB2tzxRr0yNEiZ3oFTwQG-/view?usp=sharing",
+		"date": "07/04/25"
+    },
+    {
         "version": "0.9.3",
-        "info": "- bug fixes",
-        "action": "https://drive.google.com/file/d/1txqSPW6PZTc0fQ0Hp5oUOIdDSEAmxxRI/view?usp=sharing",
+        "info": "- bug fixes\n- other minor changes",
+        "action": "NONE",
 		"date": "07/04/25"
     },
     {
         "version": "0.9.2",
         "info": "- added offline support\n- GitBox updating\n- autoshow bug fixes & optimization\n- worldrecords bug fixes & optimization\n- added info section and pin\n- added checking for application updates\n- added exit pin\n- bug fixes",
         "action": "NONE",
-		"date": "07/04/25"
+		"date": "06/04/25"
     },
 	{
         "version": "0.9.1",
-        "info": "- bug fixes\n- added fps and memory counter\n- bug fixes",
+        "info": "- bug fixes\n- added fps and memory counter\n- other minor changes",
         "action": "NONE",
 		"date": "04/04/25"
     },
