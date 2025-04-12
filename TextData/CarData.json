@@ -9063,11 +9063,11 @@
   {
     "DBName": "Chevrolet_CorvetteC8ZR1_2024",
     "Vision": "Added into the game in OTA1 Update 5.6.0 and released in Season 230 (April 11, 2025 - April 18, 2025) as a prize car in the The Heartbeat of America event.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=D-dST2yWygU",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.854,
     "WRdyno": 6.98,
     "WRpp": "713",
     "WRevo": 2470,
