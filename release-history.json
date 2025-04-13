@@ -1,8 +1,14 @@
 [   
     {
+        "version": "0.9.6",
+        "info": "- bug fixes\n-added graphics settings\n-added FPS limiter\n-added localisation switch\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1G7is_9TS4kAfpon-9M1csndiSX04EsBc/view?usp=sharing",
+		"date": "13/04/25"
+    },
+    {
         "version": "0.9.5",
         "info": "- added exception of errors when the gacha is missing\n- other minor changes",
-        "action": "https://drive.google.com/file/d/1g4vr_D48HHyEWbdvDa4Q6TqR0GzkgIh3/view?usp=sharing",
+        "action": "NONE",
 		"date": "07/04/25"
     },
     {
