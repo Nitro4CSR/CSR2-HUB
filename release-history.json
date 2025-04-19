@@ -1,8 +1,14 @@
 [   
+	{
+        "version": "0.9.7",
+        "info": "- bug fixes\n-added user agreement\n- other minor changes",
+        "action": "https://drive.google.com/file/d/15Lk7pMwDAtcagvOb0jmPrHpNKprV5Jf2/view?usp=sharing",
+		"date": "19/04/25"
+    },
     {
         "version": "0.9.6",
         "info": "- bug fixes\n-added graphics settings\n-added FPS limiter\n-added localisation switch\n- other minor changes",
-        "action": "https://drive.google.com/file/d/1G7is_9TS4kAfpon-9M1csndiSX04EsBc/view?usp=sharing",
+        "action": "NONE",
 		"date": "13/04/25"
     },
     {
