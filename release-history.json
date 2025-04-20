@@ -1,13 +1,19 @@
 [   
 	{
+        "version": "1.0.0",
+        "info": "- world release!\n- updated graphic settings\n- added Polish language\n- bug fixes\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1W89hVI6AtpBThLNIQ3b0GqgutKMZX4pk/view?usp=sharing",
+		"date": "20/04/25"
+    },
+	{
         "version": "0.9.7",
-        "info": "- bug fixes\n-added user agreement\n- other minor changes",
-        "action": "https://drive.google.com/file/d/15Lk7pMwDAtcagvOb0jmPrHpNKprV5Jf2/view?usp=sharing",
+        "info": "- bug fixes\n- added user agreement\n- other minor changes",
+        "action": "",
 		"date": "19/04/25"
     },
     {
         "version": "0.9.6",
-        "info": "- bug fixes\n-added graphics settings\n-added FPS limiter\n-added localisation switch\n- other minor changes",
+        "info": "- bug fixes\n- added graphics settings\n- added FPS limiter\n- added localisation switch\n- other minor changes",
         "action": "NONE",
 		"date": "13/04/25"
     },
