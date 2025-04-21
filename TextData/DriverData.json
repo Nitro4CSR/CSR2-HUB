@@ -104,19 +104,6 @@
     "namehex": "#ff01a4"
   },
   {
-    "name": "Bioface",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 3,
-    "T5": 28,
-    "Total": 31,
-    "Points": 49,
-    "namehex": "#ffffff"
-  },
-  {
     "name": "BioFace",
     "LND": 0,
     "NonStarred": 0,
@@ -140,7 +127,7 @@
     "T5": 12,
     "Total": 24,
     "Points": 86,
-    "namehex": "#a61c00"
+    "namehex": "#ffffff"
   },
   {
     "name": "BISBIS ☯",
@@ -153,7 +140,7 @@
     "T5": 2,
     "Total": 23,
     "Points": 129,
-    "namehex": "#0033cc"
+    "namehex": "#a61c00"
   },
   {
     "name": "иєχтєяα",
@@ -166,7 +153,7 @@
     "T5": 6,
     "Total": 21,
     "Points": 68,
-    "namehex": "#ffffff"
+    "namehex": "#0033cc"
   },
   {
     "name": "ꀤ rꀡひʍ ʍ▲n",
@@ -192,7 +179,7 @@
     "T5": 12,
     "Total": 14,
     "Points": 21,
-    "namehex": "#0093f0"
+    "namehex": "#ffffff"
   },
   {
     "name": "☆ Fαταℓ",
@@ -205,7 +192,7 @@
     "T5": 6,
     "Total": 13,
     "Points": 35,
-    "namehex": "#ffffff"
+    "namehex": "#0093f0"
   },
   {
     "name": "疯狂的卡拉恰",
@@ -244,7 +231,7 @@
     "T5": 2,
     "Total": 10,
     "Points": 46,
-    "namehex": "#20c102"
+    "namehex": "#ffffff"
   },
   {
     "name": "ˢᶰᵖᶰᏕᎮᎥᏋᏝ",
@@ -257,7 +244,7 @@
     "T5": 9,
     "Total": 10,
     "Points": 15,
-    "namehex": "#7030a0"
+    "namehex": "#20c102"
   },
   {
     "name": "The Bear 🐻",
@@ -270,7 +257,7 @@
     "T5": 9,
     "Total": 10,
     "Points": 15,
-    "namehex": "#974806"
+    "namehex": "#7030a0"
   },
   {
     "name": "GR-Phantom",
@@ -283,7 +270,7 @@
     "T5": 5,
     "Total": 7,
     "Points": 13,
-    "namehex": "#ffffff"
+    "namehex": "#974806"
   },
   {
     "name": "sǝpɐlqメ逆刄",
@@ -920,7 +907,7 @@
     "T5": 0,
     "Total": 1,
     "Points": 3,
-    "namehex": "#7030a0"
+    "namehex": "#ffffff"
   },
   {
     "name": "Sαℓσ-Ƭitoun€",
@@ -933,7 +920,7 @@
     "T5": 0,
     "Total": 1,
     "Points": 3,
-    "namehex": "#ffffff"
+    "namehex": "#7030a0"
   },
   {
     "name": "ҜṠxＣＨＲ◎Ｎ◎Ｓ",
