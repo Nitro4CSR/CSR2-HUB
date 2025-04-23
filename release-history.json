@@ -1,8 +1,14 @@
 [   
 	{
+        "version": "1.0.1",
+        "info": "- fix memory leaks\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1SEDWBoJF2zFsJy3RpNZSUh_phsR27I1A/view?usp=sharing",
+		"date": "23/04/25"
+    },
+	{
         "version": "1.0.0",
         "info": "- world release!\n- updated graphic settings\n- added Polish language\n- bug fixes\n- other minor changes",
-        "action": "https://drive.google.com/file/d/1W89hVI6AtpBThLNIQ3b0GqgutKMZX4pk/view?usp=sharing",
+        "action": "",
 		"date": "20/04/25"
     },
 	{
