@@ -1910,13 +1910,5 @@
     "PrizeCar": "AstonMartin_V12VantageRReward_2023",
     "MilestoneCar": "AstonMartin_V12VantageRRewardRecycled_2023",
     "PrestigeCar": "Chevrolet_CamaroZ28ASC_2015"
-  },
-  {
-    "Type": 4,
-    "CodeSeason": 240,
-    "KnownSeason": 232,
-    "PrizeCar": "",
-    "MilestoneCar": "",
-    "PrestigeCar": ""
   }
 ]
