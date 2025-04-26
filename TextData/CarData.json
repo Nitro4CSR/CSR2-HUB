@@ -19616,39 +19616,5 @@
     "WRTIRE": "0/0",
     "Star": "P.P.P.P.P",
     "isEV": 0
-  },
-  {
-    "DBName": "McLaren_W1_2025",
-    "Vision": "",
-    "SHIFT": "",
-    "Tier": 4,
-    "WRAddon": "Maxed Out",
-    "WRDriver": "",
-    "WRBest": "0.000",
-    "WRdyno": "0.000",
-    "WRpp": "0",
-    "WRevo": "0",
-    "WRFD": "0.00",
-    "WRNITRO": "0/0.0",
-    "WRTIRE": "0/0",
-    "Star": "P.P.P.P.P",
-    "isEV": 0
-  },
-  {
-    "DBName": "Chevrolet_CamaroFBombF4_1973",
-    "Vision": "",
-    "SHIFT": "",
-    "Tier": 4,
-    "WRAddon": "Maxed Out",
-    "WRDriver": "",
-    "WRBest": "0.000",
-    "WRdyno": "0.000",
-    "WRpp": "0",
-    "WRevo": "0",
-    "WRFD": "0.00",
-    "WRNITRO": "0/0.0",
-    "WRTIRE": "0/0",
-    "Star": "P.P.P.P.P",
-    "isEV": 0
   }
 ]
