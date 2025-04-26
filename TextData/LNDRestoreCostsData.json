@@ -156,6 +156,18 @@
     "PAINT4": 7800
   },
   {
+    "DBName": "Ford_GT40MkII_1966",
+    "WHEELS": 2600,
+    "ENGINE1": 7000,
+    "ENGINE2": 0,
+    "INTERIOR1": 10600,
+    "INTERIOR2": 0,
+    "PAINT1": 2800,
+    "PAINT2": 3600,
+    "PAINT3": 4200,
+    "PAINT4": 4800
+  },
+  {
     "DBName": "Ford_MustangShelbyGT350LPClassic_1965",
     "WHEELS": 0,
     "ENGINE1": 0,
