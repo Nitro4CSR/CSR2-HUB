@@ -14849,8 +14849,8 @@
   },
   {
     "DBName": "Nissan_KRCJapanGTRR35Reward_2017",
-    "S5-PP": "0",
-    "S5EVO": "0",
+    "S5-PP": 699,
+    "S5EVO": 2258,
     "S5FD": "2.00",
     "S5NITRO": "119/2.8",
     "S5TIRE": "0/100",
