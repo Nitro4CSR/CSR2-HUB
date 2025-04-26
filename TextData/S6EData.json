@@ -14865,8 +14865,8 @@
   },
   {
     "DBName": "Nissan_LBSuperSilhouetteSilviaS15_1999",
-    "S5-PP": "0",
-    "S5EVO": "0",
+    "S5-PP": 698,
+    "S5EVO": 1726,
     "S5FD": "2.43",
     "S5NITRO": "150/2.0",
     "S5TIRE": "0/100",
