@@ -19684,5 +19684,22 @@
     "WRTIRE": "1/99",
     "Star": "P.P.P.P.P",
     "isEV": 0
+  },
+  {
+    "DBName": "Shelby_CobraDaytonaLP_1964_EC",
+    "Vision": "",
+    "SHIFT": "",
+    "Tier": 4,
+    "WRAddon": "Maxed Out",
+    "WRDriver": "",
+    "WRBest": "0.000",
+    "WRdyno": 6.622,
+    "WRpp": "713",
+    "WRevo": 2631,
+    "WRFD": "2.00",
+    "WRNITRO": "188/4.0",
+    "WRTIRE": "1/99",
+    "Star": "P.P.P.P.P",
+    "isEV": 0
   }
 ]
