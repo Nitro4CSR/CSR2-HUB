@@ -170,9 +170,9 @@
   {
     "DBName": "Ford_MustangShelbyGT350LPClassic_1965",
     "WHEELS": 4000,
-    "ENGINE1": 0,
+    "ENGINE1": 8000,
     "ENGINE2": 0,
-    "INTERIOR1": 0,
+    "INTERIOR1": 15000,
     "INTERIOR2": 0,
     "PAINT1": 0,
     "PAINT2": 0,
