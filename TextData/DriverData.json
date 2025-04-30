@@ -299,6 +299,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "ৡ ͜͡LAVEGA⇅",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 1,
+    "T5": 5,
+    "Total": 6,
+    "Points": 8,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "ST.ANGER",
     "LND": 0,
     "NonStarred": 0,
@@ -374,19 +387,6 @@
     "T5": 3,
     "Total": 5,
     "Points": 9,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "ৡ ͜͡LAVEGA⇅",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 1,
-    "T5": 4,
-    "Total": 5,
-    "Points": 7,
     "namehex": "#ffffff"
   },
   {
