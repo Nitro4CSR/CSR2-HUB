@@ -1,5 +1,5 @@
 { 
-  "LEGENDS": [
+  "LEGENDS": {
 	"season0": {
 	  "PRIZE": "McLaren_F1_1993",
 	  "CARS": [
@@ -31,8 +31,8 @@
 		"MYSTERY"
 	  ]
 	}
-  ],
-  "ELITES": [
+  },
+  "ELITES": {
     "IconicCars_V1": {
 	  "PRIZE": "Ford_GT40MkII1_1966",
 	  "CARS": [
@@ -66,5 +66,5 @@
 		"Lamborghini_MiuraSVLPClassic_1971"
 	  ]
 	}
-  ]
+  }
 }
