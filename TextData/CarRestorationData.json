@@ -1,0 +1,178 @@
+[
+  "AstonMartin_DB5Classic_1964": {
+    "WHEELS1": [1200, 6],
+    "ENGINE1": [3400, 20],
+    "ENGINE2": null,
+    "INTERIOR1": [5200, 30],
+    "INTERIOR2": null,
+    "PAINT1": [1400, 8],
+    "PAINT2": [1800, 10],
+    "PAINT3": [2000, 12],
+    "PAINT4": [2400, 14]
+  },
+  "Ferrari_250GTOClassic_1962": {
+    "WHEELS1": [1000, 6],
+    "ENGINE1": [2800, 20],
+    "ENGINE2": null,
+    "INTERIOR1": [2000, 13],
+    "INTERIOR2": [2400, 17],
+    "PAINT1": [1800, 12],
+    "PAINT2": [2200, 15],
+    "PAINT3": [2600, 17],
+    "PAINT4": null
+  },
+  "MercedesBenz_300SLClassic_1954": {
+    "WHEELS1": [1200, 6],
+    "ENGINE1": [3400, 20],
+    "ENGINE2": null,
+    "INTERIOR1": [5200, 30],
+    "INTERIOR2": null,
+    "PAINT1": [1400, 8],
+    "PAINT2": [1800, 10],
+    "PAINT3": [2000, 12],
+    "PAINT4": [2400, 14]
+  },
+  "Chevrolet_CorvetteZR1Classic_1970": {
+    "WHEELS1": [1800, 6],
+    "ENGINE1": [5200, 20],
+    "ENGINE2": null,
+    "INTERIOR1": [7600, 30],
+    "INTERIOR2": null,
+    "PAINT1": [2000, 8],
+    "PAINT2": [2600, 10],
+    "PAINT3": [3000, 12],
+    "PAINT4": [3600, 14]
+  },
+  "Pontiac_GTOTheJudgeClassic_1969": {
+    "WHEELS1": [2200, 6],
+    "ENGINE1": [5800, 20],
+    "ENGINE2": null,
+    "INTERIOR1": [8800, 30],
+    "INTERIOR2": null,
+    "PAINT1": [2400, 8],
+    "PAINT2": [3000, 10],
+    "PAINT3": [3400, 12],
+    "PAINT4": [4000, 14]
+  },
+  "Shelby_Cobra427SCClassic_1965": {
+    "WHEELS1": [1800, 6],
+    "ENGINE1": [2400, 8],
+    "ENGINE2": [2800, 12],
+    "INTERIOR1": [7600, 30],
+    "INTERIOR2": null,
+    "PAINT1": [3000, 12],
+    "PAINT2": [3800, 15],
+    "PAINT3": [4400, 17],
+    "PAINT4": null
+  },
+  "Honda_NSXRClassic_1992": {
+    "WHEELS1": [2600, 6],
+    "ENGINE1": [3200, 8],
+    "ENGINE2": [4000, 12],
+    "INTERIOR1": [10600, 30],
+    "INTERIOR2": null,
+    "PAINT1": [4200, 12],
+    "PAINT2": [5200, 15],
+    "PAINT3": [6200, 17],
+    "PAINT4": null
+  },
+  "Lamborghini_CountachClassic_1988": {
+    "WHEELS1": [2800, 6],
+    "ENGINE1": [3600, 8],
+    "ENGINE2": [4600, 12],
+    "INTERIOR1": [12000, 30],
+    "INTERIOR2": null,
+    "PAINT1": [4600, 12],
+    "PAINT2": [5800, 15],
+    "PAINT3": [7000, 17],
+    "PAINT4": null
+  },
+  "Plymouth_HemiCudaClassic_1971": {
+    "WHEELS1": [2800, 6],
+    "ENGINE1": [3400, 8],
+    "ENGINE2": [4200, 12],
+    "INTERIOR1": [11400, 30],
+    "INTERIOR2": null,
+    "PAINT1": [4400, 12],
+    "PAINT2": [5400, 15],
+    "PAINT3": [6600, 17],
+    "PAINT4": null
+  },
+  "Bugatti_EB110SSClassic_1992": {
+    "WHEELS1": [3600, 6],
+    "ENGINE1": [4400, 8],
+    "ENGINE2": [5600, 12],
+    "INTERIOR1": [14800, 30],
+    "INTERIOR2": null,
+    "PAINT1": [5800, 12],
+    "PAINT2": [7200, 15],
+    "PAINT3": [8600, 17],
+    "PAINT4": null
+  },
+  "Jaguar_XJ220Classic_1993": {
+    "WHEELS1": [3800, 6],
+    "ENGINE1": [4800, 8],
+    "ENGINE2": [6000, 12],
+    "INTERIOR1": [15800, 30],
+    "INTERIOR2": null,
+    "PAINT1": [6200, 12],
+    "PAINT2": [7600, 15],
+    "PAINT3": [9200, 17],
+    "PAINT4": null
+  },
+  "Porsche_CarreraGTClassic_2003": {
+    "WHEELS1": [3600, 6],
+    "ENGINE1": [4400, 8],
+    "ENGINE2": [5600, 12],
+    "INTERIOR1": [14800, 30],
+    "INTERIOR2": null,
+    "PAINT1": [5800, 12],
+    "PAINT2": [7200, 15],
+    "PAINT3": [8600, 17],
+    "PAINT4": null
+  },
+  "Saleen_S7Classic_2004": {
+    "WHEELS1": [4000, 6],
+    "ENGINE1": [11200, 20],
+    "ENGINE2": null,
+    "INTERIOR1": [16800, 30],
+    "INTERIOR2": null,
+    "PAINT1": [4400, 8],
+    "PAINT2": [5600, 10],
+    "PAINT3": [6600, 12],
+    "PAINT4": [7800, 14],
+  },
+  "Ford_GT40MkII_1966": {
+    "WHEELS1": [2600, 6],
+    "ENGINE1": [7000, 20],
+    "ENGINE2": null,
+    "INTERIOR1": [10600, 30],
+    "INTERIOR2": null,
+    "PAINT1": [2800, 8],
+    "PAINT2": [3600, 10],
+    "PAINT3": [4200, 12],
+    "PAINT4": [4800, 14]
+  },
+  "Ford_MustangShelbyGT350LPClassic_1965": {
+    "WHEELS1": [4000, 7],
+    "ENGINE1": [8000, 15],
+    "ENGINE2": null,
+    "INTERIOR1": [15000, 27],
+    "INTERIOR2": null,
+    "PAINT1": [9000, 16],
+    "PAINT2": [20000, 35],
+    "PAINT3": null,
+    "PAINT4": null
+  },
+  "Lamborghini_MiuraSVLPClassic_1971": {
+    "WHEELS1": [4000, 7],
+    "ENGINE1": [10000, 15],
+    "ENGINE2": null,
+    "INTERIOR1": [17000, 27],
+    "INTERIOR2": null,
+    "PAINT1": [9000, 16],
+    "PAINT2": [24000, 35],
+    "PAINT3": null,
+    "PAINT4": null
+  }
+]

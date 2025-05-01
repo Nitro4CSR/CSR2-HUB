@@ -1,0 +1,70 @@
+{ 
+  "LEGENDS": [
+	"season0": {
+	  "PRIZE": "McLaren_F1_1993",
+	  "CARS": [
+		"AstonMartin_DB5Classic_1964",
+		"Bugatti_EB110SSClassic_1992",
+		"Chevrolet_CorvetteZR1Classic_1970",
+		"Ferrari_250GTOClassic_1962",
+		"Ford_GT40MkII_1966",
+		"Honda_NSXRClassic_1992",
+		"Jaguar_XJ220Classic_1993",
+		"Lamborghini_CountachClassic_1988",
+		"MercedesBenz_300SLClassic_1954",
+		"Plymouth_HemiCudaClassic_1971",
+		"Pontiac_GTOTheJudgeClassic_1969",
+		"Porsche_CarreraGTClassic_2003",
+		"Saleen_S7Classic_2004",
+		"Shelby_Cobra427SCClassic_1965"
+	  ]
+	},
+	"season1": {
+	  "PRIZE": "Shelby_CobraDaytonaLP_1964",
+	  "CARS": [
+		"Ford_MustangShelbyGT350LPClassic_1965",
+		"Lamborghini_MiuraSVLPClassic_1971",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY"
+	  ]
+	}
+  ],
+  "ELITES": [
+    "IconicCars_V1": {
+	  "PRIZE": "Ford_GT40MkII1_1966",
+	  "CARS": [
+		"Ford_Mustang302_1970",
+		"Ford_GT40MkII_1966",
+		"Saleen_S7Classic_2004",
+		"Jaguar_XJ220Classic_1993",
+		"AstonMartin_DB5Classic_1964",
+		"Plymouth_HemiCudaClassic_1971",
+		"Ferrari_250GTOClassic_1962",
+		"Pontiac_GTOTheJudgeClassic_1969"
+	  ]
+	},
+	"IconicCars_V2": {
+	  "PRIZE": "McLaren_F1LM_1995",
+	  "CARS": [
+		"Porsche_CarreraGTClassic_2003",
+		"Bugatti_EB110SSClassic_1992",
+		"Lamborghini_CountachClassic_1988",
+		"Honda_NSXRClassic_1992",
+		"Chevrolet_CorvetteZR1Classic_1970",
+		"Shelby_Cobra427SCClassic_1965",
+		"MercedesBenz_300SLClassic_1954",
+		"McLaren_F1_1993"
+	  ]
+	},
+	"LegendsRevival": {
+	  "PRIZE": null,
+	  "CARS": [
+		"Ford_MustangShelbyGT350LPClassic_1965",
+		"Lamborghini_MiuraSVLPClassic_1971"
+	  ]
+	}
+  ]
+}
