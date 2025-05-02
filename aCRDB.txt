@@ -1078,4 +1078,3 @@ Zenvo_TSRGTRewardRecycled_2023
 Zenvo_TSRS_2019
 Zenvo_TSRS_2020
 Zenvo_TSRSGold_2020
-Zenvo_TSRSGold_2021
