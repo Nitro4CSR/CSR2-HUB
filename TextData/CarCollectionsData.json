@@ -59,6 +59,58 @@
 		"McLaren_F1_1993"
 	  ]
 	},
+	"Americana_V1": {
+	  "PRIZE": "Ford_MustangRTRSPEC5_2019",
+	  "CARS": [
+		"Ford_F150SVTRaptor_2014",
+		"Jeep_GrandCherokeeTrackhawk_2018",
+		"LocalMotor_RallyFighter_2013",
+		"Ford_MustangGTPremium_2015",
+		"Dodge_ChallengerSRTHellcat_2015",
+		"Chevrolet_CamaroSS_2016",
+		"Chevrolet_CorvetteC8RewardRecycled_2020",
+		"Shelby_SuperSnakeRewardRecycled_2019",
+		"Cadillac_CTSVRewardRecycled_2017",
+		"Dodge_ViperGTS_2015"
+	  ]
+	},
+	"Sportscar_V1": {
+	  "PRIZE": "Chevrolet_CorvetteC8Convertible_2020",
+	  "CARS": [
+		"Ferrari_488PistaSpiderRewardRecycled_2019",
+		"Audi_RS5Coupe_2014",
+		"BMW_M235iCoupe_2014",
+		"MercedesBenz_C63AMGEdition507_2014",
+		"Honda_NSXRewardRecycled_2017",
+		"Lamborghini_HuracanLP6104_2014",
+		"AstonMartin_VantageV8RewardRecycled_2018",
+		"Porsche_911RRewardRecycled_2017"
+	  ]
+	},
+	"StreetCulture_V1": {
+	  "PRIZE": "Subaru_VarisImprezaWRXSTI_2014",
+	  "CARS": [
+		"Lamborghini_LBSilhouetteHuracanRewardRecycled_2014",
+		"Nissan_SilviaS15RocketBunny_1999",
+		"Mazda_RX7RewardRecycled_1993",
+		"BMW_VarisM4GTSRewardRecycled_2016",
+		"Honda_LBNSXRewardRecycled_2017",
+		"Honda_CivicTypeRVaris_2017"
+	  ]
+	},
+	"EliteTuners_V1": {
+	  "PRIZE": "Toyota_SupraMK4TNR_1994",
+	  "CARS": [
+		"Toyota_GRSupraTNR_2020",
+		"Honda_S2000TNR_2001",
+		"Nissan_GTRTNR_2017",
+		"Nissan_SkylineGTRR34TNR_2002",
+		"Mazda_RX7TNR_1993",
+		"Subaru_WRXSTITNR_2018",
+		"Mitsubishi_LancerEVOXTNR_2015",
+		"Subaru_BRZtSTNR_2020"
+	  ]
+	},
 	"LegendsRevival": {
 	  "PRIZE": null,
 	  "CARS": [
