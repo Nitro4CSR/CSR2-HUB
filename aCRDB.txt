@@ -804,6 +804,7 @@ Mitsubishi_LancerEVOXTNR_2015
 Mitsubishi_VoltexEvoIXReward_2005
 Mitsubishi_VoltexEvoIXRewardRecycled_2005
 Mystery_Car_1234
+Mystery_Car_Fix101
 Mystery_CarSCS_1234
 Nilu27_NILU_2025
 Nissan_240SXRocketBunnyBossReward_1995
