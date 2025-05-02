@@ -1,20 +1,26 @@
 [   
 	{
+        "version": "1.1.0",
+        "info": "- engine and SDK update\n- AUTOSHOW: Legends and Elite collections added!\n- AUTOSHOW: Legends cars configurator added!\n- bug fixes & optimization\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1np9z_vj4ya3yYahqyq54HqJ_8iuFGJII/view?usp=sharing",
+		"date": "02/05/25"
+    },
+	{
         "version": "1.0.1",
         "info": "- fix memory leaks\n- other minor changes",
-        "action": "https://qrco.de/bfvwKD",
+        "action": "NONE",
 		"date": "23/04/25"
     },
 	{
         "version": "1.0.0",
         "info": "- world release!\n- updated graphic settings\n- added Polish language\n- bug fixes\n- other minor changes",
-        "action": "",
+        "action": "NONE",
 		"date": "20/04/25"
     },
 	{
         "version": "0.9.7",
         "info": "- bug fixes\n- added user agreement\n- other minor changes",
-        "action": "",
+        "action": "NONE",
 		"date": "19/04/25"
     },
     {
