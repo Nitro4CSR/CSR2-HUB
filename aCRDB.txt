@@ -1,4 +1,3 @@
-Placeholder_ABC_1234
 Abarth_500_2014
 Acura_IntegraTypeRDB8F1_1995
 Acura_NSXF9_2018
@@ -893,6 +892,7 @@ Pininfarina_Battista_2020
 Pininfarina_BattistaNinoFarina_2023
 Pininfarina_BattistaReward_2022
 Pininfarina_BattistaRewardRecycled_2022
+Placeholder_ABC_1234
 Placeholder_CoveredCar_1234
 Plymouth_FormulaSBarracuda_1968
 Plymouth_FormulaSBarracudaElite_1968
