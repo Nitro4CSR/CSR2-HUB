@@ -380,6 +380,10 @@
             "CarCreditsCost": 2150,
             "CollectionsRankUnlock": 16
         },
+        "Porsche_911GT2RSClubSportSalzburg_2019": {
+            "CarCreditsCost": 600,
+            "CollectionsRankUnlock": 15
+        },
         "Porsche_911RRewardRecycled_2017": {
             "CarCreditsCost": 600,
             "CollectionsRankUnlock": 15
@@ -391,6 +395,10 @@
         "Porsche_918SpyderReward_2015": {
             "CarCreditsCost": 950,
             "CollectionsRankUnlock": 19
+        },
+        "Porsche_935Salzburg_2019": {
+            "CarCreditsCost": 1275,
+            "CollectionsRankUnlock": 15
         },
         "Porsche_CayenneTurboGTRewardRecycled_2022": {
             "CarCreditsCost": 600,

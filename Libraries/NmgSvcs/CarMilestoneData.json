@@ -40652,6 +40652,2363 @@
                     }
                 ]
             }, {
+                "Milestones": [{
+                        "IsSpecialReward": false,
+                        "Level": 1,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 25
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 2,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 13
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 50
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 3,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 75
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 4,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 2,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 100
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 5,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 125
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 25
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 6,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 175
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 7,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 13
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 250
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 8,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 300
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 9,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 325
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 10,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 500
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 50
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 11,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 525
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 12,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 3,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 600
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 13,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 650
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 14,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 725
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 15,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 800
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 75
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 16,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 900
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 17,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 2,
+                                    "partType": "",
+                                    "rewardType": 13
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 975
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 18,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1000
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 19,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1050
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 20,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1125
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 125
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 21,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1200
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 22,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 3,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1300
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 23,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1375
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 24,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 31
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1450
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 25,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1525
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 150
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 26,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1600
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 27,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 2,
+                                    "partType": "",
+                                    "rewardType": 13
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1700
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 28,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 30
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1775
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 29,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1850
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 30,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 375
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 25
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 31,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 475
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 32,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 575
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 33,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 675
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 34,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 750
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 35,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 950
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 50
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 36,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1125
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 37,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 3,
+                                    "partType": "",
+                                    "rewardType": 13
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1325
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 38,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 29
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1500
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 39,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1875
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 40,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 2825
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 75
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 41,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 100
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 42,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 125
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 43,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 150
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 44,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 225
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 45,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 300
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 25
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 46,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 450
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 47,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 3,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 600
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 48,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 12
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 750
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 25
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 49,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 32
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 900
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 25
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 50,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 1200
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 50
+                            }
+                        ]
+                    }
+                ],
+                "SchemeID": "LegendsRevival_Shelby_CobraDaytonaLP_1964",
+                "UnlockConditions": [{
+                        "Condition": "PlayerRank",
+                        "Value": 8
+                    }
+                ]
+            }, {
+                "BaseSchemeID": "",
+                "Milestones": [{
+                        "IsSpecialReward": false,
+                        "Level": 1,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 50
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 2,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 3,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 75
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 3,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 100
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 4,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 2,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 125
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 5,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 150
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 125
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 6,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 225
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 7,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 275
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 8,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 350
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 9,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 3,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 425
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 10,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 2,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 550
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 175
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 11,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 625
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 12,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 700
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 13,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 750
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 14,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 31
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 825
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 15,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 950
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 325
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 16,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 2,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1025
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 17,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1100
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 18,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1175
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 19,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1225
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 20,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1350
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 475
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 21,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 3,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1425
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 22,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 30
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1500
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 23,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1575
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 24,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1625
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 25,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1900
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 650
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 26,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 875
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 50
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 27,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1050
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 100
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 28,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 2,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1225
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 150
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 29,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1400
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 175
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 30,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1525
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 225
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 31,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 275
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 5
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 32,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 350
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 10
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 33,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 450
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 15
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 34,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 525
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 20
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 35,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 36
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 700
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 25
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 36,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 32
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 300
+                            }
+                        ]
+                    }
+                ],
+                "SchemeID": "Legends_v2_Ford_MustangShelbyGT350LPClassic_1965",
+                "UnlockConditions": [{
+                        "Condition": "PlayerRank",
+                        "Value": 20
+                    }, {
+                        "Condition": "CarRestorationPercentage",
+                        "Value": 100
+                    }
+                ]
+            }, {
+                "BaseSchemeID": "",
+                "Milestones": [{
+                        "IsSpecialReward": false,
+                        "Level": 1,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 50
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 2,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 3,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 75
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 3,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 100
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 4,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 125
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 5,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 150
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 125
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 6,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 225
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 7,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 275
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 8,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 350
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 9,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 425
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 10,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 550
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 175
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 11,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 4,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 625
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 12,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 700
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 13,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 750
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 14,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 31
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 825
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 15,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 950
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 325
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 16,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1025
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 17,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1100
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 18,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1175
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 19,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1225
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 20,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1350
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 475
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 21,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1425
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 22,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 30
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1500
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 23,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1575
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 24,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1625
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 25,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 1,
+                                "Amount": 1900
+                            }, {
+                                "AMPType": 2,
+                                "Amount": 650
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 26,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 875
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 50
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 27,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1050
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 100
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 28,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 26
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1225
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 150
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 29,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1400
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 175
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 30,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 6,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 2,
+                                "Amount": 1525
+                            }, {
+                                "AMPType": 3,
+                                "Amount": 225
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 31,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 275
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 5
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 32,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 1,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 350
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 10
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 33,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 28
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 450
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 15
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 34,
+                        "Rewards": [{
+                                "Quantity": 10,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 25
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 525
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 20
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": true,
+                        "Level": 35,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 36
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 700
+                            }, {
+                                "AMPType": 4,
+                                "Amount": 25
+                            }
+                        ]
+                    }, {
+                        "IsSpecialReward": false,
+                        "Level": 36,
+                        "Rewards": [{
+                                "Quantity": 1,
+                                "RewardInfo": {
+                                    "name": "",
+                                    "partGrade": 0,
+                                    "partType": "",
+                                    "rewardType": 32
+                                }
+                            }
+                        ],
+                        "UnlockCost": [{
+                                "AMPType": 3,
+                                "Amount": 500
+                            }
+                        ]
+                    }
+                ],
+                "SchemeID": "Legends_v2_Lamborghini_MiuraSVLPClassic_1971",
+                "UnlockConditions": [{
+                        "Condition": "PlayerRank",
+                        "Value": 20
+                    }, {
+                        "Condition": "CarRestorationPercentage",
+                        "Value": 100
+                    }
+                ]
+            }, {
                 "GachaIDToClaimDiscount": "ET_BONUS_5_DISCOUNT_GACHA",
                 "Milestones": [{
                         "IsSpecialReward": false,
