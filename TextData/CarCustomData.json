@@ -653,10 +653,10 @@
   },
   {
     "CarDB": "Ford_MustangShelbyGT350LPClassic_1965",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 650, "h": 650}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
   },
   {
     "CarDB": "Lamborghini_MiuraSVLPClassic_1971",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 650, "h": 650}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
   }
 ]
