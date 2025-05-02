@@ -650,5 +650,13 @@
   {
     "CarDB": "Porsche_962C_1987",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ford_MustangShelbyGT350LPClassic_1965",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Lamborghini_MiuraSVLPClassic_1971",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 650, "h": 650}
   }
 ]
