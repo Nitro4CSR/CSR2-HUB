@@ -18158,11 +18158,11 @@
   {
     "DBName": "Porsche_963LMDh_2023",
     "Vision": "Added into the game in OTA1 Update 5.6.0 and released in Season XXX ( - ) as the final prize car in the {} event.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=iH7PSbekSmw",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.649,
     "WRdyno": 6.703,
     "WRpp": "713",
     "WRevo": 2610,
