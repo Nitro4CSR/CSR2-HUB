@@ -58,6 +58,7 @@ AstonMartin_Valour_2024
 AstonMartin_ValourReward_2024
 AstonMartin_ValourRewardRecycled_2024
 AstonMartin_Vanquish_2014
+AstonMartin_Vanquish_2025
 AstonMartin_VanquishZagatoReward_2017
 AstonMartin_VanquishZagatoRewardRecycled_2017
 AstonMartin_VanquishZagatoSB_2017
@@ -769,6 +770,8 @@ McLaren_Vorsteiner570VXRewardRecycled_2016
 McLaren_Vorsteiner720SReward_2018
 McLaren_Vorsteiner720SRewardRecycled_2018
 McMurtry_Speirling_2022
+MercedesAMG_CLAEVReward_2025
+MercedesAMG_CLAEVRewardRecycled_2025
 MercedesAMG_G63SUVReward_2020
 MercedesAMG_G63SUVRewardRecycled_2020
 MercedesAMG_GT_2015
@@ -872,6 +875,7 @@ Pagani_HuayraBCRoadsterPB_2019
 Pagani_HuayraCodalunga_2022
 Pagani_HuayraElite_2014
 Pagani_HuayraR_2021
+Pagani_HuayraREvo_2024
 Pagani_HuayraRoadsterReward_2017
 Pagani_HuayraRoadsterRewardRecycled_2017
 Pagani_Imola_2021
@@ -925,6 +929,7 @@ Porsche_911GT2RSGold_2017
 Porsche_911GT2RSVIP_2017
 Porsche_911GT3_2022
 Porsche_911GT39922_2025
+Porsche_911GT3R992_2022
 Porsche_911GT3Reward_2018
 Porsche_911GT3RewardRecycled_2018
 Porsche_911GT3RRennsport_2023
