@@ -18253,22 +18253,22 @@
     "S6ENITRO": 8.475,
     "S6EBODY": 8.439,
     "S6ETIRES": 8.3,
-    "S6ETRANSMISSION": "0.000"
+    "S6ETRANSMISSION": 8.541
   },
   {
     "DBName": "MercedesAMG_CLAEVReward_2025",
-    "S5-PP": "0",
-    "S5EVO": "0",
-    "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
-    "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5-PP": 547,
+    "S5EVO": 892,
+    "S5FD": "2.00",
+    "S5NITRO": "225/1.3",
+    "S5TIRE": "0/100",
+    "S5DYNO": 8.557,
+    "S6EENGINE": 8.695,
+    "S6ETURBO": 8.566,
+    "S6EINTAKE": 8.56,
+    "S6ENITRO": 8.411,
+    "S6EBODY": 8.376,
+    "S6ETIRES": 8.239,
+    "S6ETRANSMISSION": 8.476
   }
 ]
