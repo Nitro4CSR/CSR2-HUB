@@ -15290,10 +15290,10 @@
     "S6EENGINE": 10.38,
     "S6ETURBO": 10.537,
     "S6EINTAKE": 10.525,
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6ENITRO": 10.289,
+    "S6EBODY": 10.303,
+    "S6ETIRES": 10.468,
+    "S6ETRANSMISSION": 10.039
   },
   {
     "DBName": "Pagani_HuayraElite_2014",
@@ -18193,19 +18193,19 @@
   },
   {
     "DBName": "Pagani_HuayraREvo_2024",
-    "S5-PP": "0",
-    "S5EVO": "0",
-    "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
-    "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5-PP": 698,
+    "S5EVO": 2391,
+    "S5FD": "2.00",
+    "S5NITRO": "147/2.1",
+    "S5TIRE": "0/100",
+    "S5DYNO": 8.087,
+    "S6EENGINE": 7.995,
+    "S6ETURBO": 8.001,
+    "S6EINTAKE": 8.013,
+    "S6ENITRO": 7.911,
+    "S6EBODY": 7.778,
+    "S6ETIRES": 7.892,
+    "S6ETRANSMISSION": 7.725
   },
   {
     "DBName": "Porsche_911GT3R992_2022",
