@@ -15313,8 +15313,8 @@
   },
   {
     "DBName": "Pagani_HuayraBCRewardRecycled_2016",
-    "S5-PP": "0",
-    "S5EVO": "0",
+    "S5-PP": 699,
+    "S5EVO": 1758,
     "S5FD": "2.66",
     "S5NITRO": "367/4.1",
     "S5TIRE": "0/100",
@@ -15329,8 +15329,8 @@
   },
   {
     "DBName": "Pagani_HuayraBCReward_2016",
-    "S5-PP": "0",
-    "S5EVO": "0",
+    "S5-PP": 699,
+    "S5EVO": 1827,
     "S5FD": "2.62",
     "S5NITRO": "411/3.9",
     "S5TIRE": "0/100",
@@ -15361,8 +15361,8 @@
   },
   {
     "DBName": "Pagani_HuayraR_2021",
-    "S5-PP": "0",
-    "S5EVO": "0",
+    "S5-PP": 698,
+    "S5EVO": 2291,
     "S5FD": "2.00",
     "S5NITRO": "150/2.0",
     "S5TIRE": "0/100",
