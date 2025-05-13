@@ -352,6 +352,10 @@
             "CarCreditsCost": 380,
             "CollectionsRankUnlock": 4
         },
+        "Noble_M500_2022": {
+            "CarCreditsCost": 1300,
+            "CollectionsRankUnlock": 18
+        },
         "Pagani_C10RewardRecycled_2023": {
             "CarCreditsCost": 900,
             "CollectionsRankUnlock": 28
@@ -407,6 +411,14 @@
         "Porsche_CaymanGT4Salzburg_2016": {
             "CarCreditsCost": 550,
             "CollectionsRankUnlock": 15
+        },
+        "Porsche_MissionRConcept_2021": {
+            "CarCreditsCost": 1725,
+            "CollectionsRankUnlock": 15
+        },
+        "Porsche_RWB993Rotana_1993": {
+            "CarCreditsCost": 1275,
+            "CollectionsRankUnlock": 9
         },
         "TVR_GriffithRewardRecycled_2019": {
             "CarCreditsCost": 380,
