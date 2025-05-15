@@ -1,8 +1,14 @@
 [   
 	{
+        "version": "1.1.1",
+        "info": "- logo rebranding\n- bug fixes & optimization\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1DspQec8h2wfG30R7Q6805_wlXi5FRCjM/view?usp=sharing",
+		"date": "15/05/25"
+    },
+	{
         "version": "1.1.0",
         "info": "- engine and SDK update\n- AUTOSHOW: Legends and Elite collections added!\n- AUTOSHOW: Legends cars configurator added!\n- bug fixes & optimization\n- other minor changes",
-        "action": "https://drive.google.com/file/d/1np9z_vj4ya3yYahqyq54HqJ_8iuFGJII/view?usp=sharing",
+        "action": "",
 		"date": "02/05/25"
     },
 	{
