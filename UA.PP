@@ -26,9 +26,11 @@ Some in-app content (including logos, images, car models, names, or other game-r
 If you believe that our app infringes on your intellectual property rights or other rights, or if you find any illegal, false information or behaviors that violate these Terms, or if you have any comments and suggestions about our service, you can send them by going to the INFO interface and sending a message to the feedback email address listed at the bottom of the page. We take your opinions seriously and will take legal actions accordingly.
 
 <size=30><b>PRIVACY POLICY</b></size>
-<size=18><i>Update date: April 22, 2025</i></size>
+<size=18><i>Update date: May 18, 2025</i></size>
 
 1.1 CSR2-HUB does not collect, store or transmit any personal data of users.
-1.2 The app runs entirely locally on your device, and no information is sent to servers or third parties.
+1.2 The app runs entirely locally on your device, and no personal information is sent to servers or third parties.
+1.3 The app may use standard Google Play services, which collect anonymous data to operate the app store. This data is not associated with you personally.
+1.4 The application may collect error reports that do not contain any personal user data or information about the user's device.
 
 <i>Contact e-mail: csr2hub.service@gmail.com</i>
