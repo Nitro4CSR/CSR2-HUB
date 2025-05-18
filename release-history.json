@@ -1,14 +1,20 @@
 [   
 	{
+        "version": "1.1.2",
+        "info": "- added auto-report errors system\n- added version control system\n- bug fixes & optimization\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1OTlqwNNzghHBwtPTVaz85ZvAVEPcHS2c/view?usp=sharing",
+		"date": "19/05/25"
+    },
+	{
         "version": "1.1.1",
         "info": "- logo rebranding\n- bug fixes & optimization\n- other minor changes",
-        "action": "https://drive.google.com/file/d/1DspQec8h2wfG30R7Q6805_wlXi5FRCjM/view?usp=sharing",
+        "action": "NONE",
 		"date": "15/05/25"
     },
 	{
         "version": "1.1.0",
         "info": "- engine and SDK update\n- AUTOSHOW: Legends and Elite collections added!\n- AUTOSHOW: Legends cars configurator added!\n- bug fixes & optimization\n- other minor changes",
-        "action": "",
+        "action": "NONE",
 		"date": "02/05/25"
     },
 	{
