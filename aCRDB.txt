@@ -282,6 +282,8 @@ Chevrolet_HSCustomsCamaroRewardRecycled_2016
 Chevrolet_HSCustomsChevelle_1968
 Chevrolet_KellySonBelAir_1957
 Chevrolet_LMCorvetteC8_2020
+Chevrolet_LMCorvetteZ06Reward_2023
+Chevrolet_LMCorvetteZ06RewardRecycled_2023
 Chevrolet_MonteCarloRaceCarF9_1995
 Chevrolet_NapalmNova_1972
 Chevrolet_NASCARCamaroZL1_2020
@@ -351,6 +353,7 @@ Ferrari_12CilindriReward_2024
 Ferrari_12CilindriRewardRecycled_2024
 Ferrari_250GTOClassic_1962
 Ferrari_296GTB_2022
+Ferrari_296GTBAssettoFiorano_2022
 Ferrari_296GTSReward_2023
 Ferrari_296GTSRewardRecycled_2023
 Ferrari_458Speciale_2014
@@ -418,6 +421,7 @@ Ferrari_SF90StradaleAssettoFioranoF175_2021
 Ferrari_SF90StradaleGold_2020
 Ferrari_SF90XXStradale_2024
 FnF_FlipCar_2013
+FnF_SupraMKIVF2_1994
 Ford_Durty30_2016
 Ford_Durty30Gold_2016
 Ford_EscortMKIF6_1970
@@ -507,6 +511,7 @@ Honda_CivicTypeR_2017
 Honda_CivicTypeRElite_2017
 Honda_CivicTypeRReward_2023
 Honda_CivicTypeRRewardRecycled_2023
+Honda_CivicTypeRTNR_2017
 Honda_CivicTypeRVaris_2017
 Honda_IndyTruck_2017
 Honda_LBNSXReward_2017
@@ -1026,6 +1031,8 @@ SSC_TuataraWRE_2020
 Subaru_BRZF8_2013
 Subaru_BRZRocketBunny_2013
 Subaru_BRZRocketBunnyVIP_2013
+Subaru_BRZtSReward_2024
+Subaru_BRZtSRewardRecycled_2024
 Subaru_BRZtSTNR_2020
 Subaru_ImprezaWRXF4_2009
 Subaru_ImprezaWRXSTI_2014
