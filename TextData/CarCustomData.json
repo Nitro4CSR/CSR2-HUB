@@ -662,5 +662,37 @@
   {
     "CarDB": "Pagani_HuayraREvo_2024",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 85, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Ferrari_296GTBAssettoFiorano_2022",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 75, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Honda_CivicTypeRTNR_2017",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Dodge_ChallengerSRTHellcatReward_2015",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 65, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Ford_MustangF3_1967",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Mazda_RX7F3_1993",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "AstonMartin_Vanquish_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Pagani_HuayraREvo_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Porsche_963LMDh_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 650, "h": 650}
   }
 ]
