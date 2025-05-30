@@ -14010,11 +14010,11 @@
   {
     "DBName": "Lamborghini_MiuraSVLPClassic_1971",
     "Vision": "Added into the game in Update 5.7.0 and released in Season 231 (April 27, 2025 - June 26, 2025) as one of the prize cars in the Legends: Revival - The Legacy of Legends event at race 60.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=beZYFI9eYBM",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 7.426,
     "WRdyno": 7.469,
     "WRpp": "713",
     "WRevo": 2232,
