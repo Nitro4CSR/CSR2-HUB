@@ -17750,11 +17750,11 @@
   {
     "DBName": "Porsche_911GT3R992_2022",
     "Vision": "Added into the game in OTA1 Update 5.7.0 and released in Season 234 (June 5, 2025 - June 15, 2025) as a Showdown Trophy Milestone Prize car in the Le Mans: Porsche Eminence ShowDown.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=IAkVjzdLAhY",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.838,
     "WRdyno": 6.9,
     "WRpp": "713",
     "WRevo": 2502,
