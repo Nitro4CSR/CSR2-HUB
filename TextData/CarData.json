@@ -12429,11 +12429,11 @@
   {
     "DBName": "Honda_CivicTypeRTNR_2017",
     "Vision": "Added into the game in OTA2 Update 5.7.0 and released in Season 233 (June 2, 2025 - August 1, 2025) as a free car in the Ashleigh's Tuner Pit event.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=qIMlYCN2PBI",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 7.847,
     "WRdyno": 8.005,
     "WRpp": "713",
     "WRevo": 1964,
