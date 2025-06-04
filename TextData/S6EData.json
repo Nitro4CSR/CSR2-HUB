@@ -16946,18 +16946,18 @@
   {
     "DBName": "Porsche_963LMDh_2023",
     "S5-PP": 698,
-    "S5EVO": 2243,
+    "S5EVO": 2025,
     "S5FD": "2.00",
-    "S5NITRO": "150/2.0",
+    "S5NITRO": "140/2.4",
     "S5TIRE": "0/100",
-    "S5DYNO": 8.386,
-    "S6EENGINE": 8.139,
-    "S6ETURBO": 8.288,
-    "S6EINTAKE": 8.256,
-    "S6ENITRO": 8.168,
-    "S6EBODY": 8.067,
-    "S6ETIRES": 8.114,
-    "S6ETRANSMISSION": 8.028
+    "S5DYNO": 8.827,
+    "S6EENGINE": 8.557,
+    "S6ETURBO": 8.716,
+    "S6EINTAKE": 8.694,
+    "S6ENITRO": 8.531,
+    "S6EBODY": 8.307,
+    "S6ETIRES": 8.456,
+    "S6ETRANSMISSION": 8.392
   },
   {
     "DBName": "Porsche_CarreraGTClassic_2003_UR",
