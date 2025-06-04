@@ -2127,11 +2127,11 @@
   {
     "DBName": "MercedesAMG_CLAEVReward_2025",
     "Vision": "Added into the game in OTA1 Update 5.7.0 and released in Season 233 (May 22, 2025 - June 5, 2025) as a Crew Milestone car at 135M Crew RP.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=W0B-LF-uExQ",
     "Tier": 2,
     "WRAddon": "(Motor Stage 4)",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 7.539,
     "WRdyno": 7.615,
     "WRpp": "580",
     "WRevo": 1096,
