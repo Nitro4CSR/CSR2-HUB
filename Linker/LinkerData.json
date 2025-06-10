@@ -115,7 +115,7 @@
     },
     "GAMES": {
         "CSR2": {
-			"refe": "csr2",
+            "refe": "csr2",
             "name": "CSR 2 - Realistic Drag Racing",
             "ver": "v5.7.0",
             "descr": "CSR Racing 2 – This driving simulator game redefines what you thought possible on your mobile device!\n\nSetting a new standard in racing game visuals, CSR2 delivers hyper-real drag racing to the palm of your hand. Compete against live players across the world with your custom-built supercars.",
@@ -125,7 +125,7 @@
             "link_gd": ""
         },
         "CSR3": {
-			"refe": "csr3",
+            "refe": "csr3",
             "name": "CSR 3 - Street Car Racing",
             "ver": "v0.21.0",
             "descr": "In a world where the hundredths of a second mark the difference between the pros and legends, become the #1 driver on the scene.\n\nIgnite your racing fantasies and experience the thrill of pushing the limits of your favourite high-performance vehicles.",
