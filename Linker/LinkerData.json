@@ -1,0 +1,138 @@
+{
+    "COMMUNITY": {
+        "SITES": [
+		{
+			"refe": "csr2",
+			"name": "CSR2 Official Site",
+			"url": "https://www.csr-racing.com"
+		},
+		{
+			"refe": "csr2hub",
+			"name": "CSR2-HUB Site",
+			"url": "https://rimgine.com/csr2-hub"
+		}],
+        "REDDIT": [
+		{
+			"refe": "csrracing2",
+			"name": "r/CSRRacing2",
+			"url": "https://www.reddit.com/r/CSRRacing2/"
+		},
+		{
+			"refe": "csr2wr",
+			"name": "r/CSR2WorldRecords",
+			"url": "https://www.reddit.com/r/CSR2WorldRecords/"
+		}],
+        "DISCORD": [
+		{
+			"refe": "csrracing",
+			"name": "CSR Racing",
+			"url": "https://discord.gg/fEyydTDvTV"
+		}],
+        "FACEBOOK": [
+		{
+			"refe": "csrracing",
+			"name": "CSR Racing",
+			"url": "https://m.facebook.com/csrracinggame/"
+		},
+		{
+			"refe": "csr2ottu",
+			"name": "CSR2 Oficial Times-Tunes-Update",
+			"url": "https://www.facebook.com/share/14K7TrejU8i/?mibextid=qi2Omg"
+		},
+		{
+			"refe": "csr23fcf",
+			"name": "CSR Racing 2/3 Find Crew/Friends",
+			"url": "https://m.facebook.com/groups/2866191043659953/"
+		},
+		{
+			"refe": "csr2world",
+			"name": "CSR2 World",
+			"url": "https://facebook.com/groups/1708705292790320/"
+		}],
+        "YOUTUBE": [
+		{
+			"refe": "csrracing",
+			"name": "CSR Racing",
+			"url": "https://www.youtube.com/@CSRracing"
+		},
+		{
+			"refe": "dannylight",
+			"name": "Danny Lightning CSR",
+			"url": "https://www.youtube.com/@Danny-Lightning-CSR"
+		},
+		{
+			"refe": "icepeace",
+			"name": "ICE_PeAcE CSR2 & Games",
+			"url": "https://www.youtube.com/@icepeace"
+		},
+		{
+			"refe": "trickys",
+			"name": "CSR Trickys",
+			"url": "https://www.youtube.com/@csrtrickys"
+		},
+		{
+			"refe": "achardir",
+			"name": "Achardir CSR2",
+			"url": "https://www.youtube.com/@achardir"
+		},
+		{
+			"refe": "axelita",
+			"name": "AXEL ITA",
+			"url": "https://www.youtube.com/@Axel_ITA"
+		},
+		{
+			"refe": "zoocar",
+			"name": "ZooCar CSR2 Shift & Tunes",
+			"url": "https://www.youtube.com/@zoocarcsr2shifttunes497"
+		},
+		{
+			"refe": "scanter",
+			"name": "Scanter CSR2 tunes & shift",
+			"url": "https://www.youtube.com/@scantercsr2tunesshift747"
+		}],
+        "VK": [
+		{
+			"refe": "csr2racing",
+			"name": "Фангруппа CSR2 | CSR3",
+			"url": "https://vk.com/csr2racingcommunity"
+		},
+		{
+			"refe": "csrcommunity",
+			"name": "CSR2/CSR racing 2",
+			"url": "https://vk.com/csr_community"
+		}],
+        "OTHER": [
+		{
+			"refe": "csrracinginst",
+			"name": "Instagram: CSR Racing",
+			"url": "https://www.instagram.com/csrracing/"
+		},
+		{
+			"refe": "csrracingx",
+			"name": "X: CSR Racing",
+			"url": "https://x.com/CSRRacing"
+		}]
+    },
+    "GAMES": {
+        "CSR2": {
+			"refe": "csr2",
+            "name": "CSR 2 - Realistic Drag Racing",
+            "ver": "v5.7.0",
+            "descr": "CSR Racing 2 – This driving simulator game redefines what you thought possible on your mobile device!\n\nSetting a new standard in racing game visuals, CSR2 delivers hyper-real drag racing to the palm of your hand. Compete against live players across the world with your custom-built supercars.",
+            "link_gp": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2",
+            "link_as": "https://apps.apple.com/us/app/csr-2-realistic-drag-racing/id887947640",
+            "link_ap": "https://apkpure.com/csr-2-realistic-drag-racing/com.naturalmotion.customstreetracer2",
+            "link_gd": ""
+        },
+        "CSR3": {
+			"refe": "csr3",
+            "name": "CSR 3 - Street Car Racing",
+            "ver": "v0.21.0",
+            "descr": "In a world where the hundredths of a second mark the difference between the pros and legends, become the #1 driver on the scene.\n\nIgnite your racing fantasies and experience the thrill of pushing the limits of your favourite high-performance vehicles.",
+            "link_gp": "https://play.google.com/store/apps/details?id=com.zynga.csr3",
+            "link_as": "https://apps.apple.com/my/app/csr-3-street-car-racing/id1572295868",
+            "link_ap": "https://apkpure.com/csr-3-street-car-racing/com.zynga.csr3",
+            "link_gd": "https://drive.google.com/file/d/1GC2qxS3Gt1PdHBjBzTIXjQDtbSRp-CWS/view"
+        }
+    }
+}
