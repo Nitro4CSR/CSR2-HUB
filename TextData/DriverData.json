@@ -1,28 +1,28 @@
 [
   {
     "name": "Ѕᴄᴀɴᴛᴇʀ",
-    "LND": 0,
+    "LND": 5,
     "NonStarred": 0,
     "T1": 0,
     "T2": 8,
     "T3": 9,
     "T4": 22,
     "T5": 101,
-    "Total": 140,
-    "Points": 325,
+    "Total": 145,
+    "Points": 390,
     "namehex": "#ffffff"
   },
   {
     "name": "eLGeZoOo",
-    "LND": 0,
+    "LND": 8,
     "NonStarred": 0,
     "T1": 1,
     "T2": 3,
     "T3": 9,
     "T4": 25,
     "T5": 71,
-    "Total": 109,
-    "Points": 263,
+    "Total": 117,
+    "Points": 370,
     "namehex": "#ffb300"
   },
   {
@@ -53,28 +53,28 @@
   },
   {
     "name": "ƊąɧƖıą",
-    "LND": 0,
+    "LND": 1,
     "NonStarred": 0,
     "T1": 0,
     "T2": 1,
     "T3": 4,
     "T4": 33,
     "T5": 21,
-    "Total": 59,
-    "Points": 168,
+    "Total": 60,
+    "Points": 181,
     "namehex": "#ffffff"
   },
   {
     "name": "🃏JOKER86",
-    "LND": 0,
+    "LND": 7,
     "NonStarred": 0,
     "T1": 0,
     "T2": 1,
     "T3": 4,
     "T4": 10,
     "T5": 36,
-    "Total": 51,
-    "Points": 111,
+    "Total": 58,
+    "Points": 205,
     "namehex": "#ff00ff"
   },
   {
@@ -117,6 +117,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "ᏃooᏨar",
+    "LND": 3,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 1,
+    "T4": 8,
+    "T5": 12,
+    "Total": 24,
+    "Points": 86,
+    "namehex": "#a61c00"
+  },
+  {
     "name": "BISBIS ☯",
     "LND": 0,
     "NonStarred": 0,
@@ -141,19 +154,6 @@
     "Total": 21,
     "Points": 68,
     "namehex": "#ffffff"
-  },
-  {
-    "name": "ᏃooᏨar",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 1,
-    "T4": 8,
-    "T5": 12,
-    "Total": 21,
-    "Points": 47,
-    "namehex": "#a61c00"
   },
   {
     "name": "ꀤ rꀡひʍ ʍ▲n",
@@ -208,6 +208,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "฿̣ŪḶḶ₹ΞÐ",
+    "LND": 2,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 1,
+    "T3": 4,
+    "T4": 1,
+    "T5": 2,
+    "Total": 10,
+    "Points": 58,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "HULK",
     "LND": 0,
     "NonStarred": 0,
@@ -247,19 +260,6 @@
     "namehex": "#974806"
   },
   {
-    "name": "฿̣ŪḶḶ₹ΞÐ",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 1,
-    "T3": 4,
-    "T4": 1,
-    "T5": 2,
-    "Total": 8,
-    "Points": 32,
-    "namehex": "#ffffff"
-  },
-  {
     "name": "ѕт. αиgєя",
     "LND": 0,
     "NonStarred": 0,
@@ -283,6 +283,19 @@
     "T5": 5,
     "Total": 7,
     "Points": 13,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "sǝpɐlqメ逆刄",
+    "LND": 1,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 2,
+    "T4": 1,
+    "T5": 2,
+    "Total": 6,
+    "Points": 28,
     "namehex": "#ffffff"
   },
   {
@@ -361,19 +374,6 @@
     "T5": 1,
     "Total": 5,
     "Points": 21,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "sǝpɐlqメ逆刄",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 2,
-    "T4": 1,
-    "T5": 2,
-    "Total": 5,
-    "Points": 15,
     "namehex": "#ffffff"
   },
   {
@@ -494,6 +494,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "Ian Robinson",
+    "LND": 1,
+    "NonStarred": 0,
+    "T1": 1,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 0,
+    "Total": 2,
+    "Points": 22,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "☣️ᒚ3ᕲ1☣️ᘺ^ᒪ ☣️",
     "LND": 0,
     "NonStarred": 1,
@@ -504,6 +517,32 @@
     "T5": 0,
     "Total": 2,
     "Points": 20,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "TECO",
+    "LND": 1,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 1,
+    "T3": 0,
+    "T4": 0,
+    "T5": 0,
+    "Total": 2,
+    "Points": 20,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "YP",
+    "LND": 1,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 1,
+    "Total": 2,
+    "Points": 14,
     "namehex": "#ffffff"
   },
   {
@@ -663,19 +702,6 @@
     "namehex": "#ffffff"
   },
   {
-    "name": "Ian Robinson",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 1,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 0,
-    "Total": 1,
-    "Points": 9,
-    "namehex": "#ffffff"
-  },
-  {
     "name": "ѕєвєк",
     "LND": 0,
     "NonStarred": 0,
@@ -742,19 +768,6 @@
   },
   {
     "name": "Love The CORGI",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 1,
-    "T3": 0,
-    "T4": 0,
-    "T5": 0,
-    "Total": 1,
-    "Points": 7,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "TECO",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
@@ -1444,19 +1457,6 @@
   },
   {
     "name": "ŦħEҞING VICŦ㊉R",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 1,
-    "Total": 1,
-    "Points": 1,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "YP",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
