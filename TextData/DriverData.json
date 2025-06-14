@@ -169,6 +169,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "☆ Fαταℓ",
+    "LND": 1,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 4,
+    "T4": 3,
+    "T5": 8,
+    "Total": 16,
+    "Points": 53,
+    "namehex": "#0093f0"
+  },
+  {
     "name": "Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ",
     "LND": 0,
     "NonStarred": 0,
@@ -179,19 +192,6 @@
     "T5": 12,
     "Total": 14,
     "Points": 21,
-    "namehex": "#0093f0"
-  },
-  {
-    "name": "☆ Fαταℓ",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 4,
-    "T4": 3,
-    "T5": 6,
-    "Total": 13,
-    "Points": 35,
     "namehex": "#ffffff"
   },
   {
@@ -260,6 +260,19 @@
     "namehex": "#974806"
   },
   {
+    "name": "ৡ ͜͡LAVEGA⇅",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 3,
+    "T5": 5,
+    "Total": 8,
+    "Points": 14,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "ѕт. αиgєя",
     "LND": 0,
     "NonStarred": 0,
@@ -322,19 +335,6 @@
     "T5": 4,
     "Total": 6,
     "Points": 10,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "ৡ ͜͡LAVEGA⇅",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 1,
-    "T5": 5,
-    "Total": 6,
-    "Points": 8,
     "namehex": "#ffffff"
   },
   {
