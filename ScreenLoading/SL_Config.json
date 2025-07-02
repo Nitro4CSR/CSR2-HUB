@@ -191,5 +191,25 @@
         "art_id": 47,
         "art_y_offset": -50,
         "mus_id": 0
+    }, {
+        "art_id": 48,
+        "art_y_offset": 0,
+        "mus_id": 0
+    }, {
+        "art_id": 49,
+        "art_y_offset": -20,
+        "mus_id": 0
+    }, {
+        "art_id": 50,
+        "art_y_offset": -20,
+        "mus_id": 2
+    }, {
+        "art_id": 51,
+        "art_y_offset": 15,
+        "mus_id": 2
+    }, {
+        "art_id": 52,
+        "art_y_offset": -50,
+        "mus_id": 0
     }
 ]
