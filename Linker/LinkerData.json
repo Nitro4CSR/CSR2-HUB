@@ -3,12 +3,12 @@
         "SITES": [
 		{
 			"refe": "csr2",
-			"name": "CSR2 Official Site",
+			"name": "CSR2 Site (official)",
 			"url": "https://www.csr-racing.com"
 		},
 		{
 			"refe": "csr2hub",
-			"name": "CSR2-HUB Site",
+			"name": "CSR2-HUB Site (official)",
 			"url": "https://rimgine.com/csr2-hub"
 		}],
         "REDDIT": [
@@ -24,14 +24,24 @@
 		}],
         "DISCORD": [
 		{
+			"refe": "csrofficial",
+			"name": "CSR Racing (official)",
+			"url": "https://discord.gg/NgVFgm24mg"
+		},
+		{
 			"refe": "csrracing",
 			"name": "CSR Racing",
 			"url": "https://discord.gg/fEyydTDvTV"
+		},
+		{
+			"refe": "csr2hub",
+			"name": "CSR2-HUB Community",
+			"url": "https://discord.gg/WQKhYvRHJh"
 		}],
         "FACEBOOK": [
 		{
 			"refe": "csrracing",
-			"name": "CSR Racing",
+			"name": "CSR Racing (official)",
 			"url": "https://m.facebook.com/csrracinggame/"
 		},
 		{
@@ -52,7 +62,7 @@
         "YOUTUBE": [
 		{
 			"refe": "csrracing",
-			"name": "CSR Racing",
+			"name": "CSR Racing (official)",
 			"url": "https://www.youtube.com/@CSRracing"
 		},
 		{
@@ -104,12 +114,12 @@
         "OTHER": [
 		{
 			"refe": "csrracinginst",
-			"name": "Instagram: CSR Racing",
+			"name": "Instagram: CSR Racing (official)",
 			"url": "https://www.instagram.com/csrracing/"
 		},
 		{
 			"refe": "csrracingx",
-			"name": "X: CSR Racing",
+			"name": "X: CSR Racing (official)",
 			"url": "https://x.com/CSRRacing"
 		}]
     },
@@ -117,12 +127,12 @@
         "CSR2": {
             "refe": "csr2",
             "name": "CSR 2 - Realistic Drag Racing",
-            "ver": "v5.7.0",
+            "ver": "v5.8.0",
             "descr": "CSR Racing 2 – This driving simulator game redefines what you thought possible on your mobile device!\n\nSetting a new standard in racing game visuals, CSR2 delivers hyper-real drag racing to the palm of your hand. Compete against live players across the world with your custom-built supercars.",
             "link_gp": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2",
             "link_as": "https://apps.apple.com/us/app/csr-2-realistic-drag-racing/id887947640",
             "link_ap": "https://apkpure.com/csr-2-realistic-drag-racing/com.naturalmotion.customstreetracer2",
-            "link_gd": ""
+            "link_gd": "https://drive.google.com/drive/folders/12nBPh3lc9xXO9tmYfbXnuBIhRIicf1mD"
         },
         "CSR3": {
             "refe": "csr3",
