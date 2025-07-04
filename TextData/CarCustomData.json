@@ -694,5 +694,289 @@
   {
     "CarDB": "Porsche_963LMDh_2023",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Apollo_IntensaEmozioneOrangeDragon_2019",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "AstonMartin_DB12_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "AstonMartin_V12Vantage_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 95, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "AstonMartin_ValkyrieAMRProConcept_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 0, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "AstonMartin_ValkyrieTrackPack_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 0, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "AstonMartin_Valour_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 70, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "AstonMartin_VantageGTE_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Audi_R8V10GreenHell_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 75, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "BTTF_TimeMachine2_2015",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Bugatti_ChironProfilee_2022",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Bugatti_ChironSuperSport_2022",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Bugatti_Tourbillon_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 95, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Buick_GNX_1987",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Buick_RoadstershopGrandNational_1987",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 140, "z": 0, "w": 685, "h": 685}
+  },
+  {
+    "CarDB": "Chevrolet_Camaro632_1988",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 85, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_CorvetteZ06Z07Package_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 140, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_EddiesCorvetteC2_1963",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_GreeningCamaroIROCZ_1985",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_HSCustomsChevelle_1968",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 150, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_KellySonBelAir_1957",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 685, "h": 685}
+  },
+  {
+    "CarDB": "Chevrolet_LMCorvetteC8_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_MonteCarloRaceCarF9_1995",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_NapalmNova_1972",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 130, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_RingbrothersChevelle_1966",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_RingbrothersPickUp_1948",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Chevrolet_RoadsterShopCamaro_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_WeaverCustoms3100_1949",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Czinger_21CVMax_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Dodge_ViperACRVoodooII_2016",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Dodge_ViperGTS_1996",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Ferrari_512TR_1991",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ferrari_F50GT_1996",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ferrari_SF90StradaleAssettoFioranoF175_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ferrari_SF90XXStradale_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ford_Durty30Gold_2016",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Ford_GTMk4_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ford_MustangDarkHorse_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Ford_MustangMachE1400_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Ford_RingbrothersMustangMach1_1969",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Ford_RoushStage3Mustang_1996",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Ford_RuffianGalaxie500_1964",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 130, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Ford_RuffianGT40_1966",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Ford_Supervan4_2022",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 145, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Koenigsegg_JeskoAbsolut_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 35, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Lamborghini_DiabloSV_1997",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Lamborghini_LB634_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Lamborghini_TerzoMillennio_2017",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 85, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "McLaren_F1GT_1997",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "McLaren_Sabre_2022",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 75, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "McLaren_SpeedtailOrange_2019",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 25, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "McMurtry_Speirling_2022",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 500, "h": 500}
+  },
+  {
+    "CarDB": "MercedesAMG_GTBlackSeriesReward_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Nilu27_NILU_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Nissan_LBGTRType2_2017",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Pagani_HuayraR_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 35, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Pagani_ZondaRevolucion_2013",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 35, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Pininfarina_Battista_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Pontiac_FirebirdTransAm_1977",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 180, "z": 0, "w": 900, "h": 900}
+  },
+  {
+    "CarDB": "Pontiac_HorizonMotorsportsTransAm_1973",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 135, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Pontiac_RyansFirebirdTransAm_1978",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 135, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Porsche_911GT1StraBenversion_1996",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Porsche_911GT2_1993",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Porsche_911GT3RS992Tribute_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Porsche_Bisimoto935K3V_1984",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Porsche_MissionRConcept_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 135, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "RAM_1500TRX_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 190, "z": 0, "w": 550, "h": 550}
+  },
+  {
+    "CarDB": "Rimac_Nevera_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 65, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Toyota_SprinterTruenoAE86_1980",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 95, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Toyota_SupraMKIVF1_1994",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Zenvo_AuroraAgil_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 95, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Zenvo_TSRSGold_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 700, "h": 700}
   }
 ]
