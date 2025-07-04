@@ -1,5 +1,161 @@
 {
     "CollectionSlots": {
+        "coll_e_80series_Slot_1": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["NA"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 7.8,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": ["NA"]
+                }
+            ]
+        },
+        "coll_e_80series_Slot_2": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Buick_GNX_1987"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 7.5,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_80series_Slot_3": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Toyota_SprinterTruenoAE86_1980"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 7.9,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_80series_Slot_4": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["NA"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 7.6,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": ["NA"]
+                }
+            ]
+        },
+        "coll_e_80series_Slot_5": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["NA"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 8,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": ["NA"]
+                }
+            ]
+        },
+        "coll_e_80series_Slot_6": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Pontiac_FirebirdTransAm_1977"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_4000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 7.4,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": []
+                }
+            ]
+        },
         "coll_e_90shomology_Slot_1": {
             "milestones": [{
                     "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
@@ -468,6 +624,84 @@
                 }
             ]
         },
+        "coll_e_bttf_Slot_1": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["BTTF_TimeMachine1_1985"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_NITROUS",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 10,
+                    "milestoneTaskType": "Nitrous",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_bttf_Slot_2": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["BTTF_TimeMachine2_2015"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_NITROUS",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 10,
+                    "milestoneTaskType": "Nitrous",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_bttf_Slot_3": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["NA"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_NITROUS",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 10,
+                    "milestoneTaskType": "Nitrous",
+                    "names": ["NA"]
+                }
+            ]
+        },
         "coll_e_c8_Slot_1": {
             "milestones": [{
                     "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
@@ -749,6 +983,136 @@
                         }
                     ],
                     "milestoneTarget": 7.2,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_fnfleg3_Slot_1": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Jeep_GladiatorF9_2019"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_EARN_RP",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 10000,
+                    "milestoneTaskType": "EarnRP",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_fnfleg3_Slot_2": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Ford_MustangF3_1967"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_3000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 8.7,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_fnfleg3_Slot_3": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1250"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Mitsubishi_LancerEvolutionIXF3_2006"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_EARN_RP",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 10000,
+                    "milestoneTaskType": "EarnRP",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_fnfleg3_Slot_4": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1750"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["FnF_SupraMKIVF2_1994"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_3500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 8.5,
+                    "milestoneTaskType": "BestTime_HalfMile",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_fnfleg3_Slot_5": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1500"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Mazda_RX7F3_1993"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
+                    "milestoneCTAType": "MapScreen",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_3000", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 8.9,
                     "milestoneTaskType": "BestTime_HalfMile",
                     "names": []
                 }
@@ -1141,6 +1505,162 @@
                     "milestoneTarget": 40,
                     "milestoneTaskType": "Nitrous",
                     "names": []
+                }
+            ]
+        },
+        "coll_e_legendsrevival_Slot_1": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1250"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Ford_MustangShelbyGT350LPClassic_1965"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_EC_LEVEL",
+                    "milestoneCTAType": "AftermarketsUpgrade",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 35,
+                    "milestoneTaskType": "EcUpgrade",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_legendsrevival_Slot_2": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_1750"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["Lamborghini_MiuraSVLPClassic_1971"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_EC_LEVEL",
+                    "milestoneCTAType": "AftermarketsUpgrade",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 35,
+                    "milestoneTaskType": "EcUpgrade",
+                    "names": []
+                }
+            ]
+        },
+        "coll_e_legendsrevival_Slot_3": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["NA"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_EC_LEVEL",
+                    "milestoneCTAType": "AftermarketsUpgrade",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 35,
+                    "milestoneTaskType": "EcUpgrade",
+                    "names": ["NA"]
+                }
+            ]
+        },
+        "coll_e_legendsrevival_Slot_4": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["NA"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_EC_LEVEL",
+                    "milestoneCTAType": "AftermarketsUpgrade",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 35,
+                    "milestoneTaskType": "EcUpgrade",
+                    "names": ["NA"]
+                }
+            ]
+        },
+        "coll_e_legendsrevival_Slot_5": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["NA"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_EC_LEVEL",
+                    "milestoneCTAType": "AftermarketsUpgrade",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 35,
+                    "milestoneTaskType": "EcUpgrade",
+                    "names": ["NA"]
+                }
+            ]
+        },
+        "coll_e_legendsrevival_Slot_6": {
+            "milestones": [{
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_LOCK_IN",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
+                    "milestoneCTAType": "LockCar",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2000"]
+                        }
+                    ],
+                    "milestoneTarget": 1,
+                    "milestoneTaskType": "LockCar",
+                    "names": ["NA"]
+                }, {
+                    "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
+                    "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_EC_LEVEL",
+                    "milestoneCTAType": "AftermarketsUpgrade",
+                    "milestoneRewards": [{
+                            "rewardList": ["Collection_XP_2500", "RP_Boost_5"]
+                        }
+                    ],
+                    "milestoneTarget": 35,
+                    "milestoneTaskType": "EcUpgrade",
+                    "names": ["NA"]
                 }
             ]
         },
