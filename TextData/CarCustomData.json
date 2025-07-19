@@ -397,7 +397,7 @@
   },
   {
     "CarDB": "Honda_IndyTruck_2017",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 150, "z": 0, "w": 750, "h": 750}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 650, "h": 650}
   },
   {
     "CarDB": "Hyundai_NVision74Concept_2023",
@@ -978,5 +978,21 @@
   {
     "CarDB": "Zenvo_TSRSGold_2020",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "FnF_FlipCar_2013",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 95, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "AstonMartin_DBR22_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Bugatti_W16MistralWRE_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 65, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "DeTomaso_PanteraGT5S_1984",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 65, "z": 0, "w": 650, "h": 650}
   }
 ]
