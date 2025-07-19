@@ -11,7 +11,7 @@
                     ],
                     "milestoneTarget": 1,
                     "milestoneTaskType": "LockCar",
-                    "names": ["NA"]
+                    "names": ["DeTomaso_PanteraGT5S_1984"]
                 }, {
                     "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
                     "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
@@ -22,7 +22,7 @@
                     ],
                     "milestoneTarget": 7.8,
                     "milestoneTaskType": "BestTime_HalfMile",
-                    "names": ["NA"]
+                    "names": []
                 }
             ]
         },
@@ -115,7 +115,7 @@
                     ],
                     "milestoneTarget": 1,
                     "milestoneTaskType": "LockCar",
-                    "names": ["NA"]
+                    "names": ["Porsche_911TurboFlachbauC_1987"]
                 }, {
                     "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
                     "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
@@ -126,7 +126,7 @@
                     ],
                     "milestoneTarget": 8,
                     "milestoneTaskType": "BestTime_HalfMile",
-                    "names": ["NA"]
+                    "names": []
                 }
             ]
         },
