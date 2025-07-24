@@ -117,19 +117,6 @@
     "namehex": "#ffffff"
   },
   {
-    "name": "ᏃooᏨar",
-    "LND": 3,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 1,
-    "T4": 8,
-    "T5": 12,
-    "Total": 24,
-    "Points": 86,
-    "namehex": "#a61c00"
-  },
-  {
     "name": "BISBIS ☯",
     "LND": 0,
     "NonStarred": 0,
@@ -140,6 +127,19 @@
     "T5": 2,
     "Total": 23,
     "Points": 129,
+    "namehex": "#a61c00"
+  },
+  {
+    "name": "ᏃooᏨar",
+    "LND": 3,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 1,
+    "T4": 8,
+    "T5": 11,
+    "Total": 23,
+    "Points": 85,
     "namehex": "#0033cc"
   },
   {
@@ -689,19 +689,6 @@
     "namehex": "#ffffff"
   },
   {
-    "name": "RussianCzar01🍎🔄",
-    "LND": 0,
-    "NonStarred": 1,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 0,
-    "Total": 1,
-    "Points": 11,
-    "namehex": "#ffffff"
-  },
-  {
     "name": "ѕєвєк",
     "LND": 0,
     "NonStarred": 0,
@@ -907,7 +894,7 @@
     "T5": 0,
     "Total": 1,
     "Points": 3,
-    "namehex": "#7030a0"
+    "namehex": "#ffffff"
   },
   {
     "name": "Sαℓσ-Ƭitoun€",
@@ -920,7 +907,7 @@
     "T5": 0,
     "Total": 1,
     "Points": 3,
-    "namehex": "#ffffff"
+    "namehex": "#7030a0"
   },
   {
     "name": "ҜṠxＣＨＲ◎Ｎ◎Ｓ",
@@ -1132,6 +1119,19 @@
   },
   {
     "name": "BŁÅŻĘ",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 1,
+    "Total": 1,
+    "Points": 1,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "cannedmeat",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
@@ -1687,6 +1687,19 @@
     "T5": 1,
     "Total": 1,
     "Points": 1,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "RussianCzar01🍎🔄",
+    "LND": "",
+    "NonStarred": "",
+    "T1": "",
+    "T2": "",
+    "T3": "",
+    "T4": "",
+    "T5": "",
+    "Total": "",
+    "Points": "",
     "namehex": "#ffffff"
   }
 ]
