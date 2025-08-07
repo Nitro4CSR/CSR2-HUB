@@ -151,11 +151,13 @@ BMW_LBi8Reward_2017
 BMW_LBi8RewardRecycled_2017
 BMW_LBM4CoupeCrew_2014
 BMW_LBM4CoupeCrewRecycled_2014
+BMW_M1_1985
 BMW_M235iCoupe_2014
 BMW_M2Competition_2018
 BMW_M2CoupeG87Reward_2023
 BMW_M2CoupeG87RewardRecycled_2023
 BMW_M2G87MPerformance_2023
+BMW_M2G87TNR_2023
 BMW_M3E92CoupeGTSElite_2011
 BMW_M3E92CoupeGTSReward_2011
 BMW_M3E92CoupeGTSRewardRecycled_2011
@@ -196,6 +198,7 @@ Brabham_BT62RReward_2020
 Brabham_BT62RRewardRecycled_2020
 BTTF_TimeMachine1_1985
 BTTF_TimeMachine2_2015
+BTTF_TimeMachine3_1885
 Bugatti_AtlanticConcept_2015
 Bugatti_AtlanticConceptReward_2015
 Bugatti_AtlanticConceptRewardRecycled_2015
@@ -345,6 +348,7 @@ Dodge_HPE1200Demon_2018
 Dodge_HPE1200DemonGold_2018
 Dodge_RingbrosChargerCAPTIV_1969
 Dodge_RingbrothersChargerTUSK_1969
+Dodge_SpeedShopCharger_1968
 Dodge_SRTDemon170Reward_2023
 Dodge_SRTDemon170RewardRecycled_2023
 Dodge_ViperACRCrew_2016
@@ -539,6 +543,8 @@ Honda_S2000F2_2001
 Honda_S2000TNR_2001
 Hyundai_ElantraNReward_2022
 Hyundai_ElantraNRewardRecycled_2022
+Hyundai_IONIQ5NNPX1Reward_2024
+Hyundai_IONIQ5NNPX1RewardRecycled_2024
 Hyundai_Ioniq5NReward_2023
 Hyundai_Ioniq5NRewardRecycled_2023
 Hyundai_NVision74Concept_2023
@@ -676,6 +682,8 @@ Lamborghini_VenenoRoadsterGold_2014
 Lancia_DeltaHFIntegraleEvo2_1994
 Landrover_RangeRoverEvoqueCoupeCrew_2016
 Landrover_RangeRoverEvoqueCoupeCrewRecycled_2016
+Lexus_LC500ConvertibleReward_2017
+Lexus_LC500ConvertibleRewardRecycled_2017
 Lexus_LC500TNR_2018
 Lexus_LFA_2011
 Lexus_LFAGold_2011
@@ -832,6 +840,7 @@ Nissan_350ZF3_2003
 Nissan_350ZRocketBunny_2003
 Nissan_350ZRocketBunnyV2_2003
 Nissan_350ZRocketBunnyV2Easter_2003
+Nissan_ActiveSkylineGTRR33_1995
 Nissan_GTR_2017
 Nissan_GTR50_2021
 Nissan_GTR50Reward_2020
