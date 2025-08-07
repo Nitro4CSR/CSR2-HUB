@@ -33,9 +33,9 @@
     "T2": 2,
     "T3": 4,
     "T4": 20,
-    "T5": 82,
-    "Total": 108,
-    "Points": 215,
+    "T5": 83,
+    "Total": 109,
+    "Points": 216,
     "namehex": "#ffffff"
   },
   {
@@ -59,9 +59,9 @@
     "T2": 1,
     "T3": 4,
     "T4": 33,
-    "T5": 21,
-    "Total": 60,
-    "Points": 181,
+    "T5": 20,
+    "Total": 59,
+    "Points": 177,
     "namehex": "#ffffff"
   },
   {
@@ -403,6 +403,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "㋡ ＬＥＧＥＮＤ ㋡",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 1,
+    "T2": 0,
+    "T3": 1,
+    "T4": 0,
+    "T5": 2,
+    "Total": 4,
+    "Points": 16,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "ßαηgx⊕r",
     "LND": 0,
     "NonStarred": 3,
@@ -424,19 +437,6 @@
     "T3": 1,
     "T4": 1,
     "T5": 0,
-    "Total": 3,
-    "Points": 15,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "㋡ ＬＥＧＥＮＤ ㋡",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 1,
-    "T2": 0,
-    "T3": 1,
-    "T4": 0,
-    "T5": 1,
     "Total": 3,
     "Points": 15,
     "namehex": "#ffffff"
@@ -1080,19 +1080,6 @@
   },
   {
     "name": "911",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 1,
-    "Total": 1,
-    "Points": 1,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "Alpha",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
