@@ -260,6 +260,19 @@
     "namehex": "#974806"
   },
   {
+    "name": "GR-Phantom",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 2,
+    "T4": 1,
+    "T5": 5,
+    "Total": 8,
+    "Points": 18,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "ৡ ͜͡LAVEGA⇅",
     "LND": 0,
     "NonStarred": 0,
@@ -283,19 +296,6 @@
     "T5": 8,
     "Total": 8,
     "Points": 11,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "GR-Phantom",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 1,
-    "T4": 1,
-    "T5": 5,
-    "Total": 7,
-    "Points": 13,
     "namehex": "#ffffff"
   },
   {
@@ -777,19 +777,6 @@
     "T5": 0,
     "Total": 1,
     "Points": 7,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "Abi Isaakidis",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 1,
-    "T4": 0,
-    "T5": 0,
-    "Total": 1,
-    "Points": 5,
     "namehex": "#ffffff"
   },
   {
