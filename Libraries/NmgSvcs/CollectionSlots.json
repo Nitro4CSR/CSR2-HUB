@@ -89,7 +89,7 @@
                     ],
                     "milestoneTarget": 1,
                     "milestoneTaskType": "LockCar",
-                    "names": ["NA"]
+                    "names": ["BMW_M1_1985"]
                 }, {
                     "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
                     "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_BEST_TIME_HM",
@@ -100,7 +100,7 @@
                     ],
                     "milestoneTarget": 7.6,
                     "milestoneTaskType": "BestTime_HalfMile",
-                    "names": ["NA"]
+                    "names": []
                 }
             ]
         },
@@ -687,7 +687,7 @@
                     ],
                     "milestoneTarget": 1,
                     "milestoneTaskType": "LockCar",
-                    "names": ["NA"]
+                    "names": ["BTTF_TimeMachine3_1885"]
                 }, {
                     "ctaText": "TEXT_COLLECTIONS_MILESTONE_CTA_TAKE_ME_THERE",
                     "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_NITROUS",
@@ -698,7 +698,7 @@
                     ],
                     "milestoneTarget": 10,
                     "milestoneTaskType": "Nitrous",
-                    "names": ["NA"]
+                    "names": []
                 }
             ]
         },

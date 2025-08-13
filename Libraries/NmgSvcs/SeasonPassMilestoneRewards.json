@@ -23134,6 +23134,759 @@
                 },
                 "PremiumPlusHeadStartPoints": 400,
                 "RewardTabNavigationWidgetMilestones": [1, 14, 21, 33]
+            },
+            "Season42": {
+                "BonusTrack": {
+                    "brackets": [{
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 0,
+                                        "rewardType": 1
+                                    },
+                                    "rewardAmount": 25000
+                                }
+                            ],
+                            "threshold": 50
+                        }
+                    ]
+                },
+                "ExtraMilestoneStart": 24,
+                "FreeTrack": {
+                    "brackets": [{
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 1,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 5
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 2
+                                    },
+                                    "rewardAmount": 100
+                                }
+                            ],
+                            "threshold": 25
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 12
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 50
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 2,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 75
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 1
+                                    },
+                                    "rewardAmount": 50000
+                                }
+                            ],
+                            "threshold": 100
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 7
+                                    },
+                                    "rewardAmount": 100
+                                }
+                            ],
+                            "threshold": 150
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 1,
+                                        "rewardType": 13
+                                    },
+                                    "rewardAmount": 3
+                                }
+                            ],
+                            "threshold": 200
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 3,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 250
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 22
+                                    },
+                                    "rewardAmount": 1000
+                                }
+                            ],
+                            "threshold": 300
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 1
+                                    },
+                                    "rewardAmount": 100000
+                                }
+                            ],
+                            "threshold": 350
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 4,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 400
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 1
+                                    },
+                                    "rewardAmount": 100000
+                                }
+                            ],
+                            "threshold": 450
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 8
+                                    },
+                                    "rewardAmount": 50
+                                }
+                            ],
+                            "threshold": 500
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 2,
+                                        "rewardType": 13
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 600
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 4,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 700
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 22
+                                    },
+                                    "rewardAmount": 1000
+                                }
+                            ],
+                            "threshold": 800
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 12
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 900
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 13
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1000
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 5,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1100
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 9
+                                    },
+                                    "rewardAmount": 3
+                                }
+                            ],
+                            "threshold": 1200
+                        }, {
+                            "isFinalReward": true,
+                            "rewards": [{
+                                    "reward": {
+                                        "name": "Bentley_ContinentalGTSpeedRewardRecycled_2021",
+                                        "rewardType": 11
+                                    },
+                                    "rewardAmount": 1
+                                }, {
+                                    "reward": {
+                                        "name": "Lamborghini_UrusPerformanteRewardRecycled_2023",
+                                        "rewardType": 11
+                                    },
+                                    "rewardAmount": 1
+                                }, {
+                                    "reward": {
+                                        "name": "Porsche_718SpyderRSRewardRecycled_2024",
+                                        "rewardType": 11
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1300
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 12
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1420
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 13
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 1540
+                        }, {
+                            "rewards": [],
+                            "threshold": 1660
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 18
+                                    },
+                                    "rewardAmount": 50000
+                                }
+                            ],
+                            "threshold": 1800
+                        }, {
+                            "rewards": [],
+                            "threshold": 1950
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 18
+                                    },
+                                    "rewardAmount": 50000
+                                }
+                            ],
+                            "threshold": 2100
+                        }, {
+                            "rewards": [],
+                            "threshold": 2250
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 18
+                                    },
+                                    "rewardAmount": 50000
+                                }
+                            ],
+                            "threshold": 2450
+                        }, {
+                            "rewards": [],
+                            "threshold": 2650
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 18
+                                    },
+                                    "rewardAmount": 75000
+                                }
+                            ],
+                            "threshold": 2850
+                        }, {
+                            "rewards": [],
+                            "threshold": 3050
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 18
+                                    },
+                                    "rewardAmount": 100000
+                                }
+                            ],
+                            "threshold": 3300
+                        }
+                    ]
+                },
+                "NewPaidTrackRewards": [{
+                        "reward": {
+                            "name": "Apollo_IntensaEmozioneCarbon_2019",
+                            "rewardType": 11
+                        },
+                        "rewardAmount": 1
+                    }, {
+                        "reward": {
+                            "name": "Toyota_PandeMGRSupraV1_2020",
+                            "rewardType": 11
+                        },
+                        "rewardAmount": 1
+                    }, {
+                        "reward": {
+                            "name": "AstonMartin_Victor_2020",
+                            "rewardType": 11
+                        },
+                        "rewardAmount": 1
+                    }, {
+                        "reward": {
+                            "UpgradeStage": 6,
+                            "rewardType": 40
+                        },
+                        "rewardAmount": 3
+                    }, {
+                        "reward": {
+                            "rewardType": 39
+                        },
+                        "rewardAmount": 1
+                    }, {
+                        "reward": {
+                            "partGrade": 1,
+                            "rewardType": 38
+                        },
+                        "rewardAmount": 2
+                    }, {
+                        "reward": {
+                            "partGrade": 2,
+                            "rewardType": 38
+                        },
+                        "rewardAmount": 5
+                    }, {
+                        "reward": {
+                            "partGrade": 3,
+                            "rewardType": 38
+                        },
+                        "rewardAmount": 11
+                    }, {
+                        "reward": {
+                            "UpgradeStage": 2,
+                            "rewardType": 40
+                        },
+                        "rewardAmount": 2
+                    }, {
+                        "reward": {
+                            "UpgradeStage": 3,
+                            "rewardType": 40
+                        },
+                        "rewardAmount": 2
+                    }, {
+                        "reward": {
+                            "UpgradeStage": 4,
+                            "rewardType": 40
+                        },
+                        "rewardAmount": 3
+                    }, {
+                        "reward": {
+                            "UpgradeStage": 5,
+                            "rewardType": 40
+                        },
+                        "rewardAmount": 5
+                    }, {
+                        "reward": {
+                            "name": "Fg_season42",
+                            "rewardType": 44
+                        },
+                        "rewardAmount": 2
+                    }, {
+                        "reward": {
+                            "name": "Bg_season42",
+                            "rewardType": 45
+                        },
+                        "rewardAmount": 2
+                    }, {
+                        "reward": {
+                            "rewardType": 43
+                        },
+                        "rewardAmount": 30
+                    }
+                ],
+                "PaidTrack": {
+                    "brackets": [{
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 1,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 5
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 2,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 25
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 50
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 6,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 75
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 3,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 100
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 2,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 150
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 200
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 3,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 250
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 4,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 300
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 5,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 350
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 2,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 400
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 2,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 450
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 500
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 4,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 600
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 43
+                                    },
+                                    "rewardAmount": 10
+                                }
+                            ],
+                            "threshold": 700
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "name": "Bg_season42",
+                                        "rewardType": 45
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 800
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 2,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 900
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 4,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1000
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1100
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 6,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1200
+                        }, {
+                            "isFinalReward": true,
+                            "rewards": [{
+                                    "reward": {
+                                        "name": "Apollo_IntensaEmozioneCarbon_2019",
+                                        "rewardType": 11
+                                    },
+                                    "rewardAmount": 1
+                                }, {
+                                    "reward": {
+                                        "name": "Toyota_PandeMGRSupraV1_2020",
+                                        "rewardType": 11
+                                    },
+                                    "rewardAmount": 1
+                                }, {
+                                    "reward": {
+                                        "name": "AstonMartin_Victor_2020",
+                                        "rewardType": 11
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1300
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "name": "Fg_season42",
+                                        "rewardType": 44
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1420
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 5,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 1540
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 39
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1660
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 1800
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 1950
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "rewardType": 43
+                                    },
+                                    "rewardAmount": 20
+                                }
+                            ],
+                            "threshold": 2100
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 5,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 2250
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "name": "Bg_season42_pro",
+                                        "rewardType": 45
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 2450
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 5,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 2
+                                }
+                            ],
+                            "threshold": 2650
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "UpgradeStage": 6,
+                                        "rewardType": 40
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 2850
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "name": "Fg_season42_pro",
+                                        "rewardType": 44
+                                    },
+                                    "rewardAmount": 1
+                                }
+                            ],
+                            "threshold": 3050
+                        }, {
+                            "rewards": [{
+                                    "reward": {
+                                        "partGrade": 3,
+                                        "rewardType": 38
+                                    },
+                                    "rewardAmount": 5
+                                }
+                            ],
+                            "threshold": 3300
+                        }
+                    ]
+                },
+                "PremiumPlusBonusPointsPercent": {
+                    "bonus": 0,
+                    "daily": 0,
+                    "weekly": 12
+                },
+                "PremiumPlusHeadStartPoints": 400,
+                "RewardTabNavigationWidgetMilestones": [1, 14, 21, 33]
             }
         },
         "RookieRewardContainers": {

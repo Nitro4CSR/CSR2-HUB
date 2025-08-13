@@ -11127,7 +11127,7 @@
                 }, {
                     "CarDBKeys": ["Ford_Durty30_2016", "Ford_Durty30Gold_2016"]
                 }, {
-                    "CarDBKeys": ["Hyundai_Ioniq5NReward_2023", "Hyundai_Ioniq5NRewardRecycled_2023"]
+                    "CarDBKeys": ["Hyundai_IONIQ5NNPX1Reward_2024", "Hyundai_IONIQ5NNPX1RewardRecycled_2024", "Hyundai_Ioniq5NReward_2023", "Hyundai_Ioniq5NRewardRecycled_2023"]
                 }, {
                     "CarDBKeys": ["Nissan_GTRNISMOReward_2024", "Nissan_GTRNISMORewardRecycled_2024"]
                 }, {
@@ -11218,6 +11218,8 @@
                     "CarDBKeys": ["Ferrari_SF90XXSpiderReward_2024", "Ferrari_SF90XXSpiderRewardRecycled_2024"]
                 }, {
                     "CarDBKeys": ["Porsche_911STReward_2024", "Porsche_911STRewardRecycled_2024"]
+                }, {
+                    "CarDBKeys": ["Lexus_LC500ConvertibleReward_2017", "Lexus_LC500ConvertibleRewardRecycled_2017"]
                 }
             ]
         },
