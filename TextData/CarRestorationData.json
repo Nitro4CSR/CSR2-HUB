@@ -174,5 +174,27 @@
     "PAINT2": [24000, 35],
     "PAINT3": [0, 0],
     "PAINT4": [0, 0]
+  },
+  "Plymouth_SuperbirdLPClassic_1970": {
+    "WHEELS1": [11000, 16],
+    "ENGINE1": [13000, 18],
+    "ENGINE2": [0, 0],
+    "INTERIOR1": [15000, 22],
+    "INTERIOR2": [0, 0],
+    "PAINT1": [14000, 20],
+    "PAINT2": [16000, 24],
+    "PAINT3": [0, 0],
+    "PAINT4": [0, 0]
+  },
+  "Porsche_911CarreraRS27LPClassic_1973": {
+    "WHEELS1": [10000, 16],
+    "ENGINE1": [11000, 18],
+    "ENGINE2": [0, 0],
+    "INTERIOR1": [13000, 22],
+    "INTERIOR2": [0, 0],
+    "PAINT1": [12000, 20],
+    "PAINT2": [15000, 24],
+    "PAINT3": [0, 0],
+    "PAINT4": [0, 0]
   }
 }

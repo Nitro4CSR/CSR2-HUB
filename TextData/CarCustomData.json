@@ -653,7 +653,7 @@
   },
   {
     "CarDB": "Ford_MustangShelbyGT350LPClassic_1965",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
   },
   {
     "CarDB": "Lamborghini_MiuraSVLPClassic_1971",
@@ -994,5 +994,49 @@
   {
     "CarDB": "DeTomaso_PanteraGT5S_1984",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 65, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "BMW_M2G87TNR_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "BMW_M1_1985",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "BTTF_TimeMachine3_1885",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 575, "h": 575}
+  },
+  {
+    "CarDB": "Dodge_SpeedShopCharger_1968",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 175, "z": 0, "w": 800, "h": 800}
+  },
+  {
+    "CarDB": "Hyundai_IONIQ5NNPX1Reward_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Hyundai_IONIQ5NNPX1RewardRecycled_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Lexus_LC500ConvertibleReward_2017",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 550, "h": 550}
+  },
+  {
+    "CarDB": "Lexus_LC500ConvertibleRewardRecycled_2017",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 550, "h": 550}
+  },
+  {
+    "CarDB": "Nissan_ActiveSkylineGTRR33_1995",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 550, "h": 550}
+  },
+  {
+    "CarDB": "Plymouth_SuperbirdLPClassic_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 800, "h": 800}
+  },
+  {
+    "CarDB": "Porsche_911CarreraRS27LPClassic_1973",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 600, "h": 600}
   }
 ]

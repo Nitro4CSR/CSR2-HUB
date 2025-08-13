@@ -24,8 +24,8 @@
 	  "CARS": [
 		"Ford_MustangShelbyGT350LPClassic_1965",
 		"Lamborghini_MiuraSVLPClassic_1971",
-		"MYSTERY",
-		"MYSTERY",
+		"Plymouth_SuperbirdLPClassic_1970",
+		"Porsche_911CarreraRS27LPClassic_1973",
 		"MYSTERY",
 		"MYSTERY"
 	  ]
@@ -115,7 +115,8 @@
 	  "CARS": [
 		"Ford_MustangShelbyGT350LPClassic_1965",
 		"Lamborghini_MiuraSVLPClassic_1971",
-		"Shelby_CobraDaytonaLP_1964"
+		"Plymouth_SuperbirdLPClassic_1970",
+		"Porsche_911CarreraRS27LPClassic_1973"
 	  ]
 	}
   }
