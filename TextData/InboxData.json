@@ -1,0 +1,10 @@
+{
+    "1755160778": {
+		"ACTION": null,
+        "ACTOR": "T0_Jerry",
+        "HEADER_TEXT": "1.1.4 UPDATE",
+        "MESSAGE_TEXT": "Meet the hub update 1.1.4! \nWhat's new: \n-new INBOX feature \n-added display of collections without prize \n-added music from the 80s event \n-fix errors and optimization \n\nHappy racing!",
+        "THEME_BACKGR": "garage",
+        "THEME_COLOR": "#FFC900"
+    }
+}
