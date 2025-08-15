@@ -69,6 +69,7 @@
         "Google Play": "Google Play",
         "Graphics quality": "グラフィック品質",
         "I know it already": "既に知っています",
+        "INBOX": "メッセージ",
         "Ignore": "無視",
         "In order to ensure appropriate working, the app requires download of additional data, please check your internet connection and try again": "正常動作のため追加データが必要です。接続を確認し再試行してください",
         "Initializing database...": "データベースを初期化中...",
@@ -134,9 +135,11 @@
         "UPGRADE DETAILED INFO": "アップグレード詳細情報",
         "Updating the database...": "データベースを更新中...",
         "Very Low|Low|Medium|High|Very High|Ultra": "非常に低い|低い|中|高い|非常に高い|ウルトラ",
+        "WELCOME TO INBOX": "メッセージへようこそ",
         "WELCOME!": "ようこそ！",
         "WORLD RECORDS": "世界記録",
         "WR CAR RATING": "WR車両評価",
+        "We have implemented an INBOX so that you are aware of all important events in the CSR2-HUB!\r\n\r\n← Select a message to view": "CSR2-HUBでの重要なイベントをすべて把握できるようにメッセージ機能を実装しました！\r\n\r\n← 表示するメッセージを選択してください",
         "We will begin active development of the function from this section after collecting the necessary funds for it.": "必要な資金が集まり次第、このセクションの機能の積極的な開発を開始します。",
         "We're proud of the wealth of knowledge our community has accumulated and offer places to share and follow racing best practices!": "私たちはコミュニティが蓄積した豊富な知識を誇りに思い、レーシングのベストプラクティスを共有・追跡する場を提供します！",
         "Write to us: <b>csr2hub.service@gmail.com</b>": "お問い合わせ: <b>csr2hub.service@gmail.com</b>",
@@ -148,6 +151,8 @@
         "You can see the visual specs here": "ビジュアルスペックをここで確認",
         "You could have won this car in the following seasons:": "この車は以下のシーズンで獲得可能でした：",
         "Your app version is outdated. An update is required.": "アプリのバージョンが古いです。更新が必要です。",
-        "text coming soon...": "近日公開..."
+        "text coming soon...": "近日公開...",
+		"VIEWED": "閲覧済み",
+		"Meet the hub update 1.1.4! \nWhat's new: \n-new INBOX feature \n-added display of collections without prize \n-added music from the 80s event \n-fix errors and optimization \n\nHappy racing!": "ハブアップデート1.1.4をご紹介！ \n新機能: \n- 新メッセージ機能 \n- 報酬なしコレクションの表示追加 \n- 80年代イベントの音楽追加 \n- 不具合修正と最適化 \n\n楽しいレーシングを！"
     }
 }
