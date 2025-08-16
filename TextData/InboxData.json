@@ -1,4 +1,12 @@
 {
+	"1755345379": {
+		"ACTION": null,
+        "ACTOR": "T0_Jerry",
+        "HEADER_TEXT": "CSR2 5.8.2 UPDATE",
+        "MESSAGE_TEXT": "Meet the CSR2 update 5.8.2! \nWhat's new: \n-fix errors and optimization \n\nCheck Linker for download. Happy racing!",
+        "THEME_BACKGR": "default",
+        "THEME_COLOR": "#FFC900"
+    },
     "1755160778": {
 		"ACTION": null,
         "ACTOR": "T0_Jerry",

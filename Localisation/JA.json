@@ -83,6 +83,7 @@
         "Let's make the app even cooler together!": "一緒にアプリをもっとクールにしましょう！",
         "MILESTONE SEASON CAR": "マイルストーンシーズンカー",
         "Main campaigns": "メインキャンペーン",
+        "Meet the hub update 1.1.4! \nWhat's new: \n-new INBOX feature \n-added display of collections without prize \n-added music from the 80s event \n-fix errors and optimization \n\nHappy racing!": "ハブアップデート1.1.4をご紹介！ \n新機能: \n- 新メッセージ機能 \n- 報酬なしコレクションの表示追加 \n- 80年代イベントの音楽追加 \n- 不具合修正と最適化 \n\n楽しいレーシングを！",
         "Music clip": "音楽クリップ",
         "Music volume": "音楽音量",
         "NEW": "新着",
@@ -134,6 +135,7 @@
         "UPDATE REQUIRED": "更新が必要",
         "UPGRADE DETAILED INFO": "アップグレード詳細情報",
         "Updating the database...": "データベースを更新中...",
+        "VIEWED": "閲覧済み",
         "Very Low|Low|Medium|High|Very High|Ultra": "非常に低い|低い|中|高い|非常に高い|ウルトラ",
         "WELCOME TO INBOX": "メッセージへようこそ",
         "WELCOME!": "ようこそ！",
@@ -152,7 +154,6 @@
         "You could have won this car in the following seasons:": "この車は以下のシーズンで獲得可能でした：",
         "Your app version is outdated. An update is required.": "アプリのバージョンが古いです。更新が必要です。",
         "text coming soon...": "近日公開...",
-		"VIEWED": "閲覧済み",
-		"Meet the hub update 1.1.4! \nWhat's new: \n-new INBOX feature \n-added display of collections without prize \n-added music from the 80s event \n-fix errors and optimization \n\nHappy racing!": "ハブアップデート1.1.4をご紹介！ \n新機能: \n- 新メッセージ機能 \n- 報酬なしコレクションの表示追加 \n- 80年代イベントの音楽追加 \n- 不具合修正と最適化 \n\n楽しいレーシングを！"
+		"Meet the CSR2 update 5.8.2! \nWhat's new: \n-fix errors and optimization \n\nCheck Linker for download. Happy racing!": "CSR2アップデート5.8.2をご紹介！ \n新機能: \n- 不具合修正と最適化 \n\nダウンロードはLinkerで確認してください。楽しいレーシングを！"
     }
 }
