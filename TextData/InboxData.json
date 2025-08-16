@@ -1,7 +1,7 @@
 {
 	"1755345379": {
 		"ACTION": null,
-        "ACTOR": "T0_Jerry",
+        "ACTOR": "T0_JerryAlt",
         "HEADER_TEXT": "CSR2 5.8.2 UPDATE",
         "MESSAGE_TEXT": "Meet the CSR2 update 5.8.2! \nWhat's new: \n-fix errors and optimization \n\nCheck Linker for download. Happy racing!",
         "THEME_BACKGR": "default",
@@ -10,7 +10,7 @@
     "1755160778": {
 		"ACTION": null,
         "ACTOR": "T0_Jerry",
-        "HEADER_TEXT": "1.1.4 UPDATE",
+        "HEADER_TEXT": "HUB 1.1.4 UPDATE",
         "MESSAGE_TEXT": "Meet the hub update 1.1.4! \nWhat's new: \n-new INBOX feature \n-added display of collections without prize \n-added music from the 80s event \n-fix errors and optimization \n\nHappy racing!",
         "THEME_BACKGR": "garage",
         "THEME_COLOR": "#FFC900"
