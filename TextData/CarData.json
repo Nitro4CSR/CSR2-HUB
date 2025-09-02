@@ -8230,11 +8230,11 @@
   {
     "DBName": "BMW_M2G87TNR_2023_EC",
     "Vision": "Added into the game in OTA3 Update 5.8.0 and released in Season 240 (August 28, 2025 - September 11, 2025) as a free car in the Konduit's Tuner Pit event.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=Sz_9xKQwAHw",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.887,
     "WRdyno": 6.985,
     "WRpp": "713",
     "WRevo": 2453,
