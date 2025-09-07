@@ -1990,5 +1990,13 @@
     "PrizeCar": "Lexus_LC500ConvertibleReward_2017",
     "MilestoneCar": "Lexus_LC500ConvertibleRewardRecycled_2017",
     "PrestigeCar": "Subaru_BRZtSRewardRecycled_2024"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 250,
+    "KnownSeason": 242,
+    "PrizeCar": "Ferrari_12CilindriSpiderReward_2024",
+    "MilestoneCar": "Ferrari_12CilindriSpiderRewardRecycled_2024",
+    "PrestigeCar": "AstonMartin_V12VantageRRewardRecycled_2023"
   }
 ]
