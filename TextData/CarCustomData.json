@@ -329,7 +329,7 @@
   },
   {
     "CarDB": "Dodge_ChargerTantrumF9_1970",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 85, "z": 0, "w": 700, "h": 700}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 700, "h": 700}
   },
   {
     "CarDB": "Dodge_DemonChargerF9_2018",
@@ -1036,7 +1036,31 @@
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 800, "h": 800}
   },
   {
-    "CarDB": "Porsche_911CarreraRS27LPClassic_1973",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 600, "h": 600}
+    "CarDB": "Chevrolet_BlazinRodsChevelle_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Chevrolet_GarretCamaro_1972",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 130, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ferrari_12CilindriSpiderReward_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Ferrari_12CilindriSpiderRewardRecycled_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Honda_CivicEJ1F1_1993",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Plymouth_FuryJimBelvedere_1958",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Pontiac_FieroF9_1986",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 650, "h": 650}
   }
 ]
