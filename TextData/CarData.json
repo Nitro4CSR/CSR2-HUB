@@ -4519,7 +4519,7 @@
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
     "Star": "G.G.G.G.G",
-    "isEV": 0
+    "isEV": 1
   },
   {
     "DBName": "Hyundai_IONIQ5NNPX1Reward_2024",
@@ -4536,7 +4536,7 @@
     "WRNITRO": "225/4.0",
     "WRTIRE": "0/100",
     "Star": "P.P.P.P.P",
-    "isEV": 0
+    "isEV": 1
   },
   {
     "DBName": "Infiniti_Q60ProjectBlackSRewardRecycled_2018",
