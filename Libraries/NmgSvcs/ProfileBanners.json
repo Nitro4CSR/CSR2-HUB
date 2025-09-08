@@ -268,6 +268,14 @@
                 "CanFlip": true,
                 "Path": "BackGround\/seasonpass_bg_season42_pro"
             },
+            "Bg_season43": {
+                "CanFlip": true,
+                "Path": "BackGround\/seasonpass_bg_season43"
+            },
+            "Bg_season43_pro": {
+                "CanFlip": true,
+                "Path": "BackGround\/seasonpass_bg_season43_pro"
+            },
             "Default": {
                 "CanFlip": true,
                 "Path": "BackGround\/seasonpass_bg_free"
@@ -646,12 +654,27 @@
                 "CanFlip": true,
                 "Path": "ForeGround\/seasonpass_fg_season42_pro"
             },
+            "Fg_season43": {
+                "Path": "ForeGround\/seasonpass_fg_season43"
+            },
+            "Fg_season43_pro": {
+                "CanFlip": true,
+                "Path": "ForeGround\/seasonpass_fg_season43_pro"
+            },
             "Fg_the_crow_tribute": {
                 "Path": "ForeGround\/fg_the_crow_tribute"
+            },
+            "fg_ART5_Detroit": {
+                "CanFlip": true,
+                "Path": "ForeGround\/fg_ART5_Detroit"
             },
             "fg_ART5_Miami": {
                 "CanFlip": true,
                 "Path": "ForeGround\/fg_ART5_Miami"
+            },
+            "fg_ART5_ST_Louis": {
+                "CanFlip": true,
+                "Path": "ForeGround\/fg_ART5_ST_Louis"
             },
             "fg_astonmartin_2": {
                 "CanFlip": true,
