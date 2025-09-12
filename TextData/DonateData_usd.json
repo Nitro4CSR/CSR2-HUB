@@ -1,9 +1,9 @@
 {
-	"url": "NONE",
+	"url": "https://www.paypal.com/donate/?hosted_button_id=V8YXZVRBKY7WS",
     "MAIN": [
 		{
 			"goal": "NEW SECTION: CREWS LEADERBOARD - table of crews rankings by RP for each season",
-			"collected": 0,
+			"collected": 18,
 			"needed": 500
 		},
 		{
@@ -52,6 +52,20 @@
 			"goal": "Fast snap-full export image from autoshow, just by pressing the image for a few seconds",
 			"collected": 0,
 			"needed": 100
+		}
+	],
+	"LEADERBOARD": [
+		{
+			"name": "Freixon A.",
+			"total": 18
+		},
+		{
+			"name": "You could be here!",
+			"total": 0
+		},
+		{
+			"name": "You could be here!",
+			"total": 0
 		}
 	]
 }
