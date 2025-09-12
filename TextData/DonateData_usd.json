@@ -47,11 +47,6 @@
 			"goal": "Redirect from AUTOSHOW to WORLD RECORDS (viewing the car's position in the rating list)",
 			"collected": 0,
 			"needed": 100
-		},
-		{
-			"goal": "Fast snap-full export image from autoshow, just by pressing the image for a few seconds",
-			"collected": 0,
-			"needed": 100
 		}
 	],
 	"LEADERBOARD": [
