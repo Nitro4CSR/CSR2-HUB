@@ -1,14 +1,20 @@
 [   
 	{
+        "version": "1.1.5",
+        "info": "- DONATE: enabled and top-donates added\n- AUTOSHOW: added fast snap-full export\n- gitbox-mini: updated visual special for gacha imports\n- added special hyperlink to our email\n- fix errors and optimization\n- other minor changes",
+        "action": "https://drive.google.com/file/d/18PRkGJrubMG-GF011YJO-ekXaKPBD9ff/view?usp=sharing",
+		"date": "12/09/25"
+    },
+	{
         "version": "1.1.4",
         "info": "- new INBOX feature\n- added display of collections without prize\n- added music from the 80s event\n- fix errors and optimization\n- other minor changes",
-        "action": "https://drive.google.com/file/d/1k9odpmqPWIWw7Kn49T1Qly9RW-oZYQpn/view?usp=sharing",
-		"date": "15/07/25"
+        "action": "NONE",
+		"date": "15/08/25"
     },
     {
         "version": "1.1.3",
         "info": "- added DONATE section\n- added LINKER section\n- fix release objs ignore (gitbox)\n- removed gacha from main-gitbox handler\n- added zoom camera\n- bug fixes & optimization\n- other minor changes",
-        "action": "",
+        "action": "NONE",
 		"date": "05/07/25"
     },
 	{
