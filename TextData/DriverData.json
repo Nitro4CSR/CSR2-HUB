@@ -46,9 +46,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 11,
-    "T5": 77,
-    "Total": 89,
-    "Points": 159,
+    "T5": 76,
+    "Total": 88,
+    "Points": 155,
     "namehex": "#ffffff"
   },
   {
@@ -312,6 +312,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "㋡ ＬＥＧＥＮＤ ㋡",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 1,
+    "T2": 0,
+    "T3": 1,
+    "T4": 0,
+    "T5": 4,
+    "Total": 6,
+    "Points": 18,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "Dei69",
     "LND": 0,
     "NonStarred": 0,
@@ -374,19 +387,6 @@
     "T5": 1,
     "Total": 5,
     "Points": 21,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "㋡ ＬＥＧＥＮＤ ㋡",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 1,
-    "T2": 0,
-    "T3": 1,
-    "T4": 0,
-    "T5": 3,
-    "Total": 5,
-    "Points": 17,
     "namehex": "#ffffff"
   },
   {
