@@ -111,9 +111,9 @@
     "T2": 0,
     "T3": 0,
     "T4": 3,
-    "T5": 29,
-    "Total": 32,
-    "Points": 50,
+    "T5": 30,
+    "Total": 33,
+    "Points": 51,
     "namehex": "#ffffff"
   },
   {
@@ -143,6 +143,19 @@
     "namehex": "#a61c00"
   },
   {
+    "name": "☆ Fαταℓ",
+    "LND": 2,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 5,
+    "T4": 3,
+    "T5": 12,
+    "Total": 22,
+    "Points": 75,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "иєχтєяα",
     "LND": 0,
     "NonStarred": 0,
@@ -153,19 +166,6 @@
     "T5": 6,
     "Total": 21,
     "Points": 68,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "☆ Fαταℓ",
-    "LND": 2,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 5,
-    "T4": 3,
-    "T5": 10,
-    "Total": 20,
-    "Points": 73,
     "namehex": "#ffffff"
   },
   {
@@ -267,9 +267,9 @@
     "T2": 0,
     "T3": 2,
     "T4": 1,
-    "T5": 5,
-    "Total": 8,
-    "Points": 18,
+    "T5": 6,
+    "Total": 9,
+    "Points": 19,
     "namehex": "#ffffff"
   },
   {
