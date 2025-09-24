@@ -19,10 +19,10 @@
     "T1": 1,
     "T2": 3,
     "T3": 9,
-    "T4": 25,
-    "T5": 71,
-    "Total": 117,
-    "Points": 370,
+    "T4": 26,
+    "T5": 72,
+    "Total": 119,
+    "Points": 374,
     "namehex": "#ffb300"
   },
   {
@@ -195,6 +195,19 @@
     "namehex": "#0093f0"
   },
   {
+    "name": "GR-Phantom",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 2,
+    "T4": 1,
+    "T5": 10,
+    "Total": 13,
+    "Points": 26,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "疯狂的卡拉恰",
     "LND": 0,
     "NonStarred": 0,
@@ -258,19 +271,6 @@
     "Total": 10,
     "Points": 15,
     "namehex": "#974806"
-  },
-  {
-    "name": "GR-Phantom",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 2,
-    "T4": 1,
-    "T5": 6,
-    "Total": 9,
-    "Points": 19,
-    "namehex": "#ffffff"
   },
   {
     "name": "ৡ ͜͡LAVEGA⇅",
