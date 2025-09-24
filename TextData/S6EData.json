@@ -8320,6 +8320,22 @@
     "S6ETRANSMISSION": 8.667
   },
   {
+    "DBName": "Chevrolet_BlazinRodsChevelle_1970",
+    "S5-PP": 698,
+    "S5EVO": 2510,
+    "S5FD": "2.00",
+    "S5NITRO": "150/2.0",
+    "S5TIRE": "0/100",
+    "S5DYNO": 7.856,
+    "S6EENGINE": 7.716,
+    "S6ETURBO": 7.805,
+    "S6EINTAKE": 7.789,
+    "S6ENITRO": 7.716,
+    "S6EBODY": 7.562,
+    "S6ETIRES": 7.687,
+    "S6ETRANSMISSION": 7.497
+  },
+  {
     "DBName": "Chevrolet_C10RewardRecycled_2016",
     "S5-PP": 700,
     "S5EVO": 1975,
@@ -8686,6 +8702,22 @@
     "S6EBODY": 8.335,
     "S6ETIRES": 8.409,
     "S6ETRANSMISSION": 8.426
+  },
+  {
+    "DBName": "Chevrolet_GarretCamaro_1972",
+    "S5-PP": 698,
+    "S5EVO": 2300,
+    "S5FD": "2.09",
+    "S5NITRO": "150/2.0",
+    "S5TIRE": "0/100",
+    "S5DYNO": 8.254,
+    "S6EENGINE": 8.112,
+    "S6ETURBO": 8.183,
+    "S6EINTAKE": 8.181,
+    "S6ENITRO": 8.129,
+    "S6EBODY": 8,
+    "S6ETIRES": 8.069,
+    "S6ETRANSMISSION": 7.853
   },
   {
     "DBName": "Chevrolet_GreeningCamaroIROCZ_1985",
@@ -9710,6 +9742,38 @@
     "S6EBODY": 8.281,
     "S6ETIRES": 8.411,
     "S6ETRANSMISSION": 8.393
+  },
+  {
+    "DBName": "Ferrari_12CilindriSpiderRewardRecycled_2024",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Ferrari_12CilindriSpiderReward_2024",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
   },
   {
     "DBName": "Ferrari_296GTB_2022",
@@ -11664,6 +11728,38 @@
     "S6ETRANSMISSION": 9.265
   },
   {
+    "DBName": "Honda_NSXTNR_1992",
+    "S5-PP": 698,
+    "S5EVO": 1727,
+    "S5FD": "2.33",
+    "S5NITRO": "150/2.0",
+    "S5TIRE": "0/100",
+    "S5DYNO": 9.4,
+    "S6EENGINE": 9.218,
+    "S6ETURBO": 9.284,
+    "S6EINTAKE": 9.346,
+    "S6ENITRO": 9.128,
+    "S6EBODY": 9.069,
+    "S6ETIRES": 9.179,
+    "S6ETRANSMISSION": 9.186
+  },
+  {
+    "DBName": "Honda_NSXTNR_1992_EC",
+    "S5-PP": 698,
+    "S5EVO": 2252,
+    "S5FD": "2.07",
+    "S5NITRO": "150/2.0",
+    "S5TIRE": "0/100",
+    "S5DYNO": 8.351,
+    "S6EENGINE": 8.222,
+    "S6ETURBO": 8.242,
+    "S6EINTAKE": 8.299,
+    "S6ENITRO": 8.148,
+    "S6EBODY": 8.021,
+    "S6ETIRES": 8.123,
+    "S6ETRANSMISSION": 8.142
+  },
+  {
     "DBName": "Honda_CivicTypeRTNR_2017",
     "S5-PP": 698,
     "S5EVO": 1679,
@@ -11696,6 +11792,22 @@
     "S6ETRANSMISSION": 7.908
   },
   {
+    "DBName": "Honda_CivicEJ1F1_1993",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
     "DBName": "Honda_IndyTruck_2017",
     "S5-PP": 698,
     "S5EVO": 2275,
@@ -11710,38 +11822,6 @@
     "S6EBODY": 7.999,
     "S6ETIRES": 8.022,
     "S6ETRANSMISSION": 8.155
-  },
-  {
-    "DBName": "Honda_NSXTNR_1992",
-    "S5-PP": 698,
-    "S5EVO": 1727,
-    "S5FD": "2.33",
-    "S5NITRO": "150/2.0",
-    "S5TIRE": "0/100",
-    "S5DYNO": 9.4,
-    "S6EENGINE": 9.218,
-    "S6ETURBO": 9.284,
-    "S6EINTAKE": 9.346,
-    "S6ENITRO": 9.128,
-    "S6EBODY": 9.069,
-    "S6ETIRES": 9.179,
-    "S6ETRANSMISSION": 9.186
-  },
-  {
-    "DBName": "Honda_NSXTNR_1992_EC",
-    "S5-PP": 698,
-    "S5EVO": 2252,
-    "S5FD": "2.07",
-    "S5NITRO": "150/2.0",
-    "S5TIRE": "0/100",
-    "S5DYNO": 8.351,
-    "S6EENGINE": 8.222,
-    "S6ETURBO": 8.242,
-    "S6EINTAKE": 8.299,
-    "S6ENITRO": 8.148,
-    "S6EBODY": 8.021,
-    "S6ETIRES": 8.123,
-    "S6ETRANSMISSION": 8.142
   },
   {
     "DBName": "Honda_S2000TNR_2001",
@@ -16384,6 +16464,22 @@
     "S6ETRANSMISSION": 9.748
   },
   {
+    "DBName": "Plymouth_FuryJimBelvedere_1958",
+    "S5-PP": 698,
+    "S5EVO": 2459,
+    "S5FD": "2.00",
+    "S5NITRO": "150/2.0",
+    "S5TIRE": "0/100",
+    "S5DYNO": 7.951,
+    "S6EENGINE": 7.866,
+    "S6ETURBO": 7.942,
+    "S6EINTAKE": 7.928,
+    "S6ENITRO": 7.879,
+    "S6EBODY": 7.702,
+    "S6ETIRES": 7.81,
+    "S6ETRANSMISSION": 7.746
+  },
+  {
     "DBName": "Plymouth_FormulaSBarracuda_1968",
     "S5-PP": 696,
     "S5EVO": 1981,
@@ -18928,39 +19024,7 @@
     "S6ETRANSMISSION": 8.941
   },
   {
-    "DBName": "Chevrolet_BlazinRodsChevelle_1970",
-    "S5-PP": 698,
-    "S5EVO": 2510,
-    "S5FD": "2.00",
-    "S5NITRO": "150/2.0",
-    "S5TIRE": "0/100",
-    "S5DYNO": 7.856,
-    "S6EENGINE": 7.716,
-    "S6ETURBO": 7.805,
-    "S6EINTAKE": 7.789,
-    "S6ENITRO": 7.716,
-    "S6EBODY": 7.562,
-    "S6ETIRES": 7.687,
-    "S6ETRANSMISSION": 7.497
-  },
-  {
-    "DBName": "Chevrolet_GarretCamaro_1972",
-    "S5-PP": 698,
-    "S5EVO": 2300,
-    "S5FD": "2.09",
-    "S5NITRO": "150/2.0",
-    "S5TIRE": "0/100",
-    "S5DYNO": 8.254,
-    "S6EENGINE": 8.112,
-    "S6ETURBO": 8.183,
-    "S6EINTAKE": 8.181,
-    "S6ENITRO": 8.129,
-    "S6EBODY": 8,
-    "S6ETIRES": 8.069,
-    "S6ETRANSMISSION": 7.853
-  },
-  {
-    "DBName": "Ferrari_12CilindriSpiderRewardRecycled_2024",
+    "DBName": "AstonMartin_VanquishVRewardRecycled_2025",
     "S5-PP": "0",
     "S5EVO": "0",
     "S5FD": "0.00",
@@ -18976,7 +19040,7 @@
     "S6ETRANSMISSION": "0.000"
   },
   {
-    "DBName": "Ferrari_12CilindriSpiderReward_2024",
+    "DBName": "AstonMartin_VanquishVReward_2025",
     "S5-PP": "0",
     "S5EVO": "0",
     "S5FD": "0.00",
@@ -18992,7 +19056,7 @@
     "S6ETRANSMISSION": "0.000"
   },
   {
-    "DBName": "Honda_CivicEJ1F1_1993",
+    "DBName": "Chevrolet_PickUpVerminsDinerOG_1936",
     "S5-PP": "0",
     "S5EVO": "0",
     "S5FD": "0.00",
@@ -19008,19 +19072,35 @@
     "S6ETRANSMISSION": "0.000"
   },
   {
-    "DBName": "Plymouth_FuryJimBelvedere_1958",
-    "S5-PP": 698,
-    "S5EVO": 2459,
-    "S5FD": "2.00",
-    "S5NITRO": "150/2.0",
-    "S5TIRE": "0/100",
-    "S5DYNO": 7.951,
-    "S6EENGINE": 7.866,
-    "S6ETURBO": 7.942,
-    "S6EINTAKE": 7.928,
-    "S6ENITRO": 7.879,
-    "S6EBODY": 7.702,
-    "S6ETIRES": 7.81,
-    "S6ETRANSMISSION": 7.746
+    "DBName": "Chevrolet_ZwygartNova_1967",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Dodge_ChargerRedeyeSplatter_2023",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
   }
 ]
