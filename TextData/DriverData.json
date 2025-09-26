@@ -45,10 +45,10 @@
     "T1": 0,
     "T2": 0,
     "T3": 0,
-    "T4": 11,
+    "T4": 12,
     "T5": 76,
-    "Total": 88,
-    "Points": 155,
+    "Total": 89,
+    "Points": 158,
     "namehex": "#ffffff"
   },
   {
@@ -98,9 +98,9 @@
     "T2": 0,
     "T3": 2,
     "T4": 3,
-    "T5": 29,
-    "Total": 34,
-    "Points": 60,
+    "T5": 28,
+    "Total": 33,
+    "Points": 59,
     "namehex": "#ff01a4"
   },
   {
@@ -299,6 +299,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "㋡ ＬＥＧＥＮＤ ㋡",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 1,
+    "T2": 0,
+    "T3": 1,
+    "T4": 0,
+    "T5": 5,
+    "Total": 7,
+    "Points": 19,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "sǝpɐlqメ逆刄",
     "LND": 1,
     "NonStarred": 0,
@@ -309,19 +322,6 @@
     "T5": 2,
     "Total": 6,
     "Points": 28,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "㋡ ＬＥＧＥＮＤ ㋡",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 1,
-    "T2": 0,
-    "T3": 1,
-    "T4": 0,
-    "T5": 4,
-    "Total": 6,
-    "Points": 18,
     "namehex": "#ffffff"
   },
   {
