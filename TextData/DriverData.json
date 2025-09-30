@@ -20,9 +20,9 @@
     "T2": 3,
     "T3": 9,
     "T4": 26,
-    "T5": 72,
-    "Total": 119,
-    "Points": 374,
+    "T5": 71,
+    "Total": 118,
+    "Points": 373,
     "namehex": "#ffb300"
   },
   {
@@ -689,19 +689,6 @@
     "namehex": "#ffffff"
   },
   {
-    "name": "RussianCzar01🍎🔄",
-    "LND": 0,
-    "NonStarred": 1,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 0,
-    "Total": 1,
-    "Points": 11,
-    "namehex": "#ffffff"
-  },
-  {
     "name": "ѕєвєк",
     "LND": 0,
     "NonStarred": 0,
@@ -976,6 +963,19 @@
   },
   {
     "name": "←nomorerookie→",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 1,
+    "Total": 1,
+    "Points": 1,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "↼∞☼ৡ͜͡★¹³₂₇»The༒Slider«⇀",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
@@ -1687,6 +1687,19 @@
     "T5": 1,
     "Total": 1,
     "Points": 1,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "RussianCzar01🍎🔄",
+    "LND": "",
+    "NonStarred": "",
+    "T1": "",
+    "T2": "",
+    "T3": "",
+    "T4": "",
+    "T5": "",
+    "Total": "",
+    "Points": "",
     "namehex": "#ffffff"
   }
 ]
