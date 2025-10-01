@@ -482,18 +482,18 @@
   {
     "DBName": "MercedesBenz_300SLClassic_1954_UR",
     "S5-PP": 451,
-    "S5EVO": "0",
+    "S5EVO": 246,
     "S5FD": "0.00",
     "S5NITRO": "0/0.0",
     "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5DYNO": 11.541,
+    "S6EENGINE": 11.495,
+    "S6ETURBO": 11.483,
+    "S6EINTAKE": 11.486,
+    "S6ENITRO": 11.498,
+    "S6EBODY": 11.409,
+    "S6ETIRES": 11.42,
+    "S6ETRANSMISSION": 11.435
   },
   {
     "DBName": "MercedesBenz_300SLClassic_1954",
@@ -506,10 +506,10 @@
     "S6EENGINE": 9.745,
     "S6ETURBO": 9.8,
     "S6EINTAKE": 9.774,
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6ENITRO": 9.785,
+    "S6EBODY": 9.738,
+    "S6ETIRES": 9.84,
+    "S6ETRANSMISSION": 9.748
   },
   {
     "DBName": "MercedesBenz_300SLClassic_1954_EC",
@@ -737,7 +737,7 @@
   },
   {
     "DBName": "Audi_RS5Coupe_2014",
-    "S5-PP": "0",
+    "S5-PP": 545,
     "S5EVO": "0",
     "S5FD": "0.00",
     "S5NITRO": "0/0.0",
