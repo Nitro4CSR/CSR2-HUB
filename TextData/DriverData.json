@@ -689,6 +689,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "RussianCzar01🍎🔄",
+    "LND": 0,
+    "NonStarred": 1,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 0,
+    "Total": 1,
+    "Points": 11,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "ѕєвєк",
     "LND": 0,
     "NonStarred": 0,
@@ -1687,19 +1700,6 @@
     "T5": 1,
     "Total": 1,
     "Points": 1,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "RussianCzar01🍎🔄",
-    "LND": "",
-    "NonStarred": "",
-    "T1": "",
-    "T2": "",
-    "T3": "",
-    "T4": "",
-    "T5": "",
-    "Total": "",
-    "Points": "",
     "namehex": "#ffffff"
   }
 ]
