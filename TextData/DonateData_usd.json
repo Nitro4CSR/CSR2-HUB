@@ -3,12 +3,12 @@
     "MAIN": [
 		{
 			"goal": "NEW SECTION: CREWS LEADERBOARD - table of crews rankings by RP for each season",
-			"collected": 18,
+			"collected": 0,
 			"needed": 500
 		},
 		{
 			"goal": "AUTOSHOW: S6 effects overview (configurator)",
-			"collected": 0,
+			"collected": 68,
 			"needed": 300
 		},
 		{
@@ -51,12 +51,12 @@
 	],
 	"LEADERBOARD": [
 		{
-			"name": "Freixon A.",
-			"total": 18
+			"name": "Sebastien Bernard",
+			"total": 50
 		},
 		{
-			"name": "You could be here!",
-			"total": 0
+			"name": "Freycksson",
+			"total": 18
 		},
 		{
 			"name": "You could be here!",

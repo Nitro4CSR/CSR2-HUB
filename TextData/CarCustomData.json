@@ -1062,5 +1062,25 @@
   {
     "CarDB": "Pontiac_FieroF9_1986",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "AstonMartin_VanquishVReward_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "AstonMartin_VanquishVRewardRecycled_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Chevrolet_PickUpVerminsDinerOG_1936",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Dodge_ChargerRedeyeSplatter_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Chevrolet_ZwygartNova_1967",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 600, "h": 600}
   }
 ]

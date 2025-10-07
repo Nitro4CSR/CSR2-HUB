@@ -1998,5 +1998,29 @@
     "PrizeCar": "Ferrari_12CilindriSpiderReward_2024",
     "MilestoneCar": "Ferrari_12CilindriSpiderRewardRecycled_2024",
     "PrestigeCar": "AstonMartin_V12VantageRRewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 251,
+    "KnownSeason": 243,
+    "PrizeCar": "AstonMartin_VanquishVReward_2025",
+    "MilestoneCar": "AstonMartin_VanquishVRewardRecycled_2025",
+    "PrestigeCar": "Shelby_SuperSnakeS650RewardRecycled_2024"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 252,
+    "KnownSeason": 244,
+    "PrizeCar": "Pagani_ZondaCinqueRoadsterReward_2010",
+    "MilestoneCar": "Pagani_ZondaCinqueRoadsterRewardRecycled_2010",
+    "PrestigeCar": "BMW_M3E92CoupeGTSRewardRecycled_2011"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 253,
+    "KnownSeason": 245,
+    "PrizeCar": "Toyota_GRYarisReward_2021",
+    "MilestoneCar": "Toyota_GRYarisRewardRecycled_2021",
+    "PrestigeCar": "Chevrolet_LMCorvetteZ06RewardRecycled_2023"
   }
 ]
