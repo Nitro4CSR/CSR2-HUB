@@ -1842,18 +1842,18 @@
   {
     "DBName": "Shelby_Cobra427SCClassic_1965_UR",
     "S5-PP": 547,
-    "S5EVO": "0",
+    "S5EVO": 389,
     "S5FD": "0.00",
     "S5NITRO": "0/0.0",
     "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5DYNO": 9.814,
+    "S6EENGINE": 9.725,
+    "S6ETURBO": 9.763,
+    "S6EINTAKE": 9.773,
+    "S6ENITRO": 9.872,
+    "S6EBODY": 9.596,
+    "S6ETIRES": 9.629,
+    "S6ETRANSMISSION": 9.656
   },
   {
     "DBName": "Shelby_Cobra427SCClassic_1965",
@@ -1865,11 +1865,11 @@
     "S5DYNO": 9.771,
     "S6EENGINE": 9.694,
     "S6ETURBO": 9.729,
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6EINTAKE": 9.737,
+    "S6ENITRO": 9.965,
+    "S6EBODY": 9.591,
+    "S6ETIRES": 9.655,
+    "S6ETRANSMISSION": 9.64
   },
   {
     "DBName": "Shelby_Cobra427SCClassic_1965_EC",
