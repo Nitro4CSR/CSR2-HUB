@@ -2014,13 +2014,5 @@
     "PrizeCar": "Pagani_ZondaCinqueRoadsterReward_2010",
     "MilestoneCar": "Pagani_ZondaCinqueRoadsterRewardRecycled_2010",
     "PrestigeCar": "BMW_M3E92CoupeGTSRewardRecycled_2011"
-  },
-  {
-    "Type": 4,
-    "CodeSeason": 253,
-    "KnownSeason": 245,
-    "PrizeCar": "Toyota_GRYarisReward_2021",
-    "MilestoneCar": "Toyota_GRYarisRewardRecycled_2021",
-    "PrestigeCar": "Chevrolet_LMCorvetteZ06RewardRecycled_2023"
   }
 ]
