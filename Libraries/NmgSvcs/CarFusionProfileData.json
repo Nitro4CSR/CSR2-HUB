@@ -328,7 +328,7 @@
                 }, {
                     "CarDBKeys": ["Ferrari_PortofinoReward_2018", "Ferrari_PortofinoRewardRecycled_2018"]
                 }, {
-                    "CarDBKeys": ["Lamborghini_LBMurcielagoSVReward_2009", "Lamborghini_LBMurcielagoSVRewardRecycled_2009", "Lamborghini_MurcielagoSVReward_2009", "Lamborghini_MurcielagoSVRewardRecycled_2009"]
+                    "CarDBKeys": ["Lamborghini_LBMurcielagoSVReward_2009", "Lamborghini_LBMurcielagoSVRewardRecycled_2009", "Lamborghini_LBWKMurcielagoReward_2009", "Lamborghini_LBWKMurcielagoRewardRecycled_2009", "Lamborghini_MurcielagoSVReward_2009", "Lamborghini_MurcielagoSVRewardRecycled_2009"]
                 }, {
                     "CarDBKeys": ["MercedesAMG_GTBlackSeriesReward_2020", "MercedesAMG_GTBlackSeriesRewardRecycled_2020"]
                 }, {
@@ -547,6 +547,8 @@
                     "CarDBKeys": ["AstonMartin_VanquishVReward_2025", "AstonMartin_VanquishVRewardRecycled_2025"]
                 }, {
                     "CarDBKeys": ["Chevrolet_PickUpVerminsDiner_1936", "Chevrolet_PickUpVerminsDinerOG_1936"]
+                }, {
+                    "CarDBKeys": ["Toyota_GRYarisReward_2021", "Toyota_GRYarisRewardRecycled_2021"]
                 }
             ]
         },

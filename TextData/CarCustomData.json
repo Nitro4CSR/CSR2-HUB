@@ -432,10 +432,6 @@
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 85, "z": 0, "w": 700, "h": 700}
   },
   {
-    "CarDB": "Lamborghini_SC63LMDH_2024",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 600, "h": 600}
-  },
-  {
     "CarDB": "Lamborghini_TerzoMillennio_2017",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 95, "z": 0, "w": 600, "h": 600}
   },
@@ -569,7 +565,7 @@
   },
   {
     "CarDB": "RAM_1500TRX_2021",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 150, "z": 0, "w": 800, "h": 800}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 200, "z": 0, "w": 650, "h": 650}
   },
   {
     "CarDB": "SCG_007_2021",
@@ -1009,7 +1005,7 @@
   },
   {
     "CarDB": "Dodge_SpeedShopCharger_1968",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 175, "z": 0, "w": 800, "h": 800}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 650, "h": 650}
   },
   {
     "CarDB": "Hyundai_IONIQ5NNPX1Reward_2024",
@@ -1044,18 +1040,6 @@
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 130, "z": 0, "w": 650, "h": 650}
   },
   {
-    "CarDB": "Ferrari_12CilindriSpiderReward_2024",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
-  },
-  {
-    "CarDB": "Ferrari_12CilindriSpiderRewardRecycled_2024",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
-  },
-  {
-    "CarDB": "Honda_CivicEJ1F1_1993",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
-  },
-  {
     "CarDB": "Plymouth_FuryJimBelvedere_1958",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
   },
@@ -1064,23 +1048,27 @@
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 80, "z": 0, "w": 650, "h": 650}
   },
   {
-    "CarDB": "AstonMartin_VanquishVReward_2025",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
-  },
-  {
-    "CarDB": "AstonMartin_VanquishVRewardRecycled_2025",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
-  },
-  {
-    "CarDB": "Chevrolet_PickUpVerminsDinerOG_1936",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 600, "h": 600}
-  },
-  {
     "CarDB": "Dodge_ChargerRedeyeSplatter_2023",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
   },
   {
     "CarDB": "Chevrolet_ZwygartNova_1967",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "Buick_RingbrothersGNX_1987",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Chevrolet_AmericanLegendsChevelle_1966",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Chevrolet_DuSoldDesignCamaro_1967",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 150, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Plymouth_RingbrothersCuda_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 650, "h": 650}
   }
 ]

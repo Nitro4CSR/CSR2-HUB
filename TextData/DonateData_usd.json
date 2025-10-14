@@ -1,54 +1,5 @@
 {
 	"url": "https://www.paypal.com/donate/?hosted_button_id=V8YXZVRBKY7WS",
-    "MAIN": [
-		{
-			"goal": "NEW SECTION: CREWS LEADERBOARD - table of crews rankings by RP for each season",
-			"collected": 0,
-			"needed": 500
-		},
-		{
-			"goal": "AUTOSHOW: S6 effects overview (configurator)",
-			"collected": 68,
-			"needed": 300
-		},
-		{
-			"goal": "NEW SECTION: RED SHOWDOWN - view list of cars for the current SD, with the ability to go to the AUTOSHOW",
-			"collected": 0,
-			"needed": 300
-		},
-		{
-			"goal": "NEW SECTION: ELITE SHOWDOWN - view list of cars for the current SD, with the ability to go to the AUTOSHOW",
-			"collected": 0,
-			"needed": 300
-		},
-		{
-			"goal": "NEW SECTION: RACE PASS - view all seasons of the racepass and their rewards in chronological order",
-			"collected": 0,
-			"needed": 300
-		},
-		{
-			"goal": "NEW SECTION: NEWS - automatic parsing of developer news from the game site",
-			"collected": 0,
-			"needed": 250
-		},
-		{
-			"goal": "NEW SECTION: SEASONS - view each season and prestige in chronological order (view gold and purple milestone car, prestige car, season number, season date and more)",
-			"collected": 0,
-			"needed": 200
-		}
-	],
-    "SECONDARY": [
-		{
-			"goal": "AUTOSHOW: how many elite components are required at a certain elite stage of the car (configurator)",
-			"collected": 0,
-			"needed": 100
-		},
-		{
-			"goal": "Redirect from AUTOSHOW to WORLD RECORDS (viewing the car's position in the rating list)",
-			"collected": 0,
-			"needed": 100
-		}
-	],
 	"LEADERBOARD": [
 		{
 			"name": "Sebastien Bernard",
@@ -56,7 +7,7 @@
 		},
 		{
 			"name": "Freycksson",
-			"total": 18
+			"total": 48
 		},
 		{
 			"name": "You could be here!",

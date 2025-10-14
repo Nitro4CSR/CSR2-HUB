@@ -2014,5 +2014,21 @@
     "PrizeCar": "Pagani_ZondaCinqueRoadsterReward_2010",
     "MilestoneCar": "Pagani_ZondaCinqueRoadsterRewardRecycled_2010",
     "PrestigeCar": "BMW_M3E92CoupeGTSRewardRecycled_2011"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 253,
+    "KnownSeason": 245,
+    "PrizeCar": "Lamborghini_LBWKMurcielagoReward_2009",
+    "MilestoneCar": "Lamborghini_LBWKMurcielagoRewardRecycled_2009",
+    "PrestigeCar": "Chevrolet_LMCorvetteZ06RewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 254,
+    "KnownSeason": 246,
+    "PrizeCar": "Toyota_GRYarisReward_2021",
+    "MilestoneCar": "Toyota_GRYarisRewardRecycled_2021",
+    "PrestigeCar": "MercedesAMG_CLAEVRewardRecycled_2025"
   }
 ]
