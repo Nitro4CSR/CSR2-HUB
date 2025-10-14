@@ -1,18 +1,18 @@
 {
-	"1758916529": {
+	"1760443200": {
 		"ACTION": null,
         "ACTOR": "T0_Jess",
-        "HEADER_TEXT": "CSR2 6.0.1 UPDATE",
-        "MESSAGE_TEXT": "Meet the CSR2 update 6.0.1! \n\nWhat's new: \n- THE ELITE DREAM TEAM IS HERE: automatic tuning, racing, fuel, improvements \n- Decades later, Jerry encounters an old rival. Is it a simple coincidence or a sign of something more sinister? (RETURN-Rev-Up event) \n-fix errors and optimization \n\nCheck Linker for download. Happy racing!",
-        "THEME_BACKGR": "default",
+        "HEADER_TEXT": "HUB 1.2.0 UPDATE",
+        "MESSAGE_TEXT": "Meet the hub update 1.2.0! \nWhat's new: \n- NEW SECTION: SEASONS\n- NEW SECTION: PROFILE STYLE\n- WR: added driver profiles\n- AUTOSHOW: added direct link share\n- fix errors and optimization\n- other minor changes \n\nHappy racing!",
+        "THEME_BACKGR": "garage",
         "THEME_COLOR": "#FFC900"
     },
-	"1757709775": {
-		"ACTION": "UPDATE",
-        "ACTOR": "T2_Ashleigh",
-        "HEADER_TEXT": "HUB 1.1.5 UPDATE",
-        "MESSAGE_TEXT": "Meet the hub update 1.1.5! \nWhat's new: \n- DONATE: enabled and top-donates added\n- AUTOSHOW: added fast snap-full export\n- gitbox-mini: updated visual special for gacha imports\n- added special hyperlink to our email\n- fix errors and optimization \n\nHappy racing!",
-        "THEME_BACKGR": "garage",
+	"1760172612": {
+		"ACTION": null,
+        "ACTOR": "T4_Donna",
+        "HEADER_TEXT": "CSR2 6.0 UPDATE",
+        "MESSAGE_TEXT": "Meet the CSR2 update 6.0! \n\nWhat's new: \n- THE ELITE DREAM TEAM IS HERE: automatic tuning, racing, fuel, improvements \n- Decades later, Jerry encounters an old rival. Is it a simple coincidence or a sign of something more sinister? (RETURN-Rev-Up event) \n-fix errors and optimization \n\nCheck Linker for download. Happy racing!",
+        "THEME_BACKGR": "default",
         "THEME_COLOR": "#FFC900"
     }
 }
