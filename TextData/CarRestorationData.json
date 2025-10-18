@@ -196,5 +196,16 @@
     "PAINT2": [15000, 24],
     "PAINT3": [0, 0],
     "PAINT4": [0, 0]
+  },
+  "Datsun_240ZLPClassic_1972": {
+    "WHEELS1": [11000, 18],
+    "ENGINE1": [11000, 18],
+    "ENGINE2": [0, 0],
+    "INTERIOR1": [13000, 20],
+    "INTERIOR2": [0, 0],
+    "PAINT1": [12000, 20],
+    "PAINT2": [15000, 24],
+    "PAINT3": [0, 0],
+    "PAINT4": [0, 0]
   }
 }
