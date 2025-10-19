@@ -19262,5 +19262,53 @@
     "S6EBODY": "0.000",
     "S6ETIRES": "0.000",
     "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Datsun_240ZLPClassic_1972_UR",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Datsun_240ZLPClassic_1972",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Datsun_240ZLPClassic_1972_EC",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
   }
 ]
