@@ -5,11 +5,11 @@
     "NonStarred": 0,
     "T1": 0,
     "T2": 8,
-    "T3": 9,
+    "T3": 10,
     "T4": 22,
     "T5": 101,
-    "Total": 145,
-    "Points": 390,
+    "Total": 146,
+    "Points": 395,
     "namehex": "#ffffff"
   },
   {
@@ -70,11 +70,11 @@
     "NonStarred": 0,
     "T1": 0,
     "T2": 1,
-    "T3": 4,
+    "T3": 3,
     "T4": 10,
     "T5": 35,
-    "Total": 56,
-    "Points": 188,
+    "Total": 55,
+    "Points": 183,
     "namehex": "#ff00ff"
   },
   {
@@ -312,6 +312,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "Ʌѕѕетто СогѕɅ",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 2,
+    "T5": 5,
+    "Total": 7,
+    "Points": 11,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "sǝpɐlqメ逆刄",
     "LND": 1,
     "NonStarred": 0,
@@ -325,20 +338,20 @@
     "namehex": "#ffffff"
   },
   {
-    "name": "Dei69",
+    "name": "Darth Piner",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 2,
-    "T5": 4,
+    "T2": 1,
+    "T3": 2,
+    "T4": 1,
+    "T5": 2,
     "Total": 6,
-    "Points": 10,
+    "Points": 22,
     "namehex": "#ffffff"
   },
   {
-    "name": "Ʌѕѕетто СогѕɅ",
+    "name": "Dei69",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
@@ -374,19 +387,6 @@
     "T5": 0,
     "Total": 5,
     "Points": 55,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "Darth Piner",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 1,
-    "T3": 2,
-    "T4": 1,
-    "T5": 1,
-    "Total": 5,
-    "Points": 21,
     "namehex": "#ffffff"
   },
   {
