@@ -9454,11 +9454,11 @@
   {
     "DBName": "Chevrolet_DuSoldDesignCamaro_1967",
     "Vision": "Added into the game in Update 6.0.2 and released in Season 245 (November 9, 2025 - November 17, 2025) as a Prize car in the American Road Trip 5 - Phoenix event.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=D1sanjRvOOQ",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.65,
     "WRdyno": 6.699,
     "WRpp": "713",
     "WRevo": 2603,
