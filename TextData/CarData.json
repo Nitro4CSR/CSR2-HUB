@@ -8264,7 +8264,7 @@
   {
     "DBName": "BMW_M1_1985",
     "Vision": "Added into the game in OTA3 Update 5.8.0 and released in Season 239 (August 27, 2025 - September 5, 2025) as a ShowDown Trophy Milestone Prize car in the 80's Timeless Icon Series: Supercar for the streets ShowDown event.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=7tJG9aAQQRI",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "GR-Phantom",
@@ -8451,11 +8451,11 @@
   {
     "DBName": "BTTF_TimeMachine2_2015",
     "Vision": "Added into the game in OTA1 Update 5.8.0 and released in Season 235 (July 1, 2025 - July 8, 2025) as a paid Flash event car.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=k2J4Pzdo9j8",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.576,
     "WRdyno": 6.61,
     "WRpp": "713",
     "WRevo": 2661,
@@ -8468,7 +8468,7 @@
   {
     "DBName": "BTTF_TimeMachine3_1885",
     "Vision": "Added into the game in OTA3 Update 5.8.0 and released in Season 241 (September 11, 2025 - September 25, 2025) as a paid Flash event car",
-    "SHIFT": "https://fb.watch/CcYYJOpN7c/",
+    "SHIFT": "https://www.youtube.com/watch?v=l-_fPBG8rBo",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "eLGeZoOo",
