@@ -2011,8 +2011,8 @@
     "Type": 4,
     "CodeSeason": 252,
     "KnownSeason": 244,
-    "PrizeCar": "",
-    "MilestoneCar": "",
+    "PrizeCar": "Pagani_ZondaCinqueRoadsterReward_2010",
+    "MilestoneCar": "Pagani_ZondaCinqueRoadsterRewardRecycled_2010",
     "PrestigeCar": ""
   },
   {
@@ -2021,7 +2021,7 @@
     "KnownSeason": 245,
     "PrizeCar": "Lamborghini_LBWKMurcielagoReward_2009",
     "MilestoneCar": "Lamborghini_LBWKMurcielagoRewardRecycled_2009",
-    "PrestigeCar": ""
+    "PrestigeCar": "Chevrolet_LMCorvetteZ06RewardRecycled_2023"
   },
   {
     "Type": 4,
