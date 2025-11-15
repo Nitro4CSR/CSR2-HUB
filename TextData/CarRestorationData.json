@@ -207,5 +207,16 @@
     "PAINT2": [15000, 24],
     "PAINT3": [0, 0],
     "PAINT4": [0, 0]
+  },
+  "Chevrolet_CorvetteC1LPClassic_1958": {
+    "WHEELS1": [12000, 18],
+    "ENGINE1": [13000, 18],
+    "ENGINE2": [0, 0],
+    "INTERIOR1": [15000, 22],
+    "INTERIOR2": [0, 0],
+    "PAINT1": [14000, 20],
+    "PAINT2": [16000, 22],
+    "PAINT3": [0, 0],
+    "PAINT4": [0, 0]
   }
 }

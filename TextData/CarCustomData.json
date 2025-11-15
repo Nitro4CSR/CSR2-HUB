@@ -269,7 +269,7 @@
   },
   {
     "CarDB": "Chevrolet_NovaSSF9_1970",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 85, "z": 0, "w": 700, "h": 700}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 700, "h": 700}
   },
   {
     "CarDB": "Chevrolet_RingbrothersChevelle_1966",
@@ -1070,5 +1070,13 @@
   {
     "CarDB": "Plymouth_RingbrothersCuda_1970",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Nissan_SkylineGTRR34F2_1999",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Toyota_GR86TNR_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 650, "h": 650}
   }
 ]
