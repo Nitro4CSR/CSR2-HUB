@@ -2028,7 +2028,7 @@
     "CodeSeason": 254,
     "KnownSeason": 246,
     "PrizeCar": "",
-    "MilestoneCar": "",
+    "MilestoneCar": "Toyota_GRYarisRewardRecycled_2021",
     "PrestigeCar": ""
   },
   {
@@ -2037,6 +2037,6 @@
     "KnownSeason": 247,
     "PrizeCar": "Nissan_VeilsideZReward_2023",
     "MilestoneCar": "Nissan_VeilsideZRewardRecycled_2023",
-    "PrestigeCar": ""
+    "PrestigeCar": "Audi_TTRSCoupeIERewardRecycled_2023"
   }
 ]
