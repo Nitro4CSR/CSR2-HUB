@@ -1973,15 +1973,15 @@
     "KnownSeason": 239,
     "PrizeCar": "",
     "MilestoneCar": "",
-    "PrestigeCar": ""
+    "PrestigeCar": "McLaren_ArturaSpiderRewardRecycled_2024"
   },
   {
     "Type": 4,
     "CodeSeason": 248,
     "KnownSeason": 240,
-    "PrizeCar": "",
-    "MilestoneCar": "",
-    "PrestigeCar": ""
+    "PrizeCar": "Hyundai_IONIQ5NNPX1Reward_2024",
+    "MilestoneCar": "Hyundai_IONIQ5NNPX1RewardRecycled_2024",
+    "PrestigeCar": "Lotus_VorsteinerEmiraRewardRecycled_2022"
   },
   {
     "Type": 4,
@@ -1989,7 +1989,7 @@
     "KnownSeason": 241,
     "PrizeCar": "Lexus_LC500ConvertibleReward_2017",
     "MilestoneCar": "Lexus_LC500ConvertibleRewardRecycled_2017",
-    "PrestigeCar": ""
+    "PrestigeCar": "Subaru_BRZtSRewardRecycled_2024"
   },
   {
     "Type": 4,
