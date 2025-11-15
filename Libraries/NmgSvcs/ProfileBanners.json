@@ -433,6 +433,37 @@
             "Fg_season45_pro": {
                 "Path": "ForeGround\/seasonpass_fg_season45_pro",
                 "CanFlip": true
+            },
+            "Collections_am2": {
+                "Path": "Textures\/Collections_stickers\/collections_supercharged_uncommon",
+                "CanFlip": true
+            },
+            "Collections_lemans": {
+                "Path": "Textures\/Collections_stickers\/collections_DecadesofDistance_epic",
+                "CanFlip": true
+            },
+            "Collections_millionairesclub": {
+                "Path": "Textures\/Collections_stickers\/collections_MillionairesClub_rare",
+                "CanFlip": true
+            },
+            "Collections_lamborghini2": {
+                "Path": "Textures\/Collections_stickers\/collections_SantAgata_epic",
+                "CanFlip": true
+            },
+            "Collections_srt": {
+                "Path": "Textures\/Collections_stickers\/collections_DemonBloodline_rare",
+                "CanFlip": true
+            },
+            "Collections_art5": {
+                "Path": "Textures\/Collections_stickers\/collections_ART5_Epic",
+                "CanFlip": true
+            },
+            "Fg_season46": {
+                "Path": "ForeGround\/seasonpass_fg_season46"
+            },
+            "Fg_season46_pro": {
+                "Path": "ForeGround\/seasonpass_fg_season46_pro",
+                "CanFlip": true
             }
         },
         "Backgrounds": {
@@ -740,11 +771,19 @@
                 "CanFlip": true
             },
             "Bg_season45": {
-                "Path": "BackGround\/seasonpass_bg_season44",
+                "Path": "BackGround\/seasonpass_bg_season45",
                 "CanFlip": true
             },
             "Bg_season45_pro": {
                 "Path": "BackGround\/seasonpass_bg_season45_pro",
+                "CanFlip": true
+            },
+            "Bg_season46": {
+                "Path": "BackGround\/seasonpass_bg_season46",
+                "CanFlip": true
+            },
+            "Bg_season46_pro": {
+                "Path": "BackGround\/seasonpass_bg_season46_pro",
                 "CanFlip": true
             }
         }
