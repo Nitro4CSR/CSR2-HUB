@@ -1,6 +1,6 @@
 <div align="center">
-![Version][badge-version]
-![Platforms][badge-platforms]
+[badge-version]
+[badge-platforms]
 </div>
 
 # CSR2 HUB
