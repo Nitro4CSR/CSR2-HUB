@@ -19410,18 +19410,18 @@
   {
     "DBName": "Chevrolet_CorvetteC1LPClassic_1958_UR",
     "S5-PP": 698,
-    "S5EVO": "0",
+    "S5EVO": 1327,
     "S5FD": "0.00",
     "S5NITRO": "0/0.0",
     "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5DYNO": 10.222,
+    "S6EENGINE": 9.962,
+    "S6ETURBO": 10.032,
+    "S6EINTAKE": 10.135,
+    "S6ENITRO": 10.032,
+    "S6EBODY": 9.826,
+    "S6ETIRES": 9.986,
+    "S6ETRANSMISSION": 9.96
   },
   {
     "DBName": "Chevrolet_CorvetteC1LPClassic_1958",
@@ -19442,17 +19442,17 @@
   {
     "DBName": "Chevrolet_CorvetteC1LPClassic_1958_EC",
     "S5-PP": 698,
-    "S5EVO": "0",
-    "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
-    "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5EVO": 1991,
+    "S5FD": "2.00",
+    "S5NITRO": "150/2.0",
+    "S5TIRE": "100/0",
+    "S5DYNO": 8.895,
+    "S6EENGINE": 8.629,
+    "S6ETURBO": 8.699,
+    "S6EINTAKE": 8.812,
+    "S6ENITRO": 8.66,
+    "S6EBODY": 8.465,
+    "S6ETIRES": 8.687,
+    "S6ETRANSMISSION": 8.618
   }
 ]
