@@ -1,8 +1,14 @@
 [   
+	{
+        "version": "1.2.3",
+        "info": "- NEW SECTIONS: SHOWDOWN W1,W2\n- DATABASE: UPDATED ALL FULL-SNAPSHOTS\n- SEASONS: fix memory leaks\n- WR-AS: added snapshot redirect-buttons\n- fix errors and optimization\n- other minor changes",
+        "action": "https://drive.google.com/file/d/1ZWp7CAyyNP4b9bkoZHb1BRBJaCjk_JFY/view?usp=sharing",
+		"date": "03/12/25"
+    },
     {
         "version": "1.2.0",
         "info": "- DONATE: enabled and top-donates added\n- NEW SECTION: SEASONS\n- NEW SECTION: PROFILE STYLE\n- WR: added driver profiles\n- AUTOSHOW: added direct link share\n- fix errors and optimization\n- other minor changes",
-        "action": "https://drive.google.com/file/d/1eS4dN45Anzks-vjvfK8-Wf0qxcLsvT8v/view?usp=sharing",
+        "action": "NONE",
 		"date": "14/10/25"
     },
 	{
