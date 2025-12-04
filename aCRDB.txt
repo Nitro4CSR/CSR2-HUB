@@ -18,6 +18,7 @@ AMC_RingbrothersJavelinDefiant_1972
 Apollo_IntensaEmozione_2019
 Apollo_IntensaEmozioneCarbon_2019
 Apollo_IntensaEmozioneOrangeDragon_2019
+Apollo_ProjectEvo_2022
 Arrinera_HussaryaReward_2020
 Arrinera_HussaryaRewardRecycled_2020
 Aspark_Owl_2021
@@ -161,6 +162,8 @@ BMW_M2CoupeG87Reward_2023
 BMW_M2CoupeG87RewardRecycled_2023
 BMW_M2G87MPerformance_2023
 BMW_M2G87TNR_2023
+BMW_M3CSTouringReward_2025
+BMW_M3CSTouringRewardRecycled_2025
 BMW_M3E92CoupeGTSElite_2011
 BMW_M3E92CoupeGTSReward_2011
 BMW_M3E92CoupeGTSRewardRecycled_2011
@@ -328,6 +331,7 @@ Chevrolet_ZwygartNova_1967
 Czinger_21C_2021
 Czinger_21CGold_2021
 Czinger_21CVMax_2023
+Dallara_Stradale_2019
 Datsun_240ZLPClassic_1972
 DeTomaso_PanteraGT5S_1984
 Devel_Sixteen_2022
@@ -517,6 +521,7 @@ Ford_WeaverCustomsModelAElite_1931
 Ford_WeaverCustomsModelALB_1931
 Ford_WeaverCustomsModelAMS_1931
 Ford_WeaverCustomsMustangFastback_1968
+FSD_ConceptCar_2027
 Ginetta_Akula_2019
 Ginetta_AkulaGold_2019
 GTA_SpanoCrew_2015
@@ -558,6 +563,7 @@ Honda_NSXTNR_1992
 Honda_S2000F1_2001
 Honda_S2000F2_2001
 Honda_S2000TNR_2001
+Hyperion_XP1_2023
 Hyundai_ElantraNReward_2022
 Hyundai_ElantraNRewardRecycled_2022
 Hyundai_IONIQ5NNPX1Reward_2024
@@ -654,6 +660,7 @@ Lamborghini_HuracanLP6104RewardRecycled_2014
 Lamborghini_HuracanPerformanteReward_2018
 Lamborghini_HuracanPerformanteRewardRecycled_2018
 Lamborghini_HuracanPerformanteSpyder_2019
+Lamborghini_HuracanSterratoHoliday_2021
 Lamborghini_HuracanSterratoReward_2021
 Lamborghini_HuracanSterratoRewardRecycled_2021
 Lamborghini_HuracanSTO_2021
@@ -881,6 +888,7 @@ Nissan_JukeR20ConceptReward_2015
 Nissan_JukeR20ConceptRewardRecycled_2015
 Nissan_KRCJapanGTRR35Reward_2017
 Nissan_KRCJapanGTRR35RewardRecycled_2017
+Nissan_LBER34Skyline_2002
 Nissan_LBGTRType2_2017
 Nissan_LBSuperSilhouetteSilviaS15_1999
 Nissan_PandeMGTRR33Reward_1995
@@ -1055,6 +1063,7 @@ Radford_Type62Reward_2021
 Radford_Type62RewardRecycled_2021
 RAM_1500TRX_2021
 Rimac_Nevera_2021
+Rimac_NeveraR_2025
 Rimac_NeveraReward_2022
 Rimac_NeveraRewardrecycled_2022
 Saleen_S1Reward_2018
