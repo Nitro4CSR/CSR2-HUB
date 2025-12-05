@@ -476,7 +476,7 @@
                 }, {
                     "CarDBKeys": ["Maserati_MC20CieloReward_2023", "Maserati_MC20CieloRewardRecycled_2023", "Maserati_MC20Coupe_2021"]
                 }, {
-                    "CarDBKeys": ["Rimac_Nevera_2021", "Rimac_NeveraReward_2022", "Rimac_NeveraRewardrecycled_2022"]
+                    "CarDBKeys": ["Rimac_Nevera_2021", "Rimac_NeveraR_2025", "Rimac_NeveraReward_2022", "Rimac_NeveraRewardrecycled_2022"]
                 }, {
                     "CarDBKeys": ["Audi_RS3SedanReward_2023", "Audi_RS3SedanRewardRecycled_2023"]
                 }, {
@@ -549,6 +549,8 @@
                     "CarDBKeys": ["Chevrolet_PickUpVerminsDiner_1936", "Chevrolet_PickUpVerminsDinerOG_1936"]
                 }, {
                     "CarDBKeys": ["Toyota_GRYarisReward_2021", "Toyota_GRYarisRewardRecycled_2021"]
+                }, {
+                    "CarDBKeys": ["BMW_M3CSTouringReward_2025", "BMW_M3CSTouringRewardRecycled_2025"]
                 }
             ]
         },

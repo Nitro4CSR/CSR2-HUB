@@ -464,6 +464,17 @@
             "Fg_season46_pro": {
                 "Path": "ForeGround\/seasonpass_fg_season46_pro",
                 "CanFlip": true
+            },
+            "Fg_season47": {
+                "Path": "ForeGround\/seasonpass_fg_season47"
+            },
+            "Fg_season47_pro": {
+                "Path": "ForeGround\/seasonpass_fg_season47_pro",
+                "CanFlip": true
+            },
+            "fg_Christmas_2025": {
+                "Path": "ForeGround\/fg_Christmas_2025",
+                "CanFlip": true
             }
         },
         "Backgrounds": {
@@ -784,6 +795,18 @@
             },
             "Bg_season46_pro": {
                 "Path": "BackGround\/seasonpass_bg_season46_pro",
+                "CanFlip": true
+            },
+            "Bg_season47": {
+                "Path": "BackGround\/seasonpass_bg_season47",
+                "CanFlip": true
+            },
+            "Bg_season47_pro": {
+                "Path": "BackGround\/seasonpass_bg_season47_pro",
+                "CanFlip": true
+            },
+            "bg_Christmas_2025": {
+                "Path": "BackGround\/bg_Christmas_2025",
                 "CanFlip": true
             }
         }

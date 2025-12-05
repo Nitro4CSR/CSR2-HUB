@@ -613,7 +613,7 @@
   },
   {
     "CarDB": "Shelby_SuperSnakeS650Reward_2024",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 85, "z": 0, "w": 700, "h": 700}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 575, "h": 575}
   },
   {
     "CarDB": "Shelby_SuperSnakeS650RewardRecycled_2024",
@@ -1078,5 +1078,49 @@
   {
     "CarDB": "Toyota_GR86TNR_2023",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "BMW_M3CSTouringReward_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "BMW_M3CSTouringRewardRecycled_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Dodge_ChargerDaytona_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "FSD_ConceptCar_2027",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Hyperion_XP1_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Nissan_LBER34Skyline_2002",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 60, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Nissan_LBSuperSilhouetteSilviaS15_1999",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Bugatti_LaVoitureNoire_2019",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Hennessey_VenomF5_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Lamborghini_HuracanLP6104Reward_2014",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "SCG_SCG003SCarbon_2017",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
   }
 ]
