@@ -2038,5 +2038,13 @@
     "PrizeCar": "Nissan_VeilsideZReward_2023",
     "MilestoneCar": "Nissan_VeilsideZRewardRecycled_2023",
     "PrestigeCar": "Audi_TTRSCoupeIERewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 256,
+    "KnownSeason": 248,
+    "PrizeCar": "BMW_M3CSTouringReward_2025",
+    "MilestoneCar": "BMW_M3CSTouringRewardRecycled_2025",
+    "PrestigeCar": "Honda_AIMGAINGTNSXRewardRecycled_2017"
   }
 ]
