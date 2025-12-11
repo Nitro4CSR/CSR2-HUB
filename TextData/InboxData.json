@@ -1,18 +1,18 @@
 {
+	"1765435120": {
+		"ACTION": null,
+        "ACTOR": "T0_Jerry",
+        "HEADER_TEXT": "CSR2 6.2 UPDATE",
+        "MESSAGE_TEXT": "Meet the CSR2 update 6.2! \n\nWhat's new: \n- Some visual improvements and optimizations \n\nCheck Linker for download. Happy racing!",
+        "THEME_BACKGR": "default",
+        "THEME_COLOR": "#FFC900"
+    },
 	"1764769130": {
 		"ACTION": null,
         "ACTOR": "T0_Jess",
         "HEADER_TEXT": "HUB 1.2.3 UPDATE",
         "MESSAGE_TEXT": "Meet the hub update 1.2.3! \nWhat's new: \n- NEW SECTIONS: SHOWDOWN W1,W2\n- DATABASE: UPDATED ALL FULL-SNAPSHOTS\n- SEASONS: fix memory leaks\n- WR-AS: added snapshot redirect-buttons\n- fix errors and optimization\n- other minor changes \n\nHappy holidays!",
         "THEME_BACKGR": "garage",
-        "THEME_COLOR": "#FFC900"
-    },
-	"1762238352": {
-		"ACTION": null,
-        "ACTOR": "T4_Donna",
-        "HEADER_TEXT": "CSR2 6.1 UPDATE",
-        "MESSAGE_TEXT": "Meet the CSR2 update 6.1! \n\nWhat's new: \n- Some visual improvements and optimizations \n\nCheck Linker for download. Happy racing!",
-        "THEME_BACKGR": "default",
         "THEME_COLOR": "#FFC900"
     }
 }
