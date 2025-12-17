@@ -20,9 +20,9 @@
     "T2": 3,
     "T3": 9,
     "T4": 27,
-    "T5": 72,
-    "Total": 120,
-    "Points": 377,
+    "T5": 73,
+    "Total": 121,
+    "Points": 378,
     "namehex": "#ffb300"
   },
   {
@@ -664,6 +664,19 @@
   },
   {
     "name": "SB LEGEND",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 2,
+    "Total": 2,
+    "Points": 2,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "ӇƦƖƧƬƖAƝ",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
@@ -1561,19 +1574,6 @@
   },
   {
     "name": "дедушка",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 1,
-    "Total": 1,
-    "Points": 1,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "ӇƦƖƧƬƖAƝ",
     "LND": 0,
     "NonStarred": 0,
     "T1": 0,
