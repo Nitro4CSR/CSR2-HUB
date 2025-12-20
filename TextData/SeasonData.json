@@ -2050,7 +2050,7 @@
   {
     "Type": 4,
     "CodeSeason": 257,
-    "KnownSeason": 248,
+    "KnownSeason": 249,
     "PrizeCar": "Bentley_ContinentalGTSpeedReward_2025",
     "MilestoneCar": "Bentley_ContinentalGTSpeedRewardRecycled_2025",
     "PrestigeCar": "AstonMartin_VantageRRewardRecycled_2025"
@@ -2058,7 +2058,7 @@
   {
     "Type": 4,
     "CodeSeason": 258,
-    "KnownSeason": 248,
+    "KnownSeason": 250,
     "PrizeCar": "SCG_SCG004CReward_2019",
     "MilestoneCar": "SCG_SCG004CRewardRecycled_2019",
     "PrestigeCar": "Porsche_TaycanTurboSRewardRecycled_2021"
