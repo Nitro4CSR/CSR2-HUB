@@ -1122,5 +1122,13 @@
   {
     "CarDB": "SCG_SCG003SCarbon_2017",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Lamborghini_Fenomeno_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Apollo_ProjectEvo_2022",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
   }
 ]

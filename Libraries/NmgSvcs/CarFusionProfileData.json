@@ -551,6 +551,8 @@
                     "CarDBKeys": ["Toyota_GRYarisReward_2021", "Toyota_GRYarisRewardRecycled_2021"]
                 }, {
                     "CarDBKeys": ["BMW_M3CSTouringReward_2025", "BMW_M3CSTouringRewardRecycled_2025"]
+                }, {
+                    "CarDBKeys": ["Bentley_ContinentalGTSpeedReward_2025", "Bentley_ContinentalGTSpeedRewardRecycled_2025"]
                 }
             ]
         },
