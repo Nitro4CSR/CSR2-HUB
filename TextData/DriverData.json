@@ -182,6 +182,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "GR-Phantom",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 2,
+    "T4": 1,
+    "T5": 12,
+    "Total": 15,
+    "Points": 28,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ",
     "LND": 0,
     "NonStarred": 0,
@@ -193,19 +206,6 @@
     "Total": 14,
     "Points": 21,
     "namehex": "#0093f0"
-  },
-  {
-    "name": "GR-Phantom",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 2,
-    "T4": 1,
-    "T5": 10,
-    "Total": 13,
-    "Points": 26,
-    "namehex": "#ffffff"
   },
   {
     "name": "疯狂的卡拉恰",
