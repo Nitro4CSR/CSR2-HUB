@@ -2043,8 +2043,8 @@
     "Type": 4,
     "CodeSeason": 256,
     "KnownSeason": 248,
-    "PrizeCar": "",
-    "MilestoneCar": "",
+    "PrizeCar": "BMW_M3CSTouringReward_2025",
+    "MilestoneCar": "BMW_M3CSTouringRewardRecycled_2025",
     "PrestigeCar": ""
   },
   {
