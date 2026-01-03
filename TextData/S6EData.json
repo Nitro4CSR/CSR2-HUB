@@ -19473,10 +19473,10 @@
   },
   {
     "DBName": "Dallara_Stradale_2019",
-    "S5-PP": "0",
-    "S5EVO": "0",
+    "S5-PP": 698,
+    "S5EVO": 2132,
     "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
+    "S5NITRO": "150/2.0",
     "S5TIRE": "0/0",
     "S5DYNO": "0.000",
     "S6EENGINE": "0.000",
