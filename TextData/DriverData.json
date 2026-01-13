@@ -20,9 +20,9 @@
     "T2": 3,
     "T3": 9,
     "T4": 27,
-    "T5": 73,
-    "Total": 121,
-    "Points": 378,
+    "T5": 72,
+    "Total": 120,
+    "Points": 377,
     "namehex": "#ffb300"
   },
   {
@@ -703,19 +703,6 @@
   },
   {
     "name": "Kubbo🔄W/L🔄Droid",
-    "LND": 0,
-    "NonStarred": 1,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 0,
-    "Total": 1,
-    "Points": 11,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "RussianCzar01🍎🔄",
     "LND": 0,
     "NonStarred": 1,
     "T1": 0,
@@ -1534,6 +1521,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "Zesti",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 1,
+    "Total": 1,
+    "Points": 1,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "ιяσи ☆ ѕραςєя",
     "LND": 0,
     "NonStarred": 0,
@@ -1700,6 +1700,19 @@
     "T5": 1,
     "Total": 1,
     "Points": 1,
+    "namehex": "#ffffff"
+  },
+  {
+    "name": "RussianCzar01🍎🔄",
+    "LND": "",
+    "NonStarred": "",
+    "T1": "",
+    "T2": "",
+    "T3": "",
+    "T4": "",
+    "T5": "",
+    "Total": "",
+    "Points": "",
     "namehex": "#ffffff"
   }
 ]
