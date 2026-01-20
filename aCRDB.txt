@@ -48,6 +48,7 @@ AstonMartin_V12Vantage_2023
 AstonMartin_V12VantageRReward_2023
 AstonMartin_V12VantageRRewardRecycled_2023
 AstonMartin_Valhalla_2020
+AstonMartin_Valhalla_2025
 AstonMartin_ValhallaGold_2020
 AstonMartin_Valiant_2025
 AstonMartin_Valkyrie_2020
@@ -124,6 +125,8 @@ Audi_TTRSCoupeIERewardRecycled_2023
 Audi_TTRSPlusCoupe_2014
 BAC_MonoReward_2017
 BAC_MonoRewardRecycled_2017
+Bentley_BaturConvertibleReward_2025
+Bentley_BaturConvertibleRewardRecycled_2025
 Bentley_BentaygaReward_2018
 Bentley_BentaygaRewardRecycled_2018
 Bentley_ContinentalGT3PikesPeak_2021
@@ -162,6 +165,8 @@ BMW_M235iCoupe_2014
 BMW_M2Competition_2018
 BMW_M2CoupeG87Reward_2023
 BMW_M2CoupeG87RewardRecycled_2023
+BMW_M2CSG87Reward_2025
+BMW_M2CSG87RewardRecycled_2025
 BMW_M2G87MPerformance_2023
 BMW_M2G87TNR_2023
 BMW_M3CSTouringReward_2025
@@ -534,6 +539,7 @@ Hennessey_CamaroTheResurrection_2017
 Hennessey_VenomF5_2020
 Hennessey_VenomF5_2021
 Hennessey_VenomF5Gold_2020
+Hennessey_VenomF5Revolution_2023
 Hennessey_VenomF5RoadsterReward_2023
 Hennessey_VenomF5RoadsterRewardRecycled_2023
 Hennessey_VenomGT_2012
@@ -644,6 +650,7 @@ Lamborghini_CountachClassic_1988
 Lamborghini_CountachLPI8004_2022
 Lamborghini_CountachLPI8004Reward_2022
 Lamborghini_CountachLPI8004RewardRecycled_2022
+Lamborghini_DiabloGT_2000
 Lamborghini_DiabloSV_1997
 Lamborghini_EssenzaSCV12_2021
 Lamborghini_EssenzaSCV12Monterey_2021
@@ -825,6 +832,7 @@ McLaren_Vorsteiner570VXReward_2016
 McLaren_Vorsteiner570VXRewardRecycled_2016
 McLaren_Vorsteiner720SReward_2018
 McLaren_Vorsteiner720SRewardRecycled_2018
+McLaren_W1_2025
 McMurtry_Speirling_2022
 MercedesAMG_CLAEVReward_2025
 MercedesAMG_CLAEVRewardRecycled_2025
@@ -1113,6 +1121,7 @@ Toyota_GR86TNR_2023
 Toyota_GRSupra_2020
 Toyota_GRSupraF9_2020
 Toyota_GRSupraTNR_2020
+Toyota_GRSupraV2TNR_2021
 Toyota_GRYarisReward_2021
 Toyota_GRYarisRewardRecycled_2021
 Toyota_LBGRSupraReward_2020
