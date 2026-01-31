@@ -458,6 +458,26 @@
                 "Path": "Textures\/Collections_stickers\/collections_ART5_Epic",
                 "CanFlip": true
             },
+            "Collections_bugatti": {
+                "Path": "Textures\/Collections_stickers\/collections_Bugatti_rare",
+                "CanFlip": true
+            },
+            "Collections_am3": {
+                "Path": "Textures\/Collections_stickers\/collections_AM_rare",
+                "CanFlip": true
+            },
+            "Collections_hypercar2": {
+                "Path": "Textures\/Collections_stickers\/HCS2_TimedCollections",
+                "CanFlip": true
+            },
+            "Collections_ferrariimperiale": {
+                "Path": "Textures\/Collections_stickers\/Ferrari_TimedCollections",
+                "CanFlip": true
+            },
+            "Collections_hypercar1": {
+                "Path": "Textures\/Collections_stickers\/HCS1_TimedCollections",
+                "CanFlip": true
+            },
             "Fg_season46": {
                 "Path": "ForeGround\/seasonpass_fg_season46"
             },

@@ -1130,5 +1130,21 @@
   {
     "CarDB": "Apollo_ProjectEvo_2022",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Lamborghini_DiabloGT_2000",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 40, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Toyota_GRSupraV2TNR_2021",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 123, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Porsche_RWB993Evo_1993",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 120, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "AstonMartin_Valhalla_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
   }
 ]
