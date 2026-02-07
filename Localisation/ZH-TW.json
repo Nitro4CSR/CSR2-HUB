@@ -184,6 +184,8 @@
         "finished": "已完成",
         "iOS devices are too weak, thanks to Apple. Optimization and support for over 300 elements will be added in the future.": "iOS 裝置效能太弱，感謝蘋果。未來將新增對超過 300 個元素的優化和支援。",
         "text coming soon...": "文字即將推出...",
-        "unpacking...": "解壓縮中..."
+        "unpacking...": "解壓縮中...",
+		"Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "迎來中心更新 1.3.0！\n\n新功能：\n- WEB-APP 全球發佈",
+		"Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "迎來 CSR2 更新 6.3！\n\n新功能：\n- 傳奇 V3\n- 記憶體使用優化\n- 其他細微更改 \n\n點擊按鈕閱讀更新 6.3 的詳細部落格："
     }
 }

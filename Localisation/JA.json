@@ -184,6 +184,8 @@
         "finished": "完了",
         "iOS devices are too weak, thanks to Apple. Optimization and support for over 300 elements will be added in the future.": "iOSデバイスはAppleのおかげであまりに弱いです。300以上の要素に対する最適化とサポートは将来追加されます。",
         "text coming soon...": "テキストは近日公開...",
-        "unpacking...": "展開中..."
+        "unpacking...": "展開中...",
+		"Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "ハブアップデート1.3.0のご紹介！\n\n新機能：\n- WEB-APPのグローバルリリース",
+		"Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "CSR2アップデート6.3のご紹介！\n\n新機能：\n- レジェンズ V3\n- メモリ使用量の最適化\n- その他の軽微な変更 \n\nボタンをクリックしてアップデート6.3の詳細なブログをお読みください："
     }
 }

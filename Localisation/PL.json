@@ -184,6 +184,8 @@
         "finished": "zakończono",
         "iOS devices are too weak, thanks to Apple. Optimization and support for over 300 elements will be added in the future.": "Urządzenia iOS są zbyt słabe, dzięki Apple. Optymalizacja i obsługa ponad 300 elementów zostanie dodana w przyszłości.",
         "text coming soon...": "tekst wkrótce...",
-        "unpacking...": "wypakowywanie..."
+        "unpacking...": "wypakowywanie...",
+		"Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "Poznaj aktualizację centrum 1.3.0! \n\nCo nowego: \n- Globalna premiera APLIKACJI WEBOWEJ",
+		"Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "Poznaj aktualizację CSR2 6.3! \n\nCo nowego: \n- Legends V3\n- Optymalizacja zużycia pamięci\n- Inne drobne zmiany \n\nKliknij przycisk, aby przeczytać szczegółowy blog o aktualizacji 6.3:"
     }
 }

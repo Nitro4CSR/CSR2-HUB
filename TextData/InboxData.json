@@ -1,10 +1,18 @@
 {
+	"1770476760": {
+		"ACTION": "LINK_https://www.csr-racing.com/ru/news/6-3-0-blog-update",
+        "ACTOR": "T0_Jess",
+        "HEADER_TEXT": "CSR2 6.3 UPDATE",
+        "MESSAGE_TEXT": "Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:",
+        "THEME_BACKGR": "default",
+        "THEME_COLOR": "#FFC900"
+    },
 	"1769908395": {
 		"ACTION": null,
         "ACTOR": "T4_Donna",
         "HEADER_TEXT": "HUB 1.3.0 UPDATE",
-        "MESSAGE_TEXT": "Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP world release",
+        "MESSAGE_TEXT": "Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release",
         "THEME_BACKGR": "garage",
-        "THEME_COLOR": "#FFC900"
+        "THEME_COLOR": "#FF0000"
     }
 }
