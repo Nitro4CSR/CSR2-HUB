@@ -1146,5 +1146,9 @@
   {
     "CarDB": "AstonMartin_Valhalla_2025",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Bentley_ContinentalGTEVO_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 44, "z": 0, "w": 650, "h": 650}
   }
 ]
