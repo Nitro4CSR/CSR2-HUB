@@ -1150,5 +1150,9 @@
   {
     "CarDB": "Bentley_ContinentalGTEVO_2026",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 44, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Dodge_ChallengerRTLPClassic_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 800, "h": 800}
   }
 ]

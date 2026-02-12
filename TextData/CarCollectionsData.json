@@ -29,6 +29,17 @@
 		"Datsun_240ZLPClassic_1972",
 		"Chevrolet_CorvetteC1LPClassic_1958"
 	  ]
+	},
+	"season2": {
+	  "PRIZE": "BMW_30CSLE9LP_1973",
+	  "CARS": [
+		"Dodge_ChallengerRTLPClassic_1970",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY"
+	  ]
 	}
   },
   "ELITES": {
@@ -119,6 +130,17 @@
 		"Porsche_911CarreraRS27LPClassic_1973",
 		"Datsun_240ZLPClassic_1972",
 		"Chevrolet_CorvetteC1LPClassic_1958"
+	  ]
+	},
+    "LegendsLegacy": {
+	  "PRIZE": null,
+	  "CARS": [
+		"Dodge_ChallengerRTLPClassic_1970",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY",
+		"MYSTERY"
 	  ]
 	}
   }
