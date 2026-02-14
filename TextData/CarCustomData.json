@@ -461,7 +461,7 @@
   },
   {
     "CarDB": "Lamborghini_Veneno_2013",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 95, "z": 0, "w": 750, "h": 750}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 125, "z": 0, "w": 700, "h": 700}
   },
   {
     "CarDB": "Lamborghini_VenenoGold_2013",
@@ -1153,6 +1153,30 @@
   },
   {
     "CarDB": "Dodge_ChallengerRTLPClassic_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 800, "h": 800}
+  },
+  {
+    "CarDB": "McLaren_W1_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "DeTomaso_P900_2022",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Porsche_919Street_2020",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "AstonMartin_DBXSReward_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "AstonMartin_DBXSRewardRecycled_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Chevrolet_NovaSSLPClassic_1970",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 800, "h": 800}
   }
 ]

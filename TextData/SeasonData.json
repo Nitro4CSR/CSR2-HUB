@@ -2078,5 +2078,21 @@
     "PrizeCar": "BMW_M2CSG87Reward_2025",
     "MilestoneCar": "BMW_M2CSG87RewardRecycled_2025",
     "PrestigeCar": "MercedesAMG_G63SUVRewardRecycled_2020"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 261,
+    "KnownSeason": 253,
+    "PrizeCar": "AstonMartin_DBXSReward_2026",
+    "MilestoneCar": "AstonMartin_DBXSRewardRecycled_2026",
+    "PrestigeCar": "Hyundai_IONIQ5NNPX1RewardRecycled_2024"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 262,
+    "KnownSeason": 254,
+    "PrizeCar": "Porsche_911TurboSReward_2026",
+    "MilestoneCar": "Porsche_911TurboSRewardRecycled_2026",
+    "PrestigeCar": "Audi_R8V10GTRewardRecycled_2023"
   }
 ]
