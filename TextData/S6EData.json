@@ -19952,7 +19952,7 @@
     "S6ETRANSMISSION": "0.000"
   },
   {
-    "DBName": "Chevrolet_NovaSSLPClassic_1970",
+    "DBName": "Chevrolet_NovaSSLPClassic_1970_UR",
     "S5-PP": "0",
     "S5EVO": "0",
     "S5FD": "0.00",
@@ -19984,7 +19984,23 @@
     "S6ETRANSMISSION": "0.000"
   },
   {
-    "DBName": "Chevrolet_NovaSSLPClassic_1970",
+    "DBName": "Chevrolet_NovaSSLPClassic_1970_EC",
+    "S5-PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Ford_EscortMk1RS2000LPClassic_1973_UR",
     "S5-PP": "0",
     "S5EVO": "0",
     "S5FD": "0.00",
@@ -20016,23 +20032,7 @@
     "S6ETRANSMISSION": "0.000"
   },
   {
-    "DBName": "Ford_EscortMk1RS2000LPClassic_1973",
-    "S5-PP": "0",
-    "S5EVO": "0",
-    "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
-    "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
-  },
-  {
-    "DBName": "Ford_EscortMk1RS2000LPClassic_1973",
+    "DBName": "Ford_EscortMk1RS2000LPClassic_1973_EC",
     "S5-PP": "0",
     "S5EVO": "0",
     "S5FD": "0.00",
