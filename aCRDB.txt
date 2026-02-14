@@ -325,8 +325,6 @@ Chevrolet_NASCARCamaroZL1_2020
 Chevrolet_NASCARCamaroZL1JE_2020
 Chevrolet_NovaSSF9_1970
 Chevrolet_NovaSSLPClassic_1970
-Chevrolet_NovaSSLPClassic_1970
-Chevrolet_NovaSSLPClassic_1970
 Chevrolet_PandeMCamaroZ28_1972
 Chevrolet_PickUpVerminsDiner_1936
 Chevrolet_PickUpVerminsDinerOG_1936
@@ -476,8 +474,6 @@ FnF_FlipCar_2013
 FnF_SupraMKIVF2_1994
 Ford_Durty30_2016
 Ford_Durty30Gold_2016
-Ford_EscortMk1RS2000LPClassic_1973
-Ford_EscortMk1RS2000LPClassic_1973
 Ford_EscortMk1RS2000LPClassic_1973
 Ford_EscortMKIF6_1970
 Ford_EscortRSCosworthCossieV2_1994
