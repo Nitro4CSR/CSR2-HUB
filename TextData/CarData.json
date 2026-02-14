@@ -21530,7 +21530,7 @@
     "WRDriver": "",
     "WRBest": "0.000",
     "WRdyno": 9.716,
-    "WRpp": "713",
+    "WRpp": "673",
     "WRevo": 1996,
     "WRFD": "2.00",
     "WRNITRO": "180/4.5",
@@ -21547,7 +21547,7 @@
     "WRDriver": "",
     "WRBest": "0.000",
     "WRdyno": 9.655,
-    "WRpp": "713",
+    "WRpp": "673",
     "WRevo": 2026,
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
@@ -21564,7 +21564,7 @@
     "WRDriver": "",
     "WRBest": "0.000",
     "WRdyno": 6.854,
-    "WRpp": "713",
+    "WRpp": "715",
     "WRevo": 2468,
     "WRFD": "2.00",
     "WRNITRO": "188/4.0",
@@ -21573,7 +21573,7 @@
     "isEV": 0
   },
   {
-    "DBName": "Chevrolet_NovaSSLPClassic_1970",
+    "DBName": "Chevrolet_NovaSSLPClassic_1970_UR",
     "Vision": "Added into the game in OTA1 Update 6.3.0 and released in Season 252 (February 17, 2026 - April 18, 2026) as a part of the Legends: Legacy.",
     "SHIFT": "",
     "Tier": 4,
@@ -21607,7 +21607,7 @@
     "isEV": 0
   },
   {
-    "DBName": "Chevrolet_NovaSSLPClassic_1970",
+    "DBName": "Chevrolet_NovaSSLPClassic_1970_EC",
     "Vision": "Added into the game in OTA1 Update 6.3.0 and released in Season 252 (February 17, 2026 - April 18, 2026) as a part of the Legends: Legacy.",
     "SHIFT": "",
     "Tier": 4,
@@ -21624,7 +21624,7 @@
     "isEV": 0
   },
   {
-    "DBName": "Ford_EscortMk1RS2000LPClassic_1973",
+    "DBName": "Ford_EscortMk1RS2000LPClassic_1973_UR",
     "Vision": "Added into the game in OTA1 Update 6.3.0 and released in Season 252 (February 17, 2026 - April 18, 2026) as a part of the Legends: Legacy.",
     "SHIFT": "",
     "Tier": 4,
@@ -21658,7 +21658,7 @@
     "isEV": 0
   },
   {
-    "DBName": "Ford_EscortMk1RS2000LPClassic_1973",
+    "DBName": "Ford_EscortMk1RS2000LPClassic_1973_EC",
     "Vision": "Added into the game in OTA1 Update 6.3.0 and released in Season 252 (February 17, 2026 - April 18, 2026) as a part of the Legends: Legacy.",
     "SHIFT": "",
     "Tier": 4,
