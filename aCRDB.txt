@@ -153,7 +153,6 @@ Bentley_MullinerBacalarRewardRecycled_2021
 Bentley_MullinerBaturReward_2023
 Bentley_MullinerBaturRewardRecycled_2023
 BMW_30CSLE9LP_1973
-BMW_30CSLE9LP_1973
 BMW_ACSchnitzerM2Coupe_2016
 BMW_ACSchnitzerZ4_2019
 BMW_i8Elite_2017
