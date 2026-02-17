@@ -21473,11 +21473,11 @@
   {
     "DBName": "Dodge_ChallengerRTLPClassic_1970_EC",
     "Vision": "Added into the game in Update 6.3.0 and released in Season 252 (February 17, 2026 - April 18, 2026) as a part of the Legends: Legacy.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=y696jx1tkME",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 7.051,
     "WRdyno": 7.111,
     "WRpp": "713",
     "WRevo": 2412,
