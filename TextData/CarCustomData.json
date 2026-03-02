@@ -1178,5 +1178,21 @@
   {
     "CarDB": "Chevrolet_NovaSSLPClassic_1970",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 800, "h": 800}
+  },
+  {
+    "CarDB": "Ferrari_288GTO_1985",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Ferrari_F40Competizione_1989",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Ferrari_MV512Testarossa_1986",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 60, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Pagani_HuayraCodalungaSpeedster_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 30, "z": 0, "w": 700, "h": 700}
   }
 ]

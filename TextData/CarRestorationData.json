@@ -251,5 +251,38 @@
     "PAINT2": [16000, 22],
     "PAINT3": [0, 0],
     "PAINT4": [0, 0]
+  },
+  "Porsche_911Turbo930LPClassic_1977": {
+    "WHEELS1": [11000, 18],
+    "ENGINE1": [11000, 18],
+    "ENGINE2": [0, 0],
+    "INTERIOR1": [13000, 22],
+    "INTERIOR2": [0, 0],
+    "PAINT1": [12000, 20],
+    "PAINT2": [15000, 22],
+    "PAINT3": [0, 0],
+    "PAINT4": [0, 0]
+  },
+  "Ford_MustangSVTCobraRLPClassic_1993": {
+    "WHEELS1": [10000, 16],
+    "ENGINE1": [12000, 18],
+    "ENGINE2": [0, 0],
+    "INTERIOR1": [15000, 24],
+    "INTERIOR2": [0, 0],
+    "PAINT1": [12000, 18],
+    "PAINT2": [15000, 24],
+    "PAINT3": [0, 0],
+    "PAINT4": [0, 0]
+  },
+  "Dodge_ViperSR1LPClassic_1995": {
+    "WHEELS1": [12000, 18],
+    "ENGINE1": [13000, 18],
+    "ENGINE2": [0, 0],
+    "INTERIOR1": [16000, 22],
+    "INTERIOR2": [0, 0],
+    "PAINT1": [13000, 20],
+    "PAINT2": [16000, 22],
+    "PAINT3": [0, 0],
+    "PAINT4": [0, 0]
   }
 }
