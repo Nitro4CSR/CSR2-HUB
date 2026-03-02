@@ -20344,12 +20344,12 @@
     "S5TIRE": "0/100",
     "S5DYNO": 9.035,
     "S6EENGINE": 8.743,
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6ETURBO": 8.81,
+    "S6EINTAKE": 8.93,
+    "S6ENITRO": 8.74,
+    "S6EBODY": 8.561,
+    "S6ETIRES": 8.79,
+    "S6ETRANSMISSION": 8.504
   },
   {
     "DBName": "Ferrari_288GTO_1985",
