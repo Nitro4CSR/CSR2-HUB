@@ -2067,32 +2067,32 @@
     "Type": 4,
     "CodeSeason": 259,
     "KnownSeason": 251,
-    "PrizeCar": "#VALUE!",
-    "MilestoneCar": "",
+    "PrizeCar": "Bentley_BaturConvertibleReward_2025",
+    "MilestoneCar": "Bentley_BaturConvertibleRewardRecycled_2025",
     "PrestigeCar": ""
   },
   {
     "Type": 4,
     "CodeSeason": 260,
     "KnownSeason": 252,
-    "PrizeCar": "#VALUE!",
-    "MilestoneCar": "",
+    "PrizeCar": "BMW_M2CSG87Reward_2025",
+    "MilestoneCar": "BMW_M2CSG87RewardRecycled_2025",
     "PrestigeCar": ""
   },
   {
     "Type": 4,
     "CodeSeason": 261,
     "KnownSeason": 253,
-    "PrizeCar": "#VALUE!",
-    "MilestoneCar": "",
+    "PrizeCar": "AstonMartin_DBXSReward_2026",
+    "MilestoneCar": "AstonMartin_DBXSRewardRecycled_2026",
     "PrestigeCar": ""
   },
   {
     "Type": 4,
     "CodeSeason": 262,
     "KnownSeason": 254,
-    "PrizeCar": "#VALUE!",
-    "MilestoneCar": "",
+    "PrizeCar": "Porsche_911TurboSReward_2026",
+    "MilestoneCar": "Porsche_911TurboSRewardRecycled_2026",
     "PrestigeCar": ""
   },
   {
