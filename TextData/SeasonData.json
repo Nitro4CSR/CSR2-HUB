@@ -1667,7 +1667,7 @@
     "Type": 3,
     "CodeSeason": 209,
     "KnownSeason": 201,
-    "PrizeCar": "Rimac_NeveraReward_2022",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "Rimac_NeveraRewardrecycled_2022",
     "PrestigeCar": "Jaguar_CX75PrototypeRewardRecycled_2013"
   },
@@ -2067,7 +2067,7 @@
     "Type": 4,
     "CodeSeason": 259,
     "KnownSeason": 251,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   },
@@ -2075,7 +2075,7 @@
     "Type": 4,
     "CodeSeason": 260,
     "KnownSeason": 252,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   },
@@ -2083,7 +2083,7 @@
     "Type": 4,
     "CodeSeason": 261,
     "KnownSeason": 253,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   },
@@ -2091,7 +2091,7 @@
     "Type": 4,
     "CodeSeason": 262,
     "KnownSeason": 254,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   },
@@ -2099,8 +2099,8 @@
     "Type": 4,
     "CodeSeason": 263,
     "KnownSeason": 255,
-    "PrizeCar": "",
-    "MilestoneCar": "",
+    "PrizeCar": "Chevrolet_CorvetteC8ZR1Reward_2024",
+    "MilestoneCar": "Chevrolet_CorvetteC8ZR1RewardRecycled_2024",
     "PrestigeCar": ""
   },
   {
