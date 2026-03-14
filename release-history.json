@@ -1,4 +1,9 @@
 [   
+    {
+        "version": "1.4.0",
+        "info": "- improved display of maximum Elite stage and required Elite components for all cars\n- added upgrade detailed configurator (6-stage effects info)\n- added pristine info\n- fix errors and optimization\n- other minor changes",
+		"date": "14/03/26"
+    },
 	{
         "version": "1.3.0",
         "info": "- WEB-APP world release",
