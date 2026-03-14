@@ -1,0 +1,642 @@
+{
+    "PristineCarsConfig": {
+		"AstonMartin_DB5Classic_1964": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T2Upgrade1", "V1T2Upgrade2", "V1T2Upgrade3", "V1T2Upgrade4", "V1T2Upgrade5", "V1T2Upgrade6"]
+        },
+		"Ferrari_250GTOClassic_1962": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T2Upgrade1", "V1T2Upgrade2", "V1T2Upgrade3", "V1T2Upgrade4", "V1T2Upgrade5", "V1T2Upgrade6"]
+        },
+		"MercedesBenz_300SLClassic_1954": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T2Upgrade1", "V1T2Upgrade2", "V1T2Upgrade3", "V1T2Upgrade4", "V1T2Upgrade5", "V1T2Upgrade6"]
+        },
+		"Pontiac_GTOTheJudgeClassic_1969": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T3Upgrade1", "V1T3Upgrade2", "V1T3Upgrade3", "V1T3Upgrade4", "V1T3Upgrade5", "V1T3Upgrade6"]
+        },
+		"Chevrolet_CorvetteZR1Classic_1970": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T3Upgrade1", "V1T3Upgrade2", "V1T3Upgrade3", "V1T3Upgrade4", "V1T3Upgrade5", "V1T3Upgrade6"]
+        },
+		"Shelby_Cobra427SCClassic_1965": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T3Upgrade1", "V1T3Upgrade2", "V1T3Upgrade3", "V1T3Upgrade4", "V1T3Upgrade5", "V1T3Upgrade6"]
+        },
+		"Honda_NSXRClassic_1992": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T4Upgrade1", "V1T4Upgrade2", "V1T4Upgrade3", "V1T4Upgrade4", "V1T4Upgrade5", "V1T4Upgrade6"]
+        },
+		"Lamborghini_CountachClassic_1988": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T4Upgrade1", "V1T4Upgrade2", "V1T4Upgrade3", "V1T4Upgrade4", "V1T4Upgrade5", "V1T4Upgrade6"]
+        },
+		"Plymouth_HemiCudaClassic_1971": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T4Upgrade1", "V1T4Upgrade2", "V1T4Upgrade3", "V1T4Upgrade4", "V1T4Upgrade5", "V1T4Upgrade6"]
+        },
+		"Jaguar_XJ220Classic_1993": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T5Upgrade1", "V1T5Upgrade2", "V1T5Upgrade3", "V1T5Upgrade4", "V1T5Upgrade5", "V1T5Upgrade6"]
+        },
+		"Porsche_CarreraGTClassic_2003": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T5Upgrade1", "V1T5Upgrade2", "V1T5Upgrade3", "V1T5Upgrade4", "V1T5Upgrade5", "V1T5Upgrade6"]
+        },
+		"Saleen_S7Classic_2004": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["V1T5Upgrade1", "V1T5Upgrade2", "V1T5Upgrade3", "V1T5Upgrade4", "V1T5Upgrade5", "V1T5Upgrade6"]
+        },
+		"Ford_MustangShelbyGT350LPClassic_1965": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+		"Lamborghini_MiuraSVLPClassic_1971": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+		"Plymouth_SuperbirdLPClassic_1970": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+		"Porsche_911CarreraRS27LPClassic_1973": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+		"Datsun_240ZLPClassic_1972": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+		"Chevrolet_CorvetteC1LPClassic_1958": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+        "Chevrolet_NovaSSLPClassic_1970": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+        "Dodge_ChallengerRTLPClassic_1970": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+        "Dodge_ViperSR1LPClassic_1995": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+        "Ford_EscortMk1RS2000LPClassic_1973": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+        "Ford_MustangSVTCobraRLPClassic_1993": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        },
+        "Porsche_911Turbo930LPClassic_1977": {
+            "PristineTierExpiringTimerCriteriaInHours": 86400,
+            "PristineTierOrder": ["LegacyUpgrade1", "LegacyUpgrade2", "LegacyUpgrade3", "LegacyUpgrade4", "LegacyUpgrade5", "LegacyUpgrade6"]
+        }
+    },
+    "PristineTierConfig": {
+		"LegacyUpgrade1": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 1,
+            "RestorationTokensCost": 750,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 10
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+        "LegacyUpgrade2": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 1,
+            "RestorationTokensCost": 1200,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 300
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+        "LegacyUpgrade3": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 2,
+            "RestorationTokensCost": 1500,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 10
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 200
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+        "LegacyUpgrade4": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 3,
+            "RestorationTokensCost": 2500,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 25
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+        "LegacyUpgrade5": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 4,
+            "RestorationTokensCost": 3500,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 25
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+        "LegacyUpgrade6": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 5,
+            "RestorationTokensCost": 4000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 25
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 1500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T2Upgrade1": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 670,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T2Upgrade2": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 1330,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T2Upgrade3": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 2330,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T2Upgrade4": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 3330,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 10
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T2Upgrade5": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 5000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 25
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T2Upgrade6": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 6670,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 50
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 500
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T3Upgrade1": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 800,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 750
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T3Upgrade2": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 1600,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 750
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T3Upgrade3": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 2800,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 750
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T3Upgrade4": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 4000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 10
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 750
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T3Upgrade5": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 6000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 25
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 750
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T3Upgrade6": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 8000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 50
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 750
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T4Upgrade1": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 1330,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 900
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T4Upgrade2": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 2670,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 900
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T4Upgrade3": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 4670,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 900
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T4Upgrade4": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 6670,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 10
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 900
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T4Upgrade5": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 10000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 25
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 900
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T4Upgrade6": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 13330,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 50
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 900
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T5Upgrade1": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 2000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 1000
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T5Upgrade2": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 4000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 1000
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T5Upgrade3": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 7000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 5
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 1000
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T5Upgrade4": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 10000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 10
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 1000
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T5Upgrade5": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 15000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 25
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 1000
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        },
+		"V1T5Upgrade6": {
+            "ActiveDuration": 14,
+            "CarsToUnlockToActivateTier": 6,
+            "RestorationTokensCost": 20000,
+            "Rewards": [{
+                    "reward": {
+                        "rewardType": 27
+                    },
+                    "rewardAmount": 50
+                }, {
+                    "reward": {
+                        "rewardType": 1
+                    },
+                    "rewardAmount": 1000
+                }
+            ],
+            "UniversalRestorationTokensCost": 1
+        }
+    }
+}

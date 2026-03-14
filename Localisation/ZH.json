@@ -79,7 +79,6 @@
         "For stable operation of the application, it is recommended to have at least 200 MB of free storage on your device. Free up space and try again.": "为稳定运行应用程序，建议设备至少有 200 MB 可用存储空间。请释放空间并重试。",
         "GRAPHICS": "图形",
         "Gacha imports": "扭蛋导入",
-        "Get updated information on how many Legends components you need to restore your car!": "获取修复你的车辆需要多少传奇部件的更新信息！",
         "Graphics quality": "图形质量",
         "Hello, sweetie. It was one of the earliest seasons of the game. There was no prize cup back then.": "你好，亲爱的。这是游戏最早的赛季之一。那时还没有奖杯。",
         "Here you can see the key cars of each season": "在这里你可以看到每个赛季的关键车辆",
@@ -185,7 +184,9 @@
         "iOS devices are too weak, thanks to Apple. Optimization and support for over 300 elements will be added in the future.": "iOS 设备性能太弱，感谢苹果。未来将添加对超过 300 个元素的优化和支持。",
         "text coming soon...": "文字即将推出...",
         "unpacking...": "解压中...",
-		"Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "迎来中心更新 1.3.0！\n\n新功能：\n- WEB-APP 全球发布",
-		"Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "迎来 CSR2 更新 6.3！\n\n新功能：\n- 传奇 V3\n- 内存使用优化\n- 其他细微更改 \n\n点击按钮阅读更新 6.3 的详细博客："
+        "Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "迎来中心更新 1.3.0！\n\n新功能：\n- WEB-APP 全球发布",
+        "Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "迎来 CSR2 更新 6.3！\n\n新功能：\n- 传奇 V3\n- 内存使用优化\n- 其他细微更改 \n\n点击按钮阅读更新 6.3 的详细博客：",
+        "Get actual information on how many Legends components you need to restore your car!": "获取修复你的车辆需要多少传奇部件的更新信息！",
+        "Get actual information on how many Legends components you need for Pristine!": "获取关于打造Pristine所需传说组件实际数量的信息！"
     }
 }

@@ -79,7 +79,6 @@
         "For stable operation of the application, it is recommended to have at least 200 MB of free storage on your device. Free up space and try again.": "アプリを安定して動作させるためには、デバイスに少なくとも200MBの空きストレージ容量が必要です。空き容量を確保してから再試行してください。",
         "GRAPHICS": "グラフィックス",
         "Gacha imports": "ガチャインポート",
-        "Get updated information on how many Legends components you need to restore your car!": "車を修復するのに必要なレジェンズコンポーネントの最新情報を入手！",
         "Graphics quality": "グラフィック品質",
         "Hello, sweetie. It was one of the earliest seasons of the game. There was no prize cup back then.": "やあ、お嬢さん。ゲームの最初期のシーズンの一つだったのよ。当時はプライズカップなんてなかったわ。",
         "Here you can see the key cars of each season": "ここでは各シーズンのキーカーを見ることができます",
@@ -185,7 +184,9 @@
         "iOS devices are too weak, thanks to Apple. Optimization and support for over 300 elements will be added in the future.": "iOSデバイスはAppleのおかげであまりに弱いです。300以上の要素に対する最適化とサポートは将来追加されます。",
         "text coming soon...": "テキストは近日公開...",
         "unpacking...": "展開中...",
-		"Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "ハブアップデート1.3.0のご紹介！\n\n新機能：\n- WEB-APPのグローバルリリース",
-		"Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "CSR2アップデート6.3のご紹介！\n\n新機能：\n- レジェンズ V3\n- メモリ使用量の最適化\n- その他の軽微な変更 \n\nボタンをクリックしてアップデート6.3の詳細なブログをお読みください："
+        "Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "ハブアップデート1.3.0のご紹介！\n\n新機能：\n- WEB-APPのグローバルリリース",
+        "Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "CSR2アップデート6.3のご紹介！\n\n新機能：\n- レジェンズ V3\n- メモリ使用量の最適化\n- その他の軽微な変更 \n\nボタンをクリックしてアップデート6.3の詳細なブログをお読みください：",
+        "Get actual information on how many Legends components you need to restore your car!": "車を修復するのに必要なレジェンズコンポーネントの最新情報を入手！",
+        "Get actual information on how many Legends components you need for Pristine!": "「Pristine」に必要な伝説コンポーネントの実際の数を入手しよう！"
     }
 }

@@ -79,7 +79,6 @@
         "For stable operation of the application, it is recommended to have at least 200 MB of free storage on your device. Free up space and try again.": "Para un funcionamiento estable de la aplicación, se recomienda tener al menos 200 MB de almacenamiento libre en tu dispositivo. Libera espacio e inténtalo de nuevo.",
         "GRAPHICS": "GRÁFICOS",
         "Gacha imports": "Importaciones Gacha",
-        "Get updated information on how many Legends components you need to restore your car!": "¡Obtén información actualizada sobre cuántos componentes de Legends necesitas para restaurar tu coche!",
         "Graphics quality": "Calidad de gráficos",
         "Hello, sweetie. It was one of the earliest seasons of the game. There was no prize cup back then.": "Hola, cariño. Era una de las primeras temporadas del juego. En aquel entonces no había copa de premios.",
         "Here you can see the key cars of each season": "Aquí puedes ver los coches clave de cada temporada",
@@ -185,7 +184,9 @@
         "iOS devices are too weak, thanks to Apple. Optimization and support for over 300 elements will be added in the future.": "Los dispositivos iOS son demasiado débiles, gracias a Apple. La optimización y el soporte para más de 300 elementos se añadirán en el futuro.",
         "text coming soon...": "texto próximamente...",
         "unpacking...": "descomprimiendo...",
-		"Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "¡Conoce la actualización del hub 1.3.0! \n\nNovedades: \n- Lanzamiento global de la WEB-APP",
-		"Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "¡Conoce la actualización de CSR2 6.3! \n\nNovedades: \n- Legends V3\n- Optimización del uso de memoria\n- Otros cambios menores \n\nHaz clic en el botón para leer el blog detallado de la actualización 6.3:"
+        "Meet the hub update 1.3.0! \n\nWhat's new: \n- WEB-APP global release": "¡Conoce la actualización del hub 1.3.0! \n\nNovedades: \n- Lanzamiento global de la WEB-APP",
+        "Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "¡Conoce la actualización de CSR2 6.3! \n\nNovedades: \n- Legends V3\n- Optimización del uso de memoria\n- Otros cambios menores \n\nHaz clic en el botón para leer el blog detallado de la actualización 6.3:",
+        "Get actual information on how many Legends components you need to restore your car!": "¡Obtén información actualizada sobre cuántos componentes de Legends necesitas para restaurar tu coche!",
+        "Get actual information on how many Legends components you need for Pristine!": "¡Obtén información real sobre cuántos componentes de Leyendas necesitas para Pristine!"
     }
 }
