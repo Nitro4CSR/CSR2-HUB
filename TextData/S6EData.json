@@ -18393,11 +18393,11 @@
     "S5DYNO": 9.428,
     "S6EENGINE": 9.191,
     "S6ETURBO": 9.344,
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6EINTAKE": 9.353,
+    "S6ENITRO": 9.229,
+    "S6EBODY": 9.034,
+    "S6ETIRES": 9.183,
+    "S6ETRANSMISSION": 9.047
   },
   {
     "DBName": "Porsche_917K_1970",
