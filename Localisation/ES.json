@@ -59,7 +59,7 @@
         "DEPENDENCiES": "DEPENDENCIAS",
         "DIRECT LINK": "ENLACE DIRECTO",
         "DONATION": "DONACIÓN",
-        "DYNO:": "BANCO DE PRUEBAS:",
+        "DYNO:": "DYNO:",
         "Did you know I have a Discord bot? I joined Discord at TheMaintainers' request. Use the additional features and quick access to information when you can't use the hub.": "¿Sabías que tengo un bot de Discord? Me uní a Discord a petición de TheMaintainers. Usa las funciones adicionales y el acceso rápido a la información cuando no puedas usar el hub.",
         "Donater": "Donante",
         "Download failed, check your internet connection and restart the app": "Descarga fallida, comprueba tu conexión a Internet y reinicia la aplicación",
@@ -184,9 +184,9 @@
         "iOS devices are too weak, thanks to Apple. Optimization and support for over 300 elements will be added in the future.": "Los dispositivos iOS son demasiado débiles, gracias a Apple. La optimización y el soporte para más de 300 elementos se añadirán en el futuro.",
         "text coming soon...": "texto próximamente...",
         "unpacking...": "descomprimiendo...",
-        "Meet the CSR2 update 6.3! \n\nWhat's new: \n- Legends V3\n- Memory usage optimization\n- Other minor changes \n\nClick the button to read the detailed blog for update 6.3:": "¡Conoce la actualización de CSR2 6.3! \n\nNovedades: \n- Legends V3\n- Optimización del uso de memoria\n- Otros cambios menores \n\nHaz clic en el botón para leer el blog detallado de la actualización 6.3:",
         "Get actual information on how many Legends components you need to restore your car!": "¡Obtén información actualizada sobre cuántos componentes de Legends necesitas para restaurar tu coche!",
         "Get actual information on how many Legends components you need for Pristine!": "¡Obtén información real sobre cuántos componentes de Leyendas necesitas para Pristine!",
-		"Meet the hub update 1.4.0! \n\nWhat's new: \n- improved display of maximum Elite stage and required Elite components for all cars\n- added upgrade detailed configurator (6-stage effects info)\n- added pristine info": "¡Conoce la actualización del hub 1.4.0! \n\nNovedades: \n- Visualización mejorada de la etapa Élite máxima y los componentes Élite necesarios para todos los coches\n- Añadido configurador detallado de mejoras (información de efectos de 6 etapas)\n- Añadida información de Pristine"
+		"Meet the hub update 1.4.0! \n\nWhat's new: \n- improved display of maximum Elite stage and required Elite components for all cars\n- added upgrade detailed configurator (6-stage effects info)\n- added pristine info": "¡Conoce la actualización del hub 1.4.0! \n\nNovedades: \n- Visualización mejorada de la etapa Élite máxima y los componentes Élite necesarios para todos los coches\n- Añadido configurador detallado de mejoras (información de efectos de 6 etapas)\n- Añadida información de Pristine",
+		"Meet the CSR2 update 6.4! \n\nWhat's new: \n- Sweepstakes\n- Fix errors and optimization\n- Other minor changes": "¡Conoce la actualización 6.4 de CSR2! \n\nNovedades: \n- Sorteo\n- Corrección de errores y optimización\n- Otros cambios menores"
     }
 }
