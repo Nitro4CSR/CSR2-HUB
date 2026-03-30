@@ -20210,18 +20210,18 @@
   {
     "DBName": "Porsche_911Turbo930LPClassic_1977_UR",
     "S5PP": 698,
-    "S5EVO": "0",
+    "S5EVO": 761,
     "S5FD": "0.00",
     "S5NITRO": "0/0.0",
     "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5DYNO": 11.357,
+    "S6EENGINE": 11.153,
+    "S6ETURBO": 11.216,
+    "S6EINTAKE": 11.305,
+    "S6ENITRO": 11.195,
+    "S6EBODY": 11.005,
+    "S6ETIRES": 11.094,
+    "S6ETRANSMISSION": 11.113
   },
   {
     "DBName": "Porsche_911Turbo930LPClassic_1977",
@@ -20235,9 +20235,9 @@
     "S6ETURBO": 10.155,
     "S6EINTAKE": 10.263,
     "S6ENITRO": 9.996,
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6EBODY": 9.888,
+    "S6ETIRES": 10.059,
+    "S6ETRANSMISSION": 10.072
   },
   {
     "DBName": "Porsche_911Turbo930LPClassic_1977_EC",
