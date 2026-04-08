@@ -20433,18 +20433,18 @@
   },
   {
     "DBName": "Pagani_HuayraCodalungaSpeedster_2025",
-    "S5PP": "0",
-    "S5EVO": "0",
-    "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
-    "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5PP": 698,
+    "S5EVO": 2245,
+    "S5FD": "2.00",
+    "S5NITRO": "150/2.0",
+    "S5TIRE": "0/100",
+    "S5DYNO": 8.386,
+    "S6EENGINE": 8.264,
+    "S6ETURBO": 8.276,
+    "S6EINTAKE": 8.285,
+    "S6ENITRO": 8.215,
+    "S6EBODY": 8.017,
+    "S6ETIRES": 8.173,
+    "S6ETRANSMISSION": 7.936
   }
 ]
