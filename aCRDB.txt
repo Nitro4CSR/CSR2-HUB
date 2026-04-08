@@ -110,6 +110,8 @@ Audi_R8V10PlusCoupeReward_2016
 Audi_R8V10PlusCoupeRewardRecycled_2016
 Audi_RS3SedanReward_2023
 Audi_RS3SedanRewardRecycled_2023
+Audi_RS3SportbackReward_2023
+Audi_RS3SportbackRewardRecycled_2023
 Audi_RS5Coupe_2014
 Audi_RS5CoupeReward_2020
 Audi_RS5CoupeRewardRecycled_2020
@@ -346,6 +348,7 @@ Chevrolet_ZwygartNova_1967
 Czinger_21C_2021
 Czinger_21CGold_2021
 Czinger_21CVMax_2023
+Dallara_EXP_2021
 Dallara_Stradale_2019
 Datsun_240ZLPClassic_1972
 DeTomaso_P900_2022
@@ -440,9 +443,11 @@ Ferrari_F12berlinetta_2014
 Ferrari_F12berlinetta70thAnniversary_2014
 Ferrari_F12tdfReward_2016
 Ferrari_F12tdfRewardRecycled_2016
+Ferrari_F355Berlinetta_1994
 Ferrari_F40Competizione_1989
 Ferrari_F40Reward_1987
 Ferrari_F40RewardRecycled_1987
+Ferrari_F430Scuderia_2008
 Ferrari_F50Crew_1995
 Ferrari_F50CrewRecycled_1995
 Ferrari_F50GT_1996
@@ -596,6 +601,8 @@ Hyundai_IONIQ5NNPX1Reward_2024
 Hyundai_IONIQ5NNPX1RewardRecycled_2024
 Hyundai_Ioniq5NReward_2023
 Hyundai_Ioniq5NRewardRecycled_2023
+Hyundai_IONIQ6NReward_2025
+Hyundai_IONIQ6NRewardRecycled_2025
 Hyundai_NVision74Concept_2023
 Hyundai_VelosterTurboRSpec_2014
 Hyundai_VelosterTurboRSpecARK_2014
