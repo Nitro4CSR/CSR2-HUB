@@ -1201,10 +1201,10 @@
   },
   {
     "CarDB": "Hyundai_IONIQ6NReward_2025",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 40, "z": 0, "w": 700, "h": 700}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 70, "z": 0, "w": 700, "h": 700}
   },
   {
     "CarDB": "Hyundai_IONIQ6NRewardRecycled_2025",
-	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 40, "z": 0, "w": 700, "h": 700}
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 70, "z": 0, "w": 700, "h": 700}
   }
 ]
