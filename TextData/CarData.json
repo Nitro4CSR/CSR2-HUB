@@ -9624,11 +9624,11 @@
   {
     "DBName": "Chevrolet_CorvetteC8ZR1RewardRecycled_2024",
     "Vision": "Added into the game in OTA2 Update 6.3.0 and released in Season 255 (March 26, 2026 - April 9, 2026) as a Crew Milestone car at 20M Crew RP.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=69ay7R_K1iU",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 7.078,
     "WRdyno": 7.211,
     "WRpp": "713",
     "WRevo": 2355,
