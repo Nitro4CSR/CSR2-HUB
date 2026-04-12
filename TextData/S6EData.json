@@ -9482,10 +9482,10 @@
     "S6EENGINE": 8.692,
     "S6ETURBO": 8.757,
     "S6EINTAKE": 8.854,
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6ENITRO": 8.713,
+    "S6EBODY": 8.575,
+    "S6ETIRES": 8.754,
+    "S6ETRANSMISSION": 8.618
   },
   {
     "DBName": "Chevrolet_QuintinBrotherCamaroRewardRecycled_1968",
