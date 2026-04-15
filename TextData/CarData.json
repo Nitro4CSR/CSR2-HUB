@@ -12208,11 +12208,11 @@
   {
     "DBName": "Ferrari_F40Competizione_1989",
     "Vision": "Added into the game in OTA2 Update 6.3.0 and released in Season 256 (April 17, 2026 - April 24, 2026) as a paid Rosso Maranello: Elite Pursuit flash event car.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=EZ8uNRnyjXc",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.731,
     "WRdyno": 6.794,
     "WRpp": "713",
     "WRevo": 2555,
