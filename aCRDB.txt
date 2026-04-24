@@ -19,6 +19,7 @@ Apollo_IntensaEmozione_2019
 Apollo_IntensaEmozioneCarbon_2019
 Apollo_IntensaEmozioneOrangeDragon_2019
 Apollo_ProjectEvo_2022
+Apollo_S_2008
 Arrinera_HussaryaReward_2020
 Arrinera_HussaryaRewardRecycled_2020
 Aspark_Owl_2021
@@ -71,6 +72,7 @@ AstonMartin_VanquishZagatoReward_2017
 AstonMartin_VanquishZagatoRewardRecycled_2017
 AstonMartin_VanquishZagatoSB_2017
 AstonMartin_Vantage_2024
+AstonMartin_VantageGT12_2016
 AstonMartin_VantageGTE_2020
 AstonMartin_VantageRoadsterReward_2021
 AstonMartin_VantageRoadsterRewardRecycled_2021
@@ -411,6 +413,7 @@ Ferrari_296GTB_2022
 Ferrari_296GTBAssettoFiorano_2022
 Ferrari_296GTSReward_2023
 Ferrari_296GTSRewardRecycled_2023
+Ferrari_296SpecialeA_2026
 Ferrari_458Speciale_2014
 Ferrari_488GTB70thAnniversary_2015
 Ferrari_488GTModificata_2021
@@ -594,6 +597,8 @@ Honda_NSXTNR_1992
 Honda_S2000F1_2001
 Honda_S2000F2_2001
 Honda_S2000TNR_2001
+Honda_VarisS2000Reward_2005
+Honda_VarisS2000RewardRecycled_2005
 Hyperion_XP1_2023
 Hyundai_ElantraNReward_2022
 Hyundai_ElantraNRewardRecycled_2022
@@ -724,6 +729,7 @@ Lamborghini_MiuraSVLPClassic_1971
 Lamborghini_MurcielagoLP640F8_2006
 Lamborghini_MurcielagoSVReward_2009
 Lamborghini_MurcielagoSVRewardRecycled_2009
+Lamborghini_Reventon_2008
 Lamborghini_RevueltoReward_2024
 Lamborghini_RevueltoRewardRecycled_2024
 Lamborghini_SC18Alston_2019
@@ -1037,6 +1043,7 @@ Porsche_911GT3RewardRecycled_2018
 Porsche_911GT3RRennsport_2023
 Porsche_911GT3RS992_2023
 Porsche_911GT3RS992Tribute_2023
+Porsche_911GT3RS997_2012
 Porsche_911GT3RSCrew_2016
 Porsche_911GT3RSCrewRecycled_2016
 Porsche_911GT3RSReward_2018
@@ -1086,6 +1093,8 @@ Porsche_CaymanGT4_2016
 Porsche_CaymanGT4Salzburg_2016
 Porsche_DD911GTRSRReward_2017
 Porsche_DD911GTRSRRewardRecycled_2017
+Porsche_Manthey911GT3RSReward_2024
+Porsche_Manthey911GT3RSRewardRecycled_2024
 Porsche_MissionRConcept_2021
 Porsche_PanameraSportTurismoReward_2021
 Porsche_PanameraSportTurismoRewardRecycled_2021
@@ -1107,6 +1116,7 @@ Radford_Type62GOSH_2021
 Radford_Type62PikesPeak_2023
 Radford_Type62Reward_2021
 Radford_Type62RewardRecycled_2021
+RAESR_TachyonSpeed_2024
 RAM_1500TRX_2021
 Rimac_Nevera_2021
 Rimac_NeveraR_2025
