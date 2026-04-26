@@ -1,11 +1,11 @@
 {
-	"1774591227": {
-		"ACTION": "LINK_https://www.csr-racing.com/ru/news/6-4-0-blog-update",
+	"1777212652": {
+		"ACTION": null,
         "ACTOR": "T0_Jess",
-        "HEADER_TEXT": "CSR2 6.4 UPDATE",
-        "MESSAGE_TEXT": "Meet the CSR2 update 6.4! \n\nWhat's new: \n- Sweepstakes\n- Fix errors and optimization\n- Other minor changes",
+        "HEADER_TEXT": "CSR2 6.5 UPDATE",
+        "MESSAGE_TEXT": "Meet the CSR2 update 6.5! \n\nWhat's new: \n- 10th Anniversary!\n- Grand Tours: The Circuit\n- Fix errors and optimization\n- Other minor changes",
         "THEME_BACKGR": "default",
-        "THEME_COLOR": "#FFC900"
+        "THEME_COLOR": "#3c9fc6"
     },
 	"1773486240": {
 		"ACTION": null,
@@ -13,6 +13,6 @@
         "HEADER_TEXT": "HUB 1.4.0 UPDATE",
         "MESSAGE_TEXT": "Meet the hub update 1.4.0! \n\nWhat's new: \n- improved display of maximum Elite stage and required Elite components for all cars\n- added upgrade detailed configurator (6-stage effects info)\n- added pristine info",
         "THEME_BACKGR": "garage",
-        "THEME_COLOR": "#FF0000"
+        "THEME_COLOR": "#FFC900"
     }
 }

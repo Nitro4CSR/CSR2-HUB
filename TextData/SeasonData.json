@@ -2126,5 +2126,13 @@
     "PrizeCar": "Audi_RS3SportbackReward_2023",
     "MilestoneCar": "Audi_RS3SportbackRewardRecycled_2023",
     "PrestigeCar": "Honda_CivicTypeRRewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 267,
+    "KnownSeason": 259,
+    "PrizeCar": "Porsche_Manthey911GT3RSReward_2024",
+    "MilestoneCar": "Porsche_Manthey911GT3RSRewardRecycled_2024",
+    "PrestigeCar": "Lamborghini_AventadorSJRewardRecycled_2021"
   }
 ]

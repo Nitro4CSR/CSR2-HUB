@@ -1206,5 +1206,9 @@
   {
     "CarDB": "Hyundai_IONIQ6NRewardRecycled_2025",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 70, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Ferrari_849Testarossa_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
   }
 ]
