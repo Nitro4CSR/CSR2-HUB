@@ -208,6 +208,19 @@
     "namehex": "#0093f0"
   },
   {
+    "name": "ѕт. αиgєя",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0,
+    "T5": 13,
+    "Total": 13,
+    "Points": 16,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "疯狂的卡拉恰",
     "LND": 0,
     "NonStarred": 0,
@@ -218,19 +231,6 @@
     "T5": 8,
     "Total": 12,
     "Points": 25,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "ѕт. αиgєя",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 0,
-    "T5": 12,
-    "Total": 12,
-    "Points": 15,
     "namehex": "#ffffff"
   },
   {
