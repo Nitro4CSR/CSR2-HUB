@@ -11073,7 +11073,7 @@
   },
   {
     "DBName": "Ferrari_849Testarossa_2026",
-    "S5PP": "0",
+    "S5PP": 698,
     "S5EVO": "0",
     "S5FD": "0.00",
     "S5NITRO": "0/0.0",
@@ -20625,18 +20625,18 @@
   },
   {
     "DBName": "Ferrari_296SpecialeA_2026",
-    "S5PP": "0",
-    "S5EVO": "0",
-    "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
-    "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5PP": 698,
+    "S5EVO": 2055,
+    "S5FD": "2.00",
+    "S5NITRO": "147/2.1",
+    "S5TIRE": "0/100",
+    "S5DYNO": 8.748,
+    "S6EENGINE": 8.595,
+    "S6ETURBO": 8.663,
+    "S6EINTAKE": 8.703,
+    "S6ENITRO": 8.607,
+    "S6EBODY": 8.339,
+    "S6ETIRES": 8.543,
+    "S6ETRANSMISSION": 8.262
   }
 ]
