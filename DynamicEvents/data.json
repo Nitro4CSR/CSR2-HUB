@@ -1,7 +1,7 @@
 {
     "LAZY_BLUE_SD": {
-        "ASSETBUNDLE": "FERRARI_2026_FINALE_BS_TEST",
-		"DATNAMEOVER": "FERRARI_2026_FINALE_BS",
+        "ASSETBUNDLE": "FERRARI_2026_FINALE_BS",
+		"DATNAMEOVER": null,
         "PIN_POSITION": {
             "x": -17.5,
             "y": 40,
