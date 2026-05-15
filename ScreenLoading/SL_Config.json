@@ -288,8 +288,53 @@
         "mus_id": 0
     },
 	{
-        "art_id": 67,
+        "art_id": 68,
         "art_y_offset": -20,
         "mus_id": 3
+    },
+	{
+        "art_id": 69,
+        "art_y_offset": -5,
+        "mus_id": 0
+    },
+	{
+        "art_id": 70,
+        "art_y_offset": -5,
+        "mus_id": 0
+    },
+	{
+        "art_id": 71,
+        "art_y_offset": 25,
+        "mus_id": 0
+    },
+	{
+        "art_id": 72,
+        "art_y_offset": -55,
+        "mus_id": 0
+    },
+	{
+        "art_id": 73,
+        "art_y_offset": -30,
+        "mus_id": 0
+    },
+	{
+        "art_id": 74,
+        "art_y_offset": 0,
+        "mus_id": 0
+    },
+	{
+        "art_id": 75,
+        "art_y_offset": -16,
+        "mus_id": 0
+    },
+	{
+        "art_id": 76,
+        "art_y_offset": -35,
+        "mus_id": 0
+    },
+	{
+        "art_id": 77,
+        "art_y_offset": -80,
+        "mus_id": 0
     }
 ]
