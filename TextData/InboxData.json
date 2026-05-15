@@ -1,4 +1,12 @@
 {
+	"1778845835": {
+		"ACTION": null,
+        "ACTOR": "T0_Jerry",
+        "HEADER_TEXT": "HUB 1.4.5 UPDATE",
+        "MESSAGE_TEXT": "Meet the hub update 1.4.5! \n\nWhat's new: \n- blue SD\n- other minor changes",
+        "THEME_BACKGR": "garage",
+        "THEME_COLOR": "#FFC900"
+    },
 	"1777395518": {
 		"ACTION": "LINK_https://www.csr-racing.com/ru/news/6-5-0-blog-update",
         "ACTOR": "T0_Jess",
@@ -6,13 +14,5 @@
         "MESSAGE_TEXT": "Meet the CSR2 update 6.5! \n\nWhat's new: \n- 10th Anniversary!\n- Grand Tours: The Circuit\n- Fix errors and optimization\n- Other minor changes",
         "THEME_BACKGR": "default",
         "THEME_COLOR": "#3c9fc6"
-    },
-	"1773486240": {
-		"ACTION": null,
-        "ACTOR": "EU_Akira",
-        "HEADER_TEXT": "HUB 1.4.0 UPDATE",
-        "MESSAGE_TEXT": "Meet the hub update 1.4.0! \n\nWhat's new: \n- improved display of maximum Elite stage and required Elite components for all cars\n- added upgrade detailed configurator (6-stage effects info)\n- added pristine info",
-        "THEME_BACKGR": "garage",
-        "THEME_COLOR": "#FFC900"
     }
 }
