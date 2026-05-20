@@ -706,18 +706,18 @@
   {
     "DBName": "Audi_RS3SportbackRewardRecycled_2023",
     "S5PP": 547,
-    "S5EVO": "0",
-    "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
-    "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5EVO": 805,
+    "S5FD": "3.20",
+    "S5NITRO": "144/2.2",
+    "S5TIRE": "0/100",
+    "S5DYNO": 8.777,
+    "S6EENGINE": 8.545,
+    "S6ETURBO": 8.667,
+    "S6EINTAKE": 8.624,
+    "S6ENITRO": 8.44,
+    "S6EBODY": 8.572,
+    "S6ETIRES": 8.598,
+    "S6ETRANSMISSION": 8.64
   },
   {
     "DBName": "Audi_RS3SportbackReward_2023",
@@ -732,8 +732,8 @@
     "S6EINTAKE": 8.537,
     "S6ENITRO": 8.331,
     "S6EBODY": 8.471,
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6ETIRES": 8.481,
+    "S6ETRANSMISSION": 8.52
   },
   {
     "DBName": "Audi_RS5CoupeRewardRecycled_2020",
