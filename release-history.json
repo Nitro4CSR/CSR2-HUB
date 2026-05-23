@@ -1,4 +1,9 @@
-[   
+[
+	{
+        "version": "1.4.6",
+        "info": "- fix errors and optimization\n- other minor changes",
+		"date": "23/05/26"
+    },
 	{
         "version": "1.4.5",
         "info": "- NEW SECTIONS: SHOWDOWN BS\n- fix errors and optimization\n- other minor changes",
