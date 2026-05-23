@@ -1210,5 +1210,25 @@
   {
     "CarDB": "Ferrari_849Testarossa_2026",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Bugatti_Divo_2019",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 70, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Apollo_S_2008",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 100, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "AstonMartin_VantageGT12_2016",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Porsche_912Hoonipigasus_1966",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 66, "z": 0, "w": 900, "h": 900}
+  },
+  {
+    "CarDB": "Bugatti_W16Mistral_2023",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 66, "z": 0, "w": 700, "h": 700}
   }
 ]
