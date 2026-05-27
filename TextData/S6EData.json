@@ -20800,6 +20800,22 @@
     "S6ETRANSMISSION": "0.000"
   },
   {
+    "DBName": "Dodge_ViperACR_2009",
+    "S5PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
     "DBName": "Mazda_RX8TNR_2008",
     "S5PP": "0",
     "S5EVO": "0",
@@ -20817,22 +20833,6 @@
   },
   {
     "DBName": "Mazda_RX8TNR_2008_EC",
-    "S5PP": "0",
-    "S5EVO": "0",
-    "S5FD": "0.00",
-    "S5NITRO": "0/0.0",
-    "S5TIRE": "0/0",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
-  },
-  {
-    "DBName": "Dodge_ViperACR_2009",
     "S5PP": "0",
     "S5EVO": "0",
     "S5FD": "0.00",
