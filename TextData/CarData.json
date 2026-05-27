@@ -22339,7 +22339,7 @@
   },
   {
     "DBName": "Lamborghini_Reventon_2008",
-    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 261 (July 4, 2026 - July 13, 2026) as a Prize car for the Nightfall Directive: Break The Night event.",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 262 (July 4, 2026 - July 13, 2026) as a Prize car for the Nightfall Directive: Break The Night event.",
     "SHIFT": "",
     "Tier": 4,
     "WRAddon": "Maxed Out",
@@ -22373,7 +22373,7 @@
   },
   {
     "DBName": "MercedesAMG_CLE53CoupeRewardRecycled_2024",
-    "Vision": "",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 261 (June 18, 2026 - July 2, 2026) as a Crew Milestone car at 20M Crew RP.",
     "SHIFT": "",
     "Tier": 3,
     "WRAddon": "Maxed Out",
@@ -22390,7 +22390,7 @@
   },
   {
     "DBName": "MercedesAMG_CLE53CoupeReward_2024",
-    "Vision": "",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 261 (June 18, 2026 - July 2, 2026) as a Crew Milestone car at 135M Crew RP.",
     "SHIFT": "",
     "Tier": 3,
     "WRAddon": "Maxed Out",
@@ -22407,7 +22407,7 @@
   },
   {
     "DBName": "Honda_VarisS2000RewardRecycled_2005",
-    "Vision": "",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 260 (June 4, 2026 - June 18, 2026) as a Crew Milestone car at 20M Crew RP.",
     "SHIFT": "",
     "Tier": 4,
     "WRAddon": "Maxed Out",
@@ -22424,7 +22424,7 @@
   },
   {
     "DBName": "Honda_VarisS2000Reward_2005",
-    "Vision": "",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 260 (June 4, 2026 - June 18, 2026) as a Crew Milestone car at 135M Crew RP.",
     "SHIFT": "",
     "Tier": 4,
     "WRAddon": "Maxed Out",
@@ -22441,7 +22441,7 @@
   },
   {
     "DBName": "Shelby_MustangSuperSnakeR_2025",
-    "Vision": "",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 260 (June 6, 2026 - June 13, 2026) as a Prize car for the Supercharged Elite event.",
     "SHIFT": "",
     "Tier": 4,
     "WRAddon": "Maxed Out",
@@ -22458,7 +22458,7 @@
   },
   {
     "DBName": "SSC_UltimateAeroTT_2009",
-    "Vision": "",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 260 (June 13, 2026 - June 23, 2026) as a Prize car for the Nightfall Directive: Closing Pattern event.",
     "SHIFT": "",
     "Tier": 4,
     "WRAddon": "Maxed Out",
@@ -22474,8 +22474,8 @@
     "isEV": 0
   },
   {
-    "DBName": "Mazda_RX8TNR_2008",
-    "Vision": "",
+    "DBName": "Dodge_ViperACR_2009",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 260 (June 13, 2026 - June 23, 2026) as a ShownDown Trophy Milestone Prize car for the Nightfall Directive: Closing Pattern ShowDown event.",
     "SHIFT": "",
     "Tier": 4,
     "WRAddon": "Maxed Out",
@@ -22491,8 +22491,8 @@
     "isEV": 0
   },
   {
-    "DBName": "Mazda_RX8TNR_2008_EC",
-    "Vision": "",
+    "DBName": "Mazda_RX8TNR_2008",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 259 (May 31, 2026 - July 30, 2026) as a free car in the Amelia's Tuner Pit event.",
     "SHIFT": "",
     "Tier": 4,
     "WRAddon": "Maxed Out",
@@ -22508,8 +22508,8 @@
     "isEV": 0
   },
   {
-    "DBName": "Dodge_ViperACR_2009",
-    "Vision": "",
+    "DBName": "Mazda_RX8TNR_2008_EC",
+    "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 259 (May 31, 2026 - July 30, 2026) as a free car in the Amelia's Tuner Pit event.",
     "SHIFT": "",
     "Tier": 4,
     "WRAddon": "Maxed Out",
