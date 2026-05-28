@@ -1230,5 +1230,33 @@
   {
     "CarDB": "Bugatti_W16Mistral_2023",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 66, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "MercedesAMG_CLE53CoupeReward_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "MercedesAMG_CLE53CoupeRewardRecycled_2024",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Shelby_MustangSuperSnakeR_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 108, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "McLaren_SennaLE_2018",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 75, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ferrari_LaFerrariAperta70thAnniversary_2017",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 75, "z": 0, "w": 600, "h": 600}
+  },
+  {
+    "CarDB": "SSC_UltimateAeroTT_2009",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 112, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Lexus_LC500TNR_2018",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
   }
 ]

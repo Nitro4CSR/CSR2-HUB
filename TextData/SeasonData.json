@@ -2134,5 +2134,21 @@
     "PrizeCar": "Porsche_Manthey911GT3RSReward_2024",
     "MilestoneCar": "Porsche_Manthey911GT3RSRewardRecycled_2024",
     "PrestigeCar": "Lamborghini_AventadorSJRewardRecycled_2021"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 268,
+    "KnownSeason": 260,
+    "PrizeCar": "Honda_VarisS2000Reward_2005",
+    "MilestoneCar": "Honda_VarisS2000RewardRecycled_2005",
+    "PrestigeCar": "McLaren_GTRewardRecycled_2020"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 269,
+    "KnownSeason": 261,
+    "PrizeCar": "MercedesAMG_CLE53CoupeReward_2024",
+    "MilestoneCar": "MercedesAMG_CLE53CoupeRewardRecycled_2024",
+    "PrestigeCar": "Nissan_VeilsideZRewardRecycled_2023"
   }
 ]
