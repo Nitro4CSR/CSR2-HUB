@@ -16067,11 +16067,11 @@
   {
     "DBName": "Lamborghini_Reventon_2008",
     "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 262 (July 4, 2026 - July 13, 2026) as a Prize car for the Nightfall Directive: Break The Night event.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=PVHxjjLr4GE",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 6.62,
     "WRdyno": 6.685,
     "WRpp": "713",
     "WRevo": 2620,
