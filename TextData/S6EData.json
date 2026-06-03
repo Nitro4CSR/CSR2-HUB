@@ -19218,18 +19218,18 @@
   {
     "DBName": "Porsche_Manthey911GT3RSRewardRecycled_2024",
     "S5PP": 697,
-    "S5EVO": 1491,
+    "S5EVO": 1492,
     "S5FD": "2.74",
     "S5NITRO": "50/6.0",
     "S5TIRE": "53/47",
-    "S5DYNO": "0.000",
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S5DYNO": 9.914,
+    "S6EENGINE": 9.63,
+    "S6ETURBO": 9.715,
+    "S6EINTAKE": 9.796,
+    "S6ENITRO": 9.665,
+    "S6EBODY": 9.316,
+    "S6ETIRES": 9.565,
+    "S6ETRANSMISSION": 9.505
   },
   {
     "DBName": "Porsche_Manthey911GT3RSReward_2024",
