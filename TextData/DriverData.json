@@ -143,6 +143,19 @@
     "namehex": "#ffffff"
   },
   {
+    "name": "Groknar",
+    "LND": 1,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 1,
+    "T5": 2,
+    "Total": 4,
+    "Points": 18,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "ßαηgx⊕r",
     "LND": 0,
     "NonStarred": 3,
@@ -153,19 +166,6 @@
     "T5": 0,
     "Total": 3,
     "Points": 33,
-    "namehex": "#ffffff"
-  },
-  {
-    "name": "Groknar",
-    "LND": 1,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 1,
-    "T5": 1,
-    "Total": 3,
-    "Points": 17,
     "namehex": "#ffffff"
   },
   {
