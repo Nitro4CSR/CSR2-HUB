@@ -1,7 +1,7 @@
 {
     "LAZY_BLUE_SD": {
-        "ASSETBUNDLE": "MINI_SERIES_4_CORE_1_SD",
-		"DATNAMEOVER": null,
+        "ASSETBUNDLE": "assets_client_metadata_mini_series_4_core_2_sd",
+		"DATNAMEOVER": "MINI_SERIES_4_CORE_2_SD",
         "PIN_POSITION": {
             "x": -17.5,
             "y": 40,
