@@ -7,9 +7,9 @@
     "T2": 8,
     "T3": 10,
     "T4": 22,
-    "T5": 101,
-    "Total": 146,
-    "Points": 395,
+    "T5": 102,
+    "Total": 147,
+    "Points": 396,
     "namehex": "#ffffff"
   },
   {
@@ -59,9 +59,9 @@
     "T2": 1,
     "T3": 3,
     "T4": 10,
-    "T5": 35,
-    "Total": 55,
-    "Points": 183,
+    "T5": 34,
+    "Total": 54,
+    "Points": 179,
     "namehex": "#ff00ff"
   },
   {
@@ -70,11 +70,11 @@
     "NonStarred": 0,
     "T1": 0,
     "T2": 0,
-    "T3": 5,
+    "T3": 6,
     "T4": 3,
-    "T5": 16,
-    "Total": 26,
-    "Points": 82,
+    "T5": 17,
+    "Total": 28,
+    "Points": 88,
     "namehex": "#ffffff"
   },
   {
