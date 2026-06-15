@@ -22408,11 +22408,11 @@
   {
     "DBName": "Shelby_MustangSuperSnakeR_2025",
     "Vision": "Added into the game in OTA1 Update 6.5.0 and released in Season 260 (June 6, 2026 - June 13, 2026) as a Prize car for the Supercharged Elite event.",
-    "SHIFT": "",
+    "SHIFT": "https://www.youtube.com/watch?v=TyCX8UhrdGI",
     "Tier": 4,
     "WRAddon": "Maxed Out",
     "WRDriver": "",
-    "WRBest": "0.000",
+    "WRBest": 7.153,
     "WRdyno": 7.241,
     "WRpp": "713",
     "WRevo": 2309,
