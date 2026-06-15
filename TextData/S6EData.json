@@ -2144,22 +2144,6 @@
     "S6ETRANSMISSION": 12.741
   },
   {
-    "DBName": "AstonMartin_VantageV8Reward_2018",
-    "S5PP": 693,
-    "S5EVO": 1081,
-    "S5FD": "2.00",
-    "S5NITRO": "166/2.4",
-    "S5TIRE": "17/83",
-    "S5DYNO": 12.691,
-    "S6EENGINE": 12.465,
-    "S6ETURBO": 12.429,
-    "S6EINTAKE": 12.42,
-    "S6ENITRO": 12.066,
-    "S6EBODY": 12.436,
-    "S6ETIRES": 13.165,
-    "S6ETRANSMISSION": 12.52
-  },
-  {
     "DBName": "AstonMartin_VantageV8RewardRecycled_2018",
     "S5PP": 639,
     "S5EVO": 1069,
@@ -2190,6 +2174,22 @@
     "S6EBODY": 12.096,
     "S6ETIRES": 12.688,
     "S6ETRANSMISSION": 12.19
+  },
+  {
+    "DBName": "AstonMartin_VantageV8Reward_2018",
+    "S5PP": 693,
+    "S5EVO": 1081,
+    "S5FD": "2.00",
+    "S5NITRO": "166/2.4",
+    "S5TIRE": "17/83",
+    "S5DYNO": 12.691,
+    "S6EENGINE": 12.465,
+    "S6ETURBO": 12.429,
+    "S6EINTAKE": 12.42,
+    "S6ENITRO": 12.066,
+    "S6EBODY": 12.436,
+    "S6ETIRES": 13.165,
+    "S6ETRANSMISSION": 12.52
   },
   {
     "DBName": "AstonMartin_VantageRoadsterRewardRecycled_2021",
