@@ -2150,5 +2150,21 @@
     "PrizeCar": "MercedesAMG_CLE53CoupeReward_2024",
     "MilestoneCar": "MercedesAMG_CLE53CoupeRewardRecycled_2024",
     "PrestigeCar": "Nissan_VeilsideZRewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 270,
+    "KnownSeason": 262,
+    "PrizeCar": "Ferrari_AmalfiReward_2027",
+    "MilestoneCar": "Ferrari_AmalfiRewardRecycled_2027",
+    "PrestigeCar": "AstonMartin_One77RewardRecycled_2010"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 271,
+    "KnownSeason": 263,
+    "PrizeCar": "Ford_MustangDarkHorseSCReward_2025",
+    "MilestoneCar": "Ford_MustangDarkHorseSCRewardRecycled_2025",
+    "PrestigeCar": "Zenvo_TSRGTRewardRecycled_2023"
   }
 ]

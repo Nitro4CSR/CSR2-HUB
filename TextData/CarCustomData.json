@@ -1258,5 +1258,33 @@
   {
     "CarDB": "Lexus_LC500TNR_2018",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 115, "z": 0, "w": 700, "h": 700}
+  },
+  {
+    "CarDB": "Ford_MustangDarkHorseSCReward_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Ford_MustangDarkHorseSCRewardRecycled_2025",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Jaguar_XKRSGT_2014",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Pontiac_NHRFirebird_1970",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Lamborghini_Reventon_2008",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 112, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Ford_SpeedShopF100_1956",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 105, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Ferrari_849Testarossa_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 1140, "h": 285}
   }
 ]
