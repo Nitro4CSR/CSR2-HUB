@@ -336,5 +336,65 @@
         "art_id": 77,
         "art_y_offset": -80,
         "mus_id": 0
+    },
+	{
+        "art_id": 78,
+        "art_y_offset": 50,
+        "mus_id": 0
+    },
+	{
+        "art_id": 79,
+        "art_y_offset": 50,
+        "mus_id": 0
+    },
+	{
+        "art_id": 80,
+        "art_y_offset": 50,
+        "mus_id": 0
+    },
+	{
+        "art_id": 81,
+        "art_y_offset": -20,
+        "mus_id": 0
+    },
+	{
+        "art_id": 82,
+        "art_y_offset": -45,
+        "mus_id": 0
+    },
+	{
+        "art_id": 83,
+        "art_y_offset": 40,
+        "mus_id": 0
+    },
+	{
+        "art_id": 84,
+        "art_y_offset": -45,
+        "mus_id": 0
+    },
+	{
+        "art_id": 85,
+        "art_y_offset": 50,
+        "mus_id": 0
+    },
+	{
+        "art_id": 86,
+        "art_y_offset": 38,
+        "mus_id": 0
+    },
+	{
+        "art_id": 87,
+        "art_y_offset": -8,
+        "mus_id": 0
+    },
+	{
+        "art_id": 88,
+        "art_y_offset": 28,
+        "mus_id": 0
+    },
+	{
+        "art_id": 89,
+        "art_y_offset": -15,
+        "mus_id": 0
     }
 ]
