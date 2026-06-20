@@ -1286,5 +1286,9 @@
   {
     "CarDB": "Chevrolet_BBTImpala_1959",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 110, "z": 0, "w": 1140, "h": 285}
+  },
+  {
+    "CarDB": "Chevrolet_CorvetteC6ZR1_2012",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 112, "z": 0, "w": 650, "h": 650}
   }
 ]
