@@ -18,11 +18,11 @@
     "NonStarred": 0,
     "T1": 1,
     "T2": 3,
-    "T3": 9,
+    "T3": 10,
     "T4": 27,
-    "T5": 72,
-    "Total": 120,
-    "Points": 377,
+    "T5": 76,
+    "Total": 125,
+    "Points": 386,
     "namehex": "#ffb300"
   },
   {
@@ -72,9 +72,9 @@
     "T2": 0,
     "T3": 6,
     "T4": 3,
-    "T5": 17,
-    "Total": 28,
-    "Points": 88,
+    "T5": 18,
+    "Total": 29,
+    "Points": 89,
     "namehex": "#ffffff"
   },
   {
