@@ -14856,12 +14856,12 @@
     "S5TIRE": "0/100",
     "S5DYNO": 8.171,
     "S6EENGINE": 7.959,
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6ETURBO": 8.081,
+    "S6EINTAKE": 8.056,
+    "S6ENITRO": 7.964,
+    "S6EBODY": 7.79,
+    "S6ETIRES": 7.9,
+    "S6ETRANSMISSION": 7.77
   },
   {
     "DBName": "Lamborghini_RevueltoRewardRecycled_2024",
