@@ -2115,23 +2115,23 @@
     "Type": 4,
     "CodeSeason": 265,
     "KnownSeason": 257,
-    "PrizeCar": "",
-    "MilestoneCar": "",
+    "PrizeCar": "Hyundai_IONIQ6NReward_2025",
+    "MilestoneCar": "Hyundai_IONIQ6NRewardRecycled_2025",
     "PrestigeCar": ""
   },
   {
     "Type": 4,
     "CodeSeason": 266,
     "KnownSeason": 258,
-    "PrizeCar": "",
-    "MilestoneCar": "",
+    "PrizeCar": "Audi_RS3SportbackReward_2023",
+    "MilestoneCar": "Audi_RS3SportbackRewardRecycled_2023",
     "PrestigeCar": ""
   },
   {
     "Type": 4,
     "CodeSeason": 267,
     "KnownSeason": 259,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   },
@@ -2139,7 +2139,7 @@
     "Type": 4,
     "CodeSeason": 268,
     "KnownSeason": 260,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   },
@@ -2147,7 +2147,7 @@
     "Type": 4,
     "CodeSeason": 269,
     "KnownSeason": 261,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   },
@@ -2155,7 +2155,7 @@
     "Type": 4,
     "CodeSeason": 270,
     "KnownSeason": 262,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   },
@@ -2163,7 +2163,7 @@
     "Type": 4,
     "CodeSeason": 271,
     "KnownSeason": 263,
-    "PrizeCar": "",
+    "PrizeCar": "#VALUE!",
     "MilestoneCar": "",
     "PrestigeCar": ""
   }
