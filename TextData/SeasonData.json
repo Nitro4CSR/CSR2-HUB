@@ -2147,24 +2147,24 @@
     "Type": 4,
     "CodeSeason": 269,
     "KnownSeason": 261,
-    "PrizeCar": "#VALUE!",
-    "MilestoneCar": "",
+    "PrizeCar": "MercedesAMG_CLE53CoupeReward_2024",
+    "MilestoneCar": "MercedesAMG_CLE53CoupeRewardRecycled_2024",
     "PrestigeCar": ""
   },
   {
     "Type": 4,
     "CodeSeason": 270,
     "KnownSeason": 262,
-    "PrizeCar": "#VALUE!",
-    "MilestoneCar": "",
+    "PrizeCar": "Ferrari_AmalfiReward_2027",
+    "MilestoneCar": "Ferrari_AmalfiRewardRecycled_2027",
     "PrestigeCar": ""
   },
   {
     "Type": 4,
     "CodeSeason": 271,
     "KnownSeason": 263,
-    "PrizeCar": "#VALUE!",
-    "MilestoneCar": "",
+    "PrizeCar": "Ford_MustangDarkHorseSCReward_2025",
+    "MilestoneCar": "Ford_MustangDarkHorseSCRewardRecycled_2025",
     "PrestigeCar": ""
   }
 ]
