@@ -2110,5 +2110,53 @@
     "PrizeCar": "Lamborghini_TemerarioReward_2025",
     "MilestoneCar": "Lamborghini_TemerarioRewardRecycled_2025",
     "PrestigeCar": "Koenigsegg_RegeraRewardRecycled_2016"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 265,
+    "KnownSeason": 257,
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 266,
+    "KnownSeason": 258,
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 267,
+    "KnownSeason": 259,
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 268,
+    "KnownSeason": 260,
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 269,
+    "KnownSeason": 261,
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 270,
+    "KnownSeason": 262,
+    "PrizeCar": "",
+    "MilestoneCar": "",
+    "PrestigeCar": ""
   }
 ]
