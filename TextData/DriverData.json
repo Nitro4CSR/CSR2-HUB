@@ -20,9 +20,9 @@
     "T2": 3,
     "T3": 10,
     "T4": 27,
-    "T5": 76,
-    "Total": 125,
-    "Points": 386,
+    "T5": 77,
+    "Total": 126,
+    "Points": 390,
     "namehex": "#ffb300"
   },
   {
@@ -91,6 +91,19 @@
     "namehex": "#ff0000"
   },
   {
+    "name": "BioFace",
+    "LND": 0,
+    "NonStarred": 0,
+    "T1": 0,
+    "T2": 0,
+    "T3": 0,
+    "T4": 3,
+    "T5": 31,
+    "Total": 34,
+    "Points": 52,
+    "namehex": "#ffffff"
+  },
+  {
     "name": "ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸",
     "LND": 0,
     "NonStarred": 0,
@@ -102,19 +115,6 @@
     "Total": 33,
     "Points": 59,
     "namehex": "#ff01a4"
-  },
-  {
-    "name": "BioFace",
-    "LND": 0,
-    "NonStarred": 0,
-    "T1": 0,
-    "T2": 0,
-    "T3": 0,
-    "T4": 3,
-    "T5": 30,
-    "Total": 33,
-    "Points": 51,
-    "namehex": "#ffffff"
   },
   {
     "name": "☆ Fαταℓ",
