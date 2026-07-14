@@ -20871,13 +20871,13 @@
     "S5NITRO": "109/2.2",
     "S5TIRE": "53/47",
     "S5DYNO": 9.844,
-    "S6EENGINE": "0.000",
-    "S6ETURBO": "0.000",
-    "S6EINTAKE": "0.000",
-    "S6ENITRO": "0.000",
-    "S6EBODY": "0.000",
-    "S6ETIRES": "0.000",
-    "S6ETRANSMISSION": "0.000"
+    "S6EENGINE": 9.563,
+    "S6ETURBO": 9.63,
+    "S6EINTAKE": 9.731,
+    "S6ENITRO": 9.62,
+    "S6EBODY": 9.45,
+    "S6ETIRES": 9.528,
+    "S6ETRANSMISSION": 9.545
   },
   {
     "DBName": "Ford_MustangDarkHorseSCRewardRecycled_2025",
