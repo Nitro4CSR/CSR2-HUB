@@ -21134,5 +21134,53 @@
     "S6EBODY": "0.000",
     "S6ETIRES": "0.000",
     "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Chevrolet_WolfeKustomsBelAir_1957",
+    "S5PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Plymouth_RuffianCoupe_1935",
+    "S5PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
+  },
+  {
+    "DBName": "Chevrolet_GAPCorvette_1972",
+    "S5PP": "0",
+    "S5EVO": "0",
+    "S5FD": "0.00",
+    "S5NITRO": "0/0.0",
+    "S5TIRE": "0/0",
+    "S5DYNO": "0.000",
+    "S6EENGINE": "0.000",
+    "S6ETURBO": "0.000",
+    "S6EINTAKE": "0.000",
+    "S6ENITRO": "0.000",
+    "S6EBODY": "0.000",
+    "S6ETIRES": "0.000",
+    "S6ETRANSMISSION": "0.000"
   }
 ]
