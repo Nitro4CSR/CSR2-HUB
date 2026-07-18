@@ -1,4 +1,12 @@
 {
+	"1784385478": {
+		"ACTION": null,
+        "ACTOR": "T0_Jess",
+        "HEADER_TEXT": "HUB ERRORS",
+        "MESSAGE_TEXT": "You may be experiencing issues with the HUB; we're aware of this issue \n\nUnfortunately, the free server can no longer handle the load. \nBut don't worry, we'll be updating the infrastructure soon!",
+        "THEME_BACKGR": "garage",
+        "THEME_COLOR": "#ff0000"
+    },
 	"1778845835": {
 		"ACTION": null,
         "ACTOR": "T0_Jerry",
