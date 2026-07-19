@@ -1,4 +1,9 @@
 [
+    {
+        "version": "1.4.7",
+        "info": "- fix errors\n- other minor changes",
+		"date": "19/07/26"
+    },
 	{
         "version": "1.4.6",
         "info": "- fix errors and optimization\n- other minor changes",

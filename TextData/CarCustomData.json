@@ -1290,5 +1290,33 @@
   {
     "CarDB": "Chevrolet_CorvetteC6ZR1_2012",
 	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 112, "z": 0, "w": 650, "h": 650}
+  },
+  {
+    "CarDB": "Bentley_SupersportsReward_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Chevrolet_LBCamaroIROCZReward_1987",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Bentley_SupersportsRewardRecycled_2026",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Chevrolet_LBCamaroIROCZRewardRecycled_1987",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 90, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Chevrolet_GAPCorvette_1972",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 75, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Plymouth_RuffianCoupe_1935",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 99, "z": 0, "w": 750, "h": 750}
+  },
+  {
+    "CarDB": "Plymouth_RuffianCoupe_1935",
+	"Autoshow_InfoPreview_PosWH": {"x": 0, "y": 99, "z": 0, "w": 750, "h": 750}
   }
 ]

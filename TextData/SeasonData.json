@@ -2157,7 +2157,7 @@
     "KnownSeason": 262,
     "PrizeCar": "Ferrari_AmalfiReward_2027",
     "MilestoneCar": "Ferrari_AmalfiRewardRecycled_2027",
-    "PrestigeCar": ""
+    "PrestigeCar": "AstonMartin_One77RewardRecycled_2010"
   },
   {
     "Type": 4,
@@ -2165,6 +2165,22 @@
     "KnownSeason": 263,
     "PrizeCar": "Ford_MustangDarkHorseSCReward_2025",
     "MilestoneCar": "Ford_MustangDarkHorseSCRewardRecycled_2025",
-    "PrestigeCar": ""
+    "PrestigeCar": "Zenvo_TSRGTRewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 272,
+    "KnownSeason": 264,
+    "PrizeCar": "Bentley_SupersportsReward_2026",
+    "MilestoneCar": "Bentley_SupersportsRewardRecycled_2026",
+    "PrestigeCar": "Audi_R8V10GTRewardRecycled_2023"
+  },
+  {
+    "Type": 4,
+    "CodeSeason": 273,
+    "KnownSeason": 265,
+    "PrizeCar": "Chevrolet_LBCamaroIROCZReward_1987",
+    "MilestoneCar": "Chevrolet_LBCamaroIROCZRewardRecycled_1987",
+    "PrestigeCar": "Porsche_911TurboSRewardRecycled_2026"
   }
 ]

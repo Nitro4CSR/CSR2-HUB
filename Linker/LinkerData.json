@@ -136,18 +136,16 @@
             "descr": "CSR Racing 2 – This driving simulator game redefines what you thought possible on your mobile device!\n\nSetting a new standard in racing game visuals, CSR2 delivers hyper-real drag racing to the palm of your hand. Compete against live players across the world with your custom-built supercars.",
             "link_gp": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2",
             "link_as": "https://apps.apple.com/us/app/csr-2-realistic-drag-racing/id887947640",
-            "link_ap": "https://apkpure.com/csr-2-realistic-drag-racing/com.naturalmotion.customstreetracer2",
-            "link_gd": "https://drive.google.com/drive/folders/1jse1SaHvFdfegoSQ6CMPTSHJPSiD2BhH"
+            "link_ap": "https://apkpure.com/csr-2-realistic-drag-racing/com.naturalmotion.customstreetracer2"
         },
         "CSR3": {
             "refe": "csr3",
             "name": "CSR 3 - Street Car Racing",
-            "ver": "v0.31.0",
+            "ver": "v0.31.1",
             "descr": "In a world where the hundredths of a second mark the difference between the pros and legends, become the #1 driver on the scene.\n\nIgnite your racing fantasies and experience the thrill of pushing the limits of your favourite high-performance vehicles.",
             "link_gp": "https://play.google.com/store/apps/details?id=com.zynga.csr3",
             "link_as": "https://apps.apple.com/my/app/csr-3-street-car-racing/id1572295868",
-            "link_ap": "https://apkpure.com/csr-3-street-car-racing/com.zynga.csr3",
-            "link_gd": "https://apkpure.com/csr-3-street-car-racing/com.zynga.csr3"
+            "link_ap": "https://apkpure.com/csr-3-street-car-racing/com.zynga.csr3"
         }
     }
 }
