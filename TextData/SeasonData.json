@@ -2179,8 +2179,8 @@
     "Type": 4,
     "CodeSeason": 273,
     "KnownSeason": 265,
-    "PrizeCar": "#VALUE!",
-    "MilestoneCar": "",
-    "PrestigeCar": ""
+    "PrizeCar": "Chevrolet_LBCamaroIROCZReward_1987",
+    "MilestoneCar": "Chevrolet_LBCamaroIROCZRewardRecycled_1987",
+    "PrestigeCar": "Porsche_911TurboSRewardRecycled_2026"
   }
 ]
